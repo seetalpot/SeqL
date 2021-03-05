@@ -1,0 +1,648 @@
+
+module b11 ( x_in_5_, x_in_4_, x_in_3_, x_in_2_, x_in_1_, x_in_0_, stbi,
+r_in_reg_5_, r_in_reg_4_, r_in_reg_3_, r_in_reg_2_, r_in_reg_1_,
+r_in_reg_0_, cont_reg_5_, cont_reg_4_, cont_reg_3_, cont_reg_2_,
+cont_reg_1_, cont_reg_0_, cont1_reg_8_, cont1_reg_7_, cont1_reg_6_,
+cont1_reg_5_, cont1_reg_4_, cont1_reg_3_, cont1_reg_2_, cont1_reg_1_,
+cont1_reg_0_, x_out_reg_5_, x_out_reg_4_, x_out_reg_3_, x_out_reg_2_,
+x_out_reg_1_, x_out_reg_0_, stato_reg_3_, stato_reg_2_, stato_reg_1_,
+stato_reg_0_, u404, u405, u406, u407, u408, u409, u384, u383, u382,
+u381, u380, u379, u378, u377, u376, u375, u374, u373, u372, u371, u370,
+u369, u368, u367, u366, u365, u364, u360, u361, u362, u363 );
+input x_in_5_, x_in_4_, x_in_3_, x_in_2_, x_in_1_, x_in_0_, stbi,
+r_in_reg_5_, r_in_reg_4_, r_in_reg_3_, r_in_reg_2_, r_in_reg_1_,
+r_in_reg_0_, cont_reg_5_, cont_reg_4_, cont_reg_3_, cont_reg_2_,
+cont_reg_1_, cont_reg_0_, cont1_reg_8_, cont1_reg_7_, cont1_reg_6_,
+cont1_reg_5_, cont1_reg_4_, cont1_reg_3_, cont1_reg_2_, cont1_reg_1_,
+cont1_reg_0_, x_out_reg_5_, x_out_reg_4_, x_out_reg_3_, x_out_reg_2_,
+x_out_reg_1_, x_out_reg_0_, stato_reg_3_, stato_reg_2_, stato_reg_1_,
+stato_reg_0_;
+output u404, u405, u406, u407, u408, u409, u384, u383, u382, u381, u380,
+u379, u378, u377, u376, u375, u374, u373, u372, u371, u370, u369,
+u368, u367, u366, u365, u364, u360, u361, u362, u363;
+wire   n470, n472, n474, n476, n478, n480, n482, n484, n486, n488, n490,
+n492, n494, n496, n498, n500, n502, n504, n506, n508, n510, n512,
+n514, n516, n518, n520, n522, n524, n526, n528, n530, n532, n533,
+n534, n535, n536, n537, n538, n539, n540, n541, n542, n543, n544,
+n545, n546, n547, n548, n549, n550, n551, n552, n553, n554, n555,
+n556, n557, n558, n559, n560, n561, n562, n563, n564, n565, n566,
+n567, n568, n569, n570, n571, n572, n573, n574, n575, n576, n577,
+n578, n579, n580, n581, n582, n583, n584, n585, n586, n587, n588,
+n589, n590, n591, n592, n593, n594, n595, n596, n597, n598, n599,
+n600, n601, n602, n603, n604, n605, n606, n607, n608, n609, n610,
+n611, n612, n613, n614, n615, n616, n617, n618, n619, n620, n621,
+n622, n623, n624, n625, n626, n627, n628, n629, n630, n631, n632,
+n633, n634, n635, n636, n637, n638, n639, n640, n641, n642, n643,
+n644, n645, n646, n647, n648, n649, n650, n651, n652, n653, n654,
+n655, n656, n657, n658, n659, n660, n661, n662, n663, n664, n665,
+n666, n667, n668, n669, n670, n671, n672, n673, n674, n675, n676,
+n677, n678, n679, n680, n681, n682, n683, n684, n685, n686, n687,
+n688, n689, n690, n691, n692, n693, n694, n695, n696, n697, n698,
+n699, n700, n701, n702, n703, n704, n705, n706, n707, n708, n709,
+n710, n711, n712, n713, n714, n715, n716, n717, n718, n719, n720,
+n721, n722, n723, n724, n725, n726, n727, n728, n729, n730, n731,
+n732, n733, n734, n735, n736, n737, n738, n739, n740, n741, n742,
+n743, n744, n745, n746, n747, n748, n749, n750, n751, n752, n753,
+n754, n755, n756, n757, n758, n759, n760, n761, n762, n763, n764,
+n765, n766, n767, n768, n769, n770, n771, n772, n773, n774, n775,
+n776, n777, n778, n779, n780, n781, n782, n783, n784, n785, n786,
+n787, n788, n789, n790, n791, n792, n793, n794, n795, n796, n797,
+n798, n799, n800, n801, n802, n803, n804, n805, n806, n807, n808,
+n809, n810, n811, n812, n813, n814, n815, n816, n817, n818, n819,
+n820, n821, n822, n823, n824, n825, n826, n827, n828, n829, n830,
+n831, n832, n833, n834, n835, n836, n837, n838, n839, n840, n841,
+n842, n843, n844, n845, n846, n847, n848, n849, n850, n851, n852,
+n853, n854, n855, n856, n857, n858, n859, n860, n861, n862, n863,
+n864, n865, n866, n867, n868, n869, n870, n871, n872, n873, n874,
+n875, n876, n877, n878, n879, n880, n881, n882, n883, n884, n885,
+n886, n887, n888, n889, n890, n891, n892, n893, n894, n895, n896,
+n897, n898, n899, n900, n901, n902, n903, n904, n905, n906, n907,
+n908, n909, n910, n911, n912, n913, n914, n915, n916, n917, n918,
+n919, n920, n921, n922, n923, n924, n925, n926, n927, n928, n929,
+n930, n931, n932, n933, n934, n935, n936, n937, n938, n939, n940,
+n941, n942, n943, n944, n945, n946, n947, n948, n949, n950, n951,
+n952, n953, n954, n955, n956, n957, n958, n959, n960, n961, n962,
+n963, n964, n965, n966, n967, n968, n969, n970, n971, n972, n973,
+n974, n975, n976, n977, n978, n979, n980, n981, n982, n983, n984,
+n985, n986, n987, n988, n989, n990, n991, n992, n993, n994, n995,
+n996, n997, n998, n999, n1000, n1001, n1002, n1003, n1004, n1005,
+n1006, n1007, n1008, n1009, n1010, n1011, n1012, n1013, n1014, n1015,
+n1016, n1017, n1018, n1019, n1020, n1021, n1022, n1023, n1024, n1025,
+n1026, n1027, n1028, n1029, n1030, n1031, n1032, n1033, n1034, n1035,
+n1036, n1037, n1038, n1039, n1040, n1041, n1042, n1043;
+
+   and U501 ( n470,n544,n545 );
+   not U502 ( u404,n470 );
+   and U503 ( n472,n542,n543 );
+   not U504 ( u405,n472 );
+   and U505 ( n474,n540,n541 );
+   not U506 ( u406,n474 );
+   and U507 ( n476,n538,n539 );
+   not U508 ( u407,n476 );
+   and U509 ( n478,n536,n537 );
+   not U510 ( u408,n478 );
+   and U511 ( n480,n532,n533 );
+   not U512 ( u409,n480 );
+   nand U513 ( n482,n548,cont_reg_5_ );
+   not U514 ( u384,n482 );
+   and U515 ( n484,n549,n550 );
+   not U516 ( u383,n484 );
+   and U517 ( n486,n557,n558 );
+   not U518 ( u382,n486 );
+   and U519 ( n488,n565,n566 );
+   not U520 ( u381,n488 );
+   and U521 ( n490,n570,n571 );
+   not U522 ( u380,n490 );
+   and U523 ( n492,n575,n572 );
+   not U524 ( u379,n492 );
+   and U525 ( n494,n585,n586 );
+   not U526 ( u378,n494 );
+   and U527 ( n496,n627,n628 );
+   not U528 ( u377,n496 );
+   and U529 ( n498,n664,n665 );
+   not U530 ( u376,n498 );
+   and U531 ( n500,n705,n706 );
+   not U532 ( u375,n500 );
+   and U533 ( n502,n747,n748 );
+   not U534 ( u374,n502 );
+   and U535 ( n504,n790,n791 );
+   not U536 ( u373,n504 );
+   and U537 ( n506,n827,n828 );
+   not U538 ( u372,n506 );
+   and U539 ( n508,n862,n863 );
+   not U540 ( u371,n508 );
+   and U541 ( n510,n897,n898 );
+   not U542 ( u370,n510 );
+   and U543 ( n512,n938,n939 );
+   not U544 ( u369,n512 );
+   and U545 ( n514,n947,n948 );
+   not U546 ( u368,n514 );
+   and U547 ( n516,n954,n955 );
+   not U548 ( u367,n516 );
+   and U549 ( n518,n962,n963 );
+   not U550 ( u366,n518 );
+   and U551 ( n520,n968,n969 );
+   not U552 ( u365,n520 );
+   and U553 ( n522,n978,n979 );
+   not U554 ( u364,n522 );
+   and U555 ( n524,n582,n1032 );
+   not U556 ( u360,n524 );
+   and U557 ( n526,n1029,n930 );
+   not U558 ( u361,n526 );
+   and U559 ( n528,n994,n995 );
+   not U560 ( u362,n528 );
+   and U561 ( n530,n980,n940 );
+   not U562 ( u363,n530 );
+   nand U563 ( n533,r_in_reg_0_,n534 );
+   nand U564 ( n532,x_in_0_,n535 );
+   nand U565 ( n537,r_in_reg_1_,n534 );
+   nand U566 ( n536,x_in_1_,n535 );
+   nand U567 ( n539,r_in_reg_2_,n534 );
+   nand U568 ( n538,x_in_2_,n535 );
+   nand U569 ( n541,r_in_reg_3_,n534 );
+   nand U570 ( n540,x_in_3_,n535 );
+   nand U571 ( n543,r_in_reg_4_,n534 );
+   nand U572 ( n542,x_in_4_,n535 );
+   nand U573 ( n545,r_in_reg_5_,n534 );
+   nand U574 ( n544,x_in_5_,n535 );
+   not U575 ( n535,n534 );
+   nand U576 ( n534,n546,n547 );
+   nor U577 ( n546,stato_reg_3_,stato_reg_2_ );
+   nand U578 ( n550,n551,n552 );
+   nor U579 ( n551,n553,n554 );
+   nand U580 ( n549,cont_reg_4_,n548 );
+   nand U581 ( n548,n555,n556 );
+   nand U582 ( n558,cont_reg_3_,n559 );
+   nand U583 ( n559,n560,n561 );
+   nand U584 ( n561,n562,n553 );
+   nand U585 ( n557,n563,n554 );
+   nor U586 ( n563,n553,n564 );
+   nand U587 ( n566,n552,n553 );
+   not U588 ( n552,n564 );
+   nand U589 ( n564,n567,cont_reg_1_ );
+   or U590 ( n565,n553,n560 );
+   nor U591 ( n560,n568,n569 );
+   nor U592 ( n569,n556,cont_reg_1_ );
+   nand U593 ( n571,cont_reg_1_,n568 );
+   nand U594 ( n568,n555,n572 );
+   nand U595 ( n570,n567,n573 );
+   nor U596 ( n567,n556,n574 );
+   nand U597 ( n572,n562,n574 );
+   not U598 ( n562,n556 );
+   nand U599 ( n556,n576,n577 );
+   and U600 ( n577,n578,n579 );
+   nor U601 ( n576,n580,n547 );
+   nand U602 ( n575,n580,cont_reg_0_ );
+   not U603 ( n580,n555 );
+   nand U604 ( n555,n581,n582 );
+   nand U605 ( n581,n583,n584 );
+   nor U606 ( n586,n587,n588 );
+   nor U607 ( n588,cont1_reg_8_,n589 );
+   nor U608 ( n589,n590,n591 );
+   nand U609 ( n591,n592,n593 );
+   or U610 ( n593,n594,n595 );
+   or U611 ( n592,n596,n597 );
+   nand U612 ( n590,n598,n599 );
+   nand U613 ( n599,n600,n601 );
+   nand U614 ( n598,n602,n603 );
+   nor U615 ( n587,n604,n605 );
+   nor U616 ( n604,n606,n607 );
+   nand U617 ( n607,n608,n609 );
+   nor U618 ( n608,n610,n611 );
+   nor U619 ( n611,n594,n597 );
+   nor U620 ( n610,n595,n596 );
+   not U621 ( n595,n597 );
+   nand U622 ( n597,n612,n613 );
+   nand U623 ( n613,r_in_reg_3_,n614 );
+   nand U624 ( n614,n615,cont1_reg_7_ );
+   nand U625 ( n612,n616,n617 );
+   nand U626 ( n606,n618,n619 );
+   nand U627 ( n619,n602,n601 );
+   nand U628 ( n618,n603,n600 );
+   not U629 ( n603,n601 );
+   nand U630 ( n601,n620,n621 );
+   and U631 ( n620,n622,n623 );
+   nor U632 ( n585,n624,n625 );
+   nor U633 ( n625,n617,n626 );
+   nor U634 ( n628,n624,n629 );
+   nor U635 ( n629,n630,n631 );
+   nand U636 ( n631,n632,n633 );
+   and U637 ( n624,n634,n635 );
+   nor U638 ( n634,n632,n633 );
+   nand U639 ( n633,n636,n637 );
+   nand U640 ( n637,cont1_reg_6_,n584 );
+   nor U641 ( n632,n617,stato_reg_3_ );
+   nor U642 ( n627,n638,n639 );
+   nand U643 ( n639,n640,n641 );
+   nand U644 ( n641,cont1_reg_7_,n642 );
+   nand U645 ( n642,n643,n609 );
+   nor U646 ( n609,n644,n645 );
+   nor U647 ( n645,n646,cont1_reg_6_ );
+   nor U648 ( n643,n647,n648 );
+   nor U649 ( n648,n616,n594 );
+   nor U650 ( n647,n615,n596 );
+   nand U651 ( n640,n649,n617 );
+   nand U652 ( n649,n650,n626 );
+   nand U653 ( n626,n651,n652 );
+   nor U654 ( n651,n653,n646 );
+   nor U655 ( n650,n654,n655 );
+   nor U656 ( n655,n616,n596 );
+   nor U657 ( n654,n615,n594 );
+   not U658 ( n615,n616 );
+   nand U659 ( n616,n656,n657 );
+   nand U660 ( n657,r_in_reg_3_,n658 );
+   nand U661 ( n658,n659,cont1_reg_6_ );
+   nand U662 ( n656,n660,n653 );
+   nor U663 ( n638,n661,n662 );
+   xor U664 ( n662,n621,n663 );
+   nand U665 ( n663,n623,n622 );
+   xor U666 ( n621,r_in_reg_1_,n617 );
+   not U667 ( n617,cont1_reg_7_ );
+   nor U668 ( n665,n666,n667 );
+   nor U669 ( n667,n630,n668 );
+   nand U670 ( n668,stato_reg_3_,n636 );
+   not U671 ( n636,n669 );
+   and U672 ( n666,n670,n671 );
+   xor U673 ( n670,n623,n622 );
+   nand U674 ( n622,n672,n673 );
+   nand U675 ( n673,n674,n675 );
+   xor U676 ( n623,r_in_reg_1_,n653 );
+   nor U677 ( n664,n676,n677 );
+   nand U678 ( n677,n678,n679 );
+   nand U679 ( n679,cont1_reg_6_,n680 );
+   nand U680 ( n680,n681,n682 );
+   nor U681 ( n682,n683,n684 );
+   nor U682 ( n684,n660,n594 );
+   nor U683 ( n683,n659,n596 );
+   nor U684 ( n681,n685,n644 );
+   nor U685 ( n685,n630,n686 );
+   nand U686 ( n686,n669,n584 );
+   nand U687 ( n678,n687,n653 );
+   not U688 ( n653,cont1_reg_6_ );
+   nand U689 ( n687,n688,n689 );
+   nor U690 ( n689,n690,n691 );
+   nor U691 ( n691,n660,n596 );
+   nand U692 ( n596,n692,r_in_reg_3_ );
+   nor U693 ( n690,n659,n594 );
+   nand U694 ( n594,n692,n693 );
+   not U695 ( n659,n660 );
+   nand U696 ( n660,n694,n695 );
+   nand U697 ( n695,n696,n697 );
+   or U698 ( n696,n698,n699 );
+   nand U699 ( n694,n698,n699 );
+   nor U700 ( n688,n700,n701 );
+   nor U701 ( n701,n646,n702 );
+   nor U702 ( n700,n669,n630 );
+   nand U703 ( n669,n703,n697 );
+   nor U704 ( n676,n578,n704 );
+   not U705 ( n578,cont_reg_5_ );
+   nor U706 ( n706,n707,n708 );
+   nand U707 ( n708,n709,n710 );
+   nand U708 ( n710,n692,n711 );
+   xor U709 ( n711,n712,n698 );
+   nand U710 ( n698,n713,n714 );
+   nand U711 ( n714,n715,n716 );
+   nand U712 ( n715,n717,cont1_reg_4_ );
+   nand U713 ( n713,n718,n719 );
+   xor U714 ( n712,cont1_reg_5_,n699 );
+   or U715 ( n709,n720,n630 );
+   nand U716 ( n707,n721,n722 );
+   nand U717 ( n722,n723,n724 );
+   nor U718 ( n723,n652,n725 );
+   nand U719 ( n721,n726,n671 );
+   xor U720 ( n726,n727,n674 );
+   nand U721 ( n674,n728,n729 );
+   nand U722 ( n729,n730,n731 );
+   and U723 ( n727,n672,n675 );
+   nand U724 ( n675,n732,n733 );
+   xor U725 ( n732,r_in_reg_1_,cont1_reg_5_ );
+   nand U726 ( n672,n734,r_in_reg_5_ );
+   xor U727 ( n734,r_in_reg_1_,n697 );
+   nor U728 ( n705,n735,n736 );
+   nand U729 ( n736,n737,n738 );
+   nand U730 ( n738,n739,r_in_reg_5_ );
+   nand U731 ( n737,n740,cont_reg_5_ );
+   nand U732 ( n735,n741,n742 );
+   nand U733 ( n742,cont1_reg_5_,n644 );
+   nand U734 ( n644,n743,n744 );
+   nand U735 ( n744,n724,n702 );
+   not U736 ( n702,n652 );
+   nor U737 ( n652,n697,n725 );
+   and U738 ( n725,n745,n719 );
+   nand U739 ( n741,n746,cont_reg_4_ );
+   nor U740 ( n748,n749,n750 );
+   nand U741 ( n750,n751,n752 );
+   nand U742 ( n752,n753,n671 );
+   xor U743 ( n753,n754,n730 );
+   nand U744 ( n730,n755,n756 );
+   nand U745 ( n756,n757,n758 );
+   and U746 ( n754,n728,n731 );
+   nand U747 ( n731,n759,n760 );
+   xor U748 ( n759,r_in_reg_1_,cont1_reg_4_ );
+   nand U749 ( n728,n761,r_in_reg_4_ );
+   xor U750 ( n761,r_in_reg_1_,n719 );
+   nand U751 ( n751,n746,cont_reg_3_ );
+   nor U752 ( n749,n760,n762 );
+   nor U753 ( n747,n763,n764 );
+   nand U754 ( n764,n765,n766 );
+   nand U755 ( n766,n635,n767 );
+   nand U756 ( n765,n740,cont_reg_4_ );
+   nand U757 ( n763,n768,n769 );
+   nand U758 ( n769,cont1_reg_4_,n770 );
+   nand U759 ( n770,n771,n772 );
+   nor U760 ( n772,n773,n774 );
+   nor U761 ( n774,n718,n775 );
+   nor U762 ( n773,n717,n776 );
+   nor U763 ( n771,n777,n778 );
+   nor U764 ( n778,n745,n646 );
+   nand U765 ( n768,n779,n719 );
+   nand U766 ( n779,n780,n781 );
+   nor U767 ( n780,n782,n783 );
+   nor U768 ( n783,n718,n776 );
+   nor U769 ( n782,n717,n775 );
+   not U770 ( n717,n718 );
+   nand U771 ( n718,n784,n785 );
+   nand U772 ( n785,n786,n787 );
+   or U773 ( n786,n788,n789 );
+   nand U774 ( n784,n789,n788 );
+   nor U775 ( n791,n792,n793 );
+   nand U776 ( n793,n794,n781 );
+   nand U777 ( n781,n724,n745 );
+   and U778 ( n745,n787,n795 );
+   nand U779 ( n794,n746,cont_reg_2_ );
+   nand U780 ( n792,n796,n797 );
+   nand U781 ( n797,n798,n671 );
+   xor U782 ( n798,n799,n757 );
+   nand U783 ( n757,n800,n801 );
+   nand U784 ( n801,n802,n803 );
+   and U785 ( n799,n755,n758 );
+   nand U786 ( n758,n804,n693 );
+   xor U787 ( n804,r_in_reg_1_,cont1_reg_3_ );
+   nand U788 ( n755,n805,r_in_reg_3_ );
+   xor U789 ( n805,r_in_reg_1_,n787 );
+   nand U790 ( n796,n806,n635 );
+   nor U791 ( n790,n807,n808 );
+   nand U792 ( n808,n809,n810 );
+   nand U793 ( n810,n739,r_in_reg_3_ );
+   nand U794 ( n809,n740,cont_reg_3_ );
+   nand U795 ( n807,n811,n812 );
+   nand U796 ( n812,cont1_reg_3_,n813 );
+   nand U797 ( n813,n814,n815 );
+   nand U798 ( n815,n692,n816 );
+   nor U799 ( n814,n777,n817 );
+   nor U800 ( n817,n646,n795 );
+   nand U801 ( n795,cont1_reg_2_,cont1_reg_1_ );
+   nand U802 ( n811,n818,n787 );
+   nor U803 ( n818,n816,n819 );
+   xor U804 ( n816,n820,n788 );
+   nand U805 ( n788,n821,n822 );
+   nand U806 ( n822,n823,n824 );
+   or U807 ( n823,n825,n826 );
+   nand U808 ( n821,n826,n825 );
+   nor U809 ( n828,n829,n830 );
+   nand U810 ( n830,n831,n832 );
+   nand U811 ( n832,n671,n833 );
+   xor U812 ( n833,n834,n802 );
+   nand U813 ( n802,n835,n836 );
+   nand U814 ( n836,cont1_reg_1_,r_in_reg_1_ );
+   nand U815 ( n835,n837,n838 );
+   and U816 ( n834,n800,n803 );
+   nand U817 ( n803,n839,n716 );
+   xor U818 ( n839,r_in_reg_1_,cont1_reg_2_ );
+   nand U819 ( n800,n840,r_in_reg_2_ );
+   xor U820 ( n840,r_in_reg_1_,n824 );
+   or U821 ( n831,n841,n630 );
+   nor U822 ( n829,n573,n704 );
+   nor U823 ( n827,n842,n843 );
+   nand U824 ( n843,n844,n845 );
+   nand U825 ( n845,n739,r_in_reg_2_ );
+   nand U826 ( n844,n740,cont_reg_2_ );
+   not U827 ( n740,n846 );
+   nand U828 ( n842,n847,n848 );
+   nand U829 ( n848,cont1_reg_2_,n849 );
+   nand U830 ( n849,n850,n851 );
+   nand U831 ( n851,n724,n838 );
+   nor U832 ( n850,n777,n852 );
+   nor U833 ( n852,n853,n819 );
+   nand U834 ( n847,n854,n824 );
+   nand U835 ( n854,n855,n856 );
+   nand U836 ( n856,n853,n692 );
+   xor U837 ( n853,n826,n825 );
+   nand U838 ( n825,n857,n858 );
+   nand U839 ( n858,r_in_reg_2_,n859 );
+   nand U840 ( n859,n860,cont1_reg_1_ );
+   nand U841 ( n857,n861,n838 );
+   not U842 ( n826,n699 );
+   nand U843 ( n699,n716,n693 );
+   nand U844 ( n855,n724,cont1_reg_1_ );
+   nor U845 ( n863,n864,n865 );
+   nand U846 ( n865,n866,n867 );
+   nand U847 ( n867,n746,cont_reg_0_ );
+   not U848 ( n746,n704 );
+   nand U849 ( n704,n868,n869 );
+   nor U850 ( n869,stato_reg_2_,n777 );
+   nor U851 ( n868,n870,n871 );
+   nand U852 ( n866,n739,r_in_reg_1_ );
+   not U853 ( n739,n762 );
+   nor U854 ( n864,n630,n872 );
+   nor U855 ( n862,n873,n874 );
+   nand U856 ( n874,n875,n876 );
+   nand U857 ( n876,cont1_reg_1_,n877 );
+   nand U858 ( n877,n878,n879 );
+   nor U859 ( n879,n880,n881 );
+   nor U860 ( n881,n861,n776 );
+   nor U861 ( n880,n860,n775 );
+   nor U862 ( n878,n777,n882 );
+   and U863 ( n882,n837,n671 );
+   not U864 ( n671,n661 );
+   nand U865 ( n875,n883,n838 );
+   nand U866 ( n883,n884,n885 );
+   nor U867 ( n885,n886,n887 );
+   nor U868 ( n887,n861,n775 );
+   nand U869 ( n775,n692,r_in_reg_2_ );
+   nor U870 ( n886,n860,n776 );
+   nand U871 ( n776,n692,n716 );
+   not U872 ( n860,n861 );
+   nand U873 ( n861,n888,n889 );
+   nand U874 ( n889,r_in_reg_3_,n890 );
+   nand U875 ( n890,cont1_reg_0_,n789 );
+   not U876 ( n789,n820 );
+   nand U877 ( n888,n820,n891 );
+   nor U878 ( n884,n724,n892 );
+   nor U879 ( n892,n661,n837 );
+   nand U880 ( n837,n893,n894 );
+   nand U881 ( n894,n895,n896 );
+   nor U882 ( n873,n573,n846 );
+   not U883 ( n573,cont_reg_1_ );
+   nor U884 ( n898,n899,n900 );
+   nor U885 ( n900,n574,n846 );
+   nand U886 ( n846,n901,n902 );
+   nor U887 ( n902,stato_reg_2_,r_in_reg_0_ );
+   nor U888 ( n901,n777,n871 );
+   not U889 ( n574,cont_reg_0_ );
+   nor U890 ( n899,n870,n762 );
+   nand U891 ( n762,n903,n743 );
+   nor U892 ( n903,stato_reg_2_,stato_reg_0_ );
+   nor U893 ( n897,n904,n905 );
+   nand U894 ( n905,n906,n907 );
+   nand U895 ( n907,n600,n908 );
+   nor U896 ( n600,n661,r_in_reg_1_ );
+   nand U897 ( n906,n909,n602 );
+   nor U898 ( n602,n661,n896 );
+   nand U899 ( n661,n910,n743 );
+   nor U900 ( n910,stato_reg_1_,stato_reg_0_ );
+   not U901 ( n909,n908 );
+   nand U902 ( n908,n895,n893 );
+   nand U903 ( n893,n911,r_in_reg_0_ );
+   xor U904 ( n911,r_in_reg_1_,n891 );
+   nand U905 ( n895,n912,n870 );
+   xor U906 ( n912,r_in_reg_1_,cont1_reg_0_ );
+   nand U907 ( n904,n913,n914 );
+   nand U908 ( n914,cont1_reg_0_,n915 );
+   nand U909 ( n915,n916,n917 );
+   nor U910 ( n917,n777,n724 );
+   not U911 ( n724,n646 );
+   nand U912 ( n646,n918,n871 );
+   nor U913 ( n916,n635,n919 );
+   and U914 ( n919,n920,n692 );
+   not U915 ( n692,n819 );
+   not U916 ( n635,n630 );
+   nand U917 ( n630,n921,stato_reg_0_ );
+   nor U918 ( n921,stato_reg_1_,n777 );
+   nand U919 ( n913,n922,n891 );
+   nor U920 ( n922,n920,n819 );
+   nand U921 ( n819,n918,stato_reg_0_ );
+   and U922 ( n918,n923,stato_reg_2_ );
+   nor U923 ( n923,n777,n547 );
+   not U924 ( n777,n743 );
+   nand U925 ( n743,n924,n925 );
+   nor U926 ( n925,n926,n927 );
+   nor U927 ( n924,n928,n929 );
+   nor U928 ( n929,stato_reg_1_,n930 );
+   nor U929 ( n928,n931,n932 );
+   nand U930 ( n932,n933,n605 );
+   nand U931 ( n933,n934,n935 );
+   nand U932 ( n935,n936,n547 );
+   nand U933 ( n936,n697,n937 );
+   xor U934 ( n920,n820,n693 );
+   xor U935 ( n820,r_in_reg_3_,n716 );
+   nand U936 ( n939,x_out_reg_5_,n940 );
+   nor U937 ( n938,n941,n942 );
+   nor U938 ( n942,n720,n943 );
+   xor U939 ( n720,n697,n703 );
+   nand U940 ( n703,n944,n945 );
+   nor U941 ( n941,n697,n946 );
+   nand U942 ( n948,x_out_reg_4_,n940 );
+   nor U943 ( n947,n949,n950 );
+   nor U944 ( n950,n951,n943 );
+   not U945 ( n951,n767 );
+   xor U946 ( n767,n944,n945 );
+   xor U947 ( n945,n584,n719 );
+   nor U948 ( n944,n952,n953 );
+   nor U949 ( n949,n719,n946 );
+   not U950 ( n719,cont1_reg_4_ );
+   nand U951 ( n955,x_out_reg_3_,n940 );
+   nor U952 ( n954,n956,n957 );
+   nor U953 ( n957,n958,n943 );
+   not U954 ( n958,n806 );
+   xor U955 ( n806,n953,n952 );
+   nand U956 ( n952,n959,n960 );
+   nand U957 ( n960,cont1_reg_2_,stato_reg_3_ );
+   nand U958 ( n959,n961,n824 );
+   xor U959 ( n953,stato_reg_3_,n787 );
+   nor U960 ( n956,n787,n946 );
+   nand U961 ( n963,x_out_reg_2_,n940 );
+   nor U962 ( n962,n964,n965 );
+   nor U963 ( n965,n841,n943 );
+   xor U964 ( n841,n824,n961 );
+   nand U965 ( n961,n966,n967 );
+   xor U966 ( n966,stato_reg_3_,cont1_reg_1_ );
+   nor U967 ( n964,n824,n946 );
+   not U968 ( n824,cont1_reg_2_ );
+   nand U969 ( n969,x_out_reg_1_,n940 );
+   nor U970 ( n968,n970,n971 );
+   nor U971 ( n971,n872,n943 );
+   nand U972 ( n943,n972,cont1_reg_8_ );
+   nor U973 ( n972,n940,n584 );
+   nand U974 ( n872,n973,n974 );
+   nand U975 ( n974,n975,cont1_reg_1_ );
+   xor U976 ( n973,n976,n584 );
+   not U977 ( n584,stato_reg_3_ );
+   nand U978 ( n976,n838,n967 );
+   nor U979 ( n970,n838,n946 );
+   nand U980 ( n946,n977,stato_reg_3_ );
+   nor U981 ( n977,cont1_reg_8_,n940 );
+   nand U982 ( n979,x_out_reg_0_,n940 );
+   nand U983 ( n978,n975,n583 );
+   not U984 ( n583,n940 );
+   not U985 ( n975,n967 );
+   nand U986 ( n967,stato_reg_3_,cont1_reg_0_ );
+   nand U987 ( n940,n981,n871 );
+   nor U988 ( n981,stato_reg_2_,stato_reg_1_ );
+   nor U989 ( n980,n982,n983 );
+   nor U990 ( n983,n547,n984 );
+   nand U991 ( n984,n985,n871 );
+   nand U992 ( n985,n986,n987 );
+   nor U993 ( n986,n988,n989 );
+   nor U994 ( n989,stato_reg_2_,n990 );
+   nor U995 ( n982,stato_reg_1_,n991 );
+   nand U996 ( n991,n992,n993 );
+   nand U997 ( n993,n896,n871 );
+   or U998 ( n992,stbi,stato_reg_2_ );
+   nand U999 ( n995,n996,n896 );
+   not U1000 ( n896,r_in_reg_1_ );
+   nor U1001 ( n994,n997,n998 );
+   nor U1002 ( n998,stato_reg_1_,n999 );
+   nand U1003 ( n999,stato_reg_0_,n1000 );
+   nand U1004 ( n1000,n1001,n1002 );
+   nand U1005 ( n1002,n1003,n1004 );
+   not U1006 ( n1004,n987 );
+   nand U1007 ( n987,n934,stato_reg_2_ );
+   nor U1008 ( n934,cont1_reg_7_,cont1_reg_6_ );
+   and U1009 ( n1003,n697,n937 );
+   nand U1010 ( n937,n1005,cont1_reg_4_ );
+   nor U1011 ( n1005,n1006,n787 );
+   not U1012 ( n787,cont1_reg_3_ );
+   nor U1013 ( n1006,cont1_reg_2_,n1007 );
+   nor U1014 ( n1007,n891,n838 );
+   not U1015 ( n838,cont1_reg_1_ );
+   not U1016 ( n891,cont1_reg_0_ );
+   not U1017 ( n697,cont1_reg_5_ );
+   nor U1018 ( n1001,n1008,n988 );
+   nor U1019 ( n988,n931,n605 );
+   not U1020 ( n605,cont1_reg_8_ );
+   nor U1021 ( n1008,stbi,stato_reg_2_ );
+   nor U1022 ( n997,n1009,n547 );
+   nor U1023 ( n1009,n1010,n996 );
+   not U1024 ( n996,n930 );
+   nor U1025 ( n1010,n579,n1011 );
+   nand U1026 ( n1011,n1012,n871 );
+   nand U1027 ( n579,n1013,n1014 );
+   nand U1028 ( n1014,r_in_reg_5_,n1012 );
+   nand U1029 ( n1013,n1015,n1016 );
+   nand U1030 ( n1016,n1017,cont_reg_4_ );
+   nor U1031 ( n1017,n1018,n554 );
+   not U1032 ( n554,cont_reg_3_ );
+   nand U1033 ( n1015,n1019,n1012 );
+   nand U1034 ( n1019,n1018,r_in_reg_4_ );
+   and U1035 ( n1018,n1020,n1021 );
+   nor U1036 ( n1021,n1022,n1023 );
+   nor U1037 ( n1023,n990,n1024 );
+   nand U1038 ( n1024,n1025,n716 );
+   nand U1039 ( n1025,r_in_reg_1_,r_in_reg_0_ );
+   nor U1040 ( n1022,n1026,n1012 );
+   nor U1041 ( n1026,cont_reg_1_,cont_reg_0_ );
+   nor U1042 ( n1020,n1027,n1028 );
+   nor U1043 ( n1028,r_in_reg_3_,n990 );
+   not U1044 ( n990,n1012 );
+   nor U1045 ( n1027,n1012,n553 );
+   not U1046 ( n553,cont_reg_2_ );
+   nand U1047 ( n930,stato_reg_2_,n871 );
+   nor U1048 ( n1029,n1030,n1031 );
+   and U1049 ( n1031,n931,n927 );
+   nor U1050 ( n1030,stato_reg_1_,n931 );
+   not U1051 ( n931,stato_reg_2_ );
+   nand U1052 ( n1032,n927,stato_reg_2_ );
+   nor U1053 ( n927,n871,n547 );
+   not U1054 ( n547,stato_reg_1_ );
+   nand U1055 ( n582,n926,n871 );
+   not U1056 ( n871,stato_reg_0_ );
+   and U1057 ( n926,n1033,stato_reg_1_ );
+   nor U1058 ( n1033,stato_reg_2_,n1012 );
+   nand U1059 ( n1012,n1034,n1035 );
+   nor U1060 ( n1035,n1036,n1037 );
+   nor U1061 ( n1037,r_in_reg_1_,n693 );
+   not U1062 ( n693,r_in_reg_3_ );
+   nor U1063 ( n1036,r_in_reg_3_,n733 );
+   nor U1064 ( n1034,n1038,n1039 );
+   nand U1065 ( n1039,n1040,n1041 );
+   nand U1066 ( n1041,r_in_reg_0_,n716 );
+   not U1067 ( n716,r_in_reg_2_ );
+   nand U1068 ( n1040,r_in_reg_1_,n870 );
+   not U1069 ( n870,r_in_reg_0_ );
+   nand U1070 ( n1038,n1042,n1043 );
+   nand U1071 ( n1043,r_in_reg_4_,n733 );
+   not U1072 ( n733,r_in_reg_5_ );
+   nand U1073 ( n1042,r_in_reg_2_,n760 );
+   not U1074 ( n760,r_in_reg_4_ );
+endmodule

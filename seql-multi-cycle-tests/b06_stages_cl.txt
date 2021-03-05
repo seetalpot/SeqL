@@ -1,0 +1,22 @@
+
+#SeqL-locked flip-flops Stage connection logic
+ACKOUT_REG_2 = BUF(U62_1enc)
+ACKOUT_REG_3 = BUF(U62_2enc)
+
+#SeqL-locked flip-flops Stage connection logic
+STATE_REG_2__2 = BUF(U57_1enc)
+STATE_REG_2__3 = BUF(U57_2enc)
+STATE_REG_1__2 = BUF(U56_1)
+STATE_REG_1__3 = BUF(U56_2)
+STATE_REG_0__2 = BUF(U55_1)
+STATE_REG_0__3 = BUF(U55_2)
+CC_MUX_REG_2__2 = BUF(U59_1)
+CC_MUX_REG_2__3 = BUF(U59_2)
+CC_MUX_REG_1__2 = BUF(U58_1)
+CC_MUX_REG_1__3 = BUF(U58_2)
+USCITE_REG_2__2 = BUF(U61_1)
+USCITE_REG_2__3 = BUF(U61_2)
+USCITE_REG_1__2 = BUF(U60_1)
+USCITE_REG_1__3 = BUF(U60_2)
+ENABLE_COUNT_REG_2 = BUF(U62_1)
+ENABLE_COUNT_REG_3 = BUF(U62_2)

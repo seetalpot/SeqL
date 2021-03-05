@@ -1,0 +1,98 @@
+pi00                 keyinputpi00        
+pi01                 keyinputpi01        
+pi02                 keyinputpi02        
+pi03                 keyinputpi03        
+pi04                 keyinputpi04        
+pi05                 keyinputpi05        
+pi06                 keyinputpi06        
+pi07                 keyinputpi07        
+pi08                 keyinputpi08        
+pi09                 keyinputpi09        
+pi10                 keyinputpi10        
+pi11                 keyinputpi11        
+pi12                 keyinputpi12        
+pi13                 keyinputpi13        
+pi14                 keyinputpi14        
+pi15                 keyinputpi15        
+pi16                 keyinputpi16        
+pi17                 keyinputpi17        
+pi18                 keyinputpi18        
+pi19                 keyinputpi19        
+pi20                 keyinputpi20        
+pi21                 keyinputpi21        
+pi22                 keyinputpi22        
+pi23                 keyinputpi23        
+pi24                 keyinputpi24        
+pi25                 keyinputpi25        
+pi26                 keyinputpi26        
+pi27                 keyinputpi27        
+pi28                 keyinputpi28        
+pi29                 keyinputpi29        
+pi30                 keyinputpi30        
+pi31                 keyinputpi31        
+pi32                 keyinputpi32        
+pi33                 keyinputpi33        
+pi34                 keyinputpi34        
+pi35                 keyinputpi35        
+pi36                 keyinputpi36        
+pi37                 keyinputpi37        
+pi38                 keyinputpi38        
+pi39                 keyinputpi39        
+pi40                 keyinputpi40        
+pi41                 keyinputpi41        
+pi42                 keyinputpi42        
+pi43                 keyinputpi43        
+pi44                 keyinputpi44        
+pi45                 keyinputpi45        
+pi46                 keyinputpi46        
+pi47                 keyinputpi47        
+pi48                 keyinputpi48        
+pi49                 keyinputpi49        
+pi50                 keyinputpi50        
+pi51                 keyinputpi51        
+pi52                 keyinputpi52        
+pi53                 keyinputpi53        
+pi54                 keyinputpi54        
+pi55                 keyinputpi55        
+pi56                 keyinputpi56        
+pi57                 keyinputpi57        
+pi58                 keyinputpi58        
+pi59                 keyinputpi59        
+pi60                 keyinputpi60        
+pi61                 keyinputpi61        
+pi62                 keyinputpi62        
+pi63                 keyinputpi63        
+# of ckt inputs : 64
+# of gates      : 6747
+n5005 (  203/ 6747 @ 259)
+n5004 (  277/ 6747 @ 258)
+n5002 (  421/ 6747 @ 256)
+n4998 ( 1941/ 6747 @ 256)
+n4999 ( 2713/ 6747 @ 250)
+n4996 ( 2974/ 6747 @ 254)
+n5415 ( 3155/ 6747 @ 261)
+n5001 ( 3576/ 6747 @ 255)
+n4997 ( 4066/ 6747 @ 255)
+n5414 ( 5230/ 6747 @ 260)
+n4995 ( 5443/ 6747 @ 250)
+n5000 ( 6114/ 6747 @ 251)
+n5003 ( 6221/ 6747 @ 257)
+n4994 ( 6603/ 6747 @ 249)
+# of candidates : 14
+processing gate: n5005
+processing gate: n5004
+processing gate: n5002
+processing gate: n4998
+processing gate: n4999
+processing gate: n4996
+processing gate: n5415
+[2] FOUND key=0011110111110000010110110010000100111111010010110111111011110100
+processing gate: n5001
+processing gate: n4997
+processing gate: n5414
+[1] FOUND key=0011110111110000010110110010000100111111010010110111111011110100
+processing gate: n4995
+processing gate: n5000
+processing gate: n5003
+processing gate: n4994
+cpu_time 25.5

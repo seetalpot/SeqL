@@ -1,0 +1,55 @@
+
+#Input encryption logic for OVERFLW_REG
+OVERFLW_REG_1encenc = XOR(OVERFLW_REG_1, keyinput0)
+
+#Output encryption logic for U34
+U34_2$enc_0 = XOR(U34_2enc, keyinput0)
+U34_2$enc_1 = XOR(U34_2$enc_0, keyinput1)
+U34_2$enc_2 = XOR(U34_2$enc_1, keyinput2)
+U34_2$enc_3 = XOR(U34_2$enc_2, keyinput3)
+U34_2$enc = XOR(U34_2$enc_3, keyinput4)
+
+
+#Input encryption logic for STATO_REG_2_
+STATO_REG_2__1enc_0 = XOR(STATO_REG_2__1, keyinput0)
+STATO_REG_2__1encenc = XOR(STATO_REG_2__1enc_0, keyinput1)
+
+#Output encryption logic for U45
+U45_2$enc_0 = XOR(U45_2enc, keyinput1)
+U45_2$enc_1 = XOR(U45_2$enc_0, keyinput2)
+U45_2$enc_2 = XOR(U45_2$enc_1, keyinput3)
+U45_2$enc = XOR(U45_2$enc_2, keyinput4)
+
+
+#Input encryption logic for STATO_REG_1_
+STATO_REG_1__1enc_0 = XOR(STATO_REG_1__1, keyinput0)
+STATO_REG_1__1enc_1 = XOR(STATO_REG_1__1enc_0, keyinput1)
+STATO_REG_1__1encenc = XOR(STATO_REG_1__1enc_1, keyinput2)
+
+#Output encryption logic for U36
+U36_2$enc_0 = XOR(U36_2enc, keyinput2)
+U36_2$enc_1 = XOR(U36_2$enc_0, keyinput3)
+U36_2$enc = XOR(U36_2$enc_1, keyinput4)
+
+
+#Input encryption logic for STATO_REG_0_
+STATO_REG_0__1enc_0 = XOR(STATO_REG_0__1, keyinput0)
+STATO_REG_0__1enc_1 = XOR(STATO_REG_0__1enc_0, keyinput1)
+STATO_REG_0__1enc_2 = XOR(STATO_REG_0__1enc_1, keyinput2)
+STATO_REG_0__1encenc = XOR(STATO_REG_0__1enc_2, keyinput3)
+
+#Output encryption logic for U35
+U35_2$enc_0 = XOR(U35_2enc, keyinput3)
+U35_2$enc = XOR(U35_2$enc_0, keyinput4)
+
+
+#Input encryption logic for OUTP_REG
+OUTP_REG_1enc_0 = XOR(OUTP_REG_1, keyinput0)
+OUTP_REG_1enc_1 = XOR(OUTP_REG_1enc_0, keyinput1)
+OUTP_REG_1enc_2 = XOR(OUTP_REG_1enc_1, keyinput2)
+OUTP_REG_1enc_3 = XOR(OUTP_REG_1enc_2, keyinput3)
+OUTP_REG_1enc = XOR(OUTP_REG_1enc_3, keyinput4)
+
+#Output encryption logic for U44
+U44_2$enc = XOR(U44_2, keyinput4)
+

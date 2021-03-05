@@ -1,0 +1,140 @@
+
+#SeqL Flip-flop Additional Output encryption logic for STATO_REG_0_
+STATO_REG_0__1enc = XOR(STATO_REG_0__1encenc, keyinput31)
+STATO_REG_0__2enc = XOR(STATO_REG_0__2, keyinput31)
+
+#SeqL Flip-flop Additional Input encryption logic for U203
+U203_1enc = XOR(U203_1, keyinput30)
+U203_2enc = XOR(U203_2, keyinput30)
+
+#SeqL Flip-flop Additional Output encryption logic for CODA0_REG_2_
+CODA0_REG_2__1enc = XOR(CODA0_REG_2__1encenc, keyinput33)
+CODA0_REG_2__2enc = XOR(CODA0_REG_2__2, keyinput33)
+
+#SeqL Flip-flop Additional Input encryption logic for U217
+U217_1enc = XOR(U217_1, keyinput32)
+U217_2enc = XOR(U217_2, keyinput32)
+
+#SeqL Flip-flop Additional Output encryption logic for CODA0_REG_1_
+CODA0_REG_1__1enc = XOR(CODA0_REG_1__1encenc, keyinput35)
+CODA0_REG_1__2enc = XOR(CODA0_REG_1__2, keyinput35)
+
+#SeqL Flip-flop Additional Input encryption logic for U216
+U216_1enc = XOR(U216_1, keyinput34)
+U216_2enc = XOR(U216_2, keyinput34)
+
+#SeqL Flip-flop Additional Output encryption logic for CODA0_REG_0_
+CODA0_REG_0__1enc = XOR(CODA0_REG_0__1encenc, keyinput37)
+CODA0_REG_0__2enc = XOR(CODA0_REG_0__2, keyinput37)
+
+#SeqL Flip-flop Additional Input encryption logic for U215
+U215_1enc = XOR(U215_1, keyinput36)
+U215_2enc = XOR(U215_2, keyinput36)
+
+#SeqL Flip-flop Additional Output encryption logic for CODA1_REG_2_
+CODA1_REG_2__1enc = XOR(CODA1_REG_2__1encenc, keyinput39)
+CODA1_REG_2__2enc = XOR(CODA1_REG_2__2, keyinput39)
+
+#SeqL Flip-flop Additional Input encryption logic for U214
+U214_1enc = XOR(U214_1, keyinput38)
+U214_2enc = XOR(U214_2, keyinput38)
+
+#Other Flip-flop Output logic for CODA1_REG_1_
+CODA1_REG_1__1enc = BUF(CODA1_REG_1__1)
+CODA1_REG_1__2enc = BUF(CODA1_REG_1__2)
+
+#Other Flip-flop Output logic for CODA1_REG_0_
+CODA1_REG_0__1enc = BUF(CODA1_REG_0__1)
+CODA1_REG_0__2enc = BUF(CODA1_REG_0__2)
+
+#Other Flip-flop Output logic for CODA2_REG_2_
+CODA2_REG_2__1enc = BUF(CODA2_REG_2__1)
+CODA2_REG_2__2enc = BUF(CODA2_REG_2__2)
+
+#Other Flip-flop Output logic for CODA2_REG_1_
+CODA2_REG_1__1enc = BUF(CODA2_REG_1__1)
+CODA2_REG_1__2enc = BUF(CODA2_REG_1__2)
+
+#Other Flip-flop Output logic for CODA2_REG_0_
+CODA2_REG_0__1enc = BUF(CODA2_REG_0__1)
+CODA2_REG_0__2enc = BUF(CODA2_REG_0__2)
+
+#Other Flip-flop Output logic for CODA3_REG_2_
+CODA3_REG_2__1enc = BUF(CODA3_REG_2__1)
+CODA3_REG_2__2enc = BUF(CODA3_REG_2__2)
+
+#Other Flip-flop Output logic for CODA3_REG_1_
+CODA3_REG_1__1enc = BUF(CODA3_REG_1__1)
+CODA3_REG_1__2enc = BUF(CODA3_REG_1__2)
+
+#Other Flip-flop Output logic for CODA3_REG_0_
+CODA3_REG_0__1enc = BUF(CODA3_REG_0__1)
+CODA3_REG_0__2enc = BUF(CODA3_REG_0__2)
+
+#Other Flip-flop Output logic for GRANT_REG_3_
+GRANT_REG_3__1enc = BUF(GRANT_REG_3__1)
+GRANT_REG_3__2enc = BUF(GRANT_REG_3__2)
+
+#Other Flip-flop Output logic for GRANT_REG_2_
+GRANT_REG_2__1enc = BUF(GRANT_REG_2__1)
+GRANT_REG_2__2enc = BUF(GRANT_REG_2__2)
+
+#Other Flip-flop Output logic for GRANT_REG_1_
+GRANT_REG_1__1enc = BUF(GRANT_REG_1__1)
+GRANT_REG_1__2enc = BUF(GRANT_REG_1__2)
+
+#Other Flip-flop Output logic for GRANT_REG_0_
+GRANT_REG_0__1enc = BUF(GRANT_REG_0__1)
+GRANT_REG_0__2enc = BUF(GRANT_REG_0__2)
+
+#Other Flip-flop Output logic for GRANT_O_REG_3_
+GRANT_O_REG_3__1enc = BUF(GRANT_O_REG_3__1)
+GRANT_O_REG_3__2enc = BUF(GRANT_O_REG_3__2)
+
+#Other Flip-flop Output logic for GRANT_O_REG_2_
+GRANT_O_REG_2__1enc = BUF(GRANT_O_REG_2__1)
+GRANT_O_REG_2__2enc = BUF(GRANT_O_REG_2__2)
+
+#Other Flip-flop Output logic for GRANT_O_REG_1_
+GRANT_O_REG_1__1enc = BUF(GRANT_O_REG_1__1)
+GRANT_O_REG_1__2enc = BUF(GRANT_O_REG_1__2)
+
+#Other Flip-flop Output logic for GRANT_O_REG_0_
+GRANT_O_REG_0__1enc = BUF(GRANT_O_REG_0__1)
+GRANT_O_REG_0__2enc = BUF(GRANT_O_REG_0__2)
+
+#Other Flip-flop Output logic for RU3_REG
+RU3_REG_1enc = BUF(RU3_REG_1)
+RU3_REG_2enc = BUF(RU3_REG_2)
+
+#Other Flip-flop Output logic for FU1_REG
+FU1_REG_1enc = BUF(FU1_REG_1)
+FU1_REG_2enc = BUF(FU1_REG_2)
+
+#Other Flip-flop Output logic for FU3_REG
+FU3_REG_1enc = BUF(FU3_REG_1)
+FU3_REG_2enc = BUF(FU3_REG_2)
+
+#Other Flip-flop Output logic for RU1_REG
+RU1_REG_1enc = BUF(RU1_REG_1)
+RU1_REG_2enc = BUF(RU1_REG_2)
+
+#Other Flip-flop Output logic for RU4_REG
+RU4_REG_1enc = BUF(RU4_REG_1)
+RU4_REG_2enc = BUF(RU4_REG_2)
+
+#Other Flip-flop Output logic for FU2_REG
+FU2_REG_1enc = BUF(FU2_REG_1)
+FU2_REG_2enc = BUF(FU2_REG_2)
+
+#Other Flip-flop Output logic for FU4_REG
+FU4_REG_1enc = BUF(FU4_REG_1)
+FU4_REG_2enc = BUF(FU4_REG_2)
+
+#Other Flip-flop Output logic for RU2_REG
+RU2_REG_1enc = BUF(RU2_REG_1)
+RU2_REG_2enc = BUF(RU2_REG_2)
+
+#Other Flip-flop Output logic for STATO_REG_1_
+STATO_REG_1__1enc = BUF(STATO_REG_1__1)
+STATO_REG_1__2enc = BUF(STATO_REG_1__2)

@@ -1,0 +1,9 @@
+sed -i '1,$s/ ACKOUT_REG_1)/ ACKOUT_REG_1enc)/g' b06.unroll-logic
+sed -i '1,$s/ STATE_REG_2__1)/ STATE_REG_2__1enc)/g' b06.unroll-logic
+sed -i '1,$s/ STATE_REG_1__1)/ STATE_REG_1__1enc)/g' b06.unroll-logic
+sed -i '1,$s/ STATE_REG_0__1)/ STATE_REG_0__1enc)/g' b06.unroll-logic
+sed -i '1,$s/ CC_MUX_REG_2__1)/ CC_MUX_REG_2__1enc)/g' b06.unroll-logic
+sed -i '1,$s/ CC_MUX_REG_1__1)/ CC_MUX_REG_1__1enc)/g' b06.unroll-logic
+sed -i '1,$s/ USCITE_REG_2__1)/ USCITE_REG_2__1enc)/g' b06.unroll-logic
+sed -i '1,$s/ USCITE_REG_1__1)/ USCITE_REG_1__1enc)/g' b06.unroll-logic
+sed -i '1,$s/ ENABLE_COUNT_REG_1)/ ENABLE_COUNT_REG_1enc)/g' b06.unroll-logic

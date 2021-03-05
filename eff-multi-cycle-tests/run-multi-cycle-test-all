@@ -1,0 +1,58 @@
+#rm -rf $1cycle-unroll-locked-bench
+#rm -rf $1cycle-unroll-original-bench
+
+#mkdir $1cycle-unroll-locked-bench
+#mkdir $1cycle-unroll-original-bench
+
+#./run-multi-cycle-test b01 5 $1
+#
+#./run-multi-cycle-test b02 4 $1
+#
+#./run-multi-cycle-test b03 30 $1
+#
+#./run-multi-cycle-test b04 66 $1
+#
+#./run-multi-cycle-test b05 34 $1
+#
+#./run-multi-cycle-test b06 9 $1
+#
+#./run-multi-cycle-test b07 49 $1
+#
+#./run-multi-cycle-test b08 21 $1
+#
+#./run-multi-cycle-test b09 28 $1
+#
+#./run-multi-cycle-test b10 17 $1
+#
+#./run-multi-cycle-test b11 31 $1
+#
+#./run-multi-cycle-test b12 121 $1
+#
+#./run-multi-cycle-test b13 53 $1
+#
+#./run-multi-cycle-test b14 245 $1
+#
+#./run-multi-cycle-test b15 449 $1
+#
+#./run-multi-cycle-test b17 1415 $1
+
+./run-multi-cycle-test b18 3320 $1
+
+./run-multi-cycle-test b19 6642 $1
+
+#./run-multi-cycle-test b20 490 $1
+
+#./run-multi-cycle-test b21 490 $1
+
+#./run-multi-cycle-test b22 735 $1
+
+
+
+
+
+
+
+
+
+
+

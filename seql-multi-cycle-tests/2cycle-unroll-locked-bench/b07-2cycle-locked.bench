@@ -1,0 +1,31 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(START_1)
+
+
+##################################Primary Inputs for Unroll-2
+INPUT(START_2)
+
+
+##################################Primary Outputs for Unroll-1
+OUTPUT(PUNTI_RETTA_REG_7__1)
+OUTPUT(PUNTI_RETTA_REG_6__1)
+OUTPUT(PUNTI_RETTA_REG_5__1)
+OUTPUT(PUNTI_RETTA_REG_4__1)
+OUTPUT(PUNTI_RETTA_REG_3__1)
+OUTPUT(PUNTI_RETTA_REG_2__1)
+OUTPUT(PUNTI_RETTA_REG_1__1)
+OUTPUT(PUNTI_RETTA_REG_0__1)
+
+
+##################################Primary Outputs for Unroll-2
+OUTPUT(PUNTI_RETTA_REG_7__2)
+OUTPUT(PUNTI_RETTA_REG_6__2)
+OUTPUT(PUNTI_RETTA_REG_5__2)
+OUTPUT(PUNTI_RETTA_REG_4__2)
+OUTPUT(PUNTI_RETTA_REG_3__2)
+OUTPUT(PUNTI_RETTA_REG_2__2)
+OUTPUT(PUNTI_RETTA_REG_1__2)
+OUTPUT(PUNTI_RETTA_REG_0__2)
+
+##################################Other Inputs

@@ -1,0 +1,6 @@
+inputs=50 keys=50 outputs=22 gates=5037
+iteration: 1; vars: 10249; clauses: 6746; decisions: 2896
+iteration: 2; vars: 15264; clauses: 7850; decisions: 7706
+ERROR: INVALID (incorrect) key provided for verification.
+key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+iteration=2; backbones_count=0; cube_count=48946; cpu_time=0.737922; maxrss=15.6562

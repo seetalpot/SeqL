@@ -1,0 +1,15 @@
+inputs=46 keys=46 outputs=45 gates=4876
+iteration: 1; vars: 9938; clauses: 7519; decisions: 1305
+iteration: 2; vars: 14769; clauses: 11741; decisions: 8281
+iteration: 3; vars: 19600; clauses: 9791; decisions: 9658
+iteration: 4; vars: 24431; clauses: 14013; decisions: 10234
+iteration: 5; vars: 29262; clauses: 11946; decisions: 10389
+iteration: 6; vars: 34093; clauses: 16168; decisions: 10909
+iteration: 7; vars: 38924; clauses: 14063; decisions: 11067
+iteration: 8; vars: 43755; clauses: 18285; decisions: 13656
+iteration: 9; vars: 48586; clauses: 16313; decisions: 13810
+iteration: 10; vars: 53417; clauses: 20535; decisions: 13965
+iteration: 11; vars: 58248; clauses: 24757; decisions: 16730
+ERROR: INVALID (incorrect) key provided for verification.
+key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+iteration=11; backbones_count=0; cube_count=269358; cpu_time=1.79825; maxrss=19.6562

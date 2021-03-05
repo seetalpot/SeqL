@@ -1,0 +1,87 @@
+G1                   keyinputG1          
+G2                   keyinputG2          
+G3                   keyinputG3          
+G4                   keyinputG4          
+G5                   keyinputG5          
+G6                   keyinputG6          
+G7                   keyinputG7          
+G8                   keyinputG8          
+G11                  keyinputG11         
+G14                  keyinputG14         
+G15                  keyinputG15         
+G16                  keyinputG16         
+G19                  keyinputG19         
+G20                  keyinputG20         
+G21                  keyinputG21         
+G22                  keyinputG22         
+G23                  keyinputG23         
+G24                  keyinputG24         
+G25                  keyinputG25         
+G26                  keyinputG26         
+G27                  keyinputG27         
+G28                  keyinputG28         
+G29                  keyinputG29         
+G32                  keyinputG32         
+G33                  keyinputG33         
+G34                  keyinputG34         
+G35                  keyinputG35         
+G36                  keyinputG36         
+G37                  keyinputG37         
+G40                  keyinputG40         
+G43                  keyinputG43         
+G44                  keyinputG44         
+G47                  keyinputG47         
+G48                  keyinputG48         
+G49                  keyinputG49         
+G50                  keyinputG50         
+G51                  keyinputG51         
+G52                  keyinputG52         
+G53                  keyinputG53         
+G54                  keyinputG54         
+G55                  keyinputG55         
+G56                  keyinputG56         
+G57                  keyinputG57         
+G60                  keyinputG60         
+G61                  keyinputG61         
+G62                  keyinputG62         
+G63                  keyinputG63         
+G64                  keyinputG64         
+G65                  keyinputG65         
+G66                  keyinputG66         
+G67                  keyinputG67         
+G68                  keyinputG68         
+G69                  keyinputG69         
+G72                  keyinputG72         
+G73                  keyinputG73         
+G74                  keyinputG74         
+G75                  keyinputG75         
+G76                  keyinputG76         
+G77                  keyinputG77         
+G78                  keyinputG78         
+G79                  keyinputG79         
+G80                  keyinputG80         
+G81                  keyinputG81         
+G82                  keyinputG82         
+# of ckt inputs : 64
+# of gates      : 5834
+n2423 (  334/ 5834 @ 250)
+n2445 (  668/ 5834 @ 256)
+n2428 (  874/ 5834 @ 251)
+n2449 ( 1328/ 5834 @ 261)
+n2422 ( 1585/ 5834 @ 249)
+n2447 ( 1593/ 5834 @ 259)
+n2429 ( 1616/ 5834 @ 252)
+n2420 ( 1837/ 5834 @ 250)
+n2451 ( 1931/ 5834 @ 263)
+n2442 ( 1939/ 5834 @ 250)
+n2450 ( 1956/ 5834 @ 262)
+n2432 ( 2664/ 5834 @ 260)
+n2431 ( 3243/ 5834 @ 259)
+n2430 ( 3722/ 5834 @ 254)
+n2441 ( 3972/ 5834 @ 261)
+n2448 ( 3974/ 5834 @ 260)
+n2452 ( 4166/ 5834 @ 264)
+n2443 ( 4536/ 5834 @ 254)
+n2446 ( 4856/ 5834 @ 257)
+n2444 ( 5371/ 5834 @ 255)
+n2421 ( 5721/ 5834 @ 251)

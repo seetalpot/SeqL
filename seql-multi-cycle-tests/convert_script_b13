@@ -1,0 +1,425 @@
+
+sed -i '1,$s/(CANALE_REG_3__1,/(CANALE_REG_3__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_2__1,/(CANALE_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_1__1,/(CANALE_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_0__1,/(CANALE_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_3__1,/(CONTA_TMP_REG_3__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_2__1,/(CONTA_TMP_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_1__1,/(CONTA_TMP_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_0__1,/(CONTA_TMP_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(ITFC_STATE_REG_1__1,/(ITFC_STATE_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(ITFC_STATE_REG_0__1,/(ITFC_STATE_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_7__1,/(OUT_REG_REG_7__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_6__1,/(OUT_REG_REG_6__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_5__1,/(OUT_REG_REG_5__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_4__1,/(OUT_REG_REG_4__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_3__1,/(OUT_REG_REG_3__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_2__1,/(OUT_REG_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_1__1,/(OUT_REG_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_0__1,/(OUT_REG_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_3__1,/(NEXT_BIT_REG_3__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_2__1,/(NEXT_BIT_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_1__1,/(NEXT_BIT_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_0__1,/(NEXT_BIT_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_9__1,/(TX_CONTA_REG_9__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_8__1,/(TX_CONTA_REG_8__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_7__1,/(TX_CONTA_REG_7__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_6__1,/(TX_CONTA_REG_6__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_5__1,/(TX_CONTA_REG_5__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_4__1,/(TX_CONTA_REG_4__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_3__1,/(TX_CONTA_REG_3__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_2__1,/(TX_CONTA_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_1__1,/(TX_CONTA_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_0__1,/(TX_CONTA_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(LOAD_REG_1,/(LOAD_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(SEND_DATA_REG_1,/(SEND_DATA_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(SEND_EN_REG_1,/(SEND_EN_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(MUX_EN_REG_1,/(MUX_EN_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TRE_REG_1,/(TRE_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(LOAD_DATO_REG_1,/(LOAD_DATO_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(SOC_REG_1,/(SOC_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(SEND_REG_1,/(SEND_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(MPX_REG_1,/(MPX_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(CONFIRM_REG_1,/(CONFIRM_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(SHOT_REG_1,/(SHOT_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(ADD_MPX2_REG_1,/(ADD_MPX2_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(RDY_REG_1,/(RDY_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(ERROR_REG_1,/(ERROR_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_2__1,/(S1_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_1__1,/(S1_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_0__1,/(S1_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(S2_REG_1__1,/(S2_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(S2_REG_0__1,/(S2_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_END_REG_1,/(TX_END_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/(DATA_OUT_REG_1,/(DATA_OUT_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_3__1,/ CANALE_REG_3__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_2__1,/ CANALE_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_1__1,/ CANALE_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_0__1,/ CANALE_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_3__1,/ CONTA_TMP_REG_3__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_2__1,/ CONTA_TMP_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_1__1,/ CONTA_TMP_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_0__1,/ CONTA_TMP_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ ITFC_STATE_REG_1__1,/ ITFC_STATE_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ ITFC_STATE_REG_0__1,/ ITFC_STATE_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_7__1,/ OUT_REG_REG_7__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_6__1,/ OUT_REG_REG_6__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_5__1,/ OUT_REG_REG_5__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_4__1,/ OUT_REG_REG_4__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_3__1,/ OUT_REG_REG_3__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_2__1,/ OUT_REG_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_1__1,/ OUT_REG_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_0__1,/ OUT_REG_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_3__1,/ NEXT_BIT_REG_3__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_2__1,/ NEXT_BIT_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_1__1,/ NEXT_BIT_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_0__1,/ NEXT_BIT_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_9__1,/ TX_CONTA_REG_9__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_8__1,/ TX_CONTA_REG_8__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_7__1,/ TX_CONTA_REG_7__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_6__1,/ TX_CONTA_REG_6__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_5__1,/ TX_CONTA_REG_5__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_4__1,/ TX_CONTA_REG_4__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_3__1,/ TX_CONTA_REG_3__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_2__1,/ TX_CONTA_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_1__1,/ TX_CONTA_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_0__1,/ TX_CONTA_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ LOAD_REG_1,/ LOAD_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ SEND_DATA_REG_1,/ SEND_DATA_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ SEND_EN_REG_1,/ SEND_EN_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ MUX_EN_REG_1,/ MUX_EN_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TRE_REG_1,/ TRE_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ LOAD_DATO_REG_1,/ LOAD_DATO_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ SOC_REG_1,/ SOC_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ SEND_REG_1,/ SEND_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ MPX_REG_1,/ MPX_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ CONFIRM_REG_1,/ CONFIRM_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ SHOT_REG_1,/ SHOT_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ ADD_MPX2_REG_1,/ ADD_MPX2_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ RDY_REG_1,/ RDY_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ ERROR_REG_1,/ ERROR_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_2__1,/ S1_REG_2__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_1__1,/ S1_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_0__1,/ S1_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ S2_REG_1__1,/ S2_REG_1__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ S2_REG_0__1,/ S2_REG_0__1enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_END_REG_1,/ TX_END_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ DATA_OUT_REG_1,/ DATA_OUT_REG_1enc,/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_3__1)/ CANALE_REG_3__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_2__1)/ CANALE_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_1__1)/ CANALE_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_0__1)/ CANALE_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_3__1)/ CONTA_TMP_REG_3__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_2__1)/ CONTA_TMP_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_1__1)/ CONTA_TMP_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_0__1)/ CONTA_TMP_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ ITFC_STATE_REG_1__1)/ ITFC_STATE_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ ITFC_STATE_REG_0__1)/ ITFC_STATE_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_7__1)/ OUT_REG_REG_7__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_6__1)/ OUT_REG_REG_6__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_5__1)/ OUT_REG_REG_5__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_4__1)/ OUT_REG_REG_4__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_3__1)/ OUT_REG_REG_3__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_2__1)/ OUT_REG_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_1__1)/ OUT_REG_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_0__1)/ OUT_REG_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_3__1)/ NEXT_BIT_REG_3__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_2__1)/ NEXT_BIT_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_1__1)/ NEXT_BIT_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_0__1)/ NEXT_BIT_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_9__1)/ TX_CONTA_REG_9__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_8__1)/ TX_CONTA_REG_8__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_7__1)/ TX_CONTA_REG_7__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_6__1)/ TX_CONTA_REG_6__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_5__1)/ TX_CONTA_REG_5__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_4__1)/ TX_CONTA_REG_4__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_3__1)/ TX_CONTA_REG_3__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_2__1)/ TX_CONTA_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_1__1)/ TX_CONTA_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_0__1)/ TX_CONTA_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ LOAD_REG_1)/ LOAD_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ SEND_DATA_REG_1)/ SEND_DATA_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ SEND_EN_REG_1)/ SEND_EN_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ MUX_EN_REG_1)/ MUX_EN_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TRE_REG_1)/ TRE_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ LOAD_DATO_REG_1)/ LOAD_DATO_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ SOC_REG_1)/ SOC_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ SEND_REG_1)/ SEND_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ MPX_REG_1)/ MPX_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ CONFIRM_REG_1)/ CONFIRM_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ SHOT_REG_1)/ SHOT_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ ADD_MPX2_REG_1)/ ADD_MPX2_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ RDY_REG_1)/ RDY_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ ERROR_REG_1)/ ERROR_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_2__1)/ S1_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_1__1)/ S1_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_0__1)/ S1_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ S2_REG_1__1)/ S2_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ S2_REG_0__1)/ S2_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_END_REG_1)/ TX_END_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/ DATA_OUT_REG_1)/ DATA_OUT_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_3__1)/(CANALE_REG_3__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_2__1)/(CANALE_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_1__1)/(CANALE_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_0__1)/(CANALE_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_3__1)/(CONTA_TMP_REG_3__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_2__1)/(CONTA_TMP_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_1__1)/(CONTA_TMP_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_0__1)/(CONTA_TMP_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(ITFC_STATE_REG_1__1)/(ITFC_STATE_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(ITFC_STATE_REG_0__1)/(ITFC_STATE_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_7__1)/(OUT_REG_REG_7__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_6__1)/(OUT_REG_REG_6__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_5__1)/(OUT_REG_REG_5__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_4__1)/(OUT_REG_REG_4__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_3__1)/(OUT_REG_REG_3__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_2__1)/(OUT_REG_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_1__1)/(OUT_REG_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_0__1)/(OUT_REG_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_3__1)/(NEXT_BIT_REG_3__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_2__1)/(NEXT_BIT_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_1__1)/(NEXT_BIT_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_0__1)/(NEXT_BIT_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_9__1)/(TX_CONTA_REG_9__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_8__1)/(TX_CONTA_REG_8__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_7__1)/(TX_CONTA_REG_7__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_6__1)/(TX_CONTA_REG_6__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_5__1)/(TX_CONTA_REG_5__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_4__1)/(TX_CONTA_REG_4__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_3__1)/(TX_CONTA_REG_3__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_2__1)/(TX_CONTA_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_1__1)/(TX_CONTA_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_0__1)/(TX_CONTA_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(LOAD_REG_1)/(LOAD_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(SEND_DATA_REG_1)/(SEND_DATA_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(SEND_EN_REG_1)/(SEND_EN_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(MUX_EN_REG_1)/(MUX_EN_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TRE_REG_1)/(TRE_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(LOAD_DATO_REG_1)/(LOAD_DATO_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(SOC_REG_1)/(SOC_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(SEND_REG_1)/(SEND_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(MPX_REG_1)/(MPX_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(CONFIRM_REG_1)/(CONFIRM_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(SHOT_REG_1)/(SHOT_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(ADD_MPX2_REG_1)/(ADD_MPX2_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(RDY_REG_1)/(RDY_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(ERROR_REG_1)/(ERROR_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_2__1)/(S1_REG_2__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_1__1)/(S1_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_0__1)/(S1_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(S2_REG_1__1)/(S2_REG_1__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(S2_REG_0__1)/(S2_REG_0__1enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_END_REG_1)/(TX_END_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(DATA_OUT_REG_1)/(DATA_OUT_REG_1enc)/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_3__2,/(CANALE_REG_3__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_2__2,/(CANALE_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_1__2,/(CANALE_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_0__2,/(CANALE_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_3__2,/(CONTA_TMP_REG_3__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_2__2,/(CONTA_TMP_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_1__2,/(CONTA_TMP_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_0__2,/(CONTA_TMP_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(ITFC_STATE_REG_1__2,/(ITFC_STATE_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(ITFC_STATE_REG_0__2,/(ITFC_STATE_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_7__2,/(OUT_REG_REG_7__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_6__2,/(OUT_REG_REG_6__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_5__2,/(OUT_REG_REG_5__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_4__2,/(OUT_REG_REG_4__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_3__2,/(OUT_REG_REG_3__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_2__2,/(OUT_REG_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_1__2,/(OUT_REG_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_0__2,/(OUT_REG_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_3__2,/(NEXT_BIT_REG_3__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_2__2,/(NEXT_BIT_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_1__2,/(NEXT_BIT_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_0__2,/(NEXT_BIT_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_9__2,/(TX_CONTA_REG_9__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_8__2,/(TX_CONTA_REG_8__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_7__2,/(TX_CONTA_REG_7__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_6__2,/(TX_CONTA_REG_6__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_5__2,/(TX_CONTA_REG_5__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_4__2,/(TX_CONTA_REG_4__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_3__2,/(TX_CONTA_REG_3__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_2__2,/(TX_CONTA_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_1__2,/(TX_CONTA_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_0__2,/(TX_CONTA_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(LOAD_REG_2,/(LOAD_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(SEND_DATA_REG_2,/(SEND_DATA_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(SEND_EN_REG_2,/(SEND_EN_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(MUX_EN_REG_2,/(MUX_EN_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TRE_REG_2,/(TRE_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(LOAD_DATO_REG_2,/(LOAD_DATO_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(SOC_REG_2,/(SOC_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(SEND_REG_2,/(SEND_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(MPX_REG_2,/(MPX_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(CONFIRM_REG_2,/(CONFIRM_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(SHOT_REG_2,/(SHOT_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(ADD_MPX2_REG_2,/(ADD_MPX2_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(RDY_REG_2,/(RDY_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(ERROR_REG_2,/(ERROR_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_2__2,/(S1_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_1__2,/(S1_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_0__2,/(S1_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(S2_REG_1__2,/(S2_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(S2_REG_0__2,/(S2_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/(TX_END_REG_2,/(TX_END_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/(DATA_OUT_REG_2,/(DATA_OUT_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_3__2,/ CANALE_REG_3__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_2__2,/ CANALE_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_1__2,/ CANALE_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_0__2,/ CANALE_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_3__2,/ CONTA_TMP_REG_3__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_2__2,/ CONTA_TMP_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_1__2,/ CONTA_TMP_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_0__2,/ CONTA_TMP_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ ITFC_STATE_REG_1__2,/ ITFC_STATE_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ ITFC_STATE_REG_0__2,/ ITFC_STATE_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_7__2,/ OUT_REG_REG_7__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_6__2,/ OUT_REG_REG_6__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_5__2,/ OUT_REG_REG_5__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_4__2,/ OUT_REG_REG_4__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_3__2,/ OUT_REG_REG_3__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_2__2,/ OUT_REG_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_1__2,/ OUT_REG_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_0__2,/ OUT_REG_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_3__2,/ NEXT_BIT_REG_3__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_2__2,/ NEXT_BIT_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_1__2,/ NEXT_BIT_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_0__2,/ NEXT_BIT_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_9__2,/ TX_CONTA_REG_9__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_8__2,/ TX_CONTA_REG_8__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_7__2,/ TX_CONTA_REG_7__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_6__2,/ TX_CONTA_REG_6__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_5__2,/ TX_CONTA_REG_5__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_4__2,/ TX_CONTA_REG_4__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_3__2,/ TX_CONTA_REG_3__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_2__2,/ TX_CONTA_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_1__2,/ TX_CONTA_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_0__2,/ TX_CONTA_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ LOAD_REG_2,/ LOAD_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ SEND_DATA_REG_2,/ SEND_DATA_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ SEND_EN_REG_2,/ SEND_EN_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ MUX_EN_REG_2,/ MUX_EN_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TRE_REG_2,/ TRE_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ LOAD_DATO_REG_2,/ LOAD_DATO_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ SOC_REG_2,/ SOC_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ SEND_REG_2,/ SEND_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ MPX_REG_2,/ MPX_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ CONFIRM_REG_2,/ CONFIRM_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ SHOT_REG_2,/ SHOT_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ ADD_MPX2_REG_2,/ ADD_MPX2_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ RDY_REG_2,/ RDY_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ ERROR_REG_2,/ ERROR_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_2__2,/ S1_REG_2__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_1__2,/ S1_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_0__2,/ S1_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ S2_REG_1__2,/ S2_REG_1__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ S2_REG_0__2,/ S2_REG_0__2enc,/g' b13.unroll-logic
+sed -i '1,$s/ TX_END_REG_2,/ TX_END_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ DATA_OUT_REG_2,/ DATA_OUT_REG_2enc,/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_3__2)/ CANALE_REG_3__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_2__2)/ CANALE_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_1__2)/ CANALE_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ CANALE_REG_0__2)/ CANALE_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_3__2)/ CONTA_TMP_REG_3__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_2__2)/ CONTA_TMP_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_1__2)/ CONTA_TMP_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ CONTA_TMP_REG_0__2)/ CONTA_TMP_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ ITFC_STATE_REG_1__2)/ ITFC_STATE_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ ITFC_STATE_REG_0__2)/ ITFC_STATE_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_7__2)/ OUT_REG_REG_7__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_6__2)/ OUT_REG_REG_6__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_5__2)/ OUT_REG_REG_5__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_4__2)/ OUT_REG_REG_4__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_3__2)/ OUT_REG_REG_3__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_2__2)/ OUT_REG_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_1__2)/ OUT_REG_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ OUT_REG_REG_0__2)/ OUT_REG_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_3__2)/ NEXT_BIT_REG_3__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_2__2)/ NEXT_BIT_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_1__2)/ NEXT_BIT_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ NEXT_BIT_REG_0__2)/ NEXT_BIT_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_9__2)/ TX_CONTA_REG_9__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_8__2)/ TX_CONTA_REG_8__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_7__2)/ TX_CONTA_REG_7__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_6__2)/ TX_CONTA_REG_6__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_5__2)/ TX_CONTA_REG_5__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_4__2)/ TX_CONTA_REG_4__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_3__2)/ TX_CONTA_REG_3__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_2__2)/ TX_CONTA_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_1__2)/ TX_CONTA_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_CONTA_REG_0__2)/ TX_CONTA_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ LOAD_REG_2)/ LOAD_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ SEND_DATA_REG_2)/ SEND_DATA_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ SEND_EN_REG_2)/ SEND_EN_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ MUX_EN_REG_2)/ MUX_EN_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TRE_REG_2)/ TRE_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ LOAD_DATO_REG_2)/ LOAD_DATO_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ SOC_REG_2)/ SOC_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ SEND_REG_2)/ SEND_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ MPX_REG_2)/ MPX_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ CONFIRM_REG_2)/ CONFIRM_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ SHOT_REG_2)/ SHOT_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ ADD_MPX2_REG_2)/ ADD_MPX2_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ RDY_REG_2)/ RDY_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ ERROR_REG_2)/ ERROR_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_2__2)/ S1_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_1__2)/ S1_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ S1_REG_0__2)/ S1_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ S2_REG_1__2)/ S2_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ S2_REG_0__2)/ S2_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/ TX_END_REG_2)/ TX_END_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/ DATA_OUT_REG_2)/ DATA_OUT_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_3__2)/(CANALE_REG_3__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_2__2)/(CANALE_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_1__2)/(CANALE_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(CANALE_REG_0__2)/(CANALE_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_3__2)/(CONTA_TMP_REG_3__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_2__2)/(CONTA_TMP_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_1__2)/(CONTA_TMP_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(CONTA_TMP_REG_0__2)/(CONTA_TMP_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(ITFC_STATE_REG_1__2)/(ITFC_STATE_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(ITFC_STATE_REG_0__2)/(ITFC_STATE_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_7__2)/(OUT_REG_REG_7__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_6__2)/(OUT_REG_REG_6__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_5__2)/(OUT_REG_REG_5__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_4__2)/(OUT_REG_REG_4__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_3__2)/(OUT_REG_REG_3__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_2__2)/(OUT_REG_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_1__2)/(OUT_REG_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(OUT_REG_REG_0__2)/(OUT_REG_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_3__2)/(NEXT_BIT_REG_3__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_2__2)/(NEXT_BIT_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_1__2)/(NEXT_BIT_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(NEXT_BIT_REG_0__2)/(NEXT_BIT_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_9__2)/(TX_CONTA_REG_9__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_8__2)/(TX_CONTA_REG_8__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_7__2)/(TX_CONTA_REG_7__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_6__2)/(TX_CONTA_REG_6__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_5__2)/(TX_CONTA_REG_5__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_4__2)/(TX_CONTA_REG_4__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_3__2)/(TX_CONTA_REG_3__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_2__2)/(TX_CONTA_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_1__2)/(TX_CONTA_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_CONTA_REG_0__2)/(TX_CONTA_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(LOAD_REG_2)/(LOAD_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(SEND_DATA_REG_2)/(SEND_DATA_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(SEND_EN_REG_2)/(SEND_EN_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(MUX_EN_REG_2)/(MUX_EN_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TRE_REG_2)/(TRE_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(LOAD_DATO_REG_2)/(LOAD_DATO_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(SOC_REG_2)/(SOC_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(SEND_REG_2)/(SEND_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(MPX_REG_2)/(MPX_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(CONFIRM_REG_2)/(CONFIRM_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(SHOT_REG_2)/(SHOT_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(ADD_MPX2_REG_2)/(ADD_MPX2_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(RDY_REG_2)/(RDY_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(ERROR_REG_2)/(ERROR_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_2__2)/(S1_REG_2__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_1__2)/(S1_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(S1_REG_0__2)/(S1_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(S2_REG_1__2)/(S2_REG_1__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(S2_REG_0__2)/(S2_REG_0__2enc)/g' b13.unroll-logic
+sed -i '1,$s/(TX_END_REG_2)/(TX_END_REG_2enc)/g' b13.unroll-logic
+sed -i '1,$s/(DATA_OUT_REG_2)/(DATA_OUT_REG_2enc)/g' b13.unroll-logic

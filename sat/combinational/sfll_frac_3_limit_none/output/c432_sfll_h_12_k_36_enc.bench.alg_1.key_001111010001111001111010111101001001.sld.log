@@ -1,0 +1,34 @@
+inputs=36 keys=36 outputs=7 gates=2302
+iteration: 1; vars: 4722; clauses: 3345; decisions: 2456
+iteration: 2; vars: 7017; clauses: 4015; decisions: 3691
+iteration: 3; vars: 9312; clauses: 4771; decisions: 4414
+iteration: 4; vars: 11607; clauses: 5546; decisions: 4536
+iteration: 5; vars: 13902; clauses: 8234; decisions: 4741
+iteration: 6; vars: 16197; clauses: 7147; decisions: 4866
+iteration: 7; vars: 18492; clauses: 9835; decisions: 5492
+iteration: 8; vars: 20787; clauses: 8777; decisions: 5614
+iteration: 9; vars: 23082; clauses: 11465; decisions: 6271
+iteration: 10; vars: 25377; clauses: 10176; decisions: 6394
+iteration: 11; vars: 27672; clauses: 12864; decisions: 6534
+iteration: 12; vars: 29967; clauses: 10890; decisions: 7208
+iteration: 13; vars: 32262; clauses: 13578; decisions: 7335
+iteration: 14; vars: 34557; clauses: 12445; decisions: 8103
+iteration: 15; vars: 36852; clauses: 15133; decisions: 9431
+iteration: 16; vars: 39147; clauses: 17821; decisions: 10578
+iteration: 17; vars: 41442; clauses: 14460; decisions: 11201
+iteration: 18; vars: 43737; clauses: 17148; decisions: 12036
+iteration: 19; vars: 46032; clauses: 19836; decisions: 14923
+iteration: 20; vars: 48327; clauses: 16439; decisions: 18432
+iteration: 21; vars: 50622; clauses: 19127; decisions: 27608
+iteration: 22; vars: 52917; clauses: 21815; decisions: 50633
+iteration: 23; vars: 55212; clauses: 24503; decisions: 58712
+iteration: 24; vars: 57507; clauses: 16109; decisions: 111625
+iteration: 25; vars: 59802; clauses: 18797; decisions: 121888
+iteration: 26; vars: 62097; clauses: 21485; decisions: 125451
+iteration: 27; vars: 64392; clauses: 18670; decisions: 148880
+iteration: 28; vars: 66687; clauses: 21358; decisions: 157262
+iteration: 29; vars: 68982; clauses: 24046; decisions: 161938
+iteration: 30; vars: 71277; clauses: 26734; decisions: 165854
+finished solver loop. fail_count = 0
+key=001111010001111001111010111101001001
+iteration=31; backbones_count=0; cube_count=335420; cpu_time=13.6422; maxrss=22.5703

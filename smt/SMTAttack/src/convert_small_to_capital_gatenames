@@ -1,0 +1,7 @@
+sed -i 's/not/NOT/g' $1
+sed -i 's/xor/XOR/g' $1
+sed -i 's/xnor/XNOR/g' $1
+sed -i 's/nor/NOR/g' $1
+sed -i 's/nand/NAND/g' $1
+sed -i 's/and/AND/g' $1
+sed -i 's/buf/BUF/g' $1

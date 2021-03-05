@@ -1,0 +1,40 @@
+
+#Input encryption logic for U_REG
+U_REG_1encenc = XOR(U_REG_1, keyinput0)
+
+#Output encryption logic for U31
+U31_2$enc_0 = XOR(U31_2enc, keyinput0)
+U31_2$enc_1 = XOR(U31_2$enc_0, keyinput1)
+U31_2$enc_2 = XOR(U31_2$enc_1, keyinput2)
+U31_2$enc = XOR(U31_2$enc_2, keyinput3)
+
+
+#Input encryption logic for STATO_REG_2_
+STATO_REG_2__1enc_0 = XOR(STATO_REG_2__1, keyinput0)
+STATO_REG_2__1encenc = XOR(STATO_REG_2__1enc_0, keyinput1)
+
+#Output encryption logic for U33
+U33_2$enc_0 = XOR(U33_2enc, keyinput1)
+U33_2$enc_1 = XOR(U33_2$enc_0, keyinput2)
+U33_2$enc = XOR(U33_2$enc_1, keyinput3)
+
+
+#Input encryption logic for STATO_REG_1_
+STATO_REG_1__1enc_0 = XOR(STATO_REG_1__1, keyinput0)
+STATO_REG_1__1enc_1 = XOR(STATO_REG_1__1enc_0, keyinput1)
+STATO_REG_1__1encenc = XOR(STATO_REG_1__1enc_1, keyinput2)
+
+#Output encryption logic for U38
+U38_2$enc_0 = XOR(U38_2enc, keyinput2)
+U38_2$enc = XOR(U38_2$enc_0, keyinput3)
+
+
+#Input encryption logic for STATO_REG_0_
+STATO_REG_0__1enc_0 = XOR(STATO_REG_0__1, keyinput0)
+STATO_REG_0__1enc_1 = XOR(STATO_REG_0__1enc_0, keyinput1)
+STATO_REG_0__1enc_2 = XOR(STATO_REG_0__1enc_1, keyinput2)
+STATO_REG_0__1enc = XOR(STATO_REG_0__1enc_2, keyinput3)
+
+#Output encryption logic for U32
+U32_2$enc = XOR(U32_2, keyinput3)
+

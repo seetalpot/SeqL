@@ -1,0 +1,492 @@
+
+#SeqL Flip-flop Additional Output encryption logic for COUNT_REG_0_
+COUNT_REG_0__1enc = XOR(COUNT_REG_0__1encenc, keyinput122)
+COUNT_REG_0__2enc = XOR(COUNT_REG_0__2, keyinput122)
+
+#SeqL Flip-flop Additional Input encryption logic for U1391
+U1391_1enc = XOR(U1391_1, keyinput121)
+U1391_2enc = XOR(U1391_2, keyinput121)
+
+#SeqL Flip-flop Additional Output encryption logic for MEMORY_REG_31__1_
+MEMORY_REG_31__1__1enc = XOR(MEMORY_REG_31__1__1encenc, keyinput124)
+MEMORY_REG_31__1__2enc = XOR(MEMORY_REG_31__1__2, keyinput124)
+
+#SeqL Flip-flop Additional Input encryption logic for U1486
+U1486_1enc = XOR(U1486_1, keyinput123)
+U1486_2enc = XOR(U1486_2, keyinput123)
+
+#Other Flip-flop Output logic for MEMORY_REG_31__0_
+MEMORY_REG_31__0__1enc = BUF(MEMORY_REG_31__0__1)
+MEMORY_REG_31__0__2enc = BUF(MEMORY_REG_31__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_30__1_
+MEMORY_REG_30__1__1enc = BUF(MEMORY_REG_30__1__1)
+MEMORY_REG_30__1__2enc = BUF(MEMORY_REG_30__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_30__0_
+MEMORY_REG_30__0__1enc = BUF(MEMORY_REG_30__0__1)
+MEMORY_REG_30__0__2enc = BUF(MEMORY_REG_30__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_29__1_
+MEMORY_REG_29__1__1enc = BUF(MEMORY_REG_29__1__1)
+MEMORY_REG_29__1__2enc = BUF(MEMORY_REG_29__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_29__0_
+MEMORY_REG_29__0__1enc = BUF(MEMORY_REG_29__0__1)
+MEMORY_REG_29__0__2enc = BUF(MEMORY_REG_29__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_28__1_
+MEMORY_REG_28__1__1enc = BUF(MEMORY_REG_28__1__1)
+MEMORY_REG_28__1__2enc = BUF(MEMORY_REG_28__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_28__0_
+MEMORY_REG_28__0__1enc = BUF(MEMORY_REG_28__0__1)
+MEMORY_REG_28__0__2enc = BUF(MEMORY_REG_28__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_27__1_
+MEMORY_REG_27__1__1enc = BUF(MEMORY_REG_27__1__1)
+MEMORY_REG_27__1__2enc = BUF(MEMORY_REG_27__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_27__0_
+MEMORY_REG_27__0__1enc = BUF(MEMORY_REG_27__0__1)
+MEMORY_REG_27__0__2enc = BUF(MEMORY_REG_27__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_26__1_
+MEMORY_REG_26__1__1enc = BUF(MEMORY_REG_26__1__1)
+MEMORY_REG_26__1__2enc = BUF(MEMORY_REG_26__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_26__0_
+MEMORY_REG_26__0__1enc = BUF(MEMORY_REG_26__0__1)
+MEMORY_REG_26__0__2enc = BUF(MEMORY_REG_26__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_25__1_
+MEMORY_REG_25__1__1enc = BUF(MEMORY_REG_25__1__1)
+MEMORY_REG_25__1__2enc = BUF(MEMORY_REG_25__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_25__0_
+MEMORY_REG_25__0__1enc = BUF(MEMORY_REG_25__0__1)
+MEMORY_REG_25__0__2enc = BUF(MEMORY_REG_25__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_24__1_
+MEMORY_REG_24__1__1enc = BUF(MEMORY_REG_24__1__1)
+MEMORY_REG_24__1__2enc = BUF(MEMORY_REG_24__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_24__0_
+MEMORY_REG_24__0__1enc = BUF(MEMORY_REG_24__0__1)
+MEMORY_REG_24__0__2enc = BUF(MEMORY_REG_24__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_23__1_
+MEMORY_REG_23__1__1enc = BUF(MEMORY_REG_23__1__1)
+MEMORY_REG_23__1__2enc = BUF(MEMORY_REG_23__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_23__0_
+MEMORY_REG_23__0__1enc = BUF(MEMORY_REG_23__0__1)
+MEMORY_REG_23__0__2enc = BUF(MEMORY_REG_23__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_22__1_
+MEMORY_REG_22__1__1enc = BUF(MEMORY_REG_22__1__1)
+MEMORY_REG_22__1__2enc = BUF(MEMORY_REG_22__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_22__0_
+MEMORY_REG_22__0__1enc = BUF(MEMORY_REG_22__0__1)
+MEMORY_REG_22__0__2enc = BUF(MEMORY_REG_22__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_21__1_
+MEMORY_REG_21__1__1enc = BUF(MEMORY_REG_21__1__1)
+MEMORY_REG_21__1__2enc = BUF(MEMORY_REG_21__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_21__0_
+MEMORY_REG_21__0__1enc = BUF(MEMORY_REG_21__0__1)
+MEMORY_REG_21__0__2enc = BUF(MEMORY_REG_21__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_20__1_
+MEMORY_REG_20__1__1enc = BUF(MEMORY_REG_20__1__1)
+MEMORY_REG_20__1__2enc = BUF(MEMORY_REG_20__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_20__0_
+MEMORY_REG_20__0__1enc = BUF(MEMORY_REG_20__0__1)
+MEMORY_REG_20__0__2enc = BUF(MEMORY_REG_20__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_19__1_
+MEMORY_REG_19__1__1enc = BUF(MEMORY_REG_19__1__1)
+MEMORY_REG_19__1__2enc = BUF(MEMORY_REG_19__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_19__0_
+MEMORY_REG_19__0__1enc = BUF(MEMORY_REG_19__0__1)
+MEMORY_REG_19__0__2enc = BUF(MEMORY_REG_19__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_18__1_
+MEMORY_REG_18__1__1enc = BUF(MEMORY_REG_18__1__1)
+MEMORY_REG_18__1__2enc = BUF(MEMORY_REG_18__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_18__0_
+MEMORY_REG_18__0__1enc = BUF(MEMORY_REG_18__0__1)
+MEMORY_REG_18__0__2enc = BUF(MEMORY_REG_18__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_17__1_
+MEMORY_REG_17__1__1enc = BUF(MEMORY_REG_17__1__1)
+MEMORY_REG_17__1__2enc = BUF(MEMORY_REG_17__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_17__0_
+MEMORY_REG_17__0__1enc = BUF(MEMORY_REG_17__0__1)
+MEMORY_REG_17__0__2enc = BUF(MEMORY_REG_17__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_16__1_
+MEMORY_REG_16__1__1enc = BUF(MEMORY_REG_16__1__1)
+MEMORY_REG_16__1__2enc = BUF(MEMORY_REG_16__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_16__0_
+MEMORY_REG_16__0__1enc = BUF(MEMORY_REG_16__0__1)
+MEMORY_REG_16__0__2enc = BUF(MEMORY_REG_16__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_15__1_
+MEMORY_REG_15__1__1enc = BUF(MEMORY_REG_15__1__1)
+MEMORY_REG_15__1__2enc = BUF(MEMORY_REG_15__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_15__0_
+MEMORY_REG_15__0__1enc = BUF(MEMORY_REG_15__0__1)
+MEMORY_REG_15__0__2enc = BUF(MEMORY_REG_15__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_14__1_
+MEMORY_REG_14__1__1enc = BUF(MEMORY_REG_14__1__1)
+MEMORY_REG_14__1__2enc = BUF(MEMORY_REG_14__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_14__0_
+MEMORY_REG_14__0__1enc = BUF(MEMORY_REG_14__0__1)
+MEMORY_REG_14__0__2enc = BUF(MEMORY_REG_14__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_13__1_
+MEMORY_REG_13__1__1enc = BUF(MEMORY_REG_13__1__1)
+MEMORY_REG_13__1__2enc = BUF(MEMORY_REG_13__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_13__0_
+MEMORY_REG_13__0__1enc = BUF(MEMORY_REG_13__0__1)
+MEMORY_REG_13__0__2enc = BUF(MEMORY_REG_13__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_12__1_
+MEMORY_REG_12__1__1enc = BUF(MEMORY_REG_12__1__1)
+MEMORY_REG_12__1__2enc = BUF(MEMORY_REG_12__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_12__0_
+MEMORY_REG_12__0__1enc = BUF(MEMORY_REG_12__0__1)
+MEMORY_REG_12__0__2enc = BUF(MEMORY_REG_12__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_11__1_
+MEMORY_REG_11__1__1enc = BUF(MEMORY_REG_11__1__1)
+MEMORY_REG_11__1__2enc = BUF(MEMORY_REG_11__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_11__0_
+MEMORY_REG_11__0__1enc = BUF(MEMORY_REG_11__0__1)
+MEMORY_REG_11__0__2enc = BUF(MEMORY_REG_11__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_10__1_
+MEMORY_REG_10__1__1enc = BUF(MEMORY_REG_10__1__1)
+MEMORY_REG_10__1__2enc = BUF(MEMORY_REG_10__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_10__0_
+MEMORY_REG_10__0__1enc = BUF(MEMORY_REG_10__0__1)
+MEMORY_REG_10__0__2enc = BUF(MEMORY_REG_10__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_9__1_
+MEMORY_REG_9__1__1enc = BUF(MEMORY_REG_9__1__1)
+MEMORY_REG_9__1__2enc = BUF(MEMORY_REG_9__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_9__0_
+MEMORY_REG_9__0__1enc = BUF(MEMORY_REG_9__0__1)
+MEMORY_REG_9__0__2enc = BUF(MEMORY_REG_9__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_8__1_
+MEMORY_REG_8__1__1enc = BUF(MEMORY_REG_8__1__1)
+MEMORY_REG_8__1__2enc = BUF(MEMORY_REG_8__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_8__0_
+MEMORY_REG_8__0__1enc = BUF(MEMORY_REG_8__0__1)
+MEMORY_REG_8__0__2enc = BUF(MEMORY_REG_8__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_7__1_
+MEMORY_REG_7__1__1enc = BUF(MEMORY_REG_7__1__1)
+MEMORY_REG_7__1__2enc = BUF(MEMORY_REG_7__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_7__0_
+MEMORY_REG_7__0__1enc = BUF(MEMORY_REG_7__0__1)
+MEMORY_REG_7__0__2enc = BUF(MEMORY_REG_7__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_6__1_
+MEMORY_REG_6__1__1enc = BUF(MEMORY_REG_6__1__1)
+MEMORY_REG_6__1__2enc = BUF(MEMORY_REG_6__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_6__0_
+MEMORY_REG_6__0__1enc = BUF(MEMORY_REG_6__0__1)
+MEMORY_REG_6__0__2enc = BUF(MEMORY_REG_6__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_5__1_
+MEMORY_REG_5__1__1enc = BUF(MEMORY_REG_5__1__1)
+MEMORY_REG_5__1__2enc = BUF(MEMORY_REG_5__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_5__0_
+MEMORY_REG_5__0__1enc = BUF(MEMORY_REG_5__0__1)
+MEMORY_REG_5__0__2enc = BUF(MEMORY_REG_5__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_4__1_
+MEMORY_REG_4__1__1enc = BUF(MEMORY_REG_4__1__1)
+MEMORY_REG_4__1__2enc = BUF(MEMORY_REG_4__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_4__0_
+MEMORY_REG_4__0__1enc = BUF(MEMORY_REG_4__0__1)
+MEMORY_REG_4__0__2enc = BUF(MEMORY_REG_4__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_3__1_
+MEMORY_REG_3__1__1enc = BUF(MEMORY_REG_3__1__1)
+MEMORY_REG_3__1__2enc = BUF(MEMORY_REG_3__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_3__0_
+MEMORY_REG_3__0__1enc = BUF(MEMORY_REG_3__0__1)
+MEMORY_REG_3__0__2enc = BUF(MEMORY_REG_3__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_2__1_
+MEMORY_REG_2__1__1enc = BUF(MEMORY_REG_2__1__1)
+MEMORY_REG_2__1__2enc = BUF(MEMORY_REG_2__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_2__0_
+MEMORY_REG_2__0__1enc = BUF(MEMORY_REG_2__0__1)
+MEMORY_REG_2__0__2enc = BUF(MEMORY_REG_2__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_1__1_
+MEMORY_REG_1__1__1enc = BUF(MEMORY_REG_1__1__1)
+MEMORY_REG_1__1__2enc = BUF(MEMORY_REG_1__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_1__0_
+MEMORY_REG_1__0__1enc = BUF(MEMORY_REG_1__0__1)
+MEMORY_REG_1__0__2enc = BUF(MEMORY_REG_1__0__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_0__1_
+MEMORY_REG_0__1__1enc = BUF(MEMORY_REG_0__1__1)
+MEMORY_REG_0__1__2enc = BUF(MEMORY_REG_0__1__2)
+
+#Other Flip-flop Output logic for MEMORY_REG_0__0_
+MEMORY_REG_0__0__1enc = BUF(MEMORY_REG_0__0__1)
+MEMORY_REG_0__0__2enc = BUF(MEMORY_REG_0__0__2)
+
+#Other Flip-flop Output logic for NL_REG_3_
+NL_REG_3__1enc = BUF(NL_REG_3__1)
+NL_REG_3__2enc = BUF(NL_REG_3__2)
+
+#Other Flip-flop Output logic for NL_REG_2_
+NL_REG_2__1enc = BUF(NL_REG_2__1)
+NL_REG_2__2enc = BUF(NL_REG_2__2)
+
+#Other Flip-flop Output logic for NL_REG_1_
+NL_REG_1__1enc = BUF(NL_REG_1__1)
+NL_REG_1__2enc = BUF(NL_REG_1__2)
+
+#Other Flip-flop Output logic for NL_REG_0_
+NL_REG_0__1enc = BUF(NL_REG_0__1)
+NL_REG_0__2enc = BUF(NL_REG_0__2)
+
+#Other Flip-flop Output logic for SCAN_REG_4_
+SCAN_REG_4__1enc = BUF(SCAN_REG_4__1)
+SCAN_REG_4__2enc = BUF(SCAN_REG_4__2)
+
+#Other Flip-flop Output logic for SCAN_REG_3_
+SCAN_REG_3__1enc = BUF(SCAN_REG_3__1)
+SCAN_REG_3__2enc = BUF(SCAN_REG_3__2)
+
+#Other Flip-flop Output logic for SCAN_REG_2_
+SCAN_REG_2__1enc = BUF(SCAN_REG_2__1)
+SCAN_REG_2__2enc = BUF(SCAN_REG_2__2)
+
+#Other Flip-flop Output logic for SCAN_REG_1_
+SCAN_REG_1__1enc = BUF(SCAN_REG_1__1)
+SCAN_REG_1__2enc = BUF(SCAN_REG_1__2)
+
+#Other Flip-flop Output logic for SCAN_REG_0_
+SCAN_REG_0__1enc = BUF(SCAN_REG_0__1)
+SCAN_REG_0__2enc = BUF(SCAN_REG_0__2)
+
+#Other Flip-flop Output logic for MAX_REG_4_
+MAX_REG_4__1enc = BUF(MAX_REG_4__1)
+MAX_REG_4__2enc = BUF(MAX_REG_4__2)
+
+#Other Flip-flop Output logic for MAX_REG_3_
+MAX_REG_3__1enc = BUF(MAX_REG_3__1)
+MAX_REG_3__2enc = BUF(MAX_REG_3__2)
+
+#Other Flip-flop Output logic for MAX_REG_2_
+MAX_REG_2__1enc = BUF(MAX_REG_2__1)
+MAX_REG_2__2enc = BUF(MAX_REG_2__2)
+
+#Other Flip-flop Output logic for MAX_REG_1_
+MAX_REG_1__1enc = BUF(MAX_REG_1__1)
+MAX_REG_1__2enc = BUF(MAX_REG_1__2)
+
+#Other Flip-flop Output logic for MAX_REG_0_
+MAX_REG_0__1enc = BUF(MAX_REG_0__1)
+MAX_REG_0__2enc = BUF(MAX_REG_0__2)
+
+#Other Flip-flop Output logic for IND_REG_1_
+IND_REG_1__1enc = BUF(IND_REG_1__1)
+IND_REG_1__2enc = BUF(IND_REG_1__2)
+
+#Other Flip-flop Output logic for IND_REG_0_
+IND_REG_0__1enc = BUF(IND_REG_0__1)
+IND_REG_0__2enc = BUF(IND_REG_0__2)
+
+#Other Flip-flop Output logic for TIMEBASE_REG_5_
+TIMEBASE_REG_5__1enc = BUF(TIMEBASE_REG_5__1)
+TIMEBASE_REG_5__2enc = BUF(TIMEBASE_REG_5__2)
+
+#Other Flip-flop Output logic for TIMEBASE_REG_4_
+TIMEBASE_REG_4__1enc = BUF(TIMEBASE_REG_4__1)
+TIMEBASE_REG_4__2enc = BUF(TIMEBASE_REG_4__2)
+
+#Other Flip-flop Output logic for TIMEBASE_REG_3_
+TIMEBASE_REG_3__1enc = BUF(TIMEBASE_REG_3__1)
+TIMEBASE_REG_3__2enc = BUF(TIMEBASE_REG_3__2)
+
+#Other Flip-flop Output logic for TIMEBASE_REG_2_
+TIMEBASE_REG_2__1enc = BUF(TIMEBASE_REG_2__1)
+TIMEBASE_REG_2__2enc = BUF(TIMEBASE_REG_2__2)
+
+#Other Flip-flop Output logic for TIMEBASE_REG_1_
+TIMEBASE_REG_1__1enc = BUF(TIMEBASE_REG_1__1)
+TIMEBASE_REG_1__2enc = BUF(TIMEBASE_REG_1__2)
+
+#Other Flip-flop Output logic for TIMEBASE_REG_0_
+TIMEBASE_REG_0__1enc = BUF(TIMEBASE_REG_0__1)
+TIMEBASE_REG_0__2enc = BUF(TIMEBASE_REG_0__2)
+
+#Other Flip-flop Output logic for COUNT_REG2_5_
+COUNT_REG2_5__1enc = BUF(COUNT_REG2_5__1)
+COUNT_REG2_5__2enc = BUF(COUNT_REG2_5__2)
+
+#Other Flip-flop Output logic for COUNT_REG2_4_
+COUNT_REG2_4__1enc = BUF(COUNT_REG2_4__1)
+COUNT_REG2_4__2enc = BUF(COUNT_REG2_4__2)
+
+#Other Flip-flop Output logic for COUNT_REG2_3_
+COUNT_REG2_3__1enc = BUF(COUNT_REG2_3__1)
+COUNT_REG2_3__2enc = BUF(COUNT_REG2_3__2)
+
+#Other Flip-flop Output logic for COUNT_REG2_2_
+COUNT_REG2_2__1enc = BUF(COUNT_REG2_2__1)
+COUNT_REG2_2__2enc = BUF(COUNT_REG2_2__2)
+
+#Other Flip-flop Output logic for COUNT_REG2_1_
+COUNT_REG2_1__1enc = BUF(COUNT_REG2_1__1)
+COUNT_REG2_1__2enc = BUF(COUNT_REG2_1__2)
+
+#Other Flip-flop Output logic for COUNT_REG2_0_
+COUNT_REG2_0__1enc = BUF(COUNT_REG2_0__1)
+COUNT_REG2_0__2enc = BUF(COUNT_REG2_0__2)
+
+#Other Flip-flop Output logic for SOUND_REG_2_
+SOUND_REG_2__1enc = BUF(SOUND_REG_2__1)
+SOUND_REG_2__2enc = BUF(SOUND_REG_2__2)
+
+#Other Flip-flop Output logic for SOUND_REG_1_
+SOUND_REG_1__1enc = BUF(SOUND_REG_1__1)
+SOUND_REG_1__2enc = BUF(SOUND_REG_1__2)
+
+#Other Flip-flop Output logic for SOUND_REG_0_
+SOUND_REG_0__1enc = BUF(SOUND_REG_0__1)
+SOUND_REG_0__2enc = BUF(SOUND_REG_0__2)
+
+#Other Flip-flop Output logic for ADDRESS_REG_4_
+ADDRESS_REG_4__1enc = BUF(ADDRESS_REG_4__1)
+ADDRESS_REG_4__2enc = BUF(ADDRESS_REG_4__2)
+
+#Other Flip-flop Output logic for ADDRESS_REG_3_
+ADDRESS_REG_3__1enc = BUF(ADDRESS_REG_3__1)
+ADDRESS_REG_3__2enc = BUF(ADDRESS_REG_3__2)
+
+#Other Flip-flop Output logic for ADDRESS_REG_2_
+ADDRESS_REG_2__1enc = BUF(ADDRESS_REG_2__1)
+ADDRESS_REG_2__2enc = BUF(ADDRESS_REG_2__2)
+
+#Other Flip-flop Output logic for ADDRESS_REG_1_
+ADDRESS_REG_1__1enc = BUF(ADDRESS_REG_1__1)
+ADDRESS_REG_1__2enc = BUF(ADDRESS_REG_1__2)
+
+#Other Flip-flop Output logic for ADDRESS_REG_0_
+ADDRESS_REG_0__1enc = BUF(ADDRESS_REG_0__1)
+ADDRESS_REG_0__2enc = BUF(ADDRESS_REG_0__2)
+
+#Other Flip-flop Output logic for DATA_IN_REG_1_
+DATA_IN_REG_1__1enc = BUF(DATA_IN_REG_1__1)
+DATA_IN_REG_1__2enc = BUF(DATA_IN_REG_1__2)
+
+#Other Flip-flop Output logic for DATA_IN_REG_0_
+DATA_IN_REG_0__1enc = BUF(DATA_IN_REG_0__1)
+DATA_IN_REG_0__2enc = BUF(DATA_IN_REG_0__2)
+
+#Other Flip-flop Output logic for S_REG
+S_REG_1enc = BUF(S_REG_1)
+S_REG_2enc = BUF(S_REG_2)
+
+#Other Flip-flop Output logic for PLAY_REG
+PLAY_REG_1enc = BUF(PLAY_REG_1)
+PLAY_REG_2enc = BUF(PLAY_REG_2)
+
+#Other Flip-flop Output logic for NLOSS_REG
+NLOSS_REG_1enc = BUF(NLOSS_REG_1)
+NLOSS_REG_2enc = BUF(NLOSS_REG_2)
+
+#Other Flip-flop Output logic for SPEAKER_REG
+SPEAKER_REG_1enc = BUF(SPEAKER_REG_1)
+SPEAKER_REG_2enc = BUF(SPEAKER_REG_2)
+
+#Other Flip-flop Output logic for WR_REG
+WR_REG_1enc = BUF(WR_REG_1)
+WR_REG_2enc = BUF(WR_REG_2)
+
+#Other Flip-flop Output logic for COUNTER_REG_2_
+COUNTER_REG_2__1enc = BUF(COUNTER_REG_2__1)
+COUNTER_REG_2__2enc = BUF(COUNTER_REG_2__2)
+
+#Other Flip-flop Output logic for COUNTER_REG_1_
+COUNTER_REG_1__1enc = BUF(COUNTER_REG_1__1)
+COUNTER_REG_1__2enc = BUF(COUNTER_REG_1__2)
+
+#Other Flip-flop Output logic for COUNTER_REG_0_
+COUNTER_REG_0__1enc = BUF(COUNTER_REG_0__1)
+COUNTER_REG_0__2enc = BUF(COUNTER_REG_0__2)
+
+#Other Flip-flop Output logic for COUNT_REG_1_
+COUNT_REG_1__1enc = BUF(COUNT_REG_1__1)
+COUNT_REG_1__2enc = BUF(COUNT_REG_1__2)
+
+#Other Flip-flop Output logic for NUM_REG_1_
+NUM_REG_1__1enc = BUF(NUM_REG_1__1)
+NUM_REG_1__2enc = BUF(NUM_REG_1__2)
+
+#Other Flip-flop Output logic for NUM_REG_0_
+NUM_REG_0__1enc = BUF(NUM_REG_0__1)
+NUM_REG_0__2enc = BUF(NUM_REG_0__2)
+
+#Other Flip-flop Output logic for DATA_OUT_REG_1_
+DATA_OUT_REG_1__1enc = BUF(DATA_OUT_REG_1__1)
+DATA_OUT_REG_1__2enc = BUF(DATA_OUT_REG_1__2)
+
+#Other Flip-flop Output logic for DATA_OUT_REG_0_
+DATA_OUT_REG_0__1enc = BUF(DATA_OUT_REG_0__1)
+DATA_OUT_REG_0__2enc = BUF(DATA_OUT_REG_0__2)
+
+#Other Flip-flop Output logic for GAMMA_REG_4_
+GAMMA_REG_4__1enc = BUF(GAMMA_REG_4__1)
+GAMMA_REG_4__2enc = BUF(GAMMA_REG_4__2)
+
+#Other Flip-flop Output logic for GAMMA_REG_3_
+GAMMA_REG_3__1enc = BUF(GAMMA_REG_3__1)
+GAMMA_REG_3__2enc = BUF(GAMMA_REG_3__2)
+
+#Other Flip-flop Output logic for GAMMA_REG_2_
+GAMMA_REG_2__1enc = BUF(GAMMA_REG_2__1)
+GAMMA_REG_2__2enc = BUF(GAMMA_REG_2__2)
+
+#Other Flip-flop Output logic for GAMMA_REG_1_
+GAMMA_REG_1__1enc = BUF(GAMMA_REG_1__1)
+GAMMA_REG_1__2enc = BUF(GAMMA_REG_1__2)
+
+#Other Flip-flop Output logic for GAMMA_REG_0_
+GAMMA_REG_0__1enc = BUF(GAMMA_REG_0__1)
+GAMMA_REG_0__2enc = BUF(GAMMA_REG_0__2)

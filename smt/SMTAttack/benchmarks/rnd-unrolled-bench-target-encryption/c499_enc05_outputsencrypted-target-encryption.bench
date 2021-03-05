@@ -1,0 +1,921 @@
+# key=1001110000
+INPUT(Gid0)
+INPUT(Gid1)
+INPUT(Gid2)
+INPUT(Gid3)
+INPUT(Gid4)
+INPUT(Gid5)
+INPUT(Gid6)
+INPUT(Gid7)
+INPUT(Gid8)
+INPUT(Gid9)
+INPUT(Gid10)
+INPUT(Gid11)
+INPUT(Gid12)
+INPUT(Gid13)
+INPUT(Gid14)
+INPUT(Gid15)
+INPUT(Gid16)
+INPUT(Gid17)
+INPUT(Gid18)
+INPUT(Gid19)
+INPUT(Gid20)
+INPUT(Gid21)
+INPUT(Gid22)
+INPUT(Gid23)
+INPUT(Gid24)
+INPUT(Gid25)
+INPUT(Gid26)
+INPUT(Gid27)
+INPUT(Gid28)
+INPUT(Gid29)
+INPUT(Gid30)
+INPUT(Gid31)
+INPUT(Gic0)
+INPUT(Gic1)
+INPUT(Gic2)
+INPUT(Gic3)
+INPUT(Gic4)
+INPUT(Gic5)
+INPUT(Gic6)
+INPUT(Gic7)
+INPUT(Gr)
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+INPUT(keyinput9)
+INPUT(keyinput10)
+INPUT(keyinput11)
+INPUT(keyinput12)
+INPUT(keyinput13)
+INPUT(keyinput14)
+INPUT(keyinput15)
+INPUT(keyinput16)
+INPUT(keyinput17)
+INPUT(keyinput18)
+INPUT(keyinput19)
+INPUT(keyinput20)
+INPUT(keyinput21)
+INPUT(keyinput22)
+INPUT(keyinput23)
+INPUT(keyinput24)
+INPUT(keyinput25)
+INPUT(keyinput26)
+INPUT(keyinput27)
+INPUT(keyinput28)
+INPUT(keyinput29)
+INPUT(keyinput30)
+INPUT(keyinput31)
+INPUT(keyinput32)
+INPUT(keyinput33)
+INPUT(keyinput34)
+INPUT(keyinput35)
+INPUT(keyinput36)
+INPUT(keyinput37)
+INPUT(keyinput38)
+INPUT(keyinput39)
+INPUT(keyinput40)
+INPUT(keyinput41)
+OUTPUT(God0$enc)
+OUTPUT(God1$enc)
+OUTPUT(God2$enc)
+OUTPUT(God3$enc)
+OUTPUT(God4$enc)
+OUTPUT(God5$enc)
+OUTPUT(God6$enc)
+OUTPUT(God7$enc)
+OUTPUT(God8$enc)
+OUTPUT(God9$enc)
+OUTPUT(God10$enc)
+OUTPUT(God11$enc)
+OUTPUT(God12$enc)
+OUTPUT(God13$enc)
+OUTPUT(God14$enc)
+OUTPUT(God15$enc)
+OUTPUT(God16$enc)
+OUTPUT(God17$enc)
+OUTPUT(God18$enc)
+OUTPUT(God19$enc)
+OUTPUT(God20$enc)
+OUTPUT(God21$enc)
+OUTPUT(God22$enc)
+OUTPUT(God23$enc)
+OUTPUT(God24$enc)
+OUTPUT(God25$enc)
+OUTPUT(God26$enc)
+OUTPUT(God27$enc)
+OUTPUT(God28$enc)
+OUTPUT(God29$enc)
+OUTPUT(God30$enc)
+OUTPUT(God31$enc)
+Gxa0 = XOR(Gid0, Gid1)
+Gxa1 = XOR(Gid2, Gid3)
+Gxa2 = XOR(Gid4, Gid5)
+Gxa3 = XOR(Gid6, Gid7)
+Gxa4 = XOR(Gid8, Gid9)
+Gxa5 = XOR(Gid10, Gid11$enc)
+Gxa6 = XOR(Gid12, Gid13)
+Gxa7 = XOR(Gid14, Gid15)
+Gxa8 = XOR(Gid16, Gid17)
+Gxa9 = XOR(Gid18, Gid19)
+Gxa10 = XOR(Gid20, Gid21)
+Gxa11 = XOR(Gid22, Gid23)
+Gxa12 = XOR(Gid24, Gid25)
+Gxa13 = XOR(Gid26, Gid27)
+Gxa14 = XOR(Gid28, Gid29)
+Gxa15 = XOR(Gid30, Gid31)
+Gh0 = AND(Gic0, Gr)
+Gh1 = AND(Gic1, Gr)
+Gh2 = AND(Gic2, Gr)
+Gh3 = AND(Gic3, Gr)
+Gh4 = AND(Gic4, Gr)
+Gh5 = AND(Gic5, Gr)
+Gh6 = AND(Gic6, Gr)
+Gh7 = AND(Gic7, Gr)
+Gxb0 = XOR(Gid0, Gid4)
+Gxc0 = XOR(Gid8, Gid12)
+Gxb1 = XOR(Gid1, Gid5)
+Gxc1 = XOR(Gid9, Gid13)
+Gxb2 = XOR(Gid2, Gid6)
+Gxc2 = XOR(Gid10, Gid14)
+Gxb3 = XOR(Gid3, Gid7)
+Gxc3 = XOR(Gid11$enc, Gid15)
+Gxb4 = XOR(Gid16, Gid20)
+Gxc4 = XOR(Gid24, Gid28)
+Gxb5 = XOR(Gid17, Gid21)
+Gxc5 = XOR(Gid25, Gid29)
+Gxb6 = XOR(Gid18, Gid22)
+Gxc6 = XOR(Gid26, Gid30)
+Gxb7 = XOR(Gid19, Gid23)
+Gxc7 = XOR(Gid27, Gid31)
+Gf0 = XOR(Gxa0, Gxa1)
+Gf1 = XOR(Gxa2, Gxa3)
+Gf2 = XOR(Gxa4, Gxa5)
+Gf3 = XOR(Gxa6, Gxa7)
+Gf4 = XOR(Gxa8, Gxa9)
+Gf5 = XOR(Gxa10$enc, Gxa11)
+Gf6 = XOR(Gxa12, Gxa13)
+Gf7 = XOR(Gxa14, Gxa15)
+Gxe0 = XOR(Gxb0, Gxc0)
+Gxe1 = XOR(Gxb1, Gxc1)
+Gxe2 = XOR(Gxb2, Gxc2)
+Gxe3 = XOR(Gxb3, Gxc3)
+Gxe4 = XOR(Gxb4, Gxc4)
+Gxe5 = XOR(Gxb5, Gxc5)
+Gxe6 = XOR(Gxb6, Gxc6)
+Gxe7 = XOR(Gxb7, Gxc7)
+Gg0 = XOR(Gf0, Gf1)
+Gg1 = XOR(Gf2, Gf3)
+Gg2 = XOR(Gf0, Gf2)
+Gg3 = XOR(Gf1, Gf3)
+Gg4 = XNOR(Gf4, Gf5)
+Gg5 = XOR(Gf6, Gf7)
+Gg6 = XOR(Gf4, Gf6)
+Gg7 = XOR(Gf5, Gf7)
+Gxd0 = XOR(Gh0, Gg4$enc)
+Gxd1 = XOR(Gh1, Gg5)
+Gxd2 = XOR(Gh2, Gg6)
+Gxd3 = XOR(Gh3, Gg7)
+Gxd4 = XNOR(Gh4, Gg0)
+Gxd5 = XNOR(Gh5, Gg1)
+Gxd6 = XOR(Gh6, Gg2)
+Gxd7 = XOR(Gh7, Gg3)
+Gs0 = XOR(Gxe0, Gxd0)
+Gs1 = XOR(Gxe1, Gxd1)
+Gs2 = XOR(Gxe2, Gxd2)
+Gs3 = XOR(Gxe3, Gxd3)
+Gs4 = XOR(Gxe4, Gxd4$enc)
+Gs5 = XOR(Gxe5, Gxd5$enc)
+Gs6 = XOR(Gxe6, Gxd6)
+Gs7 = XOR(Gxe7, Gxd7)
+Gy0a = NOT(Gs0)
+Gy1a = NOT(Gs1)
+Gy2a = NOT(Gs2)
+Gy0b = NOT(Gs0)
+Gy1b = NOT(Gs1)
+Gy3b = NOT(Gs3)
+Gy0c = NOT(Gs0)
+Gy2c = NOT(Gs2)
+Gy3c = NOT(Gs3)
+Gy1d = NOT(Gs1)
+Gy2d = NOT(Gs2)
+Gy3d = NOT(Gs3)
+Gy5i = NOT(Gs5)
+Gy7i = NOT(Gs7)
+Gy5j = NOT(Gs5)
+Gy6j = NOT(Gs6)
+Gy4k = NOT(Gs4)
+Gy7k = NOT(Gs7)
+Gy4l = NOT(Gs4)
+Gy6l = NOT(Gs6)
+Gy4a = NOT(Gs4)
+Gy5a = NOT(Gs5)
+Gy6a = NOT(Gs6)
+Gy4b = NOT(Gs4)
+Gy5b = NOT(Gs5)
+Gy7b = NOT(Gs7)
+Gy4c = NOT(Gs4)
+Gy6c = NOT(Gs6)
+Gy7c = NOT(Gs7)
+Gy5d = NOT(Gs5)
+Gy6d = NOT(Gs6)
+Gy7d = NOT(Gs7)
+Gy1i = NOT(Gs1)
+Gy3i = NOT(Gs3)
+Gy1j = NOT(Gs1)
+Gy2j = NOT(Gs2)
+Gy0k = NOT(Gs0)
+Gy3k = NOT(Gs3)
+Gy0l = NOT(Gs0)
+Gy2l = NOT(Gs2)
+Gt0 = AND(Gy0a, Gy1a, Gy2a, Gs3)
+Gt1 = AND(Gy0b, Gy1b, Gs2, Gy3b)
+Gt2 = AND(Gy0c, Gs1, Gy2c, Gy3c)
+Gt3 = AND(Gs0, Gy1d, Gy2d, Gy3d)
+Gt4 = AND(Gy4a, Gy5a$enc, Gy6a, Gs7)
+Gt5 = AND(Gy4b, Gy5b, Gs6, Gy7b)
+Gt6 = AND(Gy4c, Gs5, Gy6c, Gy7c)
+Gt7 = AND(Gs4, Gy5d, Gy6d, Gy7d)
+Gu0 = OR(Gt0, Gt1, Gt2, Gt3$enc)
+Gu1 = OR(Gt4, Gt5, Gt6, Gt7)
+Gwa = AND(Gs4, Gy5i, Gs6, Gy7i, Gu0)
+Gwb = AND(Gs4, Gy5j, Gy6j, Gs7, Gu0)
+Gwc = AND(Gy4k, Gs5, Gs6, Gy7k, Gu0)
+Gwd = AND(Gy4l, Gs5, Gy6l, Gs7, Gu0)
+Gwe = AND(Gs0, Gy1i, Gs2, Gy3i, Gu1)
+Gwf = AND(Gs0, Gy1j, Gy2j, Gs3, Gu1)
+Gwg = AND(Gy0k, Gs1, Gs2, Gy3k, Gu1)
+Gwh = AND(Gy0l, Gs1, Gy2l, Gs3, Gu1)
+Ge0 = AND(Gs0, Gwa)
+Ge1 = AND(Gs1, Gwa)
+Ge2 = AND(Gs2, Gwa)
+Ge3 = AND(Gs3, Gwa)
+Ge4 = AND(Gs0, Gwb)
+Ge5 = AND(Gs1, Gwb)
+Ge6 = AND(Gs2, Gwb)
+Ge7 = AND(Gs3, Gwb)
+Ge8 = AND(Gs0, Gwc)
+Ge9 = AND(Gs1, Gwc)
+Ge10 = AND(Gs2, Gwc)
+Ge11 = AND(Gs3, Gwc)
+Ge12 = AND(Gs0, Gwd)
+Ge13 = AND(Gs1, Gwd)
+Ge14 = AND(Gs2, Gwd)
+Ge15 = AND(Gs3, Gwd)
+Ge16 = AND(Gs4, Gwe)
+Ge17 = AND(Gs5, Gwe)
+Ge18 = AND(Gs6, Gwe)
+Ge19 = AND(Gs7, Gwe)
+Ge20 = AND(Gs4, Gwf)
+Ge21 = AND(Gs5, Gwf)
+Ge22 = AND(Gs6, Gwf)
+Ge23 = AND(Gs7, Gwf)
+Ge24 = AND(Gs4, Gwg)
+Ge25 = AND(Gs5, Gwg)
+Ge26 = AND(Gs6, Gwg)
+Ge27 = AND(Gs7, Gwg)
+Ge28 = AND(Gs4, Gwh)
+Ge29 = AND(Gs5, Gwh)
+Ge30 = NAND(Gs6, Gwh)
+Ge31 = AND(Gs7, Gwh)
+God0enc = XOR(keyinput1, God0)
+God0 = XOR(Gid0, Ge0)
+God1enc = XOR(keyinput0, God1)
+God1 = XOR(Gid1, Ge1)
+God2 = XOR(Gid2, Ge2)
+God3 = XOR(Gid3, Ge3)
+God4 = XOR(Gid4, Ge4)
+God5 = XOR(Gid5, Ge5)
+God6 = XOR(Gid6, Ge6)
+God7 = XOR(Gid7, Ge7)
+God8 = XOR(Gid8, Ge8)
+God9 = XOR(Gid9, Ge9)
+God10 = XOR(Gid10, Ge10)
+God11 = XOR(Gid11$enc, Ge11)
+God12 = XOR(Gid12, Ge12)
+God13 = XOR(Gid13, Ge13)
+God14 = XOR(Gid14, Ge14)
+God15 = XOR(Gid15, Ge15)
+God16 = XOR(Gid16, Ge16)
+God17 = XOR(Gid17, Ge17)
+God18 = XOR(Gid18, Ge18)
+God19 = XOR(Gid19, Ge19)
+God20 = XOR(Gid20, Ge20)
+God21 = XOR(Gid21, Ge21)
+God22 = XOR(Gid22, Ge22)
+God23 = XOR(Gid23, Ge23)
+God24 = XOR(Gid24, Ge24)
+God25 = XOR(Gid25, Ge25)
+God26 = XOR(Gid26, Ge26)
+God27 = XOR(Gid27, Ge27)
+God28 = XOR(Gid28, Ge28)
+God29 = XOR(Gid29, Ge29)
+God30 = XOR(Gid30, Ge30$enc)
+God31 = XOR(Gid31, Ge31)
+Gid11$enc = XOR(keyinput2, Gid11)
+Gg4$enc = XOR(keyinput3, Gg4)
+Gxa10$enc = XNOR(keyinput4, Gxa10)
+Gxd4$enc = XOR(keyinput5, Gxd4)
+Gxd5$enc = XNOR(keyinput6, Gxd5)
+Gy5a$enc = XOR(keyinput7, Gy5a)
+Gt3$enc = XOR(keyinput8, Gt3)
+Ge30$enc = XNOR(keyinput9, Ge30)
+
+
+#locking last scan-cell in scan-chain
+God0$enc = XOR(keyinput10, God0enc);
+
+#locking next scan-cell in scan-chain
+God1$enc = XOR(keyinput10, God1$enc_1);
+God1$enc_1 = XOR(keyinput11, God1enc);
+
+#locking next scan-cell in scan-chain
+God2$enc = XOR(keyinput10, God2$enc_2);
+God2$enc_2 = XOR(keyinput11, God2$enc_1);
+God2$enc_1 = XOR(keyinput12, God2);
+
+#locking next scan-cell in scan-chain
+God3$enc = XOR(keyinput10, God3$enc_3);
+God3$enc_3 = XOR(keyinput11, God3$enc_2);
+God3$enc_2 = XOR(keyinput12, God3$enc_1);
+God3$enc_1 = XOR(keyinput13, God3);
+
+#locking next scan-cell in scan-chain
+God4$enc = XOR(keyinput10, God4$enc_4);
+God4$enc_4 = XOR(keyinput11, God4$enc_3);
+God4$enc_3 = XOR(keyinput12, God4$enc_2);
+God4$enc_2 = XOR(keyinput13, God4$enc_1);
+God4$enc_1 = XOR(keyinput14, God4);
+
+#locking next scan-cell in scan-chain
+God5$enc = XOR(keyinput10, God5$enc_5);
+God5$enc_5 = XOR(keyinput11, God5$enc_4);
+God5$enc_4 = XOR(keyinput12, God5$enc_3);
+God5$enc_3 = XOR(keyinput13, God5$enc_2);
+God5$enc_2 = XOR(keyinput14, God5$enc_1);
+God5$enc_1 = XOR(keyinput15, God5);
+
+#locking next scan-cell in scan-chain
+God6$enc = XOR(keyinput10, God6$enc_6);
+God6$enc_6 = XOR(keyinput11, God6$enc_5);
+God6$enc_5 = XOR(keyinput12, God6$enc_4);
+God6$enc_4 = XOR(keyinput13, God6$enc_3);
+God6$enc_3 = XOR(keyinput14, God6$enc_2);
+God6$enc_2 = XOR(keyinput15, God6$enc_1);
+God6$enc_1 = XOR(keyinput16, God6);
+
+#locking next scan-cell in scan-chain
+God7$enc = XOR(keyinput10, God7$enc_7);
+God7$enc_7 = XOR(keyinput11, God7$enc_6);
+God7$enc_6 = XOR(keyinput12, God7$enc_5);
+God7$enc_5 = XOR(keyinput13, God7$enc_4);
+God7$enc_4 = XOR(keyinput14, God7$enc_3);
+God7$enc_3 = XOR(keyinput15, God7$enc_2);
+God7$enc_2 = XOR(keyinput16, God7$enc_1);
+God7$enc_1 = XOR(keyinput17, God7);
+
+#locking next scan-cell in scan-chain
+God8$enc = XOR(keyinput10, God8$enc_8);
+God8$enc_8 = XOR(keyinput11, God8$enc_7);
+God8$enc_7 = XOR(keyinput12, God8$enc_6);
+God8$enc_6 = XOR(keyinput13, God8$enc_5);
+God8$enc_5 = XOR(keyinput14, God8$enc_4);
+God8$enc_4 = XOR(keyinput15, God8$enc_3);
+God8$enc_3 = XOR(keyinput16, God8$enc_2);
+God8$enc_2 = XOR(keyinput17, God8$enc_1);
+God8$enc_1 = XOR(keyinput18, God8);
+
+#locking next scan-cell in scan-chain
+God9$enc = XOR(keyinput10, God9$enc_9);
+God9$enc_9 = XOR(keyinput11, God9$enc_8);
+God9$enc_8 = XOR(keyinput12, God9$enc_7);
+God9$enc_7 = XOR(keyinput13, God9$enc_6);
+God9$enc_6 = XOR(keyinput14, God9$enc_5);
+God9$enc_5 = XOR(keyinput15, God9$enc_4);
+God9$enc_4 = XOR(keyinput16, God9$enc_3);
+God9$enc_3 = XOR(keyinput17, God9$enc_2);
+God9$enc_2 = XOR(keyinput18, God9$enc_1);
+God9$enc_1 = XOR(keyinput19, God9);
+
+#locking next scan-cell in scan-chain
+God10$enc = XOR(keyinput10, God10$enc_10);
+God10$enc_10 = XOR(keyinput11, God10$enc_9);
+God10$enc_9 = XOR(keyinput12, God10$enc_8);
+God10$enc_8 = XOR(keyinput13, God10$enc_7);
+God10$enc_7 = XOR(keyinput14, God10$enc_6);
+God10$enc_6 = XOR(keyinput15, God10$enc_5);
+God10$enc_5 = XOR(keyinput16, God10$enc_4);
+God10$enc_4 = XOR(keyinput17, God10$enc_3);
+God10$enc_3 = XOR(keyinput18, God10$enc_2);
+God10$enc_2 = XOR(keyinput19, God10$enc_1);
+God10$enc_1 = XOR(keyinput20, God10);
+
+#locking next scan-cell in scan-chain
+God11$enc = XOR(keyinput10, God11$enc_11);
+God11$enc_11 = XOR(keyinput11, God11$enc_10);
+God11$enc_10 = XOR(keyinput12, God11$enc_9);
+God11$enc_9 = XOR(keyinput13, God11$enc_8);
+God11$enc_8 = XOR(keyinput14, God11$enc_7);
+God11$enc_7 = XOR(keyinput15, God11$enc_6);
+God11$enc_6 = XOR(keyinput16, God11$enc_5);
+God11$enc_5 = XOR(keyinput17, God11$enc_4);
+God11$enc_4 = XOR(keyinput18, God11$enc_3);
+God11$enc_3 = XOR(keyinput19, God11$enc_2);
+God11$enc_2 = XOR(keyinput20, God11$enc_1);
+God11$enc_1 = XOR(keyinput21, God11);
+
+#locking next scan-cell in scan-chain
+God12$enc = XOR(keyinput10, God12$enc_12);
+God12$enc_12 = XOR(keyinput11, God12$enc_11);
+God12$enc_11 = XOR(keyinput12, God12$enc_10);
+God12$enc_10 = XOR(keyinput13, God12$enc_9);
+God12$enc_9 = XOR(keyinput14, God12$enc_8);
+God12$enc_8 = XOR(keyinput15, God12$enc_7);
+God12$enc_7 = XOR(keyinput16, God12$enc_6);
+God12$enc_6 = XOR(keyinput17, God12$enc_5);
+God12$enc_5 = XOR(keyinput18, God12$enc_4);
+God12$enc_4 = XOR(keyinput19, God12$enc_3);
+God12$enc_3 = XOR(keyinput20, God12$enc_2);
+God12$enc_2 = XOR(keyinput21, God12$enc_1);
+God12$enc_1 = XOR(keyinput22, God12);
+
+#locking next scan-cell in scan-chain
+God13$enc = XOR(keyinput10, God13$enc_13);
+God13$enc_13 = XOR(keyinput11, God13$enc_12);
+God13$enc_12 = XOR(keyinput12, God13$enc_11);
+God13$enc_11 = XOR(keyinput13, God13$enc_10);
+God13$enc_10 = XOR(keyinput14, God13$enc_9);
+God13$enc_9 = XOR(keyinput15, God13$enc_8);
+God13$enc_8 = XOR(keyinput16, God13$enc_7);
+God13$enc_7 = XOR(keyinput17, God13$enc_6);
+God13$enc_6 = XOR(keyinput18, God13$enc_5);
+God13$enc_5 = XOR(keyinput19, God13$enc_4);
+God13$enc_4 = XOR(keyinput20, God13$enc_3);
+God13$enc_3 = XOR(keyinput21, God13$enc_2);
+God13$enc_2 = XOR(keyinput22, God13$enc_1);
+God13$enc_1 = XOR(keyinput23, God13);
+
+#locking next scan-cell in scan-chain
+God14$enc = XOR(keyinput10, God14$enc_14);
+God14$enc_14 = XOR(keyinput11, God14$enc_13);
+God14$enc_13 = XOR(keyinput12, God14$enc_12);
+God14$enc_12 = XOR(keyinput13, God14$enc_11);
+God14$enc_11 = XOR(keyinput14, God14$enc_10);
+God14$enc_10 = XOR(keyinput15, God14$enc_9);
+God14$enc_9 = XOR(keyinput16, God14$enc_8);
+God14$enc_8 = XOR(keyinput17, God14$enc_7);
+God14$enc_7 = XOR(keyinput18, God14$enc_6);
+God14$enc_6 = XOR(keyinput19, God14$enc_5);
+God14$enc_5 = XOR(keyinput20, God14$enc_4);
+God14$enc_4 = XOR(keyinput21, God14$enc_3);
+God14$enc_3 = XOR(keyinput22, God14$enc_2);
+God14$enc_2 = XOR(keyinput23, God14$enc_1);
+God14$enc_1 = XOR(keyinput24, God14);
+
+#locking next scan-cell in scan-chain
+God15$enc = XOR(keyinput10, God15$enc_15);
+God15$enc_15 = XOR(keyinput11, God15$enc_14);
+God15$enc_14 = XOR(keyinput12, God15$enc_13);
+God15$enc_13 = XOR(keyinput13, God15$enc_12);
+God15$enc_12 = XOR(keyinput14, God15$enc_11);
+God15$enc_11 = XOR(keyinput15, God15$enc_10);
+God15$enc_10 = XOR(keyinput16, God15$enc_9);
+God15$enc_9 = XOR(keyinput17, God15$enc_8);
+God15$enc_8 = XOR(keyinput18, God15$enc_7);
+God15$enc_7 = XOR(keyinput19, God15$enc_6);
+God15$enc_6 = XOR(keyinput20, God15$enc_5);
+God15$enc_5 = XOR(keyinput21, God15$enc_4);
+God15$enc_4 = XOR(keyinput22, God15$enc_3);
+God15$enc_3 = XOR(keyinput23, God15$enc_2);
+God15$enc_2 = XOR(keyinput24, God15$enc_1);
+God15$enc_1 = XOR(keyinput25, God15);
+
+#locking next scan-cell in scan-chain
+God16$enc = XOR(keyinput10, God16$enc_16);
+God16$enc_16 = XOR(keyinput11, God16$enc_15);
+God16$enc_15 = XOR(keyinput12, God16$enc_14);
+God16$enc_14 = XOR(keyinput13, God16$enc_13);
+God16$enc_13 = XOR(keyinput14, God16$enc_12);
+God16$enc_12 = XOR(keyinput15, God16$enc_11);
+God16$enc_11 = XOR(keyinput16, God16$enc_10);
+God16$enc_10 = XOR(keyinput17, God16$enc_9);
+God16$enc_9 = XOR(keyinput18, God16$enc_8);
+God16$enc_8 = XOR(keyinput19, God16$enc_7);
+God16$enc_7 = XOR(keyinput20, God16$enc_6);
+God16$enc_6 = XOR(keyinput21, God16$enc_5);
+God16$enc_5 = XOR(keyinput22, God16$enc_4);
+God16$enc_4 = XOR(keyinput23, God16$enc_3);
+God16$enc_3 = XOR(keyinput24, God16$enc_2);
+God16$enc_2 = XOR(keyinput25, God16$enc_1);
+God16$enc_1 = XOR(keyinput26, God16);
+
+#locking next scan-cell in scan-chain
+God17$enc = XOR(keyinput10, God17$enc_17);
+God17$enc_17 = XOR(keyinput11, God17$enc_16);
+God17$enc_16 = XOR(keyinput12, God17$enc_15);
+God17$enc_15 = XOR(keyinput13, God17$enc_14);
+God17$enc_14 = XOR(keyinput14, God17$enc_13);
+God17$enc_13 = XOR(keyinput15, God17$enc_12);
+God17$enc_12 = XOR(keyinput16, God17$enc_11);
+God17$enc_11 = XOR(keyinput17, God17$enc_10);
+God17$enc_10 = XOR(keyinput18, God17$enc_9);
+God17$enc_9 = XOR(keyinput19, God17$enc_8);
+God17$enc_8 = XOR(keyinput20, God17$enc_7);
+God17$enc_7 = XOR(keyinput21, God17$enc_6);
+God17$enc_6 = XOR(keyinput22, God17$enc_5);
+God17$enc_5 = XOR(keyinput23, God17$enc_4);
+God17$enc_4 = XOR(keyinput24, God17$enc_3);
+God17$enc_3 = XOR(keyinput25, God17$enc_2);
+God17$enc_2 = XOR(keyinput26, God17$enc_1);
+God17$enc_1 = XOR(keyinput27, God17);
+
+#locking next scan-cell in scan-chain
+God18$enc = XOR(keyinput10, God18$enc_18);
+God18$enc_18 = XOR(keyinput11, God18$enc_17);
+God18$enc_17 = XOR(keyinput12, God18$enc_16);
+God18$enc_16 = XOR(keyinput13, God18$enc_15);
+God18$enc_15 = XOR(keyinput14, God18$enc_14);
+God18$enc_14 = XOR(keyinput15, God18$enc_13);
+God18$enc_13 = XOR(keyinput16, God18$enc_12);
+God18$enc_12 = XOR(keyinput17, God18$enc_11);
+God18$enc_11 = XOR(keyinput18, God18$enc_10);
+God18$enc_10 = XOR(keyinput19, God18$enc_9);
+God18$enc_9 = XOR(keyinput20, God18$enc_8);
+God18$enc_8 = XOR(keyinput21, God18$enc_7);
+God18$enc_7 = XOR(keyinput22, God18$enc_6);
+God18$enc_6 = XOR(keyinput23, God18$enc_5);
+God18$enc_5 = XOR(keyinput24, God18$enc_4);
+God18$enc_4 = XOR(keyinput25, God18$enc_3);
+God18$enc_3 = XOR(keyinput26, God18$enc_2);
+God18$enc_2 = XOR(keyinput27, God18$enc_1);
+God18$enc_1 = XOR(keyinput28, God18);
+
+#locking next scan-cell in scan-chain
+God19$enc = XOR(keyinput10, God19$enc_19);
+God19$enc_19 = XOR(keyinput11, God19$enc_18);
+God19$enc_18 = XOR(keyinput12, God19$enc_17);
+God19$enc_17 = XOR(keyinput13, God19$enc_16);
+God19$enc_16 = XOR(keyinput14, God19$enc_15);
+God19$enc_15 = XOR(keyinput15, God19$enc_14);
+God19$enc_14 = XOR(keyinput16, God19$enc_13);
+God19$enc_13 = XOR(keyinput17, God19$enc_12);
+God19$enc_12 = XOR(keyinput18, God19$enc_11);
+God19$enc_11 = XOR(keyinput19, God19$enc_10);
+God19$enc_10 = XOR(keyinput20, God19$enc_9);
+God19$enc_9 = XOR(keyinput21, God19$enc_8);
+God19$enc_8 = XOR(keyinput22, God19$enc_7);
+God19$enc_7 = XOR(keyinput23, God19$enc_6);
+God19$enc_6 = XOR(keyinput24, God19$enc_5);
+God19$enc_5 = XOR(keyinput25, God19$enc_4);
+God19$enc_4 = XOR(keyinput26, God19$enc_3);
+God19$enc_3 = XOR(keyinput27, God19$enc_2);
+God19$enc_2 = XOR(keyinput28, God19$enc_1);
+God19$enc_1 = XOR(keyinput29, God19);
+
+#locking next scan-cell in scan-chain
+God20$enc = XOR(keyinput10, God20$enc_20);
+God20$enc_20 = XOR(keyinput11, God20$enc_19);
+God20$enc_19 = XOR(keyinput12, God20$enc_18);
+God20$enc_18 = XOR(keyinput13, God20$enc_17);
+God20$enc_17 = XOR(keyinput14, God20$enc_16);
+God20$enc_16 = XOR(keyinput15, God20$enc_15);
+God20$enc_15 = XOR(keyinput16, God20$enc_14);
+God20$enc_14 = XOR(keyinput17, God20$enc_13);
+God20$enc_13 = XOR(keyinput18, God20$enc_12);
+God20$enc_12 = XOR(keyinput19, God20$enc_11);
+God20$enc_11 = XOR(keyinput20, God20$enc_10);
+God20$enc_10 = XOR(keyinput21, God20$enc_9);
+God20$enc_9 = XOR(keyinput22, God20$enc_8);
+God20$enc_8 = XOR(keyinput23, God20$enc_7);
+God20$enc_7 = XOR(keyinput24, God20$enc_6);
+God20$enc_6 = XOR(keyinput25, God20$enc_5);
+God20$enc_5 = XOR(keyinput26, God20$enc_4);
+God20$enc_4 = XOR(keyinput27, God20$enc_3);
+God20$enc_3 = XOR(keyinput28, God20$enc_2);
+God20$enc_2 = XOR(keyinput29, God20$enc_1);
+God20$enc_1 = XOR(keyinput30, God20);
+
+#locking next scan-cell in scan-chain
+God21$enc = XOR(keyinput10, God21$enc_21);
+God21$enc_21 = XOR(keyinput11, God21$enc_20);
+God21$enc_20 = XOR(keyinput12, God21$enc_19);
+God21$enc_19 = XOR(keyinput13, God21$enc_18);
+God21$enc_18 = XOR(keyinput14, God21$enc_17);
+God21$enc_17 = XOR(keyinput15, God21$enc_16);
+God21$enc_16 = XOR(keyinput16, God21$enc_15);
+God21$enc_15 = XOR(keyinput17, God21$enc_14);
+God21$enc_14 = XOR(keyinput18, God21$enc_13);
+God21$enc_13 = XOR(keyinput19, God21$enc_12);
+God21$enc_12 = XOR(keyinput20, God21$enc_11);
+God21$enc_11 = XOR(keyinput21, God21$enc_10);
+God21$enc_10 = XOR(keyinput22, God21$enc_9);
+God21$enc_9 = XOR(keyinput23, God21$enc_8);
+God21$enc_8 = XOR(keyinput24, God21$enc_7);
+God21$enc_7 = XOR(keyinput25, God21$enc_6);
+God21$enc_6 = XOR(keyinput26, God21$enc_5);
+God21$enc_5 = XOR(keyinput27, God21$enc_4);
+God21$enc_4 = XOR(keyinput28, God21$enc_3);
+God21$enc_3 = XOR(keyinput29, God21$enc_2);
+God21$enc_2 = XOR(keyinput30, God21$enc_1);
+God21$enc_1 = XOR(keyinput31, God21);
+
+#locking next scan-cell in scan-chain
+God22$enc = XOR(keyinput10, God22$enc_22);
+God22$enc_22 = XOR(keyinput11, God22$enc_21);
+God22$enc_21 = XOR(keyinput12, God22$enc_20);
+God22$enc_20 = XOR(keyinput13, God22$enc_19);
+God22$enc_19 = XOR(keyinput14, God22$enc_18);
+God22$enc_18 = XOR(keyinput15, God22$enc_17);
+God22$enc_17 = XOR(keyinput16, God22$enc_16);
+God22$enc_16 = XOR(keyinput17, God22$enc_15);
+God22$enc_15 = XOR(keyinput18, God22$enc_14);
+God22$enc_14 = XOR(keyinput19, God22$enc_13);
+God22$enc_13 = XOR(keyinput20, God22$enc_12);
+God22$enc_12 = XOR(keyinput21, God22$enc_11);
+God22$enc_11 = XOR(keyinput22, God22$enc_10);
+God22$enc_10 = XOR(keyinput23, God22$enc_9);
+God22$enc_9 = XOR(keyinput24, God22$enc_8);
+God22$enc_8 = XOR(keyinput25, God22$enc_7);
+God22$enc_7 = XOR(keyinput26, God22$enc_6);
+God22$enc_6 = XOR(keyinput27, God22$enc_5);
+God22$enc_5 = XOR(keyinput28, God22$enc_4);
+God22$enc_4 = XOR(keyinput29, God22$enc_3);
+God22$enc_3 = XOR(keyinput30, God22$enc_2);
+God22$enc_2 = XOR(keyinput31, God22$enc_1);
+God22$enc_1 = XOR(keyinput32, God22);
+
+#locking next scan-cell in scan-chain
+God23$enc = XOR(keyinput10, God23$enc_23);
+God23$enc_23 = XOR(keyinput11, God23$enc_22);
+God23$enc_22 = XOR(keyinput12, God23$enc_21);
+God23$enc_21 = XOR(keyinput13, God23$enc_20);
+God23$enc_20 = XOR(keyinput14, God23$enc_19);
+God23$enc_19 = XOR(keyinput15, God23$enc_18);
+God23$enc_18 = XOR(keyinput16, God23$enc_17);
+God23$enc_17 = XOR(keyinput17, God23$enc_16);
+God23$enc_16 = XOR(keyinput18, God23$enc_15);
+God23$enc_15 = XOR(keyinput19, God23$enc_14);
+God23$enc_14 = XOR(keyinput20, God23$enc_13);
+God23$enc_13 = XOR(keyinput21, God23$enc_12);
+God23$enc_12 = XOR(keyinput22, God23$enc_11);
+God23$enc_11 = XOR(keyinput23, God23$enc_10);
+God23$enc_10 = XOR(keyinput24, God23$enc_9);
+God23$enc_9 = XOR(keyinput25, God23$enc_8);
+God23$enc_8 = XOR(keyinput26, God23$enc_7);
+God23$enc_7 = XOR(keyinput27, God23$enc_6);
+God23$enc_6 = XOR(keyinput28, God23$enc_5);
+God23$enc_5 = XOR(keyinput29, God23$enc_4);
+God23$enc_4 = XOR(keyinput30, God23$enc_3);
+God23$enc_3 = XOR(keyinput31, God23$enc_2);
+God23$enc_2 = XOR(keyinput32, God23$enc_1);
+God23$enc_1 = XOR(keyinput33, God23);
+
+#locking next scan-cell in scan-chain
+God24$enc = XOR(keyinput10, God24$enc_24);
+God24$enc_24 = XOR(keyinput11, God24$enc_23);
+God24$enc_23 = XOR(keyinput12, God24$enc_22);
+God24$enc_22 = XOR(keyinput13, God24$enc_21);
+God24$enc_21 = XOR(keyinput14, God24$enc_20);
+God24$enc_20 = XOR(keyinput15, God24$enc_19);
+God24$enc_19 = XOR(keyinput16, God24$enc_18);
+God24$enc_18 = XOR(keyinput17, God24$enc_17);
+God24$enc_17 = XOR(keyinput18, God24$enc_16);
+God24$enc_16 = XOR(keyinput19, God24$enc_15);
+God24$enc_15 = XOR(keyinput20, God24$enc_14);
+God24$enc_14 = XOR(keyinput21, God24$enc_13);
+God24$enc_13 = XOR(keyinput22, God24$enc_12);
+God24$enc_12 = XOR(keyinput23, God24$enc_11);
+God24$enc_11 = XOR(keyinput24, God24$enc_10);
+God24$enc_10 = XOR(keyinput25, God24$enc_9);
+God24$enc_9 = XOR(keyinput26, God24$enc_8);
+God24$enc_8 = XOR(keyinput27, God24$enc_7);
+God24$enc_7 = XOR(keyinput28, God24$enc_6);
+God24$enc_6 = XOR(keyinput29, God24$enc_5);
+God24$enc_5 = XOR(keyinput30, God24$enc_4);
+God24$enc_4 = XOR(keyinput31, God24$enc_3);
+God24$enc_3 = XOR(keyinput32, God24$enc_2);
+God24$enc_2 = XOR(keyinput33, God24$enc_1);
+God24$enc_1 = XOR(keyinput34, God24);
+
+#locking next scan-cell in scan-chain
+God25$enc = XOR(keyinput10, God25$enc_25);
+God25$enc_25 = XOR(keyinput11, God25$enc_24);
+God25$enc_24 = XOR(keyinput12, God25$enc_23);
+God25$enc_23 = XOR(keyinput13, God25$enc_22);
+God25$enc_22 = XOR(keyinput14, God25$enc_21);
+God25$enc_21 = XOR(keyinput15, God25$enc_20);
+God25$enc_20 = XOR(keyinput16, God25$enc_19);
+God25$enc_19 = XOR(keyinput17, God25$enc_18);
+God25$enc_18 = XOR(keyinput18, God25$enc_17);
+God25$enc_17 = XOR(keyinput19, God25$enc_16);
+God25$enc_16 = XOR(keyinput20, God25$enc_15);
+God25$enc_15 = XOR(keyinput21, God25$enc_14);
+God25$enc_14 = XOR(keyinput22, God25$enc_13);
+God25$enc_13 = XOR(keyinput23, God25$enc_12);
+God25$enc_12 = XOR(keyinput24, God25$enc_11);
+God25$enc_11 = XOR(keyinput25, God25$enc_10);
+God25$enc_10 = XOR(keyinput26, God25$enc_9);
+God25$enc_9 = XOR(keyinput27, God25$enc_8);
+God25$enc_8 = XOR(keyinput28, God25$enc_7);
+God25$enc_7 = XOR(keyinput29, God25$enc_6);
+God25$enc_6 = XOR(keyinput30, God25$enc_5);
+God25$enc_5 = XOR(keyinput31, God25$enc_4);
+God25$enc_4 = XOR(keyinput32, God25$enc_3);
+God25$enc_3 = XOR(keyinput33, God25$enc_2);
+God25$enc_2 = XOR(keyinput34, God25$enc_1);
+God25$enc_1 = XOR(keyinput35, God25);
+
+#locking next scan-cell in scan-chain
+God26$enc = XOR(keyinput10, God26$enc_26);
+God26$enc_26 = XOR(keyinput11, God26$enc_25);
+God26$enc_25 = XOR(keyinput12, God26$enc_24);
+God26$enc_24 = XOR(keyinput13, God26$enc_23);
+God26$enc_23 = XOR(keyinput14, God26$enc_22);
+God26$enc_22 = XOR(keyinput15, God26$enc_21);
+God26$enc_21 = XOR(keyinput16, God26$enc_20);
+God26$enc_20 = XOR(keyinput17, God26$enc_19);
+God26$enc_19 = XOR(keyinput18, God26$enc_18);
+God26$enc_18 = XOR(keyinput19, God26$enc_17);
+God26$enc_17 = XOR(keyinput20, God26$enc_16);
+God26$enc_16 = XOR(keyinput21, God26$enc_15);
+God26$enc_15 = XOR(keyinput22, God26$enc_14);
+God26$enc_14 = XOR(keyinput23, God26$enc_13);
+God26$enc_13 = XOR(keyinput24, God26$enc_12);
+God26$enc_12 = XOR(keyinput25, God26$enc_11);
+God26$enc_11 = XOR(keyinput26, God26$enc_10);
+God26$enc_10 = XOR(keyinput27, God26$enc_9);
+God26$enc_9 = XOR(keyinput28, God26$enc_8);
+God26$enc_8 = XOR(keyinput29, God26$enc_7);
+God26$enc_7 = XOR(keyinput30, God26$enc_6);
+God26$enc_6 = XOR(keyinput31, God26$enc_5);
+God26$enc_5 = XOR(keyinput32, God26$enc_4);
+God26$enc_4 = XOR(keyinput33, God26$enc_3);
+God26$enc_3 = XOR(keyinput34, God26$enc_2);
+God26$enc_2 = XOR(keyinput35, God26$enc_1);
+God26$enc_1 = XOR(keyinput36, God26);
+
+#locking next scan-cell in scan-chain
+God27$enc = XOR(keyinput10, God27$enc_27);
+God27$enc_27 = XOR(keyinput11, God27$enc_26);
+God27$enc_26 = XOR(keyinput12, God27$enc_25);
+God27$enc_25 = XOR(keyinput13, God27$enc_24);
+God27$enc_24 = XOR(keyinput14, God27$enc_23);
+God27$enc_23 = XOR(keyinput15, God27$enc_22);
+God27$enc_22 = XOR(keyinput16, God27$enc_21);
+God27$enc_21 = XOR(keyinput17, God27$enc_20);
+God27$enc_20 = XOR(keyinput18, God27$enc_19);
+God27$enc_19 = XOR(keyinput19, God27$enc_18);
+God27$enc_18 = XOR(keyinput20, God27$enc_17);
+God27$enc_17 = XOR(keyinput21, God27$enc_16);
+God27$enc_16 = XOR(keyinput22, God27$enc_15);
+God27$enc_15 = XOR(keyinput23, God27$enc_14);
+God27$enc_14 = XOR(keyinput24, God27$enc_13);
+God27$enc_13 = XOR(keyinput25, God27$enc_12);
+God27$enc_12 = XOR(keyinput26, God27$enc_11);
+God27$enc_11 = XOR(keyinput27, God27$enc_10);
+God27$enc_10 = XOR(keyinput28, God27$enc_9);
+God27$enc_9 = XOR(keyinput29, God27$enc_8);
+God27$enc_8 = XOR(keyinput30, God27$enc_7);
+God27$enc_7 = XOR(keyinput31, God27$enc_6);
+God27$enc_6 = XOR(keyinput32, God27$enc_5);
+God27$enc_5 = XOR(keyinput33, God27$enc_4);
+God27$enc_4 = XOR(keyinput34, God27$enc_3);
+God27$enc_3 = XOR(keyinput35, God27$enc_2);
+God27$enc_2 = XOR(keyinput36, God27$enc_1);
+God27$enc_1 = XOR(keyinput37, God27);
+
+#locking next scan-cell in scan-chain
+God28$enc = XOR(keyinput10, God28$enc_28);
+God28$enc_28 = XOR(keyinput11, God28$enc_27);
+God28$enc_27 = XOR(keyinput12, God28$enc_26);
+God28$enc_26 = XOR(keyinput13, God28$enc_25);
+God28$enc_25 = XOR(keyinput14, God28$enc_24);
+God28$enc_24 = XOR(keyinput15, God28$enc_23);
+God28$enc_23 = XOR(keyinput16, God28$enc_22);
+God28$enc_22 = XOR(keyinput17, God28$enc_21);
+God28$enc_21 = XOR(keyinput18, God28$enc_20);
+God28$enc_20 = XOR(keyinput19, God28$enc_19);
+God28$enc_19 = XOR(keyinput20, God28$enc_18);
+God28$enc_18 = XOR(keyinput21, God28$enc_17);
+God28$enc_17 = XOR(keyinput22, God28$enc_16);
+God28$enc_16 = XOR(keyinput23, God28$enc_15);
+God28$enc_15 = XOR(keyinput24, God28$enc_14);
+God28$enc_14 = XOR(keyinput25, God28$enc_13);
+God28$enc_13 = XOR(keyinput26, God28$enc_12);
+God28$enc_12 = XOR(keyinput27, God28$enc_11);
+God28$enc_11 = XOR(keyinput28, God28$enc_10);
+God28$enc_10 = XOR(keyinput29, God28$enc_9);
+God28$enc_9 = XOR(keyinput30, God28$enc_8);
+God28$enc_8 = XOR(keyinput31, God28$enc_7);
+God28$enc_7 = XOR(keyinput32, God28$enc_6);
+God28$enc_6 = XOR(keyinput33, God28$enc_5);
+God28$enc_5 = XOR(keyinput34, God28$enc_4);
+God28$enc_4 = XOR(keyinput35, God28$enc_3);
+God28$enc_3 = XOR(keyinput36, God28$enc_2);
+God28$enc_2 = XOR(keyinput37, God28$enc_1);
+God28$enc_1 = XOR(keyinput38, God28);
+
+#locking next scan-cell in scan-chain
+God29$enc = XOR(keyinput10, God29$enc_29);
+God29$enc_29 = XOR(keyinput11, God29$enc_28);
+God29$enc_28 = XOR(keyinput12, God29$enc_27);
+God29$enc_27 = XOR(keyinput13, God29$enc_26);
+God29$enc_26 = XOR(keyinput14, God29$enc_25);
+God29$enc_25 = XOR(keyinput15, God29$enc_24);
+God29$enc_24 = XOR(keyinput16, God29$enc_23);
+God29$enc_23 = XOR(keyinput17, God29$enc_22);
+God29$enc_22 = XOR(keyinput18, God29$enc_21);
+God29$enc_21 = XOR(keyinput19, God29$enc_20);
+God29$enc_20 = XOR(keyinput20, God29$enc_19);
+God29$enc_19 = XOR(keyinput21, God29$enc_18);
+God29$enc_18 = XOR(keyinput22, God29$enc_17);
+God29$enc_17 = XOR(keyinput23, God29$enc_16);
+God29$enc_16 = XOR(keyinput24, God29$enc_15);
+God29$enc_15 = XOR(keyinput25, God29$enc_14);
+God29$enc_14 = XOR(keyinput26, God29$enc_13);
+God29$enc_13 = XOR(keyinput27, God29$enc_12);
+God29$enc_12 = XOR(keyinput28, God29$enc_11);
+God29$enc_11 = XOR(keyinput29, God29$enc_10);
+God29$enc_10 = XOR(keyinput30, God29$enc_9);
+God29$enc_9 = XOR(keyinput31, God29$enc_8);
+God29$enc_8 = XOR(keyinput32, God29$enc_7);
+God29$enc_7 = XOR(keyinput33, God29$enc_6);
+God29$enc_6 = XOR(keyinput34, God29$enc_5);
+God29$enc_5 = XOR(keyinput35, God29$enc_4);
+God29$enc_4 = XOR(keyinput36, God29$enc_3);
+God29$enc_3 = XOR(keyinput37, God29$enc_2);
+God29$enc_2 = XOR(keyinput38, God29$enc_1);
+God29$enc_1 = XOR(keyinput39, God29);
+
+#locking next scan-cell in scan-chain
+God30$enc = XOR(keyinput10, God30$enc_30);
+God30$enc_30 = XOR(keyinput11, God30$enc_29);
+God30$enc_29 = XOR(keyinput12, God30$enc_28);
+God30$enc_28 = XOR(keyinput13, God30$enc_27);
+God30$enc_27 = XOR(keyinput14, God30$enc_26);
+God30$enc_26 = XOR(keyinput15, God30$enc_25);
+God30$enc_25 = XOR(keyinput16, God30$enc_24);
+God30$enc_24 = XOR(keyinput17, God30$enc_23);
+God30$enc_23 = XOR(keyinput18, God30$enc_22);
+God30$enc_22 = XOR(keyinput19, God30$enc_21);
+God30$enc_21 = XOR(keyinput20, God30$enc_20);
+God30$enc_20 = XOR(keyinput21, God30$enc_19);
+God30$enc_19 = XOR(keyinput22, God30$enc_18);
+God30$enc_18 = XOR(keyinput23, God30$enc_17);
+God30$enc_17 = XOR(keyinput24, God30$enc_16);
+God30$enc_16 = XOR(keyinput25, God30$enc_15);
+God30$enc_15 = XOR(keyinput26, God30$enc_14);
+God30$enc_14 = XOR(keyinput27, God30$enc_13);
+God30$enc_13 = XOR(keyinput28, God30$enc_12);
+God30$enc_12 = XOR(keyinput29, God30$enc_11);
+God30$enc_11 = XOR(keyinput30, God30$enc_10);
+God30$enc_10 = XOR(keyinput31, God30$enc_9);
+God30$enc_9 = XOR(keyinput32, God30$enc_8);
+God30$enc_8 = XOR(keyinput33, God30$enc_7);
+God30$enc_7 = XOR(keyinput34, God30$enc_6);
+God30$enc_6 = XOR(keyinput35, God30$enc_5);
+God30$enc_5 = XOR(keyinput36, God30$enc_4);
+God30$enc_4 = XOR(keyinput37, God30$enc_3);
+God30$enc_3 = XOR(keyinput38, God30$enc_2);
+God30$enc_2 = XOR(keyinput39, God30$enc_1);
+God30$enc_1 = XOR(keyinput40, God30);
+
+#locking next scan-cell in scan-chain
+God31$enc = XOR(keyinput10, God31$enc_31);
+God31$enc_31 = XOR(keyinput11, God31$enc_30);
+God31$enc_30 = XOR(keyinput12, God31$enc_29);
+God31$enc_29 = XOR(keyinput13, God31$enc_28);
+God31$enc_28 = XOR(keyinput14, God31$enc_27);
+God31$enc_27 = XOR(keyinput15, God31$enc_26);
+God31$enc_26 = XOR(keyinput16, God31$enc_25);
+God31$enc_25 = XOR(keyinput17, God31$enc_24);
+God31$enc_24 = XOR(keyinput18, God31$enc_23);
+God31$enc_23 = XOR(keyinput19, God31$enc_22);
+God31$enc_22 = XOR(keyinput20, God31$enc_21);
+God31$enc_21 = XOR(keyinput21, God31$enc_20);
+God31$enc_20 = XOR(keyinput22, God31$enc_19);
+God31$enc_19 = XOR(keyinput23, God31$enc_18);
+God31$enc_18 = XOR(keyinput24, God31$enc_17);
+God31$enc_17 = XOR(keyinput25, God31$enc_16);
+God31$enc_16 = XOR(keyinput26, God31$enc_15);
+God31$enc_15 = XOR(keyinput27, God31$enc_14);
+God31$enc_14 = XOR(keyinput28, God31$enc_13);
+God31$enc_13 = XOR(keyinput29, God31$enc_12);
+God31$enc_12 = XOR(keyinput30, God31$enc_11);
+God31$enc_11 = XOR(keyinput31, God31$enc_10);
+God31$enc_10 = XOR(keyinput32, God31$enc_9);
+God31$enc_9 = XOR(keyinput33, God31$enc_8);
+God31$enc_8 = XOR(keyinput34, God31$enc_7);
+God31$enc_7 = XOR(keyinput35, God31$enc_6);
+God31$enc_6 = XOR(keyinput36, God31$enc_5);
+God31$enc_5 = XOR(keyinput37, God31$enc_4);
+God31$enc_4 = XOR(keyinput38, God31$enc_3);
+God31$enc_3 = XOR(keyinput39, God31$enc_2);
+God31$enc_2 = XOR(keyinput40, God31$enc_1);
+God31$enc_1 = XOR(keyinput41, God31);

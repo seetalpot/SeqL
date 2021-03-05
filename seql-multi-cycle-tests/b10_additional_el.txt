@@ -1,0 +1,80 @@
+
+#SeqL Flip-flop Additional Output encryption logic for VOTO0_REG
+VOTO0_REG_1enc = XOR(VOTO0_REG_1encenc, keyinput18)
+VOTO0_REG_2enc = XOR(VOTO0_REG_2, keyinput18)
+
+#SeqL Flip-flop Additional Input encryption logic for U243
+U243_1enc = XOR(U243_1, keyinput17)
+U243_2enc = XOR(U243_2, keyinput17)
+
+#SeqL Flip-flop Additional Output encryption logic for STATO_REG_3_
+STATO_REG_3__1enc = XOR(STATO_REG_3__1encenc, keyinput20)
+STATO_REG_3__2enc = XOR(STATO_REG_3__2, keyinput20)
+
+#SeqL Flip-flop Additional Input encryption logic for U212
+U212_1enc = XOR(U212_1, keyinput19)
+U212_2enc = XOR(U212_2, keyinput19)
+
+#SeqL Flip-flop Additional Output encryption logic for STATO_REG_2_
+STATO_REG_2__1enc = XOR(STATO_REG_2__1encenc, keyinput22)
+STATO_REG_2__2enc = XOR(STATO_REG_2__2, keyinput22)
+
+#SeqL Flip-flop Additional Input encryption logic for U211
+U211_1enc = XOR(U211_1, keyinput21)
+U211_2enc = XOR(U211_2, keyinput21)
+
+#Other Flip-flop Output logic for STATO_REG_1_
+STATO_REG_1__1enc = BUF(STATO_REG_1__1)
+STATO_REG_1__2enc = BUF(STATO_REG_1__2)
+
+#Other Flip-flop Output logic for STATO_REG_0_
+STATO_REG_0__1enc = BUF(STATO_REG_0__1)
+STATO_REG_0__2enc = BUF(STATO_REG_0__2)
+
+#Other Flip-flop Output logic for V_OUT_REG_3_
+V_OUT_REG_3__1enc = BUF(V_OUT_REG_3__1)
+V_OUT_REG_3__2enc = BUF(V_OUT_REG_3__2)
+
+#Other Flip-flop Output logic for V_OUT_REG_2_
+V_OUT_REG_2__1enc = BUF(V_OUT_REG_2__1)
+V_OUT_REG_2__2enc = BUF(V_OUT_REG_2__2)
+
+#Other Flip-flop Output logic for V_OUT_REG_1_
+V_OUT_REG_1__1enc = BUF(V_OUT_REG_1__1)
+V_OUT_REG_1__2enc = BUF(V_OUT_REG_1__2)
+
+#Other Flip-flop Output logic for V_OUT_REG_0_
+V_OUT_REG_0__1enc = BUF(V_OUT_REG_0__1)
+V_OUT_REG_0__2enc = BUF(V_OUT_REG_0__2)
+
+#Other Flip-flop Output logic for SIGN_REG_3_
+SIGN_REG_3__1enc = BUF(SIGN_REG_3__1)
+SIGN_REG_3__2enc = BUF(SIGN_REG_3__2)
+
+#Other Flip-flop Output logic for VOTO1_REG
+VOTO1_REG_1enc = BUF(VOTO1_REG_1)
+VOTO1_REG_2enc = BUF(VOTO1_REG_2)
+
+#Other Flip-flop Output logic for CTR_REG
+CTR_REG_1enc = BUF(CTR_REG_1)
+CTR_REG_2enc = BUF(CTR_REG_2)
+
+#Other Flip-flop Output logic for VOTO3_REG
+VOTO3_REG_1enc = BUF(VOTO3_REG_1)
+VOTO3_REG_2enc = BUF(VOTO3_REG_2)
+
+#Other Flip-flop Output logic for LAST_R_REG
+LAST_R_REG_1enc = BUF(LAST_R_REG_1)
+LAST_R_REG_2enc = BUF(LAST_R_REG_2)
+
+#Other Flip-flop Output logic for CTS_REG
+CTS_REG_1enc = BUF(CTS_REG_1)
+CTS_REG_2enc = BUF(CTS_REG_2)
+
+#Other Flip-flop Output logic for VOTO2_REG
+VOTO2_REG_1enc = BUF(VOTO2_REG_1)
+VOTO2_REG_2enc = BUF(VOTO2_REG_2)
+
+#Other Flip-flop Output logic for LAST_G_REG
+LAST_G_REG_1enc = BUF(LAST_G_REG_1)
+LAST_G_REG_2enc = BUF(LAST_G_REG_2)

@@ -1,0 +1,151 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(START_1)
+INPUT(I_7__1)
+INPUT(I_6__1)
+INPUT(I_5__1)
+INPUT(I_4__1)
+INPUT(I_3__1)
+INPUT(I_2__1)
+INPUT(I_1__1)
+INPUT(I_0__1)
+
+
+##################################Primary Inputs for Unroll-2
+INPUT(START_2)
+INPUT(I_7__2)
+INPUT(I_6__2)
+INPUT(I_5__2)
+INPUT(I_4__2)
+INPUT(I_3__2)
+INPUT(I_2__2)
+INPUT(I_1__2)
+INPUT(I_0__2)
+
+
+##################################Primary Outputs for Unroll-1
+OUTPUT(O_REG_3__1)
+OUTPUT(O_REG_2__1)
+OUTPUT(O_REG_1__1)
+OUTPUT(O_REG_0__1)
+
+
+##################################Primary Outputs for Unroll-2
+OUTPUT(O_REG_3__2)
+OUTPUT(O_REG_2__2)
+OUTPUT(O_REG_1__2)
+OUTPUT(O_REG_0__2)
+
+##################################Other Inputs
+INPUT(O_REG_0__1)
+INPUT(STATO_REG_1__1)
+INPUT(STATO_REG_0__1)
+INPUT(MAR_REG_2__1)
+INPUT(MAR_REG_1__1)
+INPUT(MAR_REG_0__1)
+INPUT(IN_R_REG_7__1)
+INPUT(IN_R_REG_6__1)
+INPUT(IN_R_REG_5__1)
+INPUT(IN_R_REG_4__1)
+INPUT(IN_R_REG_3__1)
+INPUT(IN_R_REG_2__1)
+INPUT(IN_R_REG_1__1)
+INPUT(IN_R_REG_0__1)
+INPUT(OUT_R_REG_3__1)
+INPUT(OUT_R_REG_2__1)
+INPUT(OUT_R_REG_1__1)
+INPUT(OUT_R_REG_0__1)
+INPUT(O_REG_3__1)
+INPUT(O_REG_2__1)
+INPUT(O_REG_1__1)
+
+##################################Other Outputs
+OUTPUT(U219_2$enc)
+OUTPUT(U189_2$enc)
+OUTPUT(U188_2$enc)
+OUTPUT(U187_2$enc)
+OUTPUT(U206_2$enc)
+OUTPUT(U207_2$enc)
+OUTPUT(U208_2$enc)
+OUTPUT(U209_2$enc)
+OUTPUT(U210_2$enc)
+OUTPUT(U211_2$enc)
+OUTPUT(U212_2$enc)
+OUTPUT(U213_2$enc)
+OUTPUT(U214_2$enc)
+OUTPUT(U215_2$enc)
+OUTPUT(U186_2$enc)
+OUTPUT(U185_2$enc)
+OUTPUT(U184_2$enc)
+OUTPUT(U183_2$enc)
+OUTPUT(U216_2$enc)
+OUTPUT(U217_2$enc)
+OUTPUT(U218_2$enc)
+
+#################################Key Inputs
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+INPUT(keyinput9)
+INPUT(keyinput10)
+INPUT(keyinput11)
+INPUT(keyinput12)
+INPUT(keyinput13)
+INPUT(keyinput14)
+INPUT(keyinput15)
+INPUT(keyinput16)
+INPUT(keyinput17)
+INPUT(keyinput18)
+INPUT(keyinput19)
+INPUT(keyinput20)
+
+#################################SeqL Key Inputs
+INPUT(keyinput21)
+INPUT(keyinput22)
+INPUT(keyinput23)
+INPUT(keyinput24)
+INPUT(keyinput25)
+INPUT(keyinput26)
+
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic

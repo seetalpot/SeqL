@@ -1,0 +1,137 @@
+
+sed -i '1,$s/(VOTO0_REG_1,/(VOTO0_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_3__1,/(STATO_REG_3__1enc,/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_2__1,/(STATO_REG_2__1enc,/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_1__1,/(STATO_REG_1__1enc,/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_0__1,/(STATO_REG_0__1enc,/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_3__1,/(V_OUT_REG_3__1enc,/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_2__1,/(V_OUT_REG_2__1enc,/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_1__1,/(V_OUT_REG_1__1enc,/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_0__1,/(V_OUT_REG_0__1enc,/g' b10.unroll-logic
+sed -i '1,$s/(SIGN_REG_3__1,/(SIGN_REG_3__1enc,/g' b10.unroll-logic
+sed -i '1,$s/(VOTO1_REG_1,/(VOTO1_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/(CTR_REG_1,/(CTR_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/(VOTO3_REG_1,/(VOTO3_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/(LAST_R_REG_1,/(LAST_R_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/(CTS_REG_1,/(CTS_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/(VOTO2_REG_1,/(VOTO2_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/(LAST_G_REG_1,/(LAST_G_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/ VOTO0_REG_1,/ VOTO0_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_3__1,/ STATO_REG_3__1enc,/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_2__1,/ STATO_REG_2__1enc,/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_1__1,/ STATO_REG_1__1enc,/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_0__1,/ STATO_REG_0__1enc,/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_3__1,/ V_OUT_REG_3__1enc,/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_2__1,/ V_OUT_REG_2__1enc,/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_1__1,/ V_OUT_REG_1__1enc,/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_0__1,/ V_OUT_REG_0__1enc,/g' b10.unroll-logic
+sed -i '1,$s/ SIGN_REG_3__1,/ SIGN_REG_3__1enc,/g' b10.unroll-logic
+sed -i '1,$s/ VOTO1_REG_1,/ VOTO1_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/ CTR_REG_1,/ CTR_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/ VOTO3_REG_1,/ VOTO3_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/ LAST_R_REG_1,/ LAST_R_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/ CTS_REG_1,/ CTS_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/ VOTO2_REG_1,/ VOTO2_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/ LAST_G_REG_1,/ LAST_G_REG_1enc,/g' b10.unroll-logic
+sed -i '1,$s/ VOTO0_REG_1)/ VOTO0_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_3__1)/ STATO_REG_3__1enc)/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_2__1)/ STATO_REG_2__1enc)/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_1__1)/ STATO_REG_1__1enc)/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_0__1)/ STATO_REG_0__1enc)/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_3__1)/ V_OUT_REG_3__1enc)/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_2__1)/ V_OUT_REG_2__1enc)/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_1__1)/ V_OUT_REG_1__1enc)/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_0__1)/ V_OUT_REG_0__1enc)/g' b10.unroll-logic
+sed -i '1,$s/ SIGN_REG_3__1)/ SIGN_REG_3__1enc)/g' b10.unroll-logic
+sed -i '1,$s/ VOTO1_REG_1)/ VOTO1_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/ CTR_REG_1)/ CTR_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/ VOTO3_REG_1)/ VOTO3_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/ LAST_R_REG_1)/ LAST_R_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/ CTS_REG_1)/ CTS_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/ VOTO2_REG_1)/ VOTO2_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/ LAST_G_REG_1)/ LAST_G_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/(VOTO0_REG_1)/(VOTO0_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_3__1)/(STATO_REG_3__1enc)/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_2__1)/(STATO_REG_2__1enc)/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_1__1)/(STATO_REG_1__1enc)/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_0__1)/(STATO_REG_0__1enc)/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_3__1)/(V_OUT_REG_3__1enc)/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_2__1)/(V_OUT_REG_2__1enc)/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_1__1)/(V_OUT_REG_1__1enc)/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_0__1)/(V_OUT_REG_0__1enc)/g' b10.unroll-logic
+sed -i '1,$s/(SIGN_REG_3__1)/(SIGN_REG_3__1enc)/g' b10.unroll-logic
+sed -i '1,$s/(VOTO1_REG_1)/(VOTO1_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/(CTR_REG_1)/(CTR_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/(VOTO3_REG_1)/(VOTO3_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/(LAST_R_REG_1)/(LAST_R_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/(CTS_REG_1)/(CTS_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/(VOTO2_REG_1)/(VOTO2_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/(LAST_G_REG_1)/(LAST_G_REG_1enc)/g' b10.unroll-logic
+sed -i '1,$s/(VOTO0_REG_2,/(VOTO0_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_3__2,/(STATO_REG_3__2enc,/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_2__2,/(STATO_REG_2__2enc,/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_1__2,/(STATO_REG_1__2enc,/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_0__2,/(STATO_REG_0__2enc,/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_3__2,/(V_OUT_REG_3__2enc,/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_2__2,/(V_OUT_REG_2__2enc,/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_1__2,/(V_OUT_REG_1__2enc,/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_0__2,/(V_OUT_REG_0__2enc,/g' b10.unroll-logic
+sed -i '1,$s/(SIGN_REG_3__2,/(SIGN_REG_3__2enc,/g' b10.unroll-logic
+sed -i '1,$s/(VOTO1_REG_2,/(VOTO1_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/(CTR_REG_2,/(CTR_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/(VOTO3_REG_2,/(VOTO3_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/(LAST_R_REG_2,/(LAST_R_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/(CTS_REG_2,/(CTS_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/(VOTO2_REG_2,/(VOTO2_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/(LAST_G_REG_2,/(LAST_G_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/ VOTO0_REG_2,/ VOTO0_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_3__2,/ STATO_REG_3__2enc,/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_2__2,/ STATO_REG_2__2enc,/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_1__2,/ STATO_REG_1__2enc,/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_0__2,/ STATO_REG_0__2enc,/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_3__2,/ V_OUT_REG_3__2enc,/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_2__2,/ V_OUT_REG_2__2enc,/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_1__2,/ V_OUT_REG_1__2enc,/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_0__2,/ V_OUT_REG_0__2enc,/g' b10.unroll-logic
+sed -i '1,$s/ SIGN_REG_3__2,/ SIGN_REG_3__2enc,/g' b10.unroll-logic
+sed -i '1,$s/ VOTO1_REG_2,/ VOTO1_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/ CTR_REG_2,/ CTR_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/ VOTO3_REG_2,/ VOTO3_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/ LAST_R_REG_2,/ LAST_R_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/ CTS_REG_2,/ CTS_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/ VOTO2_REG_2,/ VOTO2_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/ LAST_G_REG_2,/ LAST_G_REG_2enc,/g' b10.unroll-logic
+sed -i '1,$s/ VOTO0_REG_2)/ VOTO0_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_3__2)/ STATO_REG_3__2enc)/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_2__2)/ STATO_REG_2__2enc)/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_1__2)/ STATO_REG_1__2enc)/g' b10.unroll-logic
+sed -i '1,$s/ STATO_REG_0__2)/ STATO_REG_0__2enc)/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_3__2)/ V_OUT_REG_3__2enc)/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_2__2)/ V_OUT_REG_2__2enc)/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_1__2)/ V_OUT_REG_1__2enc)/g' b10.unroll-logic
+sed -i '1,$s/ V_OUT_REG_0__2)/ V_OUT_REG_0__2enc)/g' b10.unroll-logic
+sed -i '1,$s/ SIGN_REG_3__2)/ SIGN_REG_3__2enc)/g' b10.unroll-logic
+sed -i '1,$s/ VOTO1_REG_2)/ VOTO1_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/ CTR_REG_2)/ CTR_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/ VOTO3_REG_2)/ VOTO3_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/ LAST_R_REG_2)/ LAST_R_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/ CTS_REG_2)/ CTS_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/ VOTO2_REG_2)/ VOTO2_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/ LAST_G_REG_2)/ LAST_G_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/(VOTO0_REG_2)/(VOTO0_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_3__2)/(STATO_REG_3__2enc)/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_2__2)/(STATO_REG_2__2enc)/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_1__2)/(STATO_REG_1__2enc)/g' b10.unroll-logic
+sed -i '1,$s/(STATO_REG_0__2)/(STATO_REG_0__2enc)/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_3__2)/(V_OUT_REG_3__2enc)/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_2__2)/(V_OUT_REG_2__2enc)/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_1__2)/(V_OUT_REG_1__2enc)/g' b10.unroll-logic
+sed -i '1,$s/(V_OUT_REG_0__2)/(V_OUT_REG_0__2enc)/g' b10.unroll-logic
+sed -i '1,$s/(SIGN_REG_3__2)/(SIGN_REG_3__2enc)/g' b10.unroll-logic
+sed -i '1,$s/(VOTO1_REG_2)/(VOTO1_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/(CTR_REG_2)/(CTR_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/(VOTO3_REG_2)/(VOTO3_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/(LAST_R_REG_2)/(LAST_R_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/(CTS_REG_2)/(CTS_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/(VOTO2_REG_2)/(VOTO2_REG_2enc)/g' b10.unroll-logic
+sed -i '1,$s/(LAST_G_REG_2)/(LAST_G_REG_2enc)/g' b10.unroll-logic

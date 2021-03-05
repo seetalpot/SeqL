@@ -1,0 +1,5 @@
+cat ../$2-bench/$1.bench |grep DFF|awk '{print $1}' > x.txt
+
+cat ../$2-bench/$1.bench |grep OUTPUT|sed -e 's/OUTPUT(//'|sed -e 's/)//' > y.txt
+
+cat x.txt y.txt |sort -n|uniq -c|awk '{print $1}'|sort -n|uniq -c

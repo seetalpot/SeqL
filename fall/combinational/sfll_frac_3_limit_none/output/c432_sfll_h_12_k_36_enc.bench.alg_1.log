@@ -1,0 +1,230 @@
+G1GAT                keyinputG1GAT       
+G4GAT                keyinputG4GAT       
+G8GAT                keyinputG8GAT       
+G11GAT               keyinputG11GAT      
+G14GAT               keyinputG14GAT      
+G17GAT               keyinputG17GAT      
+G21GAT               keyinputG21GAT      
+G24GAT               keyinputG24GAT      
+G27GAT               keyinputG27GAT      
+G30GAT               keyinputG30GAT      
+G34GAT               keyinputG34GAT      
+G37GAT               keyinputG37GAT      
+G40GAT               keyinputG40GAT      
+G43GAT               keyinputG43GAT      
+G47GAT               keyinputG47GAT      
+G50GAT               keyinputG50GAT      
+G53GAT               keyinputG53GAT      
+G56GAT               keyinputG56GAT      
+G60GAT               keyinputG60GAT      
+G63GAT               keyinputG63GAT      
+G66GAT               keyinputG66GAT      
+G69GAT               keyinputG69GAT      
+G73GAT               keyinputG73GAT      
+G76GAT               keyinputG76GAT      
+G79GAT               keyinputG79GAT      
+G82GAT               keyinputG82GAT      
+G86GAT               keyinputG86GAT      
+G89GAT               keyinputG89GAT      
+G92GAT               keyinputG92GAT      
+G95GAT               keyinputG95GAT      
+G99GAT               keyinputG99GAT      
+G102GAT              keyinputG102GAT     
+G105GAT              keyinputG105GAT     
+G108GAT              keyinputG108GAT     
+G112GAT              keyinputG112GAT     
+G115GAT              keyinputG115GAT     
+# of ckt inputs : 36
+# of gates      : 2374
+n2348 (   15/ 2374 @ 38)
+n2003 (   37/ 2374 @ 142)
+n2271 (   82/ 2374 @ 31)
+n2249 (   98/ 2374 @ 31)
+n2313 (  131/ 2374 @ 37)
+n2288 (  135/ 2374 @ 31)
+n2292 (  154/ 2374 @ 31)
+n1998 (  156/ 2374 @ 133)
+n2002 (  170/ 2374 @ 141)
+n2347 (  183/ 2374 @ 37)
+n1991 (  200/ 2374 @ 131)
+n2310 (  226/ 2374 @ 34)
+n2366 (  234/ 2374 @ 38)
+n2339 (  279/ 2374 @ 33)
+n2298 (  282/ 2374 @ 32)
+n2009 (  293/ 2374 @ 143)
+n2233 (  298/ 2374 @ 27)
+n2263 (  306/ 2374 @ 29)
+n2341 (  310/ 2374 @ 34)
+n2284 (  341/ 2374 @ 34)
+n2281 (  361/ 2374 @ 31)
+n2261 (  394/ 2374 @ 32)
+n2296 (  400/ 2374 @ 30)
+n2368 (  442/ 2374 @ 40)
+n1992 (  477/ 2374 @ 132)
+n2273 (  557/ 2374 @ 29)
+n2311 (  577/ 2374 @ 35)
+n2299 (  589/ 2374 @ 29)
+n2282 (  654/ 2374 @ 32)
+n2364 (  673/ 2374 @ 36)
+n2252 (  797/ 2374 @ 30)
+n2087 (  826/ 2374 @ 146)
+n2294 (  831/ 2374 @ 33)
+n2312 (  859/ 2374 @ 36)
+n2251 (  907/ 2374 @ 29)
+n1995 (  910/ 2374 @ 137)
+n2086 (  928/ 2374 @ 145)
+n1984 (  933/ 2374 @ 132)
+n2363 (  939/ 2374 @ 35)
+n2340 (  955/ 2374 @ 33)
+n1993 ( 1025/ 2374 @ 133)
+n1996 ( 1026/ 2374 @ 138)
+n2260 ( 1052/ 2374 @ 31)
+n2286 ( 1068/ 2374 @ 29)
+n1982 ( 1117/ 2374 @ 133)
+n2287 ( 1155/ 2374 @ 30)
+n2293 ( 1157/ 2374 @ 32)
+n2248 ( 1177/ 2374 @ 30)
+n1989 ( 1183/ 2374 @ 130)
+n2259 ( 1229/ 2374 @ 30)
+n2362 ( 1254/ 2374 @ 34)
+n1990 ( 1271/ 2374 @ 131)
+n2247 ( 1280/ 2374 @ 29)
+n2314 ( 1291/ 2374 @ 38)
+n2297 ( 1313/ 2374 @ 31)
+n2000 ( 1314/ 2374 @ 139)
+n2309 ( 1356/ 2374 @ 33)
+n1986 ( 1387/ 2374 @ 135)
+n2274 ( 1398/ 2374 @ 30)
+n2346 ( 1401/ 2374 @ 36)
+n2007 ( 1472/ 2374 @ 134)
+n2283 ( 1519/ 2374 @ 33)
+n2250 ( 1556/ 2374 @ 32)
+n2001 ( 1565/ 2374 @ 140)
+n2290 ( 1624/ 2374 @ 29)
+n2258 ( 1717/ 2374 @ 29)
+n1985 ( 1739/ 2374 @ 133)
+n2300 ( 1749/ 2374 @ 30)
+n2365 ( 1779/ 2374 @ 37)
+n2005 ( 1786/ 2374 @ 133)
+n2308 ( 1814/ 2374 @ 32)
+n2295 ( 1835/ 2374 @ 29)
+n1994 ( 1880/ 2374 @ 136)
+n2257 ( 1881/ 2374 @ 32)
+n2344 ( 1919/ 2374 @ 34)
+n2345 ( 1962/ 2374 @ 35)
+n2010 ( 1971/ 2374 @ 144)
+n2369 ( 1983/ 2374 @ 41)
+n2343 ( 2003/ 2374 @ 35)
+n2264 ( 2010/ 2374 @ 30)
+n2272 ( 2066/ 2374 @ 32)
+n2361 ( 2141/ 2374 @ 33)
+n2234 ( 2159/ 2374 @ 28)
+n2256 ( 2161/ 2374 @ 31)
+n2285 ( 2177/ 2374 @ 35)
+n2342 ( 2193/ 2374 @ 34)
+n2008 ( 2208/ 2374 @ 135)
+n2307 ( 2233/ 2374 @ 31)
+n2367 ( 2236/ 2374 @ 39)
+n1999 ( 2240/ 2374 @ 134)
+n2262 ( 2261/ 2374 @ 33)
+n2291 ( 2278/ 2374 @ 30)
+n1983 ( 2328/ 2374 @ 134)
+n2289 ( 2366/ 2374 @ 32)
+# of candidates : 94
+processing gate: n2348
+processing gate: n2003
+processing gate: n2271
+processing gate: n2249
+processing gate: n2313
+processing gate: n2288
+processing gate: n2292
+processing gate: n1998
+processing gate: n2002
+processing gate: n2347
+processing gate: n1991
+processing gate: n2310
+processing gate: n2366
+processing gate: n2339
+processing gate: n2298
+processing gate: n2009
+processing gate: n2233
+processing gate: n2263
+processing gate: n2341
+processing gate: n2284
+processing gate: n2281
+processing gate: n2261
+processing gate: n2296
+processing gate: n2368
+processing gate: n1992
+processing gate: n2273
+processing gate: n2311
+processing gate: n2299
+processing gate: n2282
+processing gate: n2364
+processing gate: n2252
+processing gate: n2087
+[2] FOUND key=001111010001111001111010111101001001
+processing gate: n2294
+processing gate: n2312
+processing gate: n2251
+processing gate: n1995
+processing gate: n2086
+[1] FOUND key=001111010001111001111010111101001001
+processing gate: n1984
+processing gate: n2363
+processing gate: n2340
+processing gate: n1993
+processing gate: n1996
+processing gate: n2260
+processing gate: n2286
+processing gate: n1982
+processing gate: n2287
+processing gate: n2293
+processing gate: n2248
+processing gate: n1989
+processing gate: n2259
+processing gate: n2362
+processing gate: n1990
+processing gate: n2247
+processing gate: n2314
+processing gate: n2297
+processing gate: n2000
+processing gate: n2309
+processing gate: n1986
+processing gate: n2274
+processing gate: n2346
+processing gate: n2007
+processing gate: n2283
+processing gate: n2250
+processing gate: n2001
+processing gate: n2290
+processing gate: n2258
+processing gate: n1985
+processing gate: n2300
+processing gate: n2365
+processing gate: n2005
+processing gate: n2308
+processing gate: n2295
+processing gate: n1994
+processing gate: n2257
+processing gate: n2344
+processing gate: n2345
+processing gate: n2010
+processing gate: n2369
+processing gate: n2343
+processing gate: n2264
+processing gate: n2272
+processing gate: n2361
+processing gate: n2234
+processing gate: n2256
+processing gate: n2285
+processing gate: n2342
+processing gate: n2008
+processing gate: n2307
+processing gate: n2367
+processing gate: n1999
+processing gate: n2262
+processing gate: n2291
+processing gate: n1983
+processing gate: n2289
+cpu_time 66.5

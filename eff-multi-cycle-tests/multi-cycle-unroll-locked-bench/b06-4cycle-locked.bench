@@ -1,0 +1,445 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(EQL_1)
+INPUT(CONT_EQL_1)
+
+
+##################################Primary Inputs for Unroll-2
+INPUT(EQL_2)
+INPUT(CONT_EQL_2)
+
+
+##################################Primary Inputs for Unroll-3
+INPUT(EQL_3)
+INPUT(CONT_EQL_3)
+
+
+##################################Primary Inputs for Unroll-4
+INPUT(EQL_4)
+INPUT(CONT_EQL_4)
+
+
+##################################Primary Outputs for Unroll-1
+OUTPUT(CC_MUX_REG_2__1)
+OUTPUT(CC_MUX_REG_1__1)
+OUTPUT(USCITE_REG_2__1)
+OUTPUT(USCITE_REG_1__1)
+OUTPUT(ENABLE_COUNT_REG_1)
+OUTPUT(ACKOUT_REG_1)
+
+
+##################################Primary Outputs for Unroll-2
+OUTPUT(CC_MUX_REG_2__2)
+OUTPUT(CC_MUX_REG_1__2)
+OUTPUT(USCITE_REG_2__2)
+OUTPUT(USCITE_REG_1__2)
+OUTPUT(ENABLE_COUNT_REG_2)
+OUTPUT(ACKOUT_REG_2)
+
+
+##################################Primary Outputs for Unroll-3
+OUTPUT(CC_MUX_REG_2__3)
+OUTPUT(CC_MUX_REG_1__3)
+OUTPUT(USCITE_REG_2__3)
+OUTPUT(USCITE_REG_1__3)
+OUTPUT(ENABLE_COUNT_REG_3)
+OUTPUT(ACKOUT_REG_3)
+
+
+##################################Primary Outputs for Unroll-4
+OUTPUT(CC_MUX_REG_2__4)
+OUTPUT(CC_MUX_REG_1__4)
+OUTPUT(USCITE_REG_2__4)
+OUTPUT(USCITE_REG_1__4)
+OUTPUT(ENABLE_COUNT_REG_4)
+OUTPUT(ACKOUT_REG_4)
+
+##################################Other Inputs
+INPUT(ACKOUT_REG_1)
+INPUT(STATE_REG_2__1)
+INPUT(STATE_REG_1__1)
+INPUT(STATE_REG_0__1)
+INPUT(CC_MUX_REG_2__1)
+INPUT(CC_MUX_REG_1__1)
+INPUT(USCITE_REG_2__1)
+INPUT(USCITE_REG_1__1)
+INPUT(ENABLE_COUNT_REG_1)
+
+##################################Other Outputs
+OUTPUT(U62_4$enc)
+OUTPUT(U57_4$enc)
+OUTPUT(U56_4$enc)
+OUTPUT(U55_4$enc)
+OUTPUT(U59_4$enc)
+OUTPUT(U58_4$enc)
+OUTPUT(U61_4$enc)
+OUTPUT(U60_4$enc)
+OUTPUT(U62_4$enc)
+
+#################################Key Inputs
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+
+####################################################################Unroll 1
+####################################################################Unroll 2
+####################################################################Unroll 3
+####################################################################Unroll 4
+
+ACKOUT_REG_2 = BUF(U62_1)
+STATE_REG_2__2 = BUF(U57_1)
+STATE_REG_1__2 = BUF(U56_1)
+STATE_REG_0__2 = BUF(U55_1)
+CC_MUX_REG_2__2 = BUF(U59_1)
+CC_MUX_REG_1__2 = BUF(U58_1)
+USCITE_REG_2__2 = BUF(U61_1)
+USCITE_REG_1__2 = BUF(U60_1)
+ENABLE_COUNT_REG_2 = BUF(U62_1)
+
+
+
+
+
+U54_1= AND(U90_1, U89_1)
+U55_1= NAND(U54_1, U78_1)
+U56_1= NAND(U82_1, U81_1, U72_1, U66_1)
+U57_1= NAND(U80_1, U79_1)
+U58_1= NAND(U88_1, U69_1, U92_1, U91_1)
+U59_1= NAND(U86_1, U70_1, U85_1)
+U60_1= NAND(EQL_1, U76_1, U54_1)
+U61_1= NAND(U72_1, U75_1)
+U62_1= NAND(U84_1, U83_1)
+U63_1= AND(STATE_REG_2__1, STATE_REG_1__1, STATE_REG_0__1enc)
+U64_1= NOT(STATE_REG_1__1)
+U65_1= NOT(EQL_1)
+U66_1= NAND(EQL_1, STATE_REG_1__1enc)
+U67_1= NOT(STATE_REG_2__1)
+U68_1= NOT(STATE_REG_0__1)
+U69_1= OR(STATE_REG_2__1, STATE_REG_0__1enc)
+U70_1= NAND(U64_1, U67_1, STATE_REG_0__1enc)
+U71_1= NOT(U66_1)
+U72_1= NAND(STATE_REG_2__1, U68_1, U64_1, U65_1)
+U73_1= NOT(U69_1)
+U74_1= NOT(U70_1)
+U75_1= NAND(STATE_REG_2__1, U71_1)
+U76_1= NAND(STATE_REG_2__1, STATE_REG_1__1enc)
+U77_1= OR(STATE_REG_1__1, STATE_REG_0__1enc)
+U78_1= NAND(U65_1, U77_1)
+U79_1= NAND(U74_1, U65_1)
+U80_1= NAND(STATE_REG_2__1, U78_1)
+U81_1= NAND(EQL_1, U67_1, STATE_REG_0__1enc)
+U82_1= NAND(U73_1, STATE_REG_1__1enc)
+U83_1= NAND(STATE_REG_1__1, U65_1, U73_1)
+U84_1= OR(CONT_EQL_1, U63_1)
+U85_1= NAND(U71_1, U68_1)
+U86_1= NAND(STATE_REG_2__1, U78_1)
+U87_1= NAND(EQL_1, U68_1)
+U88_1= NAND(STATE_REG_0__1, STATE_REG_2__1enc)
+U89_1= NAND(U73_1, U64_1)
+U90_1= NAND(STATE_REG_0__1, STATE_REG_1__1enc)
+U91_1= NAND(EQL_1, U64_1)
+U92_1= NAND(STATE_REG_1__1, U87_1)
+
+ACKOUT_REG_3 = BUF(U62_2)
+STATE_REG_2__3 = BUF(U57_2)
+STATE_REG_1__3 = BUF(U56_2)
+STATE_REG_0__3 = BUF(U55_2)
+CC_MUX_REG_2__3 = BUF(U59_2)
+CC_MUX_REG_1__3 = BUF(U58_2)
+USCITE_REG_2__3 = BUF(U61_2)
+USCITE_REG_1__3 = BUF(U60_2)
+ENABLE_COUNT_REG_3 = BUF(U62_2)
+
+
+
+
+
+U54_2= AND(U90_2, U89_2)
+U55_2= NAND(U54_2, U78_2)
+U56_2= NAND(U82_2, U81_2, U72_2, U66_2)
+U57_2= NAND(U80_2, U79_2)
+U58_2= NAND(U88_2, U69_2, U92_2, U91_2)
+U59_2= NAND(U86_2, U70_2, U85_2)
+U60_2= NAND(EQL_2, U76_2, U54_2)
+U61_2= NAND(U72_2, U75_2)
+U62_2= NAND(U84_2, U83_2)
+U63_2= AND(STATE_REG_2__2, STATE_REG_1__2, STATE_REG_0__2)
+U64_2= NOT(STATE_REG_1__2)
+U65_2= NOT(EQL_2)
+U66_2= NAND(EQL_2, STATE_REG_1__2)
+U67_2= NOT(STATE_REG_2__2)
+U68_2= NOT(STATE_REG_0__2)
+U69_2= OR(STATE_REG_2__2, STATE_REG_0__2)
+U70_2= NAND(U64_2, U67_2, STATE_REG_0__2)
+U71_2= NOT(U66_2)
+U72_2= NAND(STATE_REG_2__2, U68_2, U64_2, U65_2)
+U73_2= NOT(U69_2)
+U74_2= NOT(U70_2)
+U75_2= NAND(STATE_REG_2__2, U71_2)
+U76_2= NAND(STATE_REG_2__2, STATE_REG_1__2)
+U77_2= OR(STATE_REG_1__2, STATE_REG_0__2)
+U78_2= NAND(U65_2, U77_2)
+U79_2= NAND(U74_2, U65_2)
+U80_2= NAND(STATE_REG_2__2, U78_2)
+U81_2= NAND(EQL_2, U67_2, STATE_REG_0__2)
+U82_2= NAND(U73_2, STATE_REG_1__2)
+U83_2= NAND(STATE_REG_1__2, U65_2, U73_2)
+U84_2= OR(CONT_EQL_2, U63_2)
+U85_2= NAND(U71_2, U68_2)
+U86_2= NAND(STATE_REG_2__2, U78_2)
+U87_2= NAND(EQL_2, U68_2)
+U88_2= NAND(STATE_REG_0__2, STATE_REG_2__2)
+U89_2= NAND(U73_2, U64_2)
+U90_2= NAND(STATE_REG_0__2, STATE_REG_1__2)
+U91_2= NAND(EQL_2, U64_2)
+U92_2= NAND(STATE_REG_1__2, U87_2)
+
+ACKOUT_REG_4 = BUF(U62_3)
+STATE_REG_2__4 = BUF(U57_3)
+STATE_REG_1__4 = BUF(U56_3)
+STATE_REG_0__4 = BUF(U55_3)
+CC_MUX_REG_2__4 = BUF(U59_3)
+CC_MUX_REG_1__4 = BUF(U58_3)
+USCITE_REG_2__4 = BUF(U61_3)
+USCITE_REG_1__4 = BUF(U60_3)
+ENABLE_COUNT_REG_4 = BUF(U62_3)
+
+
+
+
+
+U54_3= AND(U90_3, U89_3)
+U55_3= NAND(U54_3, U78_3)
+U56_3= NAND(U82_3, U81_3, U72_3, U66_3)
+U57_3= NAND(U80_3, U79_3)
+U58_3= NAND(U88_3, U69_3, U92_3, U91_3)
+U59_3= NAND(U86_3, U70_3, U85_3)
+U60_3= NAND(EQL_3, U76_3, U54_3)
+U61_3= NAND(U72_3, U75_3)
+U62_3= NAND(U84_3, U83_3)
+U63_3= AND(STATE_REG_2__3, STATE_REG_1__3, STATE_REG_0__3)
+U64_3= NOT(STATE_REG_1__3)
+U65_3= NOT(EQL_3)
+U66_3= NAND(EQL_3, STATE_REG_1__3)
+U67_3= NOT(STATE_REG_2__3)
+U68_3= NOT(STATE_REG_0__3)
+U69_3= OR(STATE_REG_2__3, STATE_REG_0__3)
+U70_3= NAND(U64_3, U67_3, STATE_REG_0__3)
+U71_3= NOT(U66_3)
+U72_3= NAND(STATE_REG_2__3, U68_3, U64_3, U65_3)
+U73_3= NOT(U69_3)
+U74_3= NOT(U70_3)
+U75_3= NAND(STATE_REG_2__3, U71_3)
+U76_3= NAND(STATE_REG_2__3, STATE_REG_1__3)
+U77_3= OR(STATE_REG_1__3, STATE_REG_0__3)
+U78_3= NAND(U65_3, U77_3)
+U79_3= NAND(U74_3, U65_3)
+U80_3= NAND(STATE_REG_2__3, U78_3)
+U81_3= NAND(EQL_3, U67_3, STATE_REG_0__3)
+U82_3= NAND(U73_3, STATE_REG_1__3)
+U83_3= NAND(STATE_REG_1__3, U65_3, U73_3)
+U84_3= OR(CONT_EQL_3, U63_3)
+U85_3= NAND(U71_3, U68_3)
+U86_3= NAND(STATE_REG_2__3, U78_3)
+U87_3= NAND(EQL_3, U68_3)
+U88_3= NAND(STATE_REG_0__3, STATE_REG_2__3)
+U89_3= NAND(U73_3, U64_3)
+U90_3= NAND(STATE_REG_0__3, STATE_REG_1__3)
+U91_3= NAND(EQL_3, U64_3)
+U92_3= NAND(STATE_REG_1__3, U87_3)
+
+ACKOUT_REG_5 = BUF(U62_4)
+STATE_REG_2__5 = BUF(U57_4)
+STATE_REG_1__5 = BUF(U56_4)
+STATE_REG_0__5 = BUF(U55_4)
+CC_MUX_REG_2__5 = BUF(U59_4)
+CC_MUX_REG_1__5 = BUF(U58_4)
+USCITE_REG_2__5 = BUF(U61_4)
+USCITE_REG_1__5 = BUF(U60_4)
+ENABLE_COUNT_REG_5 = BUF(U62_4)
+
+
+
+
+
+U54_4= AND(U90_4, U89_4)
+U55_4= NAND(U54_4, U78_4)
+U56_4= NAND(U82_4, U81_4, U72_4, U66_4)
+U57_4= NAND(U80_4, U79_4)
+U58_4= NAND(U88_4, U69_4, U92_4, U91_4)
+U59_4= NAND(U86_4, U70_4, U85_4)
+U60_4= NAND(EQL_4, U76_4, U54_4)
+U61_4= NAND(U72_4, U75_4)
+U62_4= NAND(U84_4, U83_4)
+U63_4= AND(STATE_REG_2__4, STATE_REG_1__4, STATE_REG_0__4)
+U64_4= NOT(STATE_REG_1__4)
+U65_4= NOT(EQL_4)
+U66_4= NAND(EQL_4, STATE_REG_1__4)
+U67_4= NOT(STATE_REG_2__4)
+U68_4= NOT(STATE_REG_0__4)
+U69_4= OR(STATE_REG_2__4, STATE_REG_0__4)
+U70_4= NAND(U64_4, U67_4, STATE_REG_0__4)
+U71_4= NOT(U66_4)
+U72_4= NAND(STATE_REG_2__4, U68_4, U64_4, U65_4)
+U73_4= NOT(U69_4)
+U74_4= NOT(U70_4)
+U75_4= NAND(STATE_REG_2__4, U71_4)
+U76_4= NAND(STATE_REG_2__4, STATE_REG_1__4)
+U77_4= OR(STATE_REG_1__4, STATE_REG_0__4)
+U78_4= NAND(U65_4, U77_4)
+U79_4= NAND(U74_4, U65_4)
+U80_4= NAND(STATE_REG_2__4, U78_4)
+U81_4= NAND(EQL_4, U67_4, STATE_REG_0__4)
+U82_4= NAND(U73_4, STATE_REG_1__4)
+U83_4= NAND(STATE_REG_1__4, U65_4, U73_4)
+U84_4= OR(CONT_EQL_4, U63_4)
+U85_4= NAND(U71_4, U68_4)
+U86_4= NAND(STATE_REG_2__4, U78_4)
+U87_4= NAND(EQL_4, U68_4)
+U88_4= NAND(STATE_REG_0__4, STATE_REG_2__4)
+U89_4= NAND(U73_4, U64_4)
+U90_4= NAND(STATE_REG_0__4, STATE_REG_1__4)
+U91_4= NAND(EQL_4, U64_4)
+U92_4= NAND(STATE_REG_1__4, U87_4)
+
+
+#Input encryption logic for ACKOUT_REG
+ACKOUT_REG_1enc = XOR(ACKOUT_REG_1, keyinput0)
+
+#Output encryption logic for U62
+U62_4$enc_0 = XOR(U62_4, keyinput0)
+U62_4$enc_1 = XOR(U62_4$enc_0, keyinput1)
+U62_4$enc_2 = XOR(U62_4$enc_1, keyinput2)
+U62_4$enc_3 = XOR(U62_4$enc_2, keyinput3)
+U62_4$enc_4 = XOR(U62_4$enc_3, keyinput4)
+U62_4$enc_5 = XOR(U62_4$enc_4, keyinput5)
+U62_4$enc_6 = XOR(U62_4$enc_5, keyinput6)
+U62_4$enc_7 = XOR(U62_4$enc_6, keyinput7)
+U62_4$enc = XOR(U62_4$enc_7, keyinput8)
+
+
+#Input encryption logic for STATE_REG_2_
+STATE_REG_2__1enc_0 = XOR(STATE_REG_2__1, keyinput0)
+STATE_REG_2__1enc = XOR(STATE_REG_2__1enc_0, keyinput1)
+
+#Output encryption logic for U57
+U57_4$enc_0 = XOR(U57_4, keyinput1)
+U57_4$enc_1 = XOR(U57_4$enc_0, keyinput2)
+U57_4$enc_2 = XOR(U57_4$enc_1, keyinput3)
+U57_4$enc_3 = XOR(U57_4$enc_2, keyinput4)
+U57_4$enc_4 = XOR(U57_4$enc_3, keyinput5)
+U57_4$enc_5 = XOR(U57_4$enc_4, keyinput6)
+U57_4$enc_6 = XOR(U57_4$enc_5, keyinput7)
+U57_4$enc = XOR(U57_4$enc_6, keyinput8)
+
+
+#Input encryption logic for STATE_REG_1_
+STATE_REG_1__1enc_0 = XOR(STATE_REG_1__1, keyinput0)
+STATE_REG_1__1enc_1 = XOR(STATE_REG_1__1enc_0, keyinput1)
+STATE_REG_1__1enc = XOR(STATE_REG_1__1enc_1, keyinput2)
+
+#Output encryption logic for U56
+U56_4$enc_0 = XOR(U56_4, keyinput2)
+U56_4$enc_1 = XOR(U56_4$enc_0, keyinput3)
+U56_4$enc_2 = XOR(U56_4$enc_1, keyinput4)
+U56_4$enc_3 = XOR(U56_4$enc_2, keyinput5)
+U56_4$enc_4 = XOR(U56_4$enc_3, keyinput6)
+U56_4$enc_5 = XOR(U56_4$enc_4, keyinput7)
+U56_4$enc = XOR(U56_4$enc_5, keyinput8)
+
+
+#Input encryption logic for STATE_REG_0_
+STATE_REG_0__1enc_0 = XOR(STATE_REG_0__1, keyinput0)
+STATE_REG_0__1enc_1 = XOR(STATE_REG_0__1enc_0, keyinput1)
+STATE_REG_0__1enc_2 = XOR(STATE_REG_0__1enc_1, keyinput2)
+STATE_REG_0__1enc = XOR(STATE_REG_0__1enc_2, keyinput3)
+
+#Output encryption logic for U55
+U55_4$enc_0 = XOR(U55_4, keyinput3)
+U55_4$enc_1 = XOR(U55_4$enc_0, keyinput4)
+U55_4$enc_2 = XOR(U55_4$enc_1, keyinput5)
+U55_4$enc_3 = XOR(U55_4$enc_2, keyinput6)
+U55_4$enc_4 = XOR(U55_4$enc_3, keyinput7)
+U55_4$enc = XOR(U55_4$enc_4, keyinput8)
+
+
+#Input encryption logic for CC_MUX_REG_2_
+CC_MUX_REG_2__1enc_0 = XOR(CC_MUX_REG_2__1, keyinput0)
+CC_MUX_REG_2__1enc_1 = XOR(CC_MUX_REG_2__1enc_0, keyinput1)
+CC_MUX_REG_2__1enc_2 = XOR(CC_MUX_REG_2__1enc_1, keyinput2)
+CC_MUX_REG_2__1enc_3 = XOR(CC_MUX_REG_2__1enc_2, keyinput3)
+CC_MUX_REG_2__1enc = XOR(CC_MUX_REG_2__1enc_3, keyinput4)
+
+#Output encryption logic for U59
+U59_4$enc_0 = XOR(U59_4, keyinput4)
+U59_4$enc_1 = XOR(U59_4$enc_0, keyinput5)
+U59_4$enc_2 = XOR(U59_4$enc_1, keyinput6)
+U59_4$enc_3 = XOR(U59_4$enc_2, keyinput7)
+U59_4$enc = XOR(U59_4$enc_3, keyinput8)
+
+
+#Input encryption logic for CC_MUX_REG_1_
+CC_MUX_REG_1__1enc_0 = XOR(CC_MUX_REG_1__1, keyinput0)
+CC_MUX_REG_1__1enc_1 = XOR(CC_MUX_REG_1__1enc_0, keyinput1)
+CC_MUX_REG_1__1enc_2 = XOR(CC_MUX_REG_1__1enc_1, keyinput2)
+CC_MUX_REG_1__1enc_3 = XOR(CC_MUX_REG_1__1enc_2, keyinput3)
+CC_MUX_REG_1__1enc_4 = XOR(CC_MUX_REG_1__1enc_3, keyinput4)
+CC_MUX_REG_1__1enc = XOR(CC_MUX_REG_1__1enc_4, keyinput5)
+
+#Output encryption logic for U58
+U58_4$enc_0 = XOR(U58_4, keyinput5)
+U58_4$enc_1 = XOR(U58_4$enc_0, keyinput6)
+U58_4$enc_2 = XOR(U58_4$enc_1, keyinput7)
+U58_4$enc = XOR(U58_4$enc_2, keyinput8)
+
+
+#Input encryption logic for USCITE_REG_2_
+USCITE_REG_2__1enc_0 = XOR(USCITE_REG_2__1, keyinput0)
+USCITE_REG_2__1enc_1 = XOR(USCITE_REG_2__1enc_0, keyinput1)
+USCITE_REG_2__1enc_2 = XOR(USCITE_REG_2__1enc_1, keyinput2)
+USCITE_REG_2__1enc_3 = XOR(USCITE_REG_2__1enc_2, keyinput3)
+USCITE_REG_2__1enc_4 = XOR(USCITE_REG_2__1enc_3, keyinput4)
+USCITE_REG_2__1enc_5 = XOR(USCITE_REG_2__1enc_4, keyinput5)
+USCITE_REG_2__1enc = XOR(USCITE_REG_2__1enc_5, keyinput6)
+
+#Output encryption logic for U61
+U61_4$enc_0 = XOR(U61_4, keyinput6)
+U61_4$enc_1 = XOR(U61_4$enc_0, keyinput7)
+U61_4$enc = XOR(U61_4$enc_1, keyinput8)
+
+
+#Input encryption logic for USCITE_REG_1_
+USCITE_REG_1__1enc_0 = XOR(USCITE_REG_1__1, keyinput0)
+USCITE_REG_1__1enc_1 = XOR(USCITE_REG_1__1enc_0, keyinput1)
+USCITE_REG_1__1enc_2 = XOR(USCITE_REG_1__1enc_1, keyinput2)
+USCITE_REG_1__1enc_3 = XOR(USCITE_REG_1__1enc_2, keyinput3)
+USCITE_REG_1__1enc_4 = XOR(USCITE_REG_1__1enc_3, keyinput4)
+USCITE_REG_1__1enc_5 = XOR(USCITE_REG_1__1enc_4, keyinput5)
+USCITE_REG_1__1enc_6 = XOR(USCITE_REG_1__1enc_5, keyinput6)
+USCITE_REG_1__1enc = XOR(USCITE_REG_1__1enc_6, keyinput7)
+
+#Output encryption logic for U60
+U60_4$enc_0 = XOR(U60_4, keyinput7)
+U60_4$enc = XOR(U60_4$enc_0, keyinput8)
+
+
+#Input encryption logic for ENABLE_COUNT_REG
+ENABLE_COUNT_REG_1enc_0 = XOR(ENABLE_COUNT_REG_1, keyinput0)
+ENABLE_COUNT_REG_1enc_1 = XOR(ENABLE_COUNT_REG_1enc_0, keyinput1)
+ENABLE_COUNT_REG_1enc_2 = XOR(ENABLE_COUNT_REG_1enc_1, keyinput2)
+ENABLE_COUNT_REG_1enc_3 = XOR(ENABLE_COUNT_REG_1enc_2, keyinput3)
+ENABLE_COUNT_REG_1enc_4 = XOR(ENABLE_COUNT_REG_1enc_3, keyinput4)
+ENABLE_COUNT_REG_1enc_5 = XOR(ENABLE_COUNT_REG_1enc_4, keyinput5)
+ENABLE_COUNT_REG_1enc_6 = XOR(ENABLE_COUNT_REG_1enc_5, keyinput6)
+ENABLE_COUNT_REG_1enc_7 = XOR(ENABLE_COUNT_REG_1enc_6, keyinput7)
+ENABLE_COUNT_REG_1enc = XOR(ENABLE_COUNT_REG_1enc_7, keyinput8)
+
+#Output encryption logic for U62
+U62_4$enc = XOR(U62_4, keyinput8)
+

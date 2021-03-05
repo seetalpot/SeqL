@@ -1,0 +1,238 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(EQL_1)
+INPUT(CONT_EQL_1)
+
+
+##################################Primary Outputs for Unroll-1
+#OUTPUT(CC_MUX_REG_2__1)
+#OUTPUT(CC_MUX_REG_1__1)
+#OUTPUT(USCITE_REG_2__1)
+#OUTPUT(USCITE_REG_1__1)
+#OUTPUT(ENABLE_COUNT_REG_1)
+#OUTPUT(ACKOUT_REG_1)
+
+##################################Other Inputs
+INPUT(ACKOUT_REG_1)
+INPUT(STATE_REG_2__1)
+INPUT(STATE_REG_1__1)
+INPUT(STATE_REG_0__1)
+INPUT(CC_MUX_REG_2__1)
+INPUT(CC_MUX_REG_1__1)
+INPUT(USCITE_REG_2__1)
+INPUT(USCITE_REG_1__1)
+INPUT(ENABLE_COUNT_REG_1)
+
+##################################Other Outputs
+OUTPUT(U62_1$enc)
+OUTPUT(U57_1$enc)
+OUTPUT(U56_1$enc)
+OUTPUT(U55_1$enc)
+OUTPUT(U59_1$enc)
+OUTPUT(U58_1$enc)
+OUTPUT(U61_1$enc)
+OUTPUT(U60_1$enc)
+#OUTPUT(U62_1$enc)
+
+#################################Key Inputs
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+
+####################################################################Unroll 1
+
+ACKOUT_REG_2 = BUF(U62_1)
+STATE_REG_2__2 = BUF(U57_1)
+STATE_REG_1__2 = BUF(U56_1)
+STATE_REG_0__2 = BUF(U55_1)
+CC_MUX_REG_2__2 = BUF(U59_1)
+CC_MUX_REG_1__2 = BUF(U58_1)
+USCITE_REG_2__2 = BUF(U61_1)
+USCITE_REG_1__2 = BUF(U60_1)
+ENABLE_COUNT_REG_2 = BUF(U62_1)
+
+
+
+
+
+U54_1= AND(U90_1, U89_1)
+U55_1= NAND(U54_1, U78_1)
+U56_1= NAND(U82_1, U81_1, U72_1, U66_1)
+U57_1= NAND(U80_1, U79_1)
+U58_1= NAND(U88_1, U69_1, U92_1, U91_1)
+U59_1= NAND(U86_1, U70_1, U85_1)
+U60_1= NAND(EQL_1, U76_1, U54_1)
+U61_1= NAND(U72_1, U75_1)
+U62_1= NAND(U84_1, U83_1)
+U63_1= AND(STATE_REG_2__1, STATE_REG_1__1, STATE_REG_0__1enc)
+U64_1= NOT(STATE_REG_1__1)
+U65_1= NOT(EQL_1)
+U66_1= NAND(EQL_1, STATE_REG_1__1enc)
+U67_1= NOT(STATE_REG_2__1)
+U68_1= NOT(STATE_REG_0__1)
+U69_1= OR(STATE_REG_2__1, STATE_REG_0__1enc)
+U70_1= NAND(U64_1, U67_1, STATE_REG_0__1enc)
+U71_1= NOT(U66_1)
+U72_1= NAND(STATE_REG_2__1, U68_1, U64_1, U65_1)
+U73_1= NOT(U69_1)
+U74_1= NOT(U70_1)
+U75_1= NAND(STATE_REG_2__1, U71_1)
+U76_1= NAND(STATE_REG_2__1, STATE_REG_1__1enc)
+U77_1= OR(STATE_REG_1__1, STATE_REG_0__1enc)
+U78_1= NAND(U65_1, U77_1)
+U79_1= NAND(U74_1, U65_1)
+U80_1= NAND(STATE_REG_2__1, U78_1)
+U81_1= NAND(EQL_1, U67_1, STATE_REG_0__1enc)
+U82_1= NAND(U73_1, STATE_REG_1__1enc)
+U83_1= NAND(STATE_REG_1__1, U65_1, U73_1)
+U84_1= OR(CONT_EQL_1, U63_1)
+U85_1= NAND(U71_1, U68_1)
+U86_1= NAND(STATE_REG_2__1, U78_1)
+U87_1= NAND(EQL_1, U68_1)
+U88_1= NAND(STATE_REG_0__1, STATE_REG_2__1enc)
+U89_1= NAND(U73_1, U64_1)
+U90_1= NAND(STATE_REG_0__1, STATE_REG_1__1enc)
+U91_1= NAND(EQL_1, U64_1)
+U92_1= NAND(STATE_REG_1__1, U87_1)
+
+
+#Input encryption logic for ACKOUT_REG
+ACKOUT_REG_1enc = XOR(ACKOUT_REG_1, keyinput0)
+
+#Output encryption logic for U62
+U62_1$enc_0 = XOR(U62_1, keyinput0)
+U62_1$enc_1 = XOR(U62_1$enc_0, keyinput1)
+U62_1$enc_2 = XOR(U62_1$enc_1, keyinput2)
+U62_1$enc_3 = XOR(U62_1$enc_2, keyinput3)
+U62_1$enc_4 = XOR(U62_1$enc_3, keyinput4)
+U62_1$enc_5 = XOR(U62_1$enc_4, keyinput5)
+U62_1$enc_6 = XOR(U62_1$enc_5, keyinput6)
+U62_1$enc_7 = XOR(U62_1$enc_6, keyinput7)
+U62_1$enc = XOR(U62_1$enc_7, keyinput8)
+
+
+#Input encryption logic for STATE_REG_2_
+STATE_REG_2__1enc_0 = XOR(STATE_REG_2__1, keyinput0)
+STATE_REG_2__1enc = XOR(STATE_REG_2__1enc_0, keyinput1)
+
+#Output encryption logic for U57
+U57_1$enc_0 = XOR(U57_1, keyinput1)
+U57_1$enc_1 = XOR(U57_1$enc_0, keyinput2)
+U57_1$enc_2 = XOR(U57_1$enc_1, keyinput3)
+U57_1$enc_3 = XOR(U57_1$enc_2, keyinput4)
+U57_1$enc_4 = XOR(U57_1$enc_3, keyinput5)
+U57_1$enc_5 = XOR(U57_1$enc_4, keyinput6)
+U57_1$enc_6 = XOR(U57_1$enc_5, keyinput7)
+U57_1$enc = XOR(U57_1$enc_6, keyinput8)
+
+
+#Input encryption logic for STATE_REG_1_
+STATE_REG_1__1enc_0 = XOR(STATE_REG_1__1, keyinput0)
+STATE_REG_1__1enc_1 = XOR(STATE_REG_1__1enc_0, keyinput1)
+STATE_REG_1__1enc = XOR(STATE_REG_1__1enc_1, keyinput2)
+
+#Output encryption logic for U56
+U56_1$enc_0 = XOR(U56_1, keyinput2)
+U56_1$enc_1 = XOR(U56_1$enc_0, keyinput3)
+U56_1$enc_2 = XOR(U56_1$enc_1, keyinput4)
+U56_1$enc_3 = XOR(U56_1$enc_2, keyinput5)
+U56_1$enc_4 = XOR(U56_1$enc_3, keyinput6)
+U56_1$enc_5 = XOR(U56_1$enc_4, keyinput7)
+U56_1$enc = XOR(U56_1$enc_5, keyinput8)
+
+
+#Input encryption logic for STATE_REG_0_
+STATE_REG_0__1enc_0 = XOR(STATE_REG_0__1, keyinput0)
+STATE_REG_0__1enc_1 = XOR(STATE_REG_0__1enc_0, keyinput1)
+STATE_REG_0__1enc_2 = XOR(STATE_REG_0__1enc_1, keyinput2)
+STATE_REG_0__1enc = XOR(STATE_REG_0__1enc_2, keyinput3)
+
+#Output encryption logic for U55
+U55_1$enc_0 = XOR(U55_1, keyinput3)
+U55_1$enc_1 = XOR(U55_1$enc_0, keyinput4)
+U55_1$enc_2 = XOR(U55_1$enc_1, keyinput5)
+U55_1$enc_3 = XOR(U55_1$enc_2, keyinput6)
+U55_1$enc_4 = XOR(U55_1$enc_3, keyinput7)
+U55_1$enc = XOR(U55_1$enc_4, keyinput8)
+
+
+#Input encryption logic for CC_MUX_REG_2_
+CC_MUX_REG_2__1enc_0 = XOR(CC_MUX_REG_2__1, keyinput0)
+CC_MUX_REG_2__1enc_1 = XOR(CC_MUX_REG_2__1enc_0, keyinput1)
+CC_MUX_REG_2__1enc_2 = XOR(CC_MUX_REG_2__1enc_1, keyinput2)
+CC_MUX_REG_2__1enc_3 = XOR(CC_MUX_REG_2__1enc_2, keyinput3)
+CC_MUX_REG_2__1enc = XOR(CC_MUX_REG_2__1enc_3, keyinput4)
+
+#Output encryption logic for U59
+U59_1$enc_0 = XOR(U59_1, keyinput4)
+U59_1$enc_1 = XOR(U59_1$enc_0, keyinput5)
+U59_1$enc_2 = XOR(U59_1$enc_1, keyinput6)
+U59_1$enc_3 = XOR(U59_1$enc_2, keyinput7)
+U59_1$enc = XOR(U59_1$enc_3, keyinput8)
+
+
+#Input encryption logic for CC_MUX_REG_1_
+CC_MUX_REG_1__1enc_0 = XOR(CC_MUX_REG_1__1, keyinput0)
+CC_MUX_REG_1__1enc_1 = XOR(CC_MUX_REG_1__1enc_0, keyinput1)
+CC_MUX_REG_1__1enc_2 = XOR(CC_MUX_REG_1__1enc_1, keyinput2)
+CC_MUX_REG_1__1enc_3 = XOR(CC_MUX_REG_1__1enc_2, keyinput3)
+CC_MUX_REG_1__1enc_4 = XOR(CC_MUX_REG_1__1enc_3, keyinput4)
+CC_MUX_REG_1__1enc = XOR(CC_MUX_REG_1__1enc_4, keyinput5)
+
+#Output encryption logic for U58
+U58_1$enc_0 = XOR(U58_1, keyinput5)
+U58_1$enc_1 = XOR(U58_1$enc_0, keyinput6)
+U58_1$enc_2 = XOR(U58_1$enc_1, keyinput7)
+U58_1$enc = XOR(U58_1$enc_2, keyinput8)
+
+
+#Input encryption logic for USCITE_REG_2_
+USCITE_REG_2__1enc_0 = XOR(USCITE_REG_2__1, keyinput0)
+USCITE_REG_2__1enc_1 = XOR(USCITE_REG_2__1enc_0, keyinput1)
+USCITE_REG_2__1enc_2 = XOR(USCITE_REG_2__1enc_1, keyinput2)
+USCITE_REG_2__1enc_3 = XOR(USCITE_REG_2__1enc_2, keyinput3)
+USCITE_REG_2__1enc_4 = XOR(USCITE_REG_2__1enc_3, keyinput4)
+USCITE_REG_2__1enc_5 = XOR(USCITE_REG_2__1enc_4, keyinput5)
+USCITE_REG_2__1enc = XOR(USCITE_REG_2__1enc_5, keyinput6)
+
+#Output encryption logic for U61
+U61_1$enc_0 = XOR(U61_1, keyinput6)
+U61_1$enc_1 = XOR(U61_1$enc_0, keyinput7)
+U61_1$enc = XOR(U61_1$enc_1, keyinput8)
+
+
+#Input encryption logic for USCITE_REG_1_
+USCITE_REG_1__1enc_0 = XOR(USCITE_REG_1__1, keyinput0)
+USCITE_REG_1__1enc_1 = XOR(USCITE_REG_1__1enc_0, keyinput1)
+USCITE_REG_1__1enc_2 = XOR(USCITE_REG_1__1enc_1, keyinput2)
+USCITE_REG_1__1enc_3 = XOR(USCITE_REG_1__1enc_2, keyinput3)
+USCITE_REG_1__1enc_4 = XOR(USCITE_REG_1__1enc_3, keyinput4)
+USCITE_REG_1__1enc_5 = XOR(USCITE_REG_1__1enc_4, keyinput5)
+USCITE_REG_1__1enc_6 = XOR(USCITE_REG_1__1enc_5, keyinput6)
+USCITE_REG_1__1enc = XOR(USCITE_REG_1__1enc_6, keyinput7)
+
+#Output encryption logic for U60
+U60_1$enc_0 = XOR(U60_1, keyinput7)
+U60_1$enc = XOR(U60_1$enc_0, keyinput8)
+
+
+#Input encryption logic for ENABLE_COUNT_REG
+ENABLE_COUNT_REG_1enc_0 = XOR(ENABLE_COUNT_REG_1, keyinput0)
+ENABLE_COUNT_REG_1enc_1 = XOR(ENABLE_COUNT_REG_1enc_0, keyinput1)
+ENABLE_COUNT_REG_1enc_2 = XOR(ENABLE_COUNT_REG_1enc_1, keyinput2)
+ENABLE_COUNT_REG_1enc_3 = XOR(ENABLE_COUNT_REG_1enc_2, keyinput3)
+ENABLE_COUNT_REG_1enc_4 = XOR(ENABLE_COUNT_REG_1enc_3, keyinput4)
+ENABLE_COUNT_REG_1enc_5 = XOR(ENABLE_COUNT_REG_1enc_4, keyinput5)
+ENABLE_COUNT_REG_1enc_6 = XOR(ENABLE_COUNT_REG_1enc_5, keyinput6)
+ENABLE_COUNT_REG_1enc_7 = XOR(ENABLE_COUNT_REG_1enc_6, keyinput7)
+ENABLE_COUNT_REG_1enc = XOR(ENABLE_COUNT_REG_1enc_7, keyinput8)
+
+#Output encryption logic for U62
+#U62_1$enc = XOR(U62_1, keyinput8)
+

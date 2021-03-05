@@ -1,0 +1,65 @@
+pi00                 keyinputpi00        
+pi01                 keyinputpi01        
+pi02                 keyinputpi02        
+pi03                 keyinputpi03        
+pi04                 keyinputpi04        
+pi05                 keyinputpi05        
+pi06                 keyinputpi06        
+pi07                 keyinputpi07        
+pi08                 keyinputpi08        
+pi09                 keyinputpi09        
+pi10                 keyinputpi10        
+pi11                 keyinputpi11        
+pi12                 keyinputpi12        
+pi13                 keyinputpi13        
+pi14                 keyinputpi14        
+pi15                 keyinputpi15        
+pi16                 keyinputpi16        
+pi17                 keyinputpi17        
+pi18                 keyinputpi18        
+pi19                 keyinputpi19        
+pi20                 keyinputpi20        
+pi21                 keyinputpi21        
+pi22                 keyinputpi22        
+pi23                 keyinputpi23        
+pi24                 keyinputpi24        
+pi25                 keyinputpi25        
+pi26                 keyinputpi26        
+pi27                 keyinputpi27        
+pi28                 keyinputpi28        
+pi29                 keyinputpi29        
+pi30                 keyinputpi30        
+pi31                 keyinputpi31        
+pi32                 keyinputpi32        
+pi33                 keyinputpi33        
+pi34                 keyinputpi34        
+pi35                 keyinputpi35        
+pi36                 keyinputpi36        
+pi37                 keyinputpi37        
+pi38                 keyinputpi38        
+pi39                 keyinputpi39        
+pi40                 keyinputpi40        
+# of ckt inputs : 41
+# of gates      : 6214
+n2821 (  716/ 6214 @ 153)
+n2823 (  783/ 6214 @ 154)
+n2826 ( 1196/ 6214 @ 157)
+n2824 ( 1255/ 6214 @ 155)
+n2825 ( 1302/ 6214 @ 156)
+n2822 ( 2347/ 6214 @ 154)
+n2829 ( 2512/ 6214 @ 170)
+n2827 ( 5547/ 6214 @ 160)
+n2828 ( 5652/ 6214 @ 169)
+# of candidates : 9
+processing gate: n2821
+processing gate: n2823
+processing gate: n2826
+processing gate: n2824
+processing gate: n2825
+processing gate: n2822
+processing gate: n2829
+[2] FOUND key=11010111111010000101010011000001100111000
+processing gate: n2827
+processing gate: n2828
+[1] FOUND key=11010111111010000101010011000001100111000
+cpu_time 118.4

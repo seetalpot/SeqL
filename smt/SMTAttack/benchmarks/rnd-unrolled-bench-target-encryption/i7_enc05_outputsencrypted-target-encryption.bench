@@ -1,0 +1,4334 @@
+# key=111000101100111100100011110100100000110110001100111110010000001001
+INPUT(pi000)
+INPUT(pi001)
+INPUT(pi002)
+INPUT(pi003)
+INPUT(pi004)
+INPUT(pi005)
+INPUT(pi006)
+INPUT(pi007)
+INPUT(pi008)
+INPUT(pi009)
+INPUT(pi010)
+INPUT(pi011)
+INPUT(pi012)
+INPUT(pi013)
+INPUT(pi014)
+INPUT(pi015)
+INPUT(pi016)
+INPUT(pi017)
+INPUT(pi018)
+INPUT(pi019)
+INPUT(pi020)
+INPUT(pi021)
+INPUT(pi022)
+INPUT(pi023)
+INPUT(pi024)
+INPUT(pi025)
+INPUT(pi026)
+INPUT(pi027)
+INPUT(pi028)
+INPUT(pi029)
+INPUT(pi030)
+INPUT(pi031)
+INPUT(pi032)
+INPUT(pi033)
+INPUT(pi034)
+INPUT(pi035)
+INPUT(pi036)
+INPUT(pi037)
+INPUT(pi038)
+INPUT(pi039)
+INPUT(pi040)
+INPUT(pi041)
+INPUT(pi042)
+INPUT(pi043)
+INPUT(pi044)
+INPUT(pi045)
+INPUT(pi046)
+INPUT(pi047)
+INPUT(pi048)
+INPUT(pi049)
+INPUT(pi050)
+INPUT(pi051)
+INPUT(pi052)
+INPUT(pi053)
+INPUT(pi054)
+INPUT(pi055)
+INPUT(pi056)
+INPUT(pi057)
+INPUT(pi058)
+INPUT(pi059)
+INPUT(pi060)
+INPUT(pi061)
+INPUT(pi062)
+INPUT(pi063)
+INPUT(pi064)
+INPUT(pi065)
+INPUT(pi066)
+INPUT(pi067)
+INPUT(pi068)
+INPUT(pi069)
+INPUT(pi070)
+INPUT(pi071)
+INPUT(pi072)
+INPUT(pi073)
+INPUT(pi074)
+INPUT(pi075)
+INPUT(pi076)
+INPUT(pi077)
+INPUT(pi078)
+INPUT(pi079)
+INPUT(pi080)
+INPUT(pi081)
+INPUT(pi082)
+INPUT(pi083)
+INPUT(pi084)
+INPUT(pi085)
+INPUT(pi086)
+INPUT(pi087)
+INPUT(pi088)
+INPUT(pi089)
+INPUT(pi090)
+INPUT(pi091)
+INPUT(pi092)
+INPUT(pi093)
+INPUT(pi094)
+INPUT(pi095)
+INPUT(pi096)
+INPUT(pi097)
+INPUT(pi098)
+INPUT(pi099)
+INPUT(pi100)
+INPUT(pi101)
+INPUT(pi102)
+INPUT(pi103)
+INPUT(pi104)
+INPUT(pi105)
+INPUT(pi106)
+INPUT(pi107)
+INPUT(pi108)
+INPUT(pi109)
+INPUT(pi110)
+INPUT(pi111)
+INPUT(pi112)
+INPUT(pi113)
+INPUT(pi114)
+INPUT(pi115)
+INPUT(pi116)
+INPUT(pi117)
+INPUT(pi118)
+INPUT(pi119)
+INPUT(pi120)
+INPUT(pi121)
+INPUT(pi122)
+INPUT(pi123)
+INPUT(pi124)
+INPUT(pi125)
+INPUT(pi126)
+INPUT(pi127)
+INPUT(pi128)
+INPUT(pi129)
+INPUT(pi130)
+INPUT(pi131)
+INPUT(pi132)
+INPUT(pi133)
+INPUT(pi134)
+INPUT(pi135)
+INPUT(pi136)
+INPUT(pi137)
+INPUT(pi138)
+INPUT(pi139)
+INPUT(pi140)
+INPUT(pi141)
+INPUT(pi142)
+INPUT(pi143)
+INPUT(pi144)
+INPUT(pi145)
+INPUT(pi146)
+INPUT(pi147)
+INPUT(pi148)
+INPUT(pi149)
+INPUT(pi150)
+INPUT(pi151)
+INPUT(pi152)
+INPUT(pi153)
+INPUT(pi154)
+INPUT(pi155)
+INPUT(pi156)
+INPUT(pi157)
+INPUT(pi158)
+INPUT(pi159)
+INPUT(pi160)
+INPUT(pi161)
+INPUT(pi162)
+INPUT(pi163)
+INPUT(pi164)
+INPUT(pi165)
+INPUT(pi166)
+INPUT(pi167)
+INPUT(pi168)
+INPUT(pi169)
+INPUT(pi170)
+INPUT(pi171)
+INPUT(pi172)
+INPUT(pi173)
+INPUT(pi174)
+INPUT(pi175)
+INPUT(pi176)
+INPUT(pi177)
+INPUT(pi178)
+INPUT(pi179)
+INPUT(pi180)
+INPUT(pi181)
+INPUT(pi182)
+INPUT(pi183)
+INPUT(pi184)
+INPUT(pi185)
+INPUT(pi186)
+INPUT(pi187)
+INPUT(pi188)
+INPUT(pi189)
+INPUT(pi190)
+INPUT(pi191)
+INPUT(pi192)
+INPUT(pi193)
+INPUT(pi194)
+INPUT(pi195)
+INPUT(pi196)
+INPUT(pi197)
+INPUT(pi198)
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+INPUT(keyinput9)
+INPUT(keyinput10)
+INPUT(keyinput11)
+INPUT(keyinput12)
+INPUT(keyinput13)
+INPUT(keyinput14)
+INPUT(keyinput15)
+INPUT(keyinput16)
+INPUT(keyinput17)
+INPUT(keyinput18)
+INPUT(keyinput19)
+INPUT(keyinput20)
+INPUT(keyinput21)
+INPUT(keyinput22)
+INPUT(keyinput23)
+INPUT(keyinput24)
+INPUT(keyinput25)
+INPUT(keyinput26)
+INPUT(keyinput27)
+INPUT(keyinput28)
+INPUT(keyinput29)
+INPUT(keyinput30)
+INPUT(keyinput31)
+INPUT(keyinput32)
+INPUT(keyinput33)
+INPUT(keyinput34)
+INPUT(keyinput35)
+INPUT(keyinput36)
+INPUT(keyinput37)
+INPUT(keyinput38)
+INPUT(keyinput39)
+INPUT(keyinput40)
+INPUT(keyinput41)
+INPUT(keyinput42)
+INPUT(keyinput43)
+INPUT(keyinput44)
+INPUT(keyinput45)
+INPUT(keyinput46)
+INPUT(keyinput47)
+INPUT(keyinput48)
+INPUT(keyinput49)
+INPUT(keyinput50)
+INPUT(keyinput51)
+INPUT(keyinput52)
+INPUT(keyinput53)
+INPUT(keyinput54)
+INPUT(keyinput55)
+INPUT(keyinput56)
+INPUT(keyinput57)
+INPUT(keyinput58)
+INPUT(keyinput59)
+INPUT(keyinput60)
+INPUT(keyinput61)
+INPUT(keyinput62)
+INPUT(keyinput63)
+INPUT(keyinput64)
+INPUT(keyinput65)
+
+INPUT(keyinput66)
+INPUT(keyinput67)
+INPUT(keyinput68)
+INPUT(keyinput69)
+INPUT(keyinput70)
+INPUT(keyinput71)
+INPUT(keyinput72)
+INPUT(keyinput73)
+INPUT(keyinput74)
+INPUT(keyinput75)
+INPUT(keyinput76)
+INPUT(keyinput77)
+INPUT(keyinput78)
+INPUT(keyinput79)
+INPUT(keyinput80)
+INPUT(keyinput81)
+INPUT(keyinput82)
+INPUT(keyinput83)
+INPUT(keyinput84)
+INPUT(keyinput85)
+INPUT(keyinput86)
+INPUT(keyinput87)
+INPUT(keyinput88)
+INPUT(keyinput89)
+INPUT(keyinput90)
+INPUT(keyinput91)
+INPUT(keyinput92)
+INPUT(keyinput93)
+INPUT(keyinput94)
+INPUT(keyinput95)
+INPUT(keyinput96)
+INPUT(keyinput97)
+INPUT(keyinput98)
+INPUT(keyinput99)
+INPUT(keyinput100)
+INPUT(keyinput101)
+INPUT(keyinput102)
+INPUT(keyinput103)
+INPUT(keyinput104)
+INPUT(keyinput105)
+INPUT(keyinput106)
+INPUT(keyinput107)
+INPUT(keyinput108)
+INPUT(keyinput109)
+INPUT(keyinput110)
+INPUT(keyinput111)
+INPUT(keyinput112)
+INPUT(keyinput113)
+INPUT(keyinput114)
+INPUT(keyinput115)
+INPUT(keyinput116)
+INPUT(keyinput117)
+INPUT(keyinput118)
+INPUT(keyinput119)
+INPUT(keyinput120)
+INPUT(keyinput121)
+INPUT(keyinput122)
+INPUT(keyinput123)
+INPUT(keyinput124)
+INPUT(keyinput125)
+INPUT(keyinput126)
+INPUT(keyinput127)
+INPUT(keyinput128)
+INPUT(keyinput129)
+INPUT(keyinput130)
+INPUT(keyinput131)
+INPUT(keyinput132)
+
+
+OUTPUT(po00$enc)
+OUTPUT(po01$enc)
+OUTPUT(po02$enc)
+OUTPUT(po03$enc)
+OUTPUT(po04$enc)
+OUTPUT(po05$enc)
+OUTPUT(po06$enc)
+OUTPUT(po07$enc)
+OUTPUT(po08$enc)
+OUTPUT(po09$enc)
+OUTPUT(po10$enc)
+OUTPUT(po11$enc)
+OUTPUT(po12$enc)
+OUTPUT(po13$enc)
+OUTPUT(po14$enc)
+OUTPUT(po15$enc)
+OUTPUT(po16$enc)
+OUTPUT(po17$enc)
+OUTPUT(po18$enc)
+OUTPUT(po19$enc)
+OUTPUT(po20$enc)
+OUTPUT(po21$enc)
+OUTPUT(po22$enc)
+OUTPUT(po23$enc)
+OUTPUT(po24$enc)
+OUTPUT(po25$enc)
+OUTPUT(po26$enc)
+OUTPUT(po27$enc)
+OUTPUT(po28$enc)
+OUTPUT(po29$enc)
+OUTPUT(po30$enc)
+OUTPUT(po31$enc)
+OUTPUT(po32$enc)
+OUTPUT(po33$enc)
+OUTPUT(po34$enc)
+OUTPUT(po35$enc)
+OUTPUT(po36$enc)
+OUTPUT(po37$enc)
+OUTPUT(po38$enc)
+OUTPUT(po39$enc)
+OUTPUT(po40$enc)
+OUTPUT(po41$enc)
+OUTPUT(po42$enc)
+OUTPUT(po43$enc)
+OUTPUT(po44$enc)
+OUTPUT(po45$enc)
+OUTPUT(po46$enc)
+OUTPUT(po47$enc)
+OUTPUT(po48$enc)
+OUTPUT(po49$enc)
+OUTPUT(po50$enc)
+OUTPUT(po51$enc)
+OUTPUT(po52$enc)
+OUTPUT(po53$enc)
+OUTPUT(po54$enc)
+OUTPUT(po55$enc)
+OUTPUT(po56$enc)
+OUTPUT(po57$enc)
+OUTPUT(po58$enc)
+OUTPUT(po59$enc)
+OUTPUT(po60$enc)
+OUTPUT(po61$enc)
+OUTPUT(po62$enc)
+OUTPUT(po63$enc)
+OUTPUT(po64$enc)
+OUTPUT(po65$enc)
+OUTPUT(po66$enc)
+
+n266 = not(pi000)
+#n267 = not(pi002$enc)
+n267 = not(pi002)
+n268 = not(pi058)
+n269 = not(pi059)
+n270 = not(pi060)
+n271 = not(pi061)
+n272 = not(pi062)
+n273 = not(pi063)
+n274 = not(pi064)
+n275 = not(pi065)
+#n276 = not(pi066$enc)
+n276 = not(pi066)
+n277 = not(pi067)
+n278 = not(pi068)
+n279 = not(pi069)
+n280 = not(pi070)
+n281 = not(pi071)
+n282 = not(pi072)
+n283 = not(pi073)
+n284 = not(pi074)
+n285 = not(pi075)
+n286 = not(pi076)
+n287 = not(pi077)
+n288 = not(pi078)
+n289 = not(pi079)
+n290 = not(pi080)
+n291 = not(pi081)
+n292 = not(pi082)
+n293 = not(pi083)
+n294 = not(pi084)
+n295 = not(pi085)
+n296 = not(pi119)
+n297 = not(pi120)
+n298 = not(pi121)
+n299 = not(pi122)
+n300 = not(pi123)
+n301 = not(pi124)
+n302 = not(pi125)
+n303 = not(pi126)
+n304 = not(pi127)
+n305 = not(pi128)
+n306 = not(pi129)
+n307 = not(pi130)
+n308 = not(pi131)
+n309 = not(pi132)
+n310 = not(pi133)
+n311 = not(pi134)
+n312 = not(pi135)
+n313 = not(pi136)
+n314 = not(pi137)
+n315 = not(pi138)
+n316 = not(pi139)
+n317 = not(pi140)
+n318 = not(pi141$enc)
+n319 = not(pi142)
+n320 = not(pi143)
+n321 = not(pi144)
+n322 = not(pi145)
+n323 = not(pi146)
+n324 = not(pi147)
+n325 = not(pi148)
+n326 = not(pi149)
+n327 = not(pi150)
+n328 = not(pi184)
+n329 = not(pi185)
+n330 = not(pi186)
+n331 = not(pi187)
+n332 = not(pi191)
+n333 = not(pi192$enc)
+n334 = not(pi193)
+n335 = not(pi194)
+#n336 = and(pi002$enc, n268$enc)
+n336 = and(pi002, n268$enc)
+n337 = buf(n336)
+n338 = and(pi000, n337$enc)
+n339 = and(n267, pi030)
+n340 = not(n339)
+n341 = and(n338, n340)
+n342 = not(n341)
+#n343 = and(pi001, pi002$enc)
+n343 = and(pi001, pi002)
+n344 = not(n343)
+n345 = and(n340, n344)
+n346 = not(n345)
+n347 = nand(n266, n346)
+n348 = not(n347$enc)
+n349 = and(n342, n348)
+
+po00enc = xor(keyinput0, po00)
+po00 = not(n349)
+
+#n351 = and(pi002$enc, n269$enc)
+n351 = and(pi002, n269$enc)
+n352 = not(n351)
+n353 = and(pi000, n352)
+n354 = and(n267, pi031)
+n355 = not(n354)
+n356 = and(n353, n355)
+n357 = not(n356)
+#n358 = and(pi002$enc, pi003)
+n358 = and(pi002, pi003)
+n359 = not(n358)
+n360 = and(n355, n359)
+n361 = not(n360)
+n362 = and(n266, n361)
+n363 = not(n362)
+n364 = and(n357, n363)
+
+po01enc = xor(keyinput1, po01)
+po01 = not(n364)
+
+#n366 = and(pi002$enc, n270)
+n366 = and(pi002, n270)
+n367 = not(n366)
+n368 = and(pi000, n367)
+n369 = and(n267, pi032)
+n370 = not(n369)
+n371 = and(n368, n370)
+n372 = not(n371)
+#n373 = and(pi002$enc, pi004)
+n373 = and(pi002, pi004)
+n374 = not(n373)
+n375 = and(n370, n374)
+n376 = not(n375)
+n377 = and(n266, n376)
+n378 = not(n377)
+n379 = and(n372, n378)
+po02 = not(n379)
+#n381 = and(pi002$enc, n271)
+n381 = and(pi002, n271)
+n382 = not(n381)
+n383 = and(pi000, n382)
+n384 = and(n267, pi033)
+n385 = buf(n384)
+n386 = and(n383, n385$enc)
+n387 = not(n386)
+#n388 = and(pi002$enc, pi005)
+n388 = and(pi002, pi005)
+n389 = not(n388)
+n390 = and(n385$enc, n389)
+n391 = not(n390)
+n392 = and(n266, n391)
+n393 = not(n392)
+n394 = and(n387, n393)
+po03 = not(n394)
+#n396 = and(pi002$enc, n272)
+n396 = and(pi002, n272)
+n397 = not(n396)
+n398 = and(pi000, n397)
+n399 = and(n267, pi034)
+n400 = not(n399)
+n401 = and(n398, n400)
+n402 = not(n401)
+#n403 = and(pi002$enc, pi006)
+n403 = and(pi002, pi006)
+n404 = not(n403)
+n405 = and(n400, n404)
+n406 = not(n405)
+n407 = and(n266, n406)
+n408 = not(n407)
+n409 = and(n402, n408)
+po04 = not(n409)
+#n411 = and(pi002$enc, n273)
+n411 = and(pi002, n273)
+n412 = not(n411)
+n413 = and(pi000, n412)
+n414 = and(n267, pi035)
+n415 = not(n414)
+n416 = and(n413, n415)
+n417 = not(n416)
+#n418 = and(pi002$enc, pi007)
+n418 = and(pi002, pi007)
+n419 = buf(n418)
+n420 = and(n415, n419$enc)
+n421 = not(n420)
+n422 = and(n266, n421)
+n423 = not(n422)
+n424 = and(n417, n423)
+po05 = not(n424)
+#n426 = and(pi002$enc, n274)
+n426 = and(pi002, n274)
+n427 = not(n426)
+n428 = and(pi000, n427)
+n429 = and(n267, pi036)
+n430 = not(n429)
+n431 = and(n428$enc, n430)
+n432 = not(n431)
+#n433 = and(pi002$enc, pi008)
+n433 = and(pi002, pi008)
+n434 = not(n433)
+n435 = and(n430, n434)
+n436 = not(n435)
+n437 = and(n266, n436)
+n438 = not(n437)
+n439 = and(n432, n438)
+po06 = not(n439)
+#n441 = and(pi002$enc, n275)
+n441 = and(pi002, n275)
+n442 = not(n441)
+n443 = and(pi000, n442)
+n444 = and(n267, pi037)
+n445 = not(n444)
+n446 = and(n443, n445)
+n447 = not(n446)
+#n448 = and(pi002$enc, pi009)
+n448 = and(pi002, pi009)
+n449 = not(n448)
+n450 = and(n445, n449)
+n451 = not(n450)
+n452 = and(n266, n451)
+n453 = not(n452)
+n454 = and(n447, n453)
+po07 = not(n454$enc)
+#n456 = and(pi002$enc, n276)
+n456 = and(pi002, n276)
+n457 = not(n456$enc)
+n458 = nand(pi000, n457)
+n459 = and(n267, pi038)
+n460 = not(n459)
+n461 = and(n458$enc, n460)
+n462 = not(n461)
+#n463 = and(pi002$enc, pi010)
+n463 = and(pi002, pi010)
+n464 = not(n463)
+n465 = and(n460, n464)
+n466 = not(n465)
+n467 = and(n266, n466)
+n468 = not(n467)
+n469 = and(n462, n468)
+po08 = not(n469)
+#n471 = and(pi002$enc, n277)
+n471 = and(pi002, n277)
+n472 = not(n471)
+n473 = and(pi000, n472)
+n474 = and(n267, pi039)
+n475 = not(n474)
+n476 = and(n473, n475$enc)
+n477 = not(n476)
+#n478 = and(pi002$enc, pi011)
+n478 = and(pi002, pi011)
+n479 = not(n478)
+n480 = and(n475$enc, n479)
+n481 = not(n480)
+n482 = and(n266, n481)
+n483 = not(n482)
+n484 = and(n477, n483)
+po09 = not(n484)
+#n486 = and(pi002$enc, n278)
+n486 = and(pi002, n278)
+n487 = not(n486)
+n488 = and(pi000, n487$enc)
+n489 = and(n267, pi040)
+n490 = not(n489)
+n491 = and(n488, n490)
+n492 = not(n491)
+#n493 = and(pi002$enc, pi012)
+n493 = and(pi002, pi012)
+n494 = not(n493)
+n495 = and(n490, n494)
+n496 = not(n495)
+n497 = and(n266, n496)
+n498 = not(n497)
+n499 = and(n492, n498)
+po10 = not(n499)
+#n501 = and(pi002$enc, n279)
+n501 = and(pi002, n279)
+n502 = not(n501)
+n503 = and(pi000, n502)
+n504 = and(n267, pi041)
+n505 = not(n504)
+n506 = and(n503, n505)
+n507 = not(n506)
+#n508 = and(pi002$enc, pi013)
+n508 = and(pi002, pi013)
+n509 = not(n508)
+n510 = and(n505, n509)
+n511 = not(n510)
+n512 = and(n266, n511)
+n513 = not(n512)
+n514 = and(n507, n513)
+po11 = not(n514)
+#n516 = and(pi002$enc, n280)
+n516 = and(pi002, n280)
+n517 = not(n516)
+n518 = and(pi000, n517)
+n519 = and(n267, pi042)
+n520 = not(n519)
+n521 = and(n518, n520)
+n522 = not(n521)
+#n523 = and(pi002$enc, pi014)
+n523 = and(pi002, pi014)
+n524 = not(n523)
+n525 = and(n520, n524)
+n526 = not(n525)
+n527 = and(n266, n526)
+n528 = not(n527)
+n529 = and(n522, n528)
+po12 = not(n529)
+#n531 = and(pi002$enc, n281)
+n531 = and(pi002, n281)
+n532 = not(n531)
+n533 = and(pi000, n532)
+n534 = and(n267, pi043$enc)
+n535 = buf(n534)
+n536 = and(n533, n535$enc)
+n537 = not(n536)
+#n538 = and(pi002$enc, pi015)
+n538 = and(pi002, pi015)
+n539 = not(n538)
+n540 = and(n535$enc, n539)
+n541 = not(n540)
+n542 = and(n266, n541)
+n543 = not(n542)
+n544 = and(n537, n543)
+po13 = not(n544)
+#n546 = and(pi002$enc, n282)
+n546 = and(pi002, n282)
+n547 = not(n546)
+n548 = and(pi000, n547)
+n549 = and(n267, pi044)
+n550 = not(n549)
+n551 = and(n548, n550)
+n552 = not(n551)
+#n553 = nand(pi002$enc, pi016)
+n553 = nand(pi002, pi016)
+n554 = not(n553$enc)
+n555 = and(n550, n554)
+n556 = not(n555)
+n557 = and(n266, n556)
+n558 = not(n557)
+n559 = and(n552, n558)
+po14 = not(n559)
+#n561 = and(pi002$enc, n283)
+n561 = and(pi002, n283)
+n562 = not(n561)
+n563 = and(pi000, n562)
+n564 = and(n267, pi045)
+n565 = not(n564)
+n566 = and(n563, n565)
+n567 = not(n566)
+#n568 = and(pi002$enc, pi017)
+n568 = and(pi002, pi017)
+n569 = not(n568)
+n570 = and(n565, n569)
+n571 = not(n570)
+n572 = and(n266, n571)
+n573 = not(n572)
+n574 = and(n567, n573)
+po15 = not(n574)
+#n576 = and(pi002$enc, n284)
+n576 = and(pi002, n284)
+n577 = not(n576)
+n578 = and(pi000, n577)
+n579 = and(n267, pi046)
+n580 = not(n579)
+n581 = and(n578, n580)
+n582 = not(n581)
+#n583 = and(pi002$enc, pi018)
+n583 = and(pi002, pi018)
+n584 = not(n583)
+n585 = and(n580, n584)
+n586 = not(n585)
+n587 = and(n266, n586)
+n588 = not(n587)
+n589 = and(n582, n588)
+po16 = not(n589)
+#n591 = and(pi002$enc, n285)
+n591 = and(pi002, n285)
+n592 = not(n591)
+n593 = and(pi000, n592)
+n594 = and(n267, pi047)
+n595 = not(n594)
+n596 = and(n593, n595)
+n597 = not(n596)
+#n598 = and(pi002$enc, pi019)
+n598 = and(pi002, pi019)
+n599 = not(n598)
+n600 = and(n595, n599)
+n601 = not(n600)
+n602 = and(n266, n601)
+n603 = not(n602)
+n604 = and(n597, n603)
+po17 = not(n604)
+#n606 = and(pi002$enc, n286)
+n606 = and(pi002, n286)
+n607 = not(n606)
+n608 = and(pi000, n607)
+n609 = and(n267, pi048)
+n610 = not(n609)
+n611 = and(n608, n610$enc)
+n612 = not(n611)
+#n613 = and(pi002$enc, pi020)
+n613 = and(pi002, pi020)
+n614 = not(n613)
+n615 = and(n610$enc, n614)
+n616 = not(n615)
+n617 = and(n266, n616)
+n618 = buf(n617)
+n619 = and(n612, n618$enc)
+po18 = not(n619)
+#n621 = and(pi002$enc, n287)
+n621 = and(pi002, n287)
+n622 = not(n621)
+n623 = and(pi000, n622)
+n624 = and(n267, pi049)
+n625 = not(n624)
+n626 = and(n623, n625)
+n627 = not(n626)
+#n628 = and(pi002$enc, pi021)
+n628 = and(pi002, pi021)
+n629 = not(n628)
+n630 = and(n625, n629)
+n631 = not(n630)
+n632 = and(n266, n631)
+n633 = not(n632)
+n634 = and(n627, n633)
+po19 = not(n634)
+#n636 = and(pi002$enc, n288)
+n636 = and(pi002, n288)
+n637 = not(n636)
+n638 = and(pi000, n637)
+n639 = and(n267, pi050)
+n640 = not(n639)
+n641 = and(n638, n640)
+n642 = not(n641)
+#n643 = and(pi002$enc, pi022)
+n643 = and(pi002, pi022)
+n644 = not(n643)
+n645 = nand(n640, n644)
+n646 = not(n645$enc)
+n647 = and(n266, n646)
+n648 = not(n647)
+n649 = and(n642, n648)
+po20 = not(n649)
+#n651 = and(pi002$enc, n289)
+n651 = and(pi002, n289)
+n652 = buf(n651)
+n653 = and(pi000, n652$enc)
+n654 = and(n267, pi051)
+n655 = not(n654)
+n656 = and(n653, n655)
+n657 = not(n656$enc)
+#n658 = and(pi002$enc, pi023)
+n658 = and(pi002, pi023)
+n659 = not(n658)
+n660 = and(n655, n659)
+n661 = not(n660)
+n662 = and(n266, n661)
+n663 = not(n662)
+n664 = and(n657, n663)
+po21 = not(n664)
+#n666 = and(pi002$enc, n290)
+n666 = and(pi002, n290)
+n667 = not(n666)
+n668 = and(pi000, n667)
+n669 = and(n267, pi052)
+n670 = not(n669)
+n671 = and(n668, n670)
+n672 = not(n671)
+#n673 = and(pi002$enc, pi024)
+n673 = and(pi002, pi024)
+n674 = not(n673)
+n675 = and(n670, n674)
+n676 = not(n675)
+n677 = and(n266, n676)
+n678 = not(n677)
+n679 = and(n672, n678)
+po22 = not(n679)
+#n681 = and(pi002$enc, n291)
+n681 = and(pi002, n291)
+n682 = not(n681)
+n683 = and(pi000, n682)
+n684 = and(n267, pi053)
+n685 = not(n684)
+n686 = and(n683, n685)
+n687 = not(n686)
+#n688 = and(pi002$enc, pi025)
+n688 = and(pi002, pi025)
+n689 = not(n688)
+n690 = and(n685, n689)
+n691 = not(n690)
+n692 = and(n266, n691)
+n693 = not(n692)
+n694 = and(n687, n693)
+po23 = not(n694)
+#n696 = and(pi002$enc, n292)
+n696 = and(pi002, n292)
+n697 = not(n696)
+n698 = and(pi000, n697)
+n699 = and(n267, pi054)
+n700 = not(n699)
+n701 = and(n698, n700)
+n702 = not(n701)
+#n703 = and(pi002$enc, pi026)
+n703 = and(pi002, pi026)
+n704 = not(n703)
+n705 = and(n700, n704)
+n706 = buf(n705)
+n707 = and(n266, n706$enc)
+n708 = not(n707)
+n709 = and(n702, n708)
+po24 = buf(n709)
+#n711 = and(pi002$enc, n293)
+n711 = and(pi002, n293)
+n712 = not(n711)
+n713 = and(pi000, n712)
+n714 = and(n267, pi055)
+n715 = not(n714)
+n716 = and(n713, n715)
+n717 = not(n716)
+#n718 = and(pi002$enc, pi027)
+n718 = and(pi002, pi027)
+n719 = not(n718)
+n720 = and(n715, n719)
+n721 = not(n720)
+n722 = and(n266, n721)
+n723 = not(n722)
+n724 = and(n717, n723)
+po25 = not(n724)
+#n726 = and(pi002$enc, n294)
+n726 = and(pi002, n294)
+n727 = not(n726)
+n728 = and(pi000, n727)
+n729 = and(n267, pi056)
+n730 = not(n729)
+n731 = and(n728, n730)
+n732 = not(n731)
+#n733 = and(pi002$enc, pi028)
+n733 = and(pi002, pi028)
+n734 = not(n733)
+n735 = and(n730, n734)
+n736 = not(n735)
+n737 = and(n266, n736)
+n738 = not(n737)
+n739 = nand(n732, n738)
+po26 = not(n739$enc)
+#n741 = and(pi002$enc, n295)
+n741 = and(pi002, n295)
+n742 = not(n741)
+n743 = and(pi000, n742)
+n744 = and(n267, pi057)
+n745 = not(n744)
+n746 = and(n743, n745)
+n747 = not(n746)
+#n748 = and(pi002$enc, pi029)
+n748 = and(pi002, pi029)
+n749 = not(n748)
+n750 = and(n745, n749)
+n751 = not(n750)
+n752 = and(n266, n751)
+n753 = not(n752)
+n754 = and(n747, n753)
+po27 = not(n754)
+n756 = and(n267, n296)
+n757 = not(n756)
+n758 = and(pi087, n757)
+n759 = not(n758)
+n760 = and(pi000, n759)
+n761 = not(n760)
+#n762 = and(pi002$enc, pi151)
+n762 = and(pi002, pi151)
+n763 = and(pi000, n762)
+n764 = not(n763)
+#n765 = and(pi002$enc, pi086)
+n765 = and(pi002, pi086)
+n766 = not(n765)
+n767 = and(n267, pi119)
+n768 = buf(n767)
+n769 = and(n766, n768$enc)
+n770 = not(n769)
+n771 = and(n266, n770)
+n772 = not(n771)
+n773 = and(n764, n772)
+n774 = not(n773$enc)
+n775 = and(pi087, n774)
+n776 = not(n775)
+n777 = and(n761, n776)
+po28 = not(n777)
+n779 = and(n267, n297)
+n780 = not(n779)
+n781 = and(pi087, n780)
+n782 = not(n781)
+n783 = and(pi000, n782)
+n784 = not(n783)
+#n785 = and(pi002$enc, pi152)
+n785 = and(pi002, pi152)
+n786 = and(pi000, n785)
+n787 = not(n786)
+#n788 = and(pi002$enc, pi088)
+n788 = and(pi002, pi088)
+n789 = not(n788)
+n790 = and(n267, pi120)
+n791 = not(n790)
+n792 = and(n789, n791)
+n793 = not(n792)
+n794 = and(n266, n793)
+n795 = not(n794)
+n796 = and(n787$enc, n795)
+n797 = not(n796)
+n798 = and(pi087, n797)
+n799 = not(n798)
+n800 = and(n784, n799)
+po29 = not(n800)
+n802 = and(n267, n298)
+n803 = not(n802)
+n804 = and(pi087, n803)
+n805 = not(n804)
+n806 = and(pi000, n805)
+n807 = not(n806)
+#n808 = and(pi002$enc, pi153)
+n808 = and(pi002, pi153)
+n809 = and(pi000, n808)
+n810 = not(n809)
+#n811 = and(pi002$enc, pi089)
+n811 = and(pi002, pi089)
+n812 = not(n811)
+n813 = and(n267, pi121)
+n814 = not(n813)
+n815 = and(n812, n814)
+n816 = not(n815)
+n817 = and(n266, n816)
+n818 = not(n817$enc)
+n819 = and(n810, n818)
+n820 = not(n819)
+n821 = and(pi087, n820)
+n822 = not(n821)
+n823 = and(n807$enc, n822)
+po30 = not(n823)
+n825 = and(n267, n299)
+n826 = not(n825)
+n827 = and(pi087, n826)
+n828 = not(n827)
+n829 = and(pi000, n828)
+n830 = not(n829)
+#n831 = and(pi002$enc, pi154)
+n831 = and(pi002, pi154)
+n832 = and(pi000, n831)
+n833 = not(n832)
+#n834 = and(pi002$enc, pi090)
+n834 = and(pi002, pi090)
+n835 = not(n834)
+n836 = and(n267, pi122)
+n837 = not(n836)
+n838 = and(n835, n837)
+n839 = not(n838)
+n840 = and(n266, n839)
+n841 = not(n840)
+n842 = and(n833, n841)
+n843 = not(n842)
+n844 = and(pi087, n843)
+n845 = not(n844)
+n846 = and(n830, n845)
+po31 = not(n846)
+n848 = and(n267, n300)
+n849 = not(n848)
+n850 = and(pi087, n849)
+n851 = not(n850)
+n852 = and(pi000, n851)
+n853 = not(n852)
+#n854 = and(pi002$enc, pi155)
+n854 = and(pi002, pi155)
+n855 = and(pi000, n854)
+n856 = not(n855)
+#n857 = and(pi002$enc, pi091)
+n857 = and(pi002, pi091)
+n858 = not(n857)
+n859 = nand(n267, pi123)
+n860 = not(n859$enc)
+n861 = and(n858, n860)
+n862 = not(n861)
+n863 = and(n266, n862)
+n864 = not(n863)
+n865 = nand(n856, n864)
+n866 = not(n865$enc)
+n867 = and(pi087, n866)
+n868 = not(n867)
+n869 = and(n853, n868)
+po32 = not(n869)
+n871 = and(n267, n301)
+n872 = not(n871)
+n873 = and(pi087, n872)
+n874 = not(n873)
+n875 = and(pi000, n874)
+n876 = not(n875)
+#n877 = and(pi002$enc, pi156)
+n877 = and(pi002, pi156)
+n878 = and(pi000, n877)
+n879 = not(n878)
+#n880 = and(pi002$enc, pi092)
+n880 = and(pi002, pi092)
+n881 = not(n880)
+n882 = and(n267, pi124)
+n883 = not(n882)
+n884 = and(n881, n883)
+n885 = not(n884)
+n886 = and(n266, n885)
+n887 = not(n886)
+n888 = and(n879, n887)
+n889 = not(n888)
+n890 = and(pi087, n889)
+n891 = not(n890)
+n892 = and(n876, n891)
+po33 = not(n892)
+n894 = and(n267, n302)
+n895 = not(n894)
+n896 = and(pi087, n895)
+n897 = not(n896)
+n898 = and(pi000, n897)
+n899 = not(n898)
+#n900 = and(pi002$enc, pi157)
+n900 = and(pi002, pi157)
+n901 = and(pi000, n900)
+n902 = not(n901)
+#n903 = and(pi002$enc, pi093)
+n903 = and(pi002, pi093)
+n904 = not(n903)
+n905 = and(n267, pi125)
+n906 = not(n905)
+n907 = and(n904, n906)
+n908 = not(n907)
+n909 = and(n266, n908)
+n910 = not(n909)
+n911 = and(n902, n910)
+n912 = not(n911)
+n913 = and(pi087, n912)
+n914 = not(n913)
+n915 = and(n899, n914)
+po34 = not(n915)
+n917 = and(n267, n303)
+n918 = not(n917)
+n919 = and(pi087, n918)
+n920 = not(n919)
+n921 = and(pi000, n920)
+n922 = not(n921)
+#n923 = and(pi002$enc, pi158)
+n923 = and(pi002, pi158)
+n924 = and(pi000, n923)
+n925 = not(n924)
+#n926 = and(pi002$enc, pi094)
+n926 = and(pi002, pi094)
+n927 = not(n926)
+n928 = and(n267, pi126)
+n929 = not(n928)
+n930 = and(n927, n929)
+n931 = not(n930)
+n932 = and(n266, n931)
+n933 = not(n932)
+n934 = and(n925, n933)
+n935 = not(n934)
+n936 = and(pi087, n935)
+n937 = not(n936)
+n938 = and(n922, n937)
+po35 = not(n938)
+n940 = and(n267, n304)
+n941 = not(n940)
+n942 = and(pi087, n941)
+n943 = not(n942)
+n944 = and(pi000, n943)
+n945 = not(n944)
+#n946 = nand(pi002$enc, pi159)
+n946 = nand(pi002, pi159)
+n947 = and(pi000, n946$enc)
+n948 = not(n947)
+#n949 = nand(pi002$enc, pi095)
+n949 = nand(pi002, pi095)
+n950 = not(n949$enc)
+n951 = and(n267, pi127)
+n952 = not(n951)
+n953 = and(n950, n952)
+n954 = not(n953)
+n955 = and(n266, n954)
+n956 = not(n955)
+n957 = and(n948, n956)
+n958 = not(n957)
+n959 = and(pi087, n958)
+n960 = not(n959)
+n961 = and(n945, n960)
+po36 = not(n961)
+n963 = and(n267, n305)
+n964 = not(n963)
+n965 = and(pi087, n964)
+n966 = not(n965)
+n967 = and(pi000, n966)
+n968 = not(n967)
+#n969 = and(pi002$enc, pi160)
+n969 = and(pi002, pi160)
+n970 = and(pi000, n969)
+n971 = not(n970)
+#n972 = and(pi002$enc, pi096)
+n972 = and(pi002, pi096)
+n973 = not(n972)
+n974 = and(n267, pi128)
+n975 = not(n974)
+n976 = and(n973, n975)
+n977 = not(n976)
+n978 = and(n266, n977)
+n979 = not(n978)
+n980 = and(n971, n979$enc)
+n981 = not(n980)
+n982 = and(pi087, n981)
+n983 = not(n982)
+n984 = and(n968, n983)
+po37 = not(n984)
+n986 = and(n267, n306)
+n987 = not(n986)
+n988 = and(pi087, n987)
+n989 = not(n988)
+n990 = and(pi000, n989)
+n991 = not(n990)
+#n992 = and(pi002$enc, pi161)
+n992 = and(pi002, pi161)
+n993 = and(pi000, n992)
+n994 = not(n993)
+#n995 = and(pi002$enc, pi097)
+n995 = and(pi002, pi097)
+n996 = not(n995)
+n997 = and(n267, pi129)
+n998 = not(n997)
+n999 = and(n996, n998)
+n1000 = not(n999)
+n1001 = and(n266, n1000)
+n1002 = not(n1001)
+n1003 = and(n994, n1002)
+n1004 = not(n1003)
+n1005 = and(pi087, n1004)
+n1006 = not(n1005)
+n1007 = and(n991, n1006)
+po38 = not(n1007)
+n1009 = and(n267, n307)
+n1010 = not(n1009)
+n1011 = and(pi087, n1010)
+n1012 = not(n1011)
+n1013 = and(pi000, n1012)
+n1014 = not(n1013)
+#n1015 = and(pi002$enc, pi162)
+n1015 = and(pi002, pi162)
+n1016 = and(pi000, n1015)
+n1017 = not(n1016)
+#n1018 = nand(pi002$enc, pi098)
+n1018 = nand(pi002, pi098)
+n1019 = not(n1018$enc)
+n1020 = and(n267, pi130)
+n1021 = not(n1020)
+n1022 = and(n1019, n1021)
+n1023 = not(n1022)
+n1024 = and(n266, n1023)
+n1025 = not(n1024)
+n1026 = and(n1017, n1025)
+n1027 = not(n1026)
+n1028 = and(pi087, n1027)
+n1029 = not(n1028)
+n1030 = and(n1014, n1029)
+po39 = not(n1030)
+n1032 = and(n267, n308)
+n1033 = not(n1032)
+n1034 = and(pi087, n1033)
+n1035 = not(n1034)
+n1036 = and(pi000, n1035)
+n1037 = not(n1036)
+#n1038 = and(pi002$enc, pi163)
+n1038 = and(pi002, pi163)
+n1039 = and(pi000, n1038$enc)
+n1040 = not(n1039)
+#n1041 = and(pi002$enc, pi099)
+n1041 = and(pi002, pi099)
+n1042 = not(n1041)
+n1043 = and(n267, pi131)
+n1044 = not(n1043)
+n1045 = and(n1042, n1044)
+n1046 = not(n1045)
+n1047 = and(n266, n1046)
+n1048 = not(n1047)
+n1049 = and(n1040, n1048)
+n1050 = not(n1049)
+n1051 = and(pi087, n1050)
+n1052 = not(n1051)
+n1053 = and(n1037, n1052)
+po40 = not(n1053)
+n1055 = and(n267, n309)
+n1056 = not(n1055)
+n1057 = and(pi087, n1056)
+n1058 = not(n1057)
+n1059 = and(pi000, n1058)
+n1060 = not(n1059)
+#n1061 = and(pi002$enc, pi164$enc)
+n1061 = and(pi002, pi164$enc)
+n1062 = and(pi000, n1061)
+n1063 = not(n1062)
+#n1064 = and(pi002$enc, pi100)
+n1064 = and(pi002, pi100)
+n1065 = not(n1064)
+n1066 = and(n267, pi132)
+n1067 = not(n1066)
+n1068 = and(n1065, n1067)
+n1069 = not(n1068)
+n1070 = and(n266, n1069)
+n1071 = not(n1070)
+n1072 = and(n1063, n1071)
+n1073 = not(n1072)
+n1074 = and(pi087, n1073)
+n1075 = not(n1074)
+n1076 = and(n1060, n1075)
+po41 = not(n1076)
+n1078 = nand(n267, n310)
+n1079 = not(n1078$enc)
+n1080 = and(pi087, n1079)
+n1081 = not(n1080)
+n1082 = and(pi000, n1081)
+n1083 = not(n1082)
+#n1084 = and(pi002$enc, pi165)
+n1084 = and(pi002, pi165)
+n1085 = and(pi000, n1084)
+n1086 = not(n1085)
+#n1087 = and(pi002$enc, pi101)
+n1087 = and(pi002, pi101)
+n1088 = not(n1087)
+n1089 = and(n267, pi133)
+n1090 = not(n1089)
+n1091 = and(n1088, n1090)
+n1092 = not(n1091)
+n1093 = and(n266, n1092)
+n1094 = not(n1093)
+n1095 = and(n1086, n1094)
+n1096 = buf(n1095)
+n1097 = and(pi087, n1096$enc)
+n1098 = not(n1097)
+n1099 = and(n1083, n1098)
+po42 = not(n1099)
+n1101 = and(n267, n311)
+n1102 = not(n1101)
+n1103 = and(pi087, n1102)
+n1104 = not(n1103)
+n1105 = and(pi000, n1104)
+n1106 = not(n1105)
+#n1107 = and(pi002$enc, pi166)
+n1107 = and(pi002, pi166)
+n1108 = and(pi000, n1107)
+n1109 = not(n1108)
+#n1110 = and(pi002$enc, pi102)
+n1110 = and(pi002, pi102)
+n1111 = not(n1110)
+n1112 = and(n267, pi134)
+n1113 = not(n1112)
+n1114 = and(n1111, n1113)
+n1115 = not(n1114)
+n1116 = and(n266, n1115)
+n1117 = not(n1116)
+n1118 = and(n1109, n1117)
+n1119 = not(n1118)
+n1120 = and(pi087, n1119)
+n1121 = not(n1120)
+n1122 = and(n1106, n1121)
+po43 = not(n1122)
+n1124 = and(n267, n312)
+n1125 = not(n1124)
+n1126 = nand(pi087, n1125)
+n1127 = not(n1126$enc)
+n1128 = and(pi000, n1127)
+n1129 = not(n1128)
+#n1130 = and(pi002$enc, pi167)
+n1130 = and(pi002, pi167)
+n1131 = and(pi000, n1130)
+n1132 = not(n1131)
+#n1133 = and(pi002$enc, pi103)
+n1133 = and(pi002, pi103)
+n1134 = not(n1133)
+n1135 = and(n267, pi135)
+n1136 = not(n1135)
+n1137 = and(n1134, n1136)
+n1138 = not(n1137)
+n1139 = and(n266, n1138)
+n1140 = not(n1139)
+n1141 = and(n1132, n1140)
+n1142 = not(n1141)
+n1143 = and(pi087, n1142)
+n1144 = not(n1143)
+n1145 = and(n1129, n1144)
+po44 = not(n1145)
+n1147 = and(n267, n313)
+n1148 = not(n1147)
+n1149 = and(pi087, n1148)
+n1150 = not(n1149)
+n1151 = and(pi000, n1150)
+n1152 = not(n1151)
+#n1153 = and(pi002$enc, pi168)
+n1153 = and(pi002, pi168)
+n1154 = and(pi000, n1153)
+n1155 = not(n1154)
+#n1156 = and(pi002$enc, pi104)
+n1156 = and(pi002, pi104)
+n1157 = not(n1156)
+n1158 = and(n267, pi136)
+n1159 = not(n1158)
+n1160 = and(n1157, n1159)
+n1161 = not(n1160)
+n1162 = and(n266, n1161)
+n1163 = not(n1162)
+n1164 = and(n1155, n1163)
+n1165 = not(n1164)
+n1166 = and(pi087, n1165)
+n1167 = not(n1166)
+n1168 = and(n1152, n1167)
+po45 = not(n1168)
+n1170 = and(n267, n314)
+n1171 = not(n1170)
+n1172 = and(pi087, n1171)
+n1173 = not(n1172)
+n1174 = and(pi000, n1173)
+n1175 = not(n1174)
+#n1176 = and(pi002$enc, pi169)
+n1176 = and(pi002, pi169)
+n1177 = and(pi000, n1176)
+n1178 = not(n1177)
+#n1179 = and(pi002$enc, pi105)
+n1179 = and(pi002, pi105)
+n1180 = not(n1179)
+n1181 = and(n267, pi137)
+n1182 = not(n1181)
+n1183 = and(n1180, n1182)
+n1184 = not(n1183)
+n1185 = and(n266, n1184)
+n1186 = not(n1185)
+n1187 = and(n1178, n1186)
+n1188 = not(n1187)
+n1189 = and(pi087, n1188)
+n1190 = not(n1189)
+n1191 = and(n1175, n1190)
+po46 = not(n1191)
+n1193 = and(n267, n315)
+n1194 = not(n1193)
+n1195 = and(pi087, n1194)
+n1196 = not(n1195)
+n1197 = and(pi000, n1196)
+n1198 = not(n1197)
+#n1199 = and(pi002$enc, pi170)
+n1199 = and(pi002, pi170)
+n1200 = and(pi000, n1199)
+n1201 = not(n1200)
+#n1202 = and(pi002$enc, pi106$enc)
+n1202 = and(pi002, pi106$enc)
+n1203 = not(n1202)
+n1204 = and(n267, pi138)
+n1205 = not(n1204)
+n1206 = and(n1203, n1205)
+n1207 = not(n1206)
+n1208 = and(n266, n1207)
+n1209 = not(n1208)
+n1210 = and(n1201, n1209)
+n1211 = not(n1210)
+n1212 = and(pi087, n1211)
+n1213 = not(n1212)
+n1214 = and(n1198$enc, n1213)
+po47 = not(n1214)
+n1216 = and(n267, n316)
+n1217 = not(n1216)
+n1218 = and(pi087, n1217)
+n1219 = not(n1218)
+n1220 = and(pi000, n1219)
+n1221 = not(n1220)
+#n1222 = and(pi002$enc, pi171)
+n1222 = and(pi002, pi171)
+n1223 = and(pi000, n1222)
+n1224 = not(n1223)
+#n1225 = and(pi002$enc, pi107)
+n1225 = and(pi002, pi107)
+n1226 = not(n1225)
+n1227 = and(n267, pi139)
+n1228 = not(n1227)
+n1229 = and(n1226, n1228)
+n1230 = not(n1229)
+n1231 = and(n266, n1230)
+n1232 = not(n1231)
+n1233 = nand(n1224, n1232)
+n1234 = not(n1233$enc)
+n1235 = and(pi087, n1234)
+n1236 = not(n1235)
+n1237 = and(n1221, n1236)
+po48 = not(n1237)
+n1239 = and(n267, n317)
+n1240 = not(n1239)
+n1241 = and(pi087, n1240)
+n1242 = not(n1241)
+n1243 = and(pi000, n1242)
+n1244 = not(n1243)
+#n1245 = and(pi002$enc, pi172)
+n1245 = and(pi002, pi172)
+n1246 = and(pi000, n1245)
+n1247 = not(n1246)
+#n1248 = and(pi002$enc, pi108)
+n1248 = and(pi002, pi108)
+n1249 = not(n1248)
+n1250 = and(n267, pi140)
+n1251 = not(n1250)
+n1252 = nand(n1249, n1251)
+n1253 = not(n1252$enc)
+n1254 = and(n266, n1253)
+n1255 = not(n1254)
+n1256 = and(n1247, n1255)
+n1257 = not(n1256)
+n1258 = and(pi087, n1257$enc)
+n1259 = not(n1258)
+n1260 = and(n1244, n1259)
+po49 = not(n1260)
+n1262 = nand(n267, n318)
+n1263 = not(n1262$enc)
+n1264 = and(pi087, n1263)
+n1265 = not(n1264)
+n1266 = and(pi000, n1265)
+n1267 = not(n1266)
+#n1268 = and(pi002$enc, pi173)
+n1268 = and(pi002, pi173)
+n1269 = and(pi000, n1268)
+n1270 = not(n1269)
+#n1271 = nand(pi002$enc, pi109)
+n1271 = nand(pi002, pi109)
+n1272 = not(n1271$enc)
+n1273 = and(n267, pi141$enc)
+n1274 = not(n1273)
+n1275 = and(n1272, n1274)
+n1276 = not(n1275)
+n1277 = and(n266, n1276)
+n1278 = not(n1277)
+n1279 = and(n1270, n1278)
+n1280 = buf(n1279)
+n1281 = and(pi087, n1280$enc)
+n1282 = not(n1281)
+n1283 = and(n1267, n1282)
+po50 = not(n1283)
+n1285 = and(n267, n319)
+n1286 = not(n1285)
+n1287 = and(pi087, n1286)
+n1288 = not(n1287)
+n1289 = and(pi000, n1288)
+n1290 = not(n1289)
+#n1291 = and(pi002$enc, pi174)
+n1291 = and(pi002, pi174)
+n1292 = and(pi000, n1291)
+n1293 = not(n1292)
+#n1294 = and(pi002$enc, pi110)
+n1294 = and(pi002, pi110)
+n1295 = not(n1294)
+n1296 = and(n267, pi142)
+n1297 = not(n1296)
+n1298 = and(n1295, n1297)
+n1299 = not(n1298)
+n1300 = and(n266, n1299)
+n1301 = not(n1300)
+n1302 = and(n1293, n1301)
+n1303 = not(n1302)
+n1304 = and(pi087, n1303)
+n1305 = not(n1304)
+n1306 = and(n1290, n1305)
+po51 = not(n1306)
+n1308 = and(n267, n320)
+n1309 = not(n1308)
+n1310 = and(pi087, n1309)
+n1311 = not(n1310)
+n1312 = and(pi000, n1311)
+n1313 = not(n1312)
+#n1314 = and(pi002$enc, pi175)
+n1314 = and(pi002, pi175)
+n1315 = and(pi000, n1314)
+n1316 = not(n1315)
+#n1317 = and(pi002$enc, pi111)
+n1317 = and(pi002, pi111)
+n1318 = not(n1317)
+n1319 = and(n267, pi143)
+n1320 = not(n1319)
+n1321 = and(n1318, n1320)
+n1322 = not(n1321)
+n1323 = and(n266, n1322)
+n1324 = not(n1323)
+n1325 = and(n1316, n1324)
+n1326 = not(n1325)
+n1327 = and(pi087, n1326)
+n1328 = not(n1327)
+n1329 = and(n1313, n1328)
+po52 = not(n1329)
+n1331 = and(n267, n321)
+n1332 = not(n1331)
+n1333 = and(pi087, n1332)
+n1334 = not(n1333)
+n1335 = nand(pi000, n1334)
+n1336 = buf(n1335$enc)
+#n1337 = and(pi002$enc, pi176)
+n1337 = and(pi002, pi176)
+n1338 = and(pi000, n1337)
+n1339 = not(n1338)
+#n1340 = and(pi002$enc, pi112)
+n1340 = and(pi002, pi112)
+n1341 = not(n1340)
+n1342 = and(n267, pi144)
+n1343 = not(n1342)
+n1344 = and(n1341, n1343)
+n1345 = not(n1344)
+n1346 = and(n266, n1345)
+n1347 = not(n1346)
+n1348 = and(n1339, n1347)
+n1349 = not(n1348)
+n1350 = and(pi087, n1349)
+n1351 = not(n1350)
+n1352 = and(n1336$enc, n1351)
+po53 = not(n1352)
+n1354 = and(n267, n322)
+n1355 = not(n1354)
+n1356 = and(pi087, n1355)
+n1357 = not(n1356)
+n1358 = and(pi000, n1357)
+n1359 = not(n1358)
+#n1360 = and(pi002$enc, pi177)
+n1360 = and(pi002, pi177)
+n1361 = and(pi000, n1360)
+n1362 = not(n1361)
+#n1363 = and(pi002$enc, pi113)
+n1363 = and(pi002, pi113)
+n1364 = not(n1363)
+n1365 = and(n267, pi145)
+n1366 = not(n1365)
+n1367 = and(n1364, n1366)
+n1368 = not(n1367)
+n1369 = and(n266, n1368)
+n1370 = not(n1369)
+n1371 = and(n1362, n1370)
+n1372 = not(n1371)
+n1373 = and(pi087, n1372)
+n1374 = not(n1373)
+n1375 = and(n1359, n1374)
+po54 = not(n1375)
+n1377 = and(n267, n323)
+n1378 = buf(n1377)
+n1379 = and(pi087, n1378$enc)
+n1380 = not(n1379)
+n1381 = and(pi000, n1380)
+n1382 = not(n1381)
+#n1383 = and(pi002$enc, pi178)
+n1383 = and(pi002, pi178)
+n1384 = and(pi000, n1383)
+n1385 = not(n1384)
+#n1386 = and(pi002$enc, pi114$enc)
+n1386 = and(pi002, pi114$enc)
+n1387 = not(n1386)
+n1388 = and(n267, pi146)
+n1389 = not(n1388)
+n1390 = and(n1387, n1389)
+n1391 = not(n1390)
+n1392 = and(n266, n1391)
+n1393 = not(n1392)
+n1394 = and(n1385, n1393)
+n1395 = not(n1394)
+n1396 = and(pi087, n1395)
+n1397 = not(n1396)
+n1398 = and(n1382, n1397)
+po55 = not(n1398)
+n1400 = and(n267, n324)
+n1401 = not(n1400)
+n1402 = and(pi087, n1401)
+n1403 = not(n1402)
+n1404 = and(pi000, n1403)
+n1405 = not(n1404)
+#n1406 = and(pi002$enc, pi179)
+n1406 = and(pi002, pi179)
+n1407 = and(pi000, n1406)
+n1408 = not(n1407)
+#n1409 = and(pi002$enc, pi115)
+n1409 = and(pi002, pi115)
+n1410 = not(n1409)
+n1411 = and(n267, pi147)
+n1412 = not(n1411)
+n1413 = and(n1410, n1412)
+n1414 = not(n1413)
+n1415 = and(n266, n1414)
+n1416 = not(n1415)
+n1417 = and(n1408, n1416)
+n1418 = not(n1417)
+n1419 = and(pi087, n1418)
+n1420 = not(n1419)
+n1421 = and(n1405, n1420)
+po56 = not(n1421)
+n1423 = and(n267, n325)
+n1424 = not(n1423)
+n1425 = and(pi087, n1424)
+n1426 = not(n1425)
+n1427 = and(pi000, n1426)
+n1428 = not(n1427)
+#n1429 = and(pi002$enc, pi180)
+n1429 = and(pi002, pi180)
+n1430 = and(pi000, n1429)
+n1431 = not(n1430)
+#n1432 = and(pi002$enc, pi116)
+n1432 = and(pi002, pi116)
+n1433 = not(n1432)
+n1434 = and(n267, pi148)
+n1435 = not(n1434)
+n1436 = and(n1433, n1435)
+n1437 = not(n1436)
+n1438 = and(n266, n1437)
+n1439 = not(n1438)
+n1440 = and(n1431, n1439)
+n1441 = not(n1440)
+n1442 = and(pi087, n1441)
+n1443 = not(n1442)
+n1444 = and(n1428, n1443)
+po57 = not(n1444)
+n1446 = and(n267, n326)
+n1447 = not(n1446)
+n1448 = and(pi087, n1447)
+n1449 = not(n1448)
+n1450 = and(pi000, n1449)
+n1451 = not(n1450$enc)
+#n1452 = and(pi002$enc, pi181)
+n1452 = and(pi002, pi181)
+n1453 = and(pi000, n1452)
+n1454 = not(n1453$enc)
+#n1455 = and(pi002$enc, pi117)
+n1455 = and(pi002, pi117)
+n1456 = not(n1455)
+n1457 = and(n267, pi149)
+n1458 = not(n1457)
+n1459 = and(n1456, n1458)
+n1460 = not(n1459)
+n1461 = and(n266, n1460)
+n1462 = not(n1461)
+n1463 = nand(n1454, n1462)
+n1464 = not(n1463$enc)
+n1465 = and(pi087, n1464)
+n1466 = not(n1465)
+n1467 = and(n1451, n1466)
+po58 = not(n1467)
+n1469 = and(n267, n327)
+n1470 = not(n1469)
+n1471 = and(pi087, n1470)
+n1472 = not(n1471)
+n1473 = and(pi000, n1472)
+n1474 = not(n1473)
+#n1475 = and(pi002$enc, pi182)
+n1475 = and(pi002, pi182)
+n1476 = and(pi000, n1475)
+n1477 = buf(n1476)
+#n1478 = and(pi002$enc, pi118)
+n1478 = and(pi002, pi118)
+n1479 = not(n1478)
+n1480 = nand(n267, pi150)
+n1481 = not(n1480$enc)
+n1482 = and(n1479, n1481)
+n1483 = buf(n1482)
+n1484 = and(n266, n1483$enc)
+n1485 = not(n1484)
+n1486 = and(n1477$enc, n1485)
+n1487 = not(n1486)
+n1488 = and(pi087, n1487)
+n1489 = not(n1488)
+n1490 = and(n1474, n1489)
+po59 = not(n1490)
+n1492 = and(pi184, pi188)
+po60 = and(n267, n1492)
+n1494 = and(pi000, n328)
+n1495 = not(n1494)
+n1496 = and(n267, pi189)
+n1497 = not(n1496$enc)
+n1498 = and(n266, n1496$enc)
+n1499 = and(pi184, n1498)
+n1500 = not(n1499)
+n1501 = and(n1495, n1500)
+n1502 = and(pi000, pi184)
+n1503 = and(n1497, n1502)
+n1504 = not(n1503)
+n1505 = and(n1501, n1504)
+po61 = not(n1505)
+n1507 = and(n267, pi190)
+n1508 = buf(n1507)
+n1509 = and(n266, n1507)
+n1510 = and(pi184, n1509)
+n1511 = not(n1510)
+n1512 = and(n1495, n1511)
+n1513 = and(n1502, n1508$enc)
+n1514 = not(n1513)
+n1515 = and(n1512, n1514)
+po62 = not(n1515)
+n1517 = and(n267, n332)
+n1518 = and(n1502, n1517)
+n1519 = not(n1518)
+n1520 = and(n1495, n1519)
+#n1521 = and(pi002$enc, n1502)
+n1521 = and(pi002, n1502)
+n1522 = and(pi195, n1521)
+n1523 = not(n1522)
+n1524 = and(n266, pi184)
+#n1525 = and(pi002$enc, pi183)
+n1525 = and(pi002, pi183)
+n1526 = not(n1525)
+n1527 = and(n267, pi191)
+n1528 = not(n1527)
+n1529 = and(n1526, n1528)
+n1530 = not(n1529)
+n1531 = and(n1524, n1530)
+n1532 = not(n1531)
+n1533 = and(n1523, n1532)
+n1534 = and(n1520, n1533)
+po63 = not(n1534)
+n1536 = and(n267, n333)
+n1537 = not(n1536)
+n1538 = and(n1502, n1536)
+n1539 = not(n1538)
+n1540 = and(n1495, n1539)
+n1541 = and(pi196, n1521)
+n1542 = not(n1541)
+n1543 = and(n1524, n1537)
+#n1544 = and(pi002$enc, n329)
+n1544 = and(pi002, n329)
+n1545 = not(n1544)
+n1546 = and(n1543, n1545)
+n1547 = not(n1546)
+n1548 = and(n1542, n1547)
+n1549 = and(n1540, n1548)
+po64 = not(n1549)
+n1551 = and(n267, n334)
+n1552 = not(n1551)
+n1553 = and(n1502, n1551)
+n1554 = not(n1553)
+n1555 = and(n1495, n1554)
+n1556 = and(pi197, n1521)
+n1557 = not(n1556)
+n1558 = and(n1524, n1552)
+#n1559 = and(pi002$enc, n330)
+n1559 = and(pi002, n330)
+n1560 = not(n1559)
+n1561 = and(n1558, n1560)
+n1562 = not(n1561)
+n1563 = and(n1557, n1562)
+n1564 = and(n1555, n1563)
+po65 = not(n1564)
+n1566 = and(n267, n335)
+n1567 = not(n1566)
+n1568 = and(n1502, n1566)
+n1569 = not(n1568)
+n1570 = and(n1495, n1569)
+n1571 = and(pi198, n1521)
+n1572 = not(n1571$enc)
+n1573 = and(n1524, n1567)
+#n1574 = and(pi002$enc, n331)
+n1574 = and(pi002, n331)
+n1575 = not(n1574)
+n1576 = and(n1573, n1575)
+n1577 = not(n1576)
+n1578 = and(n1572, n1577)
+n1579 = and(n1570, n1578)
+po66 = not(n1579)
+#pi002$enc = xor(keyinput0, pi002$inv)
+#pi002$inv = not(pi002)
+#pi066$enc = xnor(keyinput1, pi066)
+pi043$enc = xnor(keyinput2, pi043)
+pi106$enc = xnor(keyinput3, pi106$inv)
+pi106$inv = not(pi106)
+pi114$enc = xnor(keyinput4, pi114$inv)
+pi114$inv = not(pi114)
+pi141$enc = xor(keyinput5, pi141)
+pi164$enc = xnor(keyinput6, pi164)
+pi192$enc = xor(keyinput7, pi192)
+n268$enc = xnor(keyinput8, n268)
+n269$enc = xnor(keyinput9, n269)
+n337$enc = xnor(keyinput10, n337)
+n347$enc = xnor(keyinput11, n347)
+n385$enc = xor(keyinput12, n385)
+n419$enc = xor(keyinput13, n419)
+n428$enc = xnor(keyinput14, n428)
+n454$enc = xnor(keyinput15, n454)
+n456$enc = xor(keyinput16, n456)
+n458$enc = xnor(keyinput17, n458)
+n475$enc = xnor(keyinput18, n475)
+n487$enc = xor(keyinput19, n487)
+n787$enc = xor(keyinput20, n787)
+n535$enc = xnor(keyinput21, n535)
+n553$enc = xor(keyinput22, n553)
+n1096$enc = xor(keyinput23, n1096)
+n610$enc = xnor(keyinput24, n610)
+n618$enc = xor(keyinput25, n618)
+n645$enc = xnor(keyinput26, n645)
+n652$enc = xor(keyinput27, n652)
+n656$enc = xor(keyinput28, n656)
+n706$enc = xnor(keyinput29, n706)
+po24enc = xor(keyinput30, po24)
+n739$enc = xnor(keyinput31, n739)
+n768$enc = xnor(keyinput32, n768)
+n773$enc = xor(keyinput33, n773)
+n807$enc = xor(keyinput34, n807)
+n817$enc = xor(keyinput35, n817)
+n859$enc = xor(keyinput36, n859)
+n865$enc = xor(keyinput37, n865)
+po33enc = xor(keyinput38, po33)
+n946$enc = xor(keyinput39, n946)
+n949$enc = xor(keyinput40, n949)
+n979$enc = xor(keyinput41, n979)
+n1018$enc = xnor(keyinput42, n1018)
+n1038$enc = xor(keyinput43, n1038)
+n1078$enc = xor(keyinput44, n1078)
+n1126$enc = xor(keyinput45, n1126)
+n1198$enc = xor(keyinput46, n1198)
+n1233$enc = xnor(keyinput47, n1233)
+n1252$enc = xor(keyinput48, n1252)
+n1257$enc = xnor(keyinput49, n1257)
+po49enc = xnor(keyinput50, po49)
+n1262$enc = xor(keyinput51, n1262)
+n1271$enc = xor(keyinput52, n1271)
+n1280$enc = xnor(keyinput53, n1280)
+n1335$enc = xnor(keyinput54, n1335)
+n1336$enc = xor(keyinput55, n1336)
+n1378$enc = xnor(keyinput56, n1378)
+n1450$enc = xor(keyinput57, n1450)
+n1453$enc = xor(keyinput58, n1453)
+n1463$enc = xnor(keyinput59, n1463)
+n1477$enc = xnor(keyinput60, n1477)
+n1480$enc = xnor(keyinput61, n1480)
+n1483$enc = xor(keyinput62, n1483)
+n1496$enc = xor(keyinput63, n1496)
+n1508$enc = xnor(keyinput64, n1508)
+n1571$enc = xnor(keyinput65, n1571)
+
+
+#locking last scan-cell in scan-chain
+po00$enc = xor(keyinput66, po00enc);
+
+#locking next scan-cell in scan-chain
+po01$enc = xor(keyinput66, po01$enc_1);
+po01$enc_1 = xor(keyinput67, po01enc);
+
+#locking next scan-cell in scan-chain
+po02$enc = xor(keyinput66, po02$enc_2);
+po02$enc_2 = xor(keyinput67, po02$enc_1);
+po02$enc_1 = xor(keyinput68, po02);
+
+#locking next scan-cell in scan-chain
+po03$enc = xor(keyinput66, po03$enc_3);
+po03$enc_3 = xor(keyinput67, po03$enc_2);
+po03$enc_2 = xor(keyinput68, po03$enc_1);
+po03$enc_1 = xor(keyinput69, po03);
+
+#locking next scan-cell in scan-chain
+po04$enc = xor(keyinput66, po04$enc_4);
+po04$enc_4 = xor(keyinput67, po04$enc_3);
+po04$enc_3 = xor(keyinput68, po04$enc_2);
+po04$enc_2 = xor(keyinput69, po04$enc_1);
+po04$enc_1 = xor(keyinput70, po04);
+
+#locking next scan-cell in scan-chain
+po05$enc = xor(keyinput66, po05$enc_5);
+po05$enc_5 = xor(keyinput67, po05$enc_4);
+po05$enc_4 = xor(keyinput68, po05$enc_3);
+po05$enc_3 = xor(keyinput69, po05$enc_2);
+po05$enc_2 = xor(keyinput70, po05$enc_1);
+po05$enc_1 = xor(keyinput71, po05);
+
+#locking next scan-cell in scan-chain
+po06$enc = xor(keyinput66, po06$enc_6);
+po06$enc_6 = xor(keyinput67, po06$enc_5);
+po06$enc_5 = xor(keyinput68, po06$enc_4);
+po06$enc_4 = xor(keyinput69, po06$enc_3);
+po06$enc_3 = xor(keyinput70, po06$enc_2);
+po06$enc_2 = xor(keyinput71, po06$enc_1);
+po06$enc_1 = xor(keyinput72, po06);
+
+#locking next scan-cell in scan-chain
+po07$enc = xor(keyinput66, po07$enc_7);
+po07$enc_7 = xor(keyinput67, po07$enc_6);
+po07$enc_6 = xor(keyinput68, po07$enc_5);
+po07$enc_5 = xor(keyinput69, po07$enc_4);
+po07$enc_4 = xor(keyinput70, po07$enc_3);
+po07$enc_3 = xor(keyinput71, po07$enc_2);
+po07$enc_2 = xor(keyinput72, po07$enc_1);
+po07$enc_1 = xor(keyinput73, po07);
+
+#locking next scan-cell in scan-chain
+po08$enc = xor(keyinput66, po08$enc_8);
+po08$enc_8 = xor(keyinput67, po08$enc_7);
+po08$enc_7 = xor(keyinput68, po08$enc_6);
+po08$enc_6 = xor(keyinput69, po08$enc_5);
+po08$enc_5 = xor(keyinput70, po08$enc_4);
+po08$enc_4 = xor(keyinput71, po08$enc_3);
+po08$enc_3 = xor(keyinput72, po08$enc_2);
+po08$enc_2 = xor(keyinput73, po08$enc_1);
+po08$enc_1 = xor(keyinput74, po08);
+
+#locking next scan-cell in scan-chain
+po09$enc = xor(keyinput66, po09$enc_9);
+po09$enc_9 = xor(keyinput67, po09$enc_8);
+po09$enc_8 = xor(keyinput68, po09$enc_7);
+po09$enc_7 = xor(keyinput69, po09$enc_6);
+po09$enc_6 = xor(keyinput70, po09$enc_5);
+po09$enc_5 = xor(keyinput71, po09$enc_4);
+po09$enc_4 = xor(keyinput72, po09$enc_3);
+po09$enc_3 = xor(keyinput73, po09$enc_2);
+po09$enc_2 = xor(keyinput74, po09$enc_1);
+po09$enc_1 = xor(keyinput75, po09);
+
+#locking next scan-cell in scan-chain
+po10$enc = xor(keyinput66, po10$enc_10);
+po10$enc_10 = xor(keyinput67, po10$enc_9);
+po10$enc_9 = xor(keyinput68, po10$enc_8);
+po10$enc_8 = xor(keyinput69, po10$enc_7);
+po10$enc_7 = xor(keyinput70, po10$enc_6);
+po10$enc_6 = xor(keyinput71, po10$enc_5);
+po10$enc_5 = xor(keyinput72, po10$enc_4);
+po10$enc_4 = xor(keyinput73, po10$enc_3);
+po10$enc_3 = xor(keyinput74, po10$enc_2);
+po10$enc_2 = xor(keyinput75, po10$enc_1);
+po10$enc_1 = xor(keyinput76, po10);
+
+#locking next scan-cell in scan-chain
+po11$enc = xor(keyinput66, po11$enc_11);
+po11$enc_11 = xor(keyinput67, po11$enc_10);
+po11$enc_10 = xor(keyinput68, po11$enc_9);
+po11$enc_9 = xor(keyinput69, po11$enc_8);
+po11$enc_8 = xor(keyinput70, po11$enc_7);
+po11$enc_7 = xor(keyinput71, po11$enc_6);
+po11$enc_6 = xor(keyinput72, po11$enc_5);
+po11$enc_5 = xor(keyinput73, po11$enc_4);
+po11$enc_4 = xor(keyinput74, po11$enc_3);
+po11$enc_3 = xor(keyinput75, po11$enc_2);
+po11$enc_2 = xor(keyinput76, po11$enc_1);
+po11$enc_1 = xor(keyinput77, po11);
+
+#locking next scan-cell in scan-chain
+po12$enc = xor(keyinput66, po12$enc_12);
+po12$enc_12 = xor(keyinput67, po12$enc_11);
+po12$enc_11 = xor(keyinput68, po12$enc_10);
+po12$enc_10 = xor(keyinput69, po12$enc_9);
+po12$enc_9 = xor(keyinput70, po12$enc_8);
+po12$enc_8 = xor(keyinput71, po12$enc_7);
+po12$enc_7 = xor(keyinput72, po12$enc_6);
+po12$enc_6 = xor(keyinput73, po12$enc_5);
+po12$enc_5 = xor(keyinput74, po12$enc_4);
+po12$enc_4 = xor(keyinput75, po12$enc_3);
+po12$enc_3 = xor(keyinput76, po12$enc_2);
+po12$enc_2 = xor(keyinput77, po12$enc_1);
+po12$enc_1 = xor(keyinput78, po12);
+
+#locking next scan-cell in scan-chain
+po13$enc = xor(keyinput66, po13$enc_13);
+po13$enc_13 = xor(keyinput67, po13$enc_12);
+po13$enc_12 = xor(keyinput68, po13$enc_11);
+po13$enc_11 = xor(keyinput69, po13$enc_10);
+po13$enc_10 = xor(keyinput70, po13$enc_9);
+po13$enc_9 = xor(keyinput71, po13$enc_8);
+po13$enc_8 = xor(keyinput72, po13$enc_7);
+po13$enc_7 = xor(keyinput73, po13$enc_6);
+po13$enc_6 = xor(keyinput74, po13$enc_5);
+po13$enc_5 = xor(keyinput75, po13$enc_4);
+po13$enc_4 = xor(keyinput76, po13$enc_3);
+po13$enc_3 = xor(keyinput77, po13$enc_2);
+po13$enc_2 = xor(keyinput78, po13$enc_1);
+po13$enc_1 = xor(keyinput79, po13);
+
+#locking next scan-cell in scan-chain
+po14$enc = xor(keyinput66, po14$enc_14);
+po14$enc_14 = xor(keyinput67, po14$enc_13);
+po14$enc_13 = xor(keyinput68, po14$enc_12);
+po14$enc_12 = xor(keyinput69, po14$enc_11);
+po14$enc_11 = xor(keyinput70, po14$enc_10);
+po14$enc_10 = xor(keyinput71, po14$enc_9);
+po14$enc_9 = xor(keyinput72, po14$enc_8);
+po14$enc_8 = xor(keyinput73, po14$enc_7);
+po14$enc_7 = xor(keyinput74, po14$enc_6);
+po14$enc_6 = xor(keyinput75, po14$enc_5);
+po14$enc_5 = xor(keyinput76, po14$enc_4);
+po14$enc_4 = xor(keyinput77, po14$enc_3);
+po14$enc_3 = xor(keyinput78, po14$enc_2);
+po14$enc_2 = xor(keyinput79, po14$enc_1);
+po14$enc_1 = xor(keyinput80, po14);
+
+#locking next scan-cell in scan-chain
+po15$enc = xor(keyinput66, po15$enc_15);
+po15$enc_15 = xor(keyinput67, po15$enc_14);
+po15$enc_14 = xor(keyinput68, po15$enc_13);
+po15$enc_13 = xor(keyinput69, po15$enc_12);
+po15$enc_12 = xor(keyinput70, po15$enc_11);
+po15$enc_11 = xor(keyinput71, po15$enc_10);
+po15$enc_10 = xor(keyinput72, po15$enc_9);
+po15$enc_9 = xor(keyinput73, po15$enc_8);
+po15$enc_8 = xor(keyinput74, po15$enc_7);
+po15$enc_7 = xor(keyinput75, po15$enc_6);
+po15$enc_6 = xor(keyinput76, po15$enc_5);
+po15$enc_5 = xor(keyinput77, po15$enc_4);
+po15$enc_4 = xor(keyinput78, po15$enc_3);
+po15$enc_3 = xor(keyinput79, po15$enc_2);
+po15$enc_2 = xor(keyinput80, po15$enc_1);
+po15$enc_1 = xor(keyinput81, po15);
+
+#locking next scan-cell in scan-chain
+po16$enc = xor(keyinput66, po16$enc_16);
+po16$enc_16 = xor(keyinput67, po16$enc_15);
+po16$enc_15 = xor(keyinput68, po16$enc_14);
+po16$enc_14 = xor(keyinput69, po16$enc_13);
+po16$enc_13 = xor(keyinput70, po16$enc_12);
+po16$enc_12 = xor(keyinput71, po16$enc_11);
+po16$enc_11 = xor(keyinput72, po16$enc_10);
+po16$enc_10 = xor(keyinput73, po16$enc_9);
+po16$enc_9 = xor(keyinput74, po16$enc_8);
+po16$enc_8 = xor(keyinput75, po16$enc_7);
+po16$enc_7 = xor(keyinput76, po16$enc_6);
+po16$enc_6 = xor(keyinput77, po16$enc_5);
+po16$enc_5 = xor(keyinput78, po16$enc_4);
+po16$enc_4 = xor(keyinput79, po16$enc_3);
+po16$enc_3 = xor(keyinput80, po16$enc_2);
+po16$enc_2 = xor(keyinput81, po16$enc_1);
+po16$enc_1 = xor(keyinput82, po16);
+
+#locking next scan-cell in scan-chain
+po17$enc = xor(keyinput66, po17$enc_17);
+po17$enc_17 = xor(keyinput67, po17$enc_16);
+po17$enc_16 = xor(keyinput68, po17$enc_15);
+po17$enc_15 = xor(keyinput69, po17$enc_14);
+po17$enc_14 = xor(keyinput70, po17$enc_13);
+po17$enc_13 = xor(keyinput71, po17$enc_12);
+po17$enc_12 = xor(keyinput72, po17$enc_11);
+po17$enc_11 = xor(keyinput73, po17$enc_10);
+po17$enc_10 = xor(keyinput74, po17$enc_9);
+po17$enc_9 = xor(keyinput75, po17$enc_8);
+po17$enc_8 = xor(keyinput76, po17$enc_7);
+po17$enc_7 = xor(keyinput77, po17$enc_6);
+po17$enc_6 = xor(keyinput78, po17$enc_5);
+po17$enc_5 = xor(keyinput79, po17$enc_4);
+po17$enc_4 = xor(keyinput80, po17$enc_3);
+po17$enc_3 = xor(keyinput81, po17$enc_2);
+po17$enc_2 = xor(keyinput82, po17$enc_1);
+po17$enc_1 = xor(keyinput83, po17);
+
+#locking next scan-cell in scan-chain
+po18$enc = xor(keyinput66, po18$enc_18);
+po18$enc_18 = xor(keyinput67, po18$enc_17);
+po18$enc_17 = xor(keyinput68, po18$enc_16);
+po18$enc_16 = xor(keyinput69, po18$enc_15);
+po18$enc_15 = xor(keyinput70, po18$enc_14);
+po18$enc_14 = xor(keyinput71, po18$enc_13);
+po18$enc_13 = xor(keyinput72, po18$enc_12);
+po18$enc_12 = xor(keyinput73, po18$enc_11);
+po18$enc_11 = xor(keyinput74, po18$enc_10);
+po18$enc_10 = xor(keyinput75, po18$enc_9);
+po18$enc_9 = xor(keyinput76, po18$enc_8);
+po18$enc_8 = xor(keyinput77, po18$enc_7);
+po18$enc_7 = xor(keyinput78, po18$enc_6);
+po18$enc_6 = xor(keyinput79, po18$enc_5);
+po18$enc_5 = xor(keyinput80, po18$enc_4);
+po18$enc_4 = xor(keyinput81, po18$enc_3);
+po18$enc_3 = xor(keyinput82, po18$enc_2);
+po18$enc_2 = xor(keyinput83, po18$enc_1);
+po18$enc_1 = xor(keyinput84, po18);
+
+#locking next scan-cell in scan-chain
+po19$enc = xor(keyinput66, po19$enc_19);
+po19$enc_19 = xor(keyinput67, po19$enc_18);
+po19$enc_18 = xor(keyinput68, po19$enc_17);
+po19$enc_17 = xor(keyinput69, po19$enc_16);
+po19$enc_16 = xor(keyinput70, po19$enc_15);
+po19$enc_15 = xor(keyinput71, po19$enc_14);
+po19$enc_14 = xor(keyinput72, po19$enc_13);
+po19$enc_13 = xor(keyinput73, po19$enc_12);
+po19$enc_12 = xor(keyinput74, po19$enc_11);
+po19$enc_11 = xor(keyinput75, po19$enc_10);
+po19$enc_10 = xor(keyinput76, po19$enc_9);
+po19$enc_9 = xor(keyinput77, po19$enc_8);
+po19$enc_8 = xor(keyinput78, po19$enc_7);
+po19$enc_7 = xor(keyinput79, po19$enc_6);
+po19$enc_6 = xor(keyinput80, po19$enc_5);
+po19$enc_5 = xor(keyinput81, po19$enc_4);
+po19$enc_4 = xor(keyinput82, po19$enc_3);
+po19$enc_3 = xor(keyinput83, po19$enc_2);
+po19$enc_2 = xor(keyinput84, po19$enc_1);
+po19$enc_1 = xor(keyinput85, po19);
+
+#locking next scan-cell in scan-chain
+po20$enc = xor(keyinput66, po20$enc_20);
+po20$enc_20 = xor(keyinput67, po20$enc_19);
+po20$enc_19 = xor(keyinput68, po20$enc_18);
+po20$enc_18 = xor(keyinput69, po20$enc_17);
+po20$enc_17 = xor(keyinput70, po20$enc_16);
+po20$enc_16 = xor(keyinput71, po20$enc_15);
+po20$enc_15 = xor(keyinput72, po20$enc_14);
+po20$enc_14 = xor(keyinput73, po20$enc_13);
+po20$enc_13 = xor(keyinput74, po20$enc_12);
+po20$enc_12 = xor(keyinput75, po20$enc_11);
+po20$enc_11 = xor(keyinput76, po20$enc_10);
+po20$enc_10 = xor(keyinput77, po20$enc_9);
+po20$enc_9 = xor(keyinput78, po20$enc_8);
+po20$enc_8 = xor(keyinput79, po20$enc_7);
+po20$enc_7 = xor(keyinput80, po20$enc_6);
+po20$enc_6 = xor(keyinput81, po20$enc_5);
+po20$enc_5 = xor(keyinput82, po20$enc_4);
+po20$enc_4 = xor(keyinput83, po20$enc_3);
+po20$enc_3 = xor(keyinput84, po20$enc_2);
+po20$enc_2 = xor(keyinput85, po20$enc_1);
+po20$enc_1 = xor(keyinput86, po20);
+
+#locking next scan-cell in scan-chain
+po21$enc = xor(keyinput66, po21$enc_21);
+po21$enc_21 = xor(keyinput67, po21$enc_20);
+po21$enc_20 = xor(keyinput68, po21$enc_19);
+po21$enc_19 = xor(keyinput69, po21$enc_18);
+po21$enc_18 = xor(keyinput70, po21$enc_17);
+po21$enc_17 = xor(keyinput71, po21$enc_16);
+po21$enc_16 = xor(keyinput72, po21$enc_15);
+po21$enc_15 = xor(keyinput73, po21$enc_14);
+po21$enc_14 = xor(keyinput74, po21$enc_13);
+po21$enc_13 = xor(keyinput75, po21$enc_12);
+po21$enc_12 = xor(keyinput76, po21$enc_11);
+po21$enc_11 = xor(keyinput77, po21$enc_10);
+po21$enc_10 = xor(keyinput78, po21$enc_9);
+po21$enc_9 = xor(keyinput79, po21$enc_8);
+po21$enc_8 = xor(keyinput80, po21$enc_7);
+po21$enc_7 = xor(keyinput81, po21$enc_6);
+po21$enc_6 = xor(keyinput82, po21$enc_5);
+po21$enc_5 = xor(keyinput83, po21$enc_4);
+po21$enc_4 = xor(keyinput84, po21$enc_3);
+po21$enc_3 = xor(keyinput85, po21$enc_2);
+po21$enc_2 = xor(keyinput86, po21$enc_1);
+po21$enc_1 = xor(keyinput87, po21);
+
+#locking next scan-cell in scan-chain
+po22$enc = xor(keyinput66, po22$enc_22);
+po22$enc_22 = xor(keyinput67, po22$enc_21);
+po22$enc_21 = xor(keyinput68, po22$enc_20);
+po22$enc_20 = xor(keyinput69, po22$enc_19);
+po22$enc_19 = xor(keyinput70, po22$enc_18);
+po22$enc_18 = xor(keyinput71, po22$enc_17);
+po22$enc_17 = xor(keyinput72, po22$enc_16);
+po22$enc_16 = xor(keyinput73, po22$enc_15);
+po22$enc_15 = xor(keyinput74, po22$enc_14);
+po22$enc_14 = xor(keyinput75, po22$enc_13);
+po22$enc_13 = xor(keyinput76, po22$enc_12);
+po22$enc_12 = xor(keyinput77, po22$enc_11);
+po22$enc_11 = xor(keyinput78, po22$enc_10);
+po22$enc_10 = xor(keyinput79, po22$enc_9);
+po22$enc_9 = xor(keyinput80, po22$enc_8);
+po22$enc_8 = xor(keyinput81, po22$enc_7);
+po22$enc_7 = xor(keyinput82, po22$enc_6);
+po22$enc_6 = xor(keyinput83, po22$enc_5);
+po22$enc_5 = xor(keyinput84, po22$enc_4);
+po22$enc_4 = xor(keyinput85, po22$enc_3);
+po22$enc_3 = xor(keyinput86, po22$enc_2);
+po22$enc_2 = xor(keyinput87, po22$enc_1);
+po22$enc_1 = xor(keyinput88, po22);
+
+#locking next scan-cell in scan-chain
+po23$enc = xor(keyinput66, po23$enc_23);
+po23$enc_23 = xor(keyinput67, po23$enc_22);
+po23$enc_22 = xor(keyinput68, po23$enc_21);
+po23$enc_21 = xor(keyinput69, po23$enc_20);
+po23$enc_20 = xor(keyinput70, po23$enc_19);
+po23$enc_19 = xor(keyinput71, po23$enc_18);
+po23$enc_18 = xor(keyinput72, po23$enc_17);
+po23$enc_17 = xor(keyinput73, po23$enc_16);
+po23$enc_16 = xor(keyinput74, po23$enc_15);
+po23$enc_15 = xor(keyinput75, po23$enc_14);
+po23$enc_14 = xor(keyinput76, po23$enc_13);
+po23$enc_13 = xor(keyinput77, po23$enc_12);
+po23$enc_12 = xor(keyinput78, po23$enc_11);
+po23$enc_11 = xor(keyinput79, po23$enc_10);
+po23$enc_10 = xor(keyinput80, po23$enc_9);
+po23$enc_9 = xor(keyinput81, po23$enc_8);
+po23$enc_8 = xor(keyinput82, po23$enc_7);
+po23$enc_7 = xor(keyinput83, po23$enc_6);
+po23$enc_6 = xor(keyinput84, po23$enc_5);
+po23$enc_5 = xor(keyinput85, po23$enc_4);
+po23$enc_4 = xor(keyinput86, po23$enc_3);
+po23$enc_3 = xor(keyinput87, po23$enc_2);
+po23$enc_2 = xor(keyinput88, po23$enc_1);
+po23$enc_1 = xor(keyinput89, po23);
+
+#locking next scan-cell in scan-chain
+po24$enc = xor(keyinput66, po24$enc_24);
+po24$enc_24 = xor(keyinput67, po24$enc_23);
+po24$enc_23 = xor(keyinput68, po24$enc_22);
+po24$enc_22 = xor(keyinput69, po24$enc_21);
+po24$enc_21 = xor(keyinput70, po24$enc_20);
+po24$enc_20 = xor(keyinput71, po24$enc_19);
+po24$enc_19 = xor(keyinput72, po24$enc_18);
+po24$enc_18 = xor(keyinput73, po24$enc_17);
+po24$enc_17 = xor(keyinput74, po24$enc_16);
+po24$enc_16 = xor(keyinput75, po24$enc_15);
+po24$enc_15 = xor(keyinput76, po24$enc_14);
+po24$enc_14 = xor(keyinput77, po24$enc_13);
+po24$enc_13 = xor(keyinput78, po24$enc_12);
+po24$enc_12 = xor(keyinput79, po24$enc_11);
+po24$enc_11 = xor(keyinput80, po24$enc_10);
+po24$enc_10 = xor(keyinput81, po24$enc_9);
+po24$enc_9 = xor(keyinput82, po24$enc_8);
+po24$enc_8 = xor(keyinput83, po24$enc_7);
+po24$enc_7 = xor(keyinput84, po24$enc_6);
+po24$enc_6 = xor(keyinput85, po24$enc_5);
+po24$enc_5 = xor(keyinput86, po24$enc_4);
+po24$enc_4 = xor(keyinput87, po24$enc_3);
+po24$enc_3 = xor(keyinput88, po24$enc_2);
+po24$enc_2 = xor(keyinput89, po24$enc_1);
+po24$enc_1 = xor(keyinput90, po24enc);
+
+#locking next scan-cell in scan-chain
+po25$enc = xor(keyinput66, po25$enc_25);
+po25$enc_25 = xor(keyinput67, po25$enc_24);
+po25$enc_24 = xor(keyinput68, po25$enc_23);
+po25$enc_23 = xor(keyinput69, po25$enc_22);
+po25$enc_22 = xor(keyinput70, po25$enc_21);
+po25$enc_21 = xor(keyinput71, po25$enc_20);
+po25$enc_20 = xor(keyinput72, po25$enc_19);
+po25$enc_19 = xor(keyinput73, po25$enc_18);
+po25$enc_18 = xor(keyinput74, po25$enc_17);
+po25$enc_17 = xor(keyinput75, po25$enc_16);
+po25$enc_16 = xor(keyinput76, po25$enc_15);
+po25$enc_15 = xor(keyinput77, po25$enc_14);
+po25$enc_14 = xor(keyinput78, po25$enc_13);
+po25$enc_13 = xor(keyinput79, po25$enc_12);
+po25$enc_12 = xor(keyinput80, po25$enc_11);
+po25$enc_11 = xor(keyinput81, po25$enc_10);
+po25$enc_10 = xor(keyinput82, po25$enc_9);
+po25$enc_9 = xor(keyinput83, po25$enc_8);
+po25$enc_8 = xor(keyinput84, po25$enc_7);
+po25$enc_7 = xor(keyinput85, po25$enc_6);
+po25$enc_6 = xor(keyinput86, po25$enc_5);
+po25$enc_5 = xor(keyinput87, po25$enc_4);
+po25$enc_4 = xor(keyinput88, po25$enc_3);
+po25$enc_3 = xor(keyinput89, po25$enc_2);
+po25$enc_2 = xor(keyinput90, po25$enc_1);
+po25$enc_1 = xor(keyinput91, po25);
+
+#locking next scan-cell in scan-chain
+po26$enc = xor(keyinput66, po26$enc_26);
+po26$enc_26 = xor(keyinput67, po26$enc_25);
+po26$enc_25 = xor(keyinput68, po26$enc_24);
+po26$enc_24 = xor(keyinput69, po26$enc_23);
+po26$enc_23 = xor(keyinput70, po26$enc_22);
+po26$enc_22 = xor(keyinput71, po26$enc_21);
+po26$enc_21 = xor(keyinput72, po26$enc_20);
+po26$enc_20 = xor(keyinput73, po26$enc_19);
+po26$enc_19 = xor(keyinput74, po26$enc_18);
+po26$enc_18 = xor(keyinput75, po26$enc_17);
+po26$enc_17 = xor(keyinput76, po26$enc_16);
+po26$enc_16 = xor(keyinput77, po26$enc_15);
+po26$enc_15 = xor(keyinput78, po26$enc_14);
+po26$enc_14 = xor(keyinput79, po26$enc_13);
+po26$enc_13 = xor(keyinput80, po26$enc_12);
+po26$enc_12 = xor(keyinput81, po26$enc_11);
+po26$enc_11 = xor(keyinput82, po26$enc_10);
+po26$enc_10 = xor(keyinput83, po26$enc_9);
+po26$enc_9 = xor(keyinput84, po26$enc_8);
+po26$enc_8 = xor(keyinput85, po26$enc_7);
+po26$enc_7 = xor(keyinput86, po26$enc_6);
+po26$enc_6 = xor(keyinput87, po26$enc_5);
+po26$enc_5 = xor(keyinput88, po26$enc_4);
+po26$enc_4 = xor(keyinput89, po26$enc_3);
+po26$enc_3 = xor(keyinput90, po26$enc_2);
+po26$enc_2 = xor(keyinput91, po26$enc_1);
+po26$enc_1 = xor(keyinput92, po26);
+
+#locking next scan-cell in scan-chain
+po27$enc = xor(keyinput66, po27$enc_27);
+po27$enc_27 = xor(keyinput67, po27$enc_26);
+po27$enc_26 = xor(keyinput68, po27$enc_25);
+po27$enc_25 = xor(keyinput69, po27$enc_24);
+po27$enc_24 = xor(keyinput70, po27$enc_23);
+po27$enc_23 = xor(keyinput71, po27$enc_22);
+po27$enc_22 = xor(keyinput72, po27$enc_21);
+po27$enc_21 = xor(keyinput73, po27$enc_20);
+po27$enc_20 = xor(keyinput74, po27$enc_19);
+po27$enc_19 = xor(keyinput75, po27$enc_18);
+po27$enc_18 = xor(keyinput76, po27$enc_17);
+po27$enc_17 = xor(keyinput77, po27$enc_16);
+po27$enc_16 = xor(keyinput78, po27$enc_15);
+po27$enc_15 = xor(keyinput79, po27$enc_14);
+po27$enc_14 = xor(keyinput80, po27$enc_13);
+po27$enc_13 = xor(keyinput81, po27$enc_12);
+po27$enc_12 = xor(keyinput82, po27$enc_11);
+po27$enc_11 = xor(keyinput83, po27$enc_10);
+po27$enc_10 = xor(keyinput84, po27$enc_9);
+po27$enc_9 = xor(keyinput85, po27$enc_8);
+po27$enc_8 = xor(keyinput86, po27$enc_7);
+po27$enc_7 = xor(keyinput87, po27$enc_6);
+po27$enc_6 = xor(keyinput88, po27$enc_5);
+po27$enc_5 = xor(keyinput89, po27$enc_4);
+po27$enc_4 = xor(keyinput90, po27$enc_3);
+po27$enc_3 = xor(keyinput91, po27$enc_2);
+po27$enc_2 = xor(keyinput92, po27$enc_1);
+po27$enc_1 = xor(keyinput93, po27);
+
+#locking next scan-cell in scan-chain
+po28$enc = xor(keyinput66, po28$enc_28);
+po28$enc_28 = xor(keyinput67, po28$enc_27);
+po28$enc_27 = xor(keyinput68, po28$enc_26);
+po28$enc_26 = xor(keyinput69, po28$enc_25);
+po28$enc_25 = xor(keyinput70, po28$enc_24);
+po28$enc_24 = xor(keyinput71, po28$enc_23);
+po28$enc_23 = xor(keyinput72, po28$enc_22);
+po28$enc_22 = xor(keyinput73, po28$enc_21);
+po28$enc_21 = xor(keyinput74, po28$enc_20);
+po28$enc_20 = xor(keyinput75, po28$enc_19);
+po28$enc_19 = xor(keyinput76, po28$enc_18);
+po28$enc_18 = xor(keyinput77, po28$enc_17);
+po28$enc_17 = xor(keyinput78, po28$enc_16);
+po28$enc_16 = xor(keyinput79, po28$enc_15);
+po28$enc_15 = xor(keyinput80, po28$enc_14);
+po28$enc_14 = xor(keyinput81, po28$enc_13);
+po28$enc_13 = xor(keyinput82, po28$enc_12);
+po28$enc_12 = xor(keyinput83, po28$enc_11);
+po28$enc_11 = xor(keyinput84, po28$enc_10);
+po28$enc_10 = xor(keyinput85, po28$enc_9);
+po28$enc_9 = xor(keyinput86, po28$enc_8);
+po28$enc_8 = xor(keyinput87, po28$enc_7);
+po28$enc_7 = xor(keyinput88, po28$enc_6);
+po28$enc_6 = xor(keyinput89, po28$enc_5);
+po28$enc_5 = xor(keyinput90, po28$enc_4);
+po28$enc_4 = xor(keyinput91, po28$enc_3);
+po28$enc_3 = xor(keyinput92, po28$enc_2);
+po28$enc_2 = xor(keyinput93, po28$enc_1);
+po28$enc_1 = xor(keyinput94, po28);
+
+#locking next scan-cell in scan-chain
+po29$enc = xor(keyinput66, po29$enc_29);
+po29$enc_29 = xor(keyinput67, po29$enc_28);
+po29$enc_28 = xor(keyinput68, po29$enc_27);
+po29$enc_27 = xor(keyinput69, po29$enc_26);
+po29$enc_26 = xor(keyinput70, po29$enc_25);
+po29$enc_25 = xor(keyinput71, po29$enc_24);
+po29$enc_24 = xor(keyinput72, po29$enc_23);
+po29$enc_23 = xor(keyinput73, po29$enc_22);
+po29$enc_22 = xor(keyinput74, po29$enc_21);
+po29$enc_21 = xor(keyinput75, po29$enc_20);
+po29$enc_20 = xor(keyinput76, po29$enc_19);
+po29$enc_19 = xor(keyinput77, po29$enc_18);
+po29$enc_18 = xor(keyinput78, po29$enc_17);
+po29$enc_17 = xor(keyinput79, po29$enc_16);
+po29$enc_16 = xor(keyinput80, po29$enc_15);
+po29$enc_15 = xor(keyinput81, po29$enc_14);
+po29$enc_14 = xor(keyinput82, po29$enc_13);
+po29$enc_13 = xor(keyinput83, po29$enc_12);
+po29$enc_12 = xor(keyinput84, po29$enc_11);
+po29$enc_11 = xor(keyinput85, po29$enc_10);
+po29$enc_10 = xor(keyinput86, po29$enc_9);
+po29$enc_9 = xor(keyinput87, po29$enc_8);
+po29$enc_8 = xor(keyinput88, po29$enc_7);
+po29$enc_7 = xor(keyinput89, po29$enc_6);
+po29$enc_6 = xor(keyinput90, po29$enc_5);
+po29$enc_5 = xor(keyinput91, po29$enc_4);
+po29$enc_4 = xor(keyinput92, po29$enc_3);
+po29$enc_3 = xor(keyinput93, po29$enc_2);
+po29$enc_2 = xor(keyinput94, po29$enc_1);
+po29$enc_1 = xor(keyinput95, po29);
+
+#locking next scan-cell in scan-chain
+po30$enc = xor(keyinput66, po30$enc_30);
+po30$enc_30 = xor(keyinput67, po30$enc_29);
+po30$enc_29 = xor(keyinput68, po30$enc_28);
+po30$enc_28 = xor(keyinput69, po30$enc_27);
+po30$enc_27 = xor(keyinput70, po30$enc_26);
+po30$enc_26 = xor(keyinput71, po30$enc_25);
+po30$enc_25 = xor(keyinput72, po30$enc_24);
+po30$enc_24 = xor(keyinput73, po30$enc_23);
+po30$enc_23 = xor(keyinput74, po30$enc_22);
+po30$enc_22 = xor(keyinput75, po30$enc_21);
+po30$enc_21 = xor(keyinput76, po30$enc_20);
+po30$enc_20 = xor(keyinput77, po30$enc_19);
+po30$enc_19 = xor(keyinput78, po30$enc_18);
+po30$enc_18 = xor(keyinput79, po30$enc_17);
+po30$enc_17 = xor(keyinput80, po30$enc_16);
+po30$enc_16 = xor(keyinput81, po30$enc_15);
+po30$enc_15 = xor(keyinput82, po30$enc_14);
+po30$enc_14 = xor(keyinput83, po30$enc_13);
+po30$enc_13 = xor(keyinput84, po30$enc_12);
+po30$enc_12 = xor(keyinput85, po30$enc_11);
+po30$enc_11 = xor(keyinput86, po30$enc_10);
+po30$enc_10 = xor(keyinput87, po30$enc_9);
+po30$enc_9 = xor(keyinput88, po30$enc_8);
+po30$enc_8 = xor(keyinput89, po30$enc_7);
+po30$enc_7 = xor(keyinput90, po30$enc_6);
+po30$enc_6 = xor(keyinput91, po30$enc_5);
+po30$enc_5 = xor(keyinput92, po30$enc_4);
+po30$enc_4 = xor(keyinput93, po30$enc_3);
+po30$enc_3 = xor(keyinput94, po30$enc_2);
+po30$enc_2 = xor(keyinput95, po30$enc_1);
+po30$enc_1 = xor(keyinput96, po30);
+
+#locking next scan-cell in scan-chain
+po31$enc = xor(keyinput66, po31$enc_31);
+po31$enc_31 = xor(keyinput67, po31$enc_30);
+po31$enc_30 = xor(keyinput68, po31$enc_29);
+po31$enc_29 = xor(keyinput69, po31$enc_28);
+po31$enc_28 = xor(keyinput70, po31$enc_27);
+po31$enc_27 = xor(keyinput71, po31$enc_26);
+po31$enc_26 = xor(keyinput72, po31$enc_25);
+po31$enc_25 = xor(keyinput73, po31$enc_24);
+po31$enc_24 = xor(keyinput74, po31$enc_23);
+po31$enc_23 = xor(keyinput75, po31$enc_22);
+po31$enc_22 = xor(keyinput76, po31$enc_21);
+po31$enc_21 = xor(keyinput77, po31$enc_20);
+po31$enc_20 = xor(keyinput78, po31$enc_19);
+po31$enc_19 = xor(keyinput79, po31$enc_18);
+po31$enc_18 = xor(keyinput80, po31$enc_17);
+po31$enc_17 = xor(keyinput81, po31$enc_16);
+po31$enc_16 = xor(keyinput82, po31$enc_15);
+po31$enc_15 = xor(keyinput83, po31$enc_14);
+po31$enc_14 = xor(keyinput84, po31$enc_13);
+po31$enc_13 = xor(keyinput85, po31$enc_12);
+po31$enc_12 = xor(keyinput86, po31$enc_11);
+po31$enc_11 = xor(keyinput87, po31$enc_10);
+po31$enc_10 = xor(keyinput88, po31$enc_9);
+po31$enc_9 = xor(keyinput89, po31$enc_8);
+po31$enc_8 = xor(keyinput90, po31$enc_7);
+po31$enc_7 = xor(keyinput91, po31$enc_6);
+po31$enc_6 = xor(keyinput92, po31$enc_5);
+po31$enc_5 = xor(keyinput93, po31$enc_4);
+po31$enc_4 = xor(keyinput94, po31$enc_3);
+po31$enc_3 = xor(keyinput95, po31$enc_2);
+po31$enc_2 = xor(keyinput96, po31$enc_1);
+po31$enc_1 = xor(keyinput97, po31);
+
+#locking next scan-cell in scan-chain
+po32$enc = xor(keyinput66, po32$enc_32);
+po32$enc_32 = xor(keyinput67, po32$enc_31);
+po32$enc_31 = xor(keyinput68, po32$enc_30);
+po32$enc_30 = xor(keyinput69, po32$enc_29);
+po32$enc_29 = xor(keyinput70, po32$enc_28);
+po32$enc_28 = xor(keyinput71, po32$enc_27);
+po32$enc_27 = xor(keyinput72, po32$enc_26);
+po32$enc_26 = xor(keyinput73, po32$enc_25);
+po32$enc_25 = xor(keyinput74, po32$enc_24);
+po32$enc_24 = xor(keyinput75, po32$enc_23);
+po32$enc_23 = xor(keyinput76, po32$enc_22);
+po32$enc_22 = xor(keyinput77, po32$enc_21);
+po32$enc_21 = xor(keyinput78, po32$enc_20);
+po32$enc_20 = xor(keyinput79, po32$enc_19);
+po32$enc_19 = xor(keyinput80, po32$enc_18);
+po32$enc_18 = xor(keyinput81, po32$enc_17);
+po32$enc_17 = xor(keyinput82, po32$enc_16);
+po32$enc_16 = xor(keyinput83, po32$enc_15);
+po32$enc_15 = xor(keyinput84, po32$enc_14);
+po32$enc_14 = xor(keyinput85, po32$enc_13);
+po32$enc_13 = xor(keyinput86, po32$enc_12);
+po32$enc_12 = xor(keyinput87, po32$enc_11);
+po32$enc_11 = xor(keyinput88, po32$enc_10);
+po32$enc_10 = xor(keyinput89, po32$enc_9);
+po32$enc_9 = xor(keyinput90, po32$enc_8);
+po32$enc_8 = xor(keyinput91, po32$enc_7);
+po32$enc_7 = xor(keyinput92, po32$enc_6);
+po32$enc_6 = xor(keyinput93, po32$enc_5);
+po32$enc_5 = xor(keyinput94, po32$enc_4);
+po32$enc_4 = xor(keyinput95, po32$enc_3);
+po32$enc_3 = xor(keyinput96, po32$enc_2);
+po32$enc_2 = xor(keyinput97, po32$enc_1);
+po32$enc_1 = xor(keyinput98, po32);
+
+#locking next scan-cell in scan-chain
+po33$enc = xor(keyinput66, po33$enc_33);
+po33$enc_33 = xor(keyinput67, po33$enc_32);
+po33$enc_32 = xor(keyinput68, po33$enc_31);
+po33$enc_31 = xor(keyinput69, po33$enc_30);
+po33$enc_30 = xor(keyinput70, po33$enc_29);
+po33$enc_29 = xor(keyinput71, po33$enc_28);
+po33$enc_28 = xor(keyinput72, po33$enc_27);
+po33$enc_27 = xor(keyinput73, po33$enc_26);
+po33$enc_26 = xor(keyinput74, po33$enc_25);
+po33$enc_25 = xor(keyinput75, po33$enc_24);
+po33$enc_24 = xor(keyinput76, po33$enc_23);
+po33$enc_23 = xor(keyinput77, po33$enc_22);
+po33$enc_22 = xor(keyinput78, po33$enc_21);
+po33$enc_21 = xor(keyinput79, po33$enc_20);
+po33$enc_20 = xor(keyinput80, po33$enc_19);
+po33$enc_19 = xor(keyinput81, po33$enc_18);
+po33$enc_18 = xor(keyinput82, po33$enc_17);
+po33$enc_17 = xor(keyinput83, po33$enc_16);
+po33$enc_16 = xor(keyinput84, po33$enc_15);
+po33$enc_15 = xor(keyinput85, po33$enc_14);
+po33$enc_14 = xor(keyinput86, po33$enc_13);
+po33$enc_13 = xor(keyinput87, po33$enc_12);
+po33$enc_12 = xor(keyinput88, po33$enc_11);
+po33$enc_11 = xor(keyinput89, po33$enc_10);
+po33$enc_10 = xor(keyinput90, po33$enc_9);
+po33$enc_9 = xor(keyinput91, po33$enc_8);
+po33$enc_8 = xor(keyinput92, po33$enc_7);
+po33$enc_7 = xor(keyinput93, po33$enc_6);
+po33$enc_6 = xor(keyinput94, po33$enc_5);
+po33$enc_5 = xor(keyinput95, po33$enc_4);
+po33$enc_4 = xor(keyinput96, po33$enc_3);
+po33$enc_3 = xor(keyinput97, po33$enc_2);
+po33$enc_2 = xor(keyinput98, po33$enc_1);
+po33$enc_1 = xor(keyinput99, po33enc);
+
+#locking next scan-cell in scan-chain
+po34$enc = xor(keyinput66, po34$enc_34);
+po34$enc_34 = xor(keyinput67, po34$enc_33);
+po34$enc_33 = xor(keyinput68, po34$enc_32);
+po34$enc_32 = xor(keyinput69, po34$enc_31);
+po34$enc_31 = xor(keyinput70, po34$enc_30);
+po34$enc_30 = xor(keyinput71, po34$enc_29);
+po34$enc_29 = xor(keyinput72, po34$enc_28);
+po34$enc_28 = xor(keyinput73, po34$enc_27);
+po34$enc_27 = xor(keyinput74, po34$enc_26);
+po34$enc_26 = xor(keyinput75, po34$enc_25);
+po34$enc_25 = xor(keyinput76, po34$enc_24);
+po34$enc_24 = xor(keyinput77, po34$enc_23);
+po34$enc_23 = xor(keyinput78, po34$enc_22);
+po34$enc_22 = xor(keyinput79, po34$enc_21);
+po34$enc_21 = xor(keyinput80, po34$enc_20);
+po34$enc_20 = xor(keyinput81, po34$enc_19);
+po34$enc_19 = xor(keyinput82, po34$enc_18);
+po34$enc_18 = xor(keyinput83, po34$enc_17);
+po34$enc_17 = xor(keyinput84, po34$enc_16);
+po34$enc_16 = xor(keyinput85, po34$enc_15);
+po34$enc_15 = xor(keyinput86, po34$enc_14);
+po34$enc_14 = xor(keyinput87, po34$enc_13);
+po34$enc_13 = xor(keyinput88, po34$enc_12);
+po34$enc_12 = xor(keyinput89, po34$enc_11);
+po34$enc_11 = xor(keyinput90, po34$enc_10);
+po34$enc_10 = xor(keyinput91, po34$enc_9);
+po34$enc_9 = xor(keyinput92, po34$enc_8);
+po34$enc_8 = xor(keyinput93, po34$enc_7);
+po34$enc_7 = xor(keyinput94, po34$enc_6);
+po34$enc_6 = xor(keyinput95, po34$enc_5);
+po34$enc_5 = xor(keyinput96, po34$enc_4);
+po34$enc_4 = xor(keyinput97, po34$enc_3);
+po34$enc_3 = xor(keyinput98, po34$enc_2);
+po34$enc_2 = xor(keyinput99, po34$enc_1);
+po34$enc_1 = xor(keyinput100, po34);
+
+#locking next scan-cell in scan-chain
+po35$enc = xor(keyinput66, po35$enc_35);
+po35$enc_35 = xor(keyinput67, po35$enc_34);
+po35$enc_34 = xor(keyinput68, po35$enc_33);
+po35$enc_33 = xor(keyinput69, po35$enc_32);
+po35$enc_32 = xor(keyinput70, po35$enc_31);
+po35$enc_31 = xor(keyinput71, po35$enc_30);
+po35$enc_30 = xor(keyinput72, po35$enc_29);
+po35$enc_29 = xor(keyinput73, po35$enc_28);
+po35$enc_28 = xor(keyinput74, po35$enc_27);
+po35$enc_27 = xor(keyinput75, po35$enc_26);
+po35$enc_26 = xor(keyinput76, po35$enc_25);
+po35$enc_25 = xor(keyinput77, po35$enc_24);
+po35$enc_24 = xor(keyinput78, po35$enc_23);
+po35$enc_23 = xor(keyinput79, po35$enc_22);
+po35$enc_22 = xor(keyinput80, po35$enc_21);
+po35$enc_21 = xor(keyinput81, po35$enc_20);
+po35$enc_20 = xor(keyinput82, po35$enc_19);
+po35$enc_19 = xor(keyinput83, po35$enc_18);
+po35$enc_18 = xor(keyinput84, po35$enc_17);
+po35$enc_17 = xor(keyinput85, po35$enc_16);
+po35$enc_16 = xor(keyinput86, po35$enc_15);
+po35$enc_15 = xor(keyinput87, po35$enc_14);
+po35$enc_14 = xor(keyinput88, po35$enc_13);
+po35$enc_13 = xor(keyinput89, po35$enc_12);
+po35$enc_12 = xor(keyinput90, po35$enc_11);
+po35$enc_11 = xor(keyinput91, po35$enc_10);
+po35$enc_10 = xor(keyinput92, po35$enc_9);
+po35$enc_9 = xor(keyinput93, po35$enc_8);
+po35$enc_8 = xor(keyinput94, po35$enc_7);
+po35$enc_7 = xor(keyinput95, po35$enc_6);
+po35$enc_6 = xor(keyinput96, po35$enc_5);
+po35$enc_5 = xor(keyinput97, po35$enc_4);
+po35$enc_4 = xor(keyinput98, po35$enc_3);
+po35$enc_3 = xor(keyinput99, po35$enc_2);
+po35$enc_2 = xor(keyinput100, po35$enc_1);
+po35$enc_1 = xor(keyinput101, po35);
+
+#locking next scan-cell in scan-chain
+po36$enc = xor(keyinput66, po36$enc_36);
+po36$enc_36 = xor(keyinput67, po36$enc_35);
+po36$enc_35 = xor(keyinput68, po36$enc_34);
+po36$enc_34 = xor(keyinput69, po36$enc_33);
+po36$enc_33 = xor(keyinput70, po36$enc_32);
+po36$enc_32 = xor(keyinput71, po36$enc_31);
+po36$enc_31 = xor(keyinput72, po36$enc_30);
+po36$enc_30 = xor(keyinput73, po36$enc_29);
+po36$enc_29 = xor(keyinput74, po36$enc_28);
+po36$enc_28 = xor(keyinput75, po36$enc_27);
+po36$enc_27 = xor(keyinput76, po36$enc_26);
+po36$enc_26 = xor(keyinput77, po36$enc_25);
+po36$enc_25 = xor(keyinput78, po36$enc_24);
+po36$enc_24 = xor(keyinput79, po36$enc_23);
+po36$enc_23 = xor(keyinput80, po36$enc_22);
+po36$enc_22 = xor(keyinput81, po36$enc_21);
+po36$enc_21 = xor(keyinput82, po36$enc_20);
+po36$enc_20 = xor(keyinput83, po36$enc_19);
+po36$enc_19 = xor(keyinput84, po36$enc_18);
+po36$enc_18 = xor(keyinput85, po36$enc_17);
+po36$enc_17 = xor(keyinput86, po36$enc_16);
+po36$enc_16 = xor(keyinput87, po36$enc_15);
+po36$enc_15 = xor(keyinput88, po36$enc_14);
+po36$enc_14 = xor(keyinput89, po36$enc_13);
+po36$enc_13 = xor(keyinput90, po36$enc_12);
+po36$enc_12 = xor(keyinput91, po36$enc_11);
+po36$enc_11 = xor(keyinput92, po36$enc_10);
+po36$enc_10 = xor(keyinput93, po36$enc_9);
+po36$enc_9 = xor(keyinput94, po36$enc_8);
+po36$enc_8 = xor(keyinput95, po36$enc_7);
+po36$enc_7 = xor(keyinput96, po36$enc_6);
+po36$enc_6 = xor(keyinput97, po36$enc_5);
+po36$enc_5 = xor(keyinput98, po36$enc_4);
+po36$enc_4 = xor(keyinput99, po36$enc_3);
+po36$enc_3 = xor(keyinput100, po36$enc_2);
+po36$enc_2 = xor(keyinput101, po36$enc_1);
+po36$enc_1 = xor(keyinput102, po36);
+
+#locking next scan-cell in scan-chain
+po37$enc = xor(keyinput66, po37$enc_37);
+po37$enc_37 = xor(keyinput67, po37$enc_36);
+po37$enc_36 = xor(keyinput68, po37$enc_35);
+po37$enc_35 = xor(keyinput69, po37$enc_34);
+po37$enc_34 = xor(keyinput70, po37$enc_33);
+po37$enc_33 = xor(keyinput71, po37$enc_32);
+po37$enc_32 = xor(keyinput72, po37$enc_31);
+po37$enc_31 = xor(keyinput73, po37$enc_30);
+po37$enc_30 = xor(keyinput74, po37$enc_29);
+po37$enc_29 = xor(keyinput75, po37$enc_28);
+po37$enc_28 = xor(keyinput76, po37$enc_27);
+po37$enc_27 = xor(keyinput77, po37$enc_26);
+po37$enc_26 = xor(keyinput78, po37$enc_25);
+po37$enc_25 = xor(keyinput79, po37$enc_24);
+po37$enc_24 = xor(keyinput80, po37$enc_23);
+po37$enc_23 = xor(keyinput81, po37$enc_22);
+po37$enc_22 = xor(keyinput82, po37$enc_21);
+po37$enc_21 = xor(keyinput83, po37$enc_20);
+po37$enc_20 = xor(keyinput84, po37$enc_19);
+po37$enc_19 = xor(keyinput85, po37$enc_18);
+po37$enc_18 = xor(keyinput86, po37$enc_17);
+po37$enc_17 = xor(keyinput87, po37$enc_16);
+po37$enc_16 = xor(keyinput88, po37$enc_15);
+po37$enc_15 = xor(keyinput89, po37$enc_14);
+po37$enc_14 = xor(keyinput90, po37$enc_13);
+po37$enc_13 = xor(keyinput91, po37$enc_12);
+po37$enc_12 = xor(keyinput92, po37$enc_11);
+po37$enc_11 = xor(keyinput93, po37$enc_10);
+po37$enc_10 = xor(keyinput94, po37$enc_9);
+po37$enc_9 = xor(keyinput95, po37$enc_8);
+po37$enc_8 = xor(keyinput96, po37$enc_7);
+po37$enc_7 = xor(keyinput97, po37$enc_6);
+po37$enc_6 = xor(keyinput98, po37$enc_5);
+po37$enc_5 = xor(keyinput99, po37$enc_4);
+po37$enc_4 = xor(keyinput100, po37$enc_3);
+po37$enc_3 = xor(keyinput101, po37$enc_2);
+po37$enc_2 = xor(keyinput102, po37$enc_1);
+po37$enc_1 = xor(keyinput103, po37);
+
+#locking next scan-cell in scan-chain
+po38$enc = xor(keyinput66, po38$enc_38);
+po38$enc_38 = xor(keyinput67, po38$enc_37);
+po38$enc_37 = xor(keyinput68, po38$enc_36);
+po38$enc_36 = xor(keyinput69, po38$enc_35);
+po38$enc_35 = xor(keyinput70, po38$enc_34);
+po38$enc_34 = xor(keyinput71, po38$enc_33);
+po38$enc_33 = xor(keyinput72, po38$enc_32);
+po38$enc_32 = xor(keyinput73, po38$enc_31);
+po38$enc_31 = xor(keyinput74, po38$enc_30);
+po38$enc_30 = xor(keyinput75, po38$enc_29);
+po38$enc_29 = xor(keyinput76, po38$enc_28);
+po38$enc_28 = xor(keyinput77, po38$enc_27);
+po38$enc_27 = xor(keyinput78, po38$enc_26);
+po38$enc_26 = xor(keyinput79, po38$enc_25);
+po38$enc_25 = xor(keyinput80, po38$enc_24);
+po38$enc_24 = xor(keyinput81, po38$enc_23);
+po38$enc_23 = xor(keyinput82, po38$enc_22);
+po38$enc_22 = xor(keyinput83, po38$enc_21);
+po38$enc_21 = xor(keyinput84, po38$enc_20);
+po38$enc_20 = xor(keyinput85, po38$enc_19);
+po38$enc_19 = xor(keyinput86, po38$enc_18);
+po38$enc_18 = xor(keyinput87, po38$enc_17);
+po38$enc_17 = xor(keyinput88, po38$enc_16);
+po38$enc_16 = xor(keyinput89, po38$enc_15);
+po38$enc_15 = xor(keyinput90, po38$enc_14);
+po38$enc_14 = xor(keyinput91, po38$enc_13);
+po38$enc_13 = xor(keyinput92, po38$enc_12);
+po38$enc_12 = xor(keyinput93, po38$enc_11);
+po38$enc_11 = xor(keyinput94, po38$enc_10);
+po38$enc_10 = xor(keyinput95, po38$enc_9);
+po38$enc_9 = xor(keyinput96, po38$enc_8);
+po38$enc_8 = xor(keyinput97, po38$enc_7);
+po38$enc_7 = xor(keyinput98, po38$enc_6);
+po38$enc_6 = xor(keyinput99, po38$enc_5);
+po38$enc_5 = xor(keyinput100, po38$enc_4);
+po38$enc_4 = xor(keyinput101, po38$enc_3);
+po38$enc_3 = xor(keyinput102, po38$enc_2);
+po38$enc_2 = xor(keyinput103, po38$enc_1);
+po38$enc_1 = xor(keyinput104, po38);
+
+#locking next scan-cell in scan-chain
+po39$enc = xor(keyinput66, po39$enc_39);
+po39$enc_39 = xor(keyinput67, po39$enc_38);
+po39$enc_38 = xor(keyinput68, po39$enc_37);
+po39$enc_37 = xor(keyinput69, po39$enc_36);
+po39$enc_36 = xor(keyinput70, po39$enc_35);
+po39$enc_35 = xor(keyinput71, po39$enc_34);
+po39$enc_34 = xor(keyinput72, po39$enc_33);
+po39$enc_33 = xor(keyinput73, po39$enc_32);
+po39$enc_32 = xor(keyinput74, po39$enc_31);
+po39$enc_31 = xor(keyinput75, po39$enc_30);
+po39$enc_30 = xor(keyinput76, po39$enc_29);
+po39$enc_29 = xor(keyinput77, po39$enc_28);
+po39$enc_28 = xor(keyinput78, po39$enc_27);
+po39$enc_27 = xor(keyinput79, po39$enc_26);
+po39$enc_26 = xor(keyinput80, po39$enc_25);
+po39$enc_25 = xor(keyinput81, po39$enc_24);
+po39$enc_24 = xor(keyinput82, po39$enc_23);
+po39$enc_23 = xor(keyinput83, po39$enc_22);
+po39$enc_22 = xor(keyinput84, po39$enc_21);
+po39$enc_21 = xor(keyinput85, po39$enc_20);
+po39$enc_20 = xor(keyinput86, po39$enc_19);
+po39$enc_19 = xor(keyinput87, po39$enc_18);
+po39$enc_18 = xor(keyinput88, po39$enc_17);
+po39$enc_17 = xor(keyinput89, po39$enc_16);
+po39$enc_16 = xor(keyinput90, po39$enc_15);
+po39$enc_15 = xor(keyinput91, po39$enc_14);
+po39$enc_14 = xor(keyinput92, po39$enc_13);
+po39$enc_13 = xor(keyinput93, po39$enc_12);
+po39$enc_12 = xor(keyinput94, po39$enc_11);
+po39$enc_11 = xor(keyinput95, po39$enc_10);
+po39$enc_10 = xor(keyinput96, po39$enc_9);
+po39$enc_9 = xor(keyinput97, po39$enc_8);
+po39$enc_8 = xor(keyinput98, po39$enc_7);
+po39$enc_7 = xor(keyinput99, po39$enc_6);
+po39$enc_6 = xor(keyinput100, po39$enc_5);
+po39$enc_5 = xor(keyinput101, po39$enc_4);
+po39$enc_4 = xor(keyinput102, po39$enc_3);
+po39$enc_3 = xor(keyinput103, po39$enc_2);
+po39$enc_2 = xor(keyinput104, po39$enc_1);
+po39$enc_1 = xor(keyinput105, po39);
+
+#locking next scan-cell in scan-chain
+po40$enc = xor(keyinput66, po40$enc_40);
+po40$enc_40 = xor(keyinput67, po40$enc_39);
+po40$enc_39 = xor(keyinput68, po40$enc_38);
+po40$enc_38 = xor(keyinput69, po40$enc_37);
+po40$enc_37 = xor(keyinput70, po40$enc_36);
+po40$enc_36 = xor(keyinput71, po40$enc_35);
+po40$enc_35 = xor(keyinput72, po40$enc_34);
+po40$enc_34 = xor(keyinput73, po40$enc_33);
+po40$enc_33 = xor(keyinput74, po40$enc_32);
+po40$enc_32 = xor(keyinput75, po40$enc_31);
+po40$enc_31 = xor(keyinput76, po40$enc_30);
+po40$enc_30 = xor(keyinput77, po40$enc_29);
+po40$enc_29 = xor(keyinput78, po40$enc_28);
+po40$enc_28 = xor(keyinput79, po40$enc_27);
+po40$enc_27 = xor(keyinput80, po40$enc_26);
+po40$enc_26 = xor(keyinput81, po40$enc_25);
+po40$enc_25 = xor(keyinput82, po40$enc_24);
+po40$enc_24 = xor(keyinput83, po40$enc_23);
+po40$enc_23 = xor(keyinput84, po40$enc_22);
+po40$enc_22 = xor(keyinput85, po40$enc_21);
+po40$enc_21 = xor(keyinput86, po40$enc_20);
+po40$enc_20 = xor(keyinput87, po40$enc_19);
+po40$enc_19 = xor(keyinput88, po40$enc_18);
+po40$enc_18 = xor(keyinput89, po40$enc_17);
+po40$enc_17 = xor(keyinput90, po40$enc_16);
+po40$enc_16 = xor(keyinput91, po40$enc_15);
+po40$enc_15 = xor(keyinput92, po40$enc_14);
+po40$enc_14 = xor(keyinput93, po40$enc_13);
+po40$enc_13 = xor(keyinput94, po40$enc_12);
+po40$enc_12 = xor(keyinput95, po40$enc_11);
+po40$enc_11 = xor(keyinput96, po40$enc_10);
+po40$enc_10 = xor(keyinput97, po40$enc_9);
+po40$enc_9 = xor(keyinput98, po40$enc_8);
+po40$enc_8 = xor(keyinput99, po40$enc_7);
+po40$enc_7 = xor(keyinput100, po40$enc_6);
+po40$enc_6 = xor(keyinput101, po40$enc_5);
+po40$enc_5 = xor(keyinput102, po40$enc_4);
+po40$enc_4 = xor(keyinput103, po40$enc_3);
+po40$enc_3 = xor(keyinput104, po40$enc_2);
+po40$enc_2 = xor(keyinput105, po40$enc_1);
+po40$enc_1 = xor(keyinput106, po40);
+
+#locking next scan-cell in scan-chain
+po41$enc = xor(keyinput66, po41$enc_41);
+po41$enc_41 = xor(keyinput67, po41$enc_40);
+po41$enc_40 = xor(keyinput68, po41$enc_39);
+po41$enc_39 = xor(keyinput69, po41$enc_38);
+po41$enc_38 = xor(keyinput70, po41$enc_37);
+po41$enc_37 = xor(keyinput71, po41$enc_36);
+po41$enc_36 = xor(keyinput72, po41$enc_35);
+po41$enc_35 = xor(keyinput73, po41$enc_34);
+po41$enc_34 = xor(keyinput74, po41$enc_33);
+po41$enc_33 = xor(keyinput75, po41$enc_32);
+po41$enc_32 = xor(keyinput76, po41$enc_31);
+po41$enc_31 = xor(keyinput77, po41$enc_30);
+po41$enc_30 = xor(keyinput78, po41$enc_29);
+po41$enc_29 = xor(keyinput79, po41$enc_28);
+po41$enc_28 = xor(keyinput80, po41$enc_27);
+po41$enc_27 = xor(keyinput81, po41$enc_26);
+po41$enc_26 = xor(keyinput82, po41$enc_25);
+po41$enc_25 = xor(keyinput83, po41$enc_24);
+po41$enc_24 = xor(keyinput84, po41$enc_23);
+po41$enc_23 = xor(keyinput85, po41$enc_22);
+po41$enc_22 = xor(keyinput86, po41$enc_21);
+po41$enc_21 = xor(keyinput87, po41$enc_20);
+po41$enc_20 = xor(keyinput88, po41$enc_19);
+po41$enc_19 = xor(keyinput89, po41$enc_18);
+po41$enc_18 = xor(keyinput90, po41$enc_17);
+po41$enc_17 = xor(keyinput91, po41$enc_16);
+po41$enc_16 = xor(keyinput92, po41$enc_15);
+po41$enc_15 = xor(keyinput93, po41$enc_14);
+po41$enc_14 = xor(keyinput94, po41$enc_13);
+po41$enc_13 = xor(keyinput95, po41$enc_12);
+po41$enc_12 = xor(keyinput96, po41$enc_11);
+po41$enc_11 = xor(keyinput97, po41$enc_10);
+po41$enc_10 = xor(keyinput98, po41$enc_9);
+po41$enc_9 = xor(keyinput99, po41$enc_8);
+po41$enc_8 = xor(keyinput100, po41$enc_7);
+po41$enc_7 = xor(keyinput101, po41$enc_6);
+po41$enc_6 = xor(keyinput102, po41$enc_5);
+po41$enc_5 = xor(keyinput103, po41$enc_4);
+po41$enc_4 = xor(keyinput104, po41$enc_3);
+po41$enc_3 = xor(keyinput105, po41$enc_2);
+po41$enc_2 = xor(keyinput106, po41$enc_1);
+po41$enc_1 = xor(keyinput107, po41);
+
+#locking next scan-cell in scan-chain
+po42$enc = xor(keyinput66, po42$enc_42);
+po42$enc_42 = xor(keyinput67, po42$enc_41);
+po42$enc_41 = xor(keyinput68, po42$enc_40);
+po42$enc_40 = xor(keyinput69, po42$enc_39);
+po42$enc_39 = xor(keyinput70, po42$enc_38);
+po42$enc_38 = xor(keyinput71, po42$enc_37);
+po42$enc_37 = xor(keyinput72, po42$enc_36);
+po42$enc_36 = xor(keyinput73, po42$enc_35);
+po42$enc_35 = xor(keyinput74, po42$enc_34);
+po42$enc_34 = xor(keyinput75, po42$enc_33);
+po42$enc_33 = xor(keyinput76, po42$enc_32);
+po42$enc_32 = xor(keyinput77, po42$enc_31);
+po42$enc_31 = xor(keyinput78, po42$enc_30);
+po42$enc_30 = xor(keyinput79, po42$enc_29);
+po42$enc_29 = xor(keyinput80, po42$enc_28);
+po42$enc_28 = xor(keyinput81, po42$enc_27);
+po42$enc_27 = xor(keyinput82, po42$enc_26);
+po42$enc_26 = xor(keyinput83, po42$enc_25);
+po42$enc_25 = xor(keyinput84, po42$enc_24);
+po42$enc_24 = xor(keyinput85, po42$enc_23);
+po42$enc_23 = xor(keyinput86, po42$enc_22);
+po42$enc_22 = xor(keyinput87, po42$enc_21);
+po42$enc_21 = xor(keyinput88, po42$enc_20);
+po42$enc_20 = xor(keyinput89, po42$enc_19);
+po42$enc_19 = xor(keyinput90, po42$enc_18);
+po42$enc_18 = xor(keyinput91, po42$enc_17);
+po42$enc_17 = xor(keyinput92, po42$enc_16);
+po42$enc_16 = xor(keyinput93, po42$enc_15);
+po42$enc_15 = xor(keyinput94, po42$enc_14);
+po42$enc_14 = xor(keyinput95, po42$enc_13);
+po42$enc_13 = xor(keyinput96, po42$enc_12);
+po42$enc_12 = xor(keyinput97, po42$enc_11);
+po42$enc_11 = xor(keyinput98, po42$enc_10);
+po42$enc_10 = xor(keyinput99, po42$enc_9);
+po42$enc_9 = xor(keyinput100, po42$enc_8);
+po42$enc_8 = xor(keyinput101, po42$enc_7);
+po42$enc_7 = xor(keyinput102, po42$enc_6);
+po42$enc_6 = xor(keyinput103, po42$enc_5);
+po42$enc_5 = xor(keyinput104, po42$enc_4);
+po42$enc_4 = xor(keyinput105, po42$enc_3);
+po42$enc_3 = xor(keyinput106, po42$enc_2);
+po42$enc_2 = xor(keyinput107, po42$enc_1);
+po42$enc_1 = xor(keyinput108, po42);
+
+#locking next scan-cell in scan-chain
+po43$enc = xor(keyinput66, po43$enc_43);
+po43$enc_43 = xor(keyinput67, po43$enc_42);
+po43$enc_42 = xor(keyinput68, po43$enc_41);
+po43$enc_41 = xor(keyinput69, po43$enc_40);
+po43$enc_40 = xor(keyinput70, po43$enc_39);
+po43$enc_39 = xor(keyinput71, po43$enc_38);
+po43$enc_38 = xor(keyinput72, po43$enc_37);
+po43$enc_37 = xor(keyinput73, po43$enc_36);
+po43$enc_36 = xor(keyinput74, po43$enc_35);
+po43$enc_35 = xor(keyinput75, po43$enc_34);
+po43$enc_34 = xor(keyinput76, po43$enc_33);
+po43$enc_33 = xor(keyinput77, po43$enc_32);
+po43$enc_32 = xor(keyinput78, po43$enc_31);
+po43$enc_31 = xor(keyinput79, po43$enc_30);
+po43$enc_30 = xor(keyinput80, po43$enc_29);
+po43$enc_29 = xor(keyinput81, po43$enc_28);
+po43$enc_28 = xor(keyinput82, po43$enc_27);
+po43$enc_27 = xor(keyinput83, po43$enc_26);
+po43$enc_26 = xor(keyinput84, po43$enc_25);
+po43$enc_25 = xor(keyinput85, po43$enc_24);
+po43$enc_24 = xor(keyinput86, po43$enc_23);
+po43$enc_23 = xor(keyinput87, po43$enc_22);
+po43$enc_22 = xor(keyinput88, po43$enc_21);
+po43$enc_21 = xor(keyinput89, po43$enc_20);
+po43$enc_20 = xor(keyinput90, po43$enc_19);
+po43$enc_19 = xor(keyinput91, po43$enc_18);
+po43$enc_18 = xor(keyinput92, po43$enc_17);
+po43$enc_17 = xor(keyinput93, po43$enc_16);
+po43$enc_16 = xor(keyinput94, po43$enc_15);
+po43$enc_15 = xor(keyinput95, po43$enc_14);
+po43$enc_14 = xor(keyinput96, po43$enc_13);
+po43$enc_13 = xor(keyinput97, po43$enc_12);
+po43$enc_12 = xor(keyinput98, po43$enc_11);
+po43$enc_11 = xor(keyinput99, po43$enc_10);
+po43$enc_10 = xor(keyinput100, po43$enc_9);
+po43$enc_9 = xor(keyinput101, po43$enc_8);
+po43$enc_8 = xor(keyinput102, po43$enc_7);
+po43$enc_7 = xor(keyinput103, po43$enc_6);
+po43$enc_6 = xor(keyinput104, po43$enc_5);
+po43$enc_5 = xor(keyinput105, po43$enc_4);
+po43$enc_4 = xor(keyinput106, po43$enc_3);
+po43$enc_3 = xor(keyinput107, po43$enc_2);
+po43$enc_2 = xor(keyinput108, po43$enc_1);
+po43$enc_1 = xor(keyinput109, po43);
+
+#locking next scan-cell in scan-chain
+po44$enc = xor(keyinput66, po44$enc_44);
+po44$enc_44 = xor(keyinput67, po44$enc_43);
+po44$enc_43 = xor(keyinput68, po44$enc_42);
+po44$enc_42 = xor(keyinput69, po44$enc_41);
+po44$enc_41 = xor(keyinput70, po44$enc_40);
+po44$enc_40 = xor(keyinput71, po44$enc_39);
+po44$enc_39 = xor(keyinput72, po44$enc_38);
+po44$enc_38 = xor(keyinput73, po44$enc_37);
+po44$enc_37 = xor(keyinput74, po44$enc_36);
+po44$enc_36 = xor(keyinput75, po44$enc_35);
+po44$enc_35 = xor(keyinput76, po44$enc_34);
+po44$enc_34 = xor(keyinput77, po44$enc_33);
+po44$enc_33 = xor(keyinput78, po44$enc_32);
+po44$enc_32 = xor(keyinput79, po44$enc_31);
+po44$enc_31 = xor(keyinput80, po44$enc_30);
+po44$enc_30 = xor(keyinput81, po44$enc_29);
+po44$enc_29 = xor(keyinput82, po44$enc_28);
+po44$enc_28 = xor(keyinput83, po44$enc_27);
+po44$enc_27 = xor(keyinput84, po44$enc_26);
+po44$enc_26 = xor(keyinput85, po44$enc_25);
+po44$enc_25 = xor(keyinput86, po44$enc_24);
+po44$enc_24 = xor(keyinput87, po44$enc_23);
+po44$enc_23 = xor(keyinput88, po44$enc_22);
+po44$enc_22 = xor(keyinput89, po44$enc_21);
+po44$enc_21 = xor(keyinput90, po44$enc_20);
+po44$enc_20 = xor(keyinput91, po44$enc_19);
+po44$enc_19 = xor(keyinput92, po44$enc_18);
+po44$enc_18 = xor(keyinput93, po44$enc_17);
+po44$enc_17 = xor(keyinput94, po44$enc_16);
+po44$enc_16 = xor(keyinput95, po44$enc_15);
+po44$enc_15 = xor(keyinput96, po44$enc_14);
+po44$enc_14 = xor(keyinput97, po44$enc_13);
+po44$enc_13 = xor(keyinput98, po44$enc_12);
+po44$enc_12 = xor(keyinput99, po44$enc_11);
+po44$enc_11 = xor(keyinput100, po44$enc_10);
+po44$enc_10 = xor(keyinput101, po44$enc_9);
+po44$enc_9 = xor(keyinput102, po44$enc_8);
+po44$enc_8 = xor(keyinput103, po44$enc_7);
+po44$enc_7 = xor(keyinput104, po44$enc_6);
+po44$enc_6 = xor(keyinput105, po44$enc_5);
+po44$enc_5 = xor(keyinput106, po44$enc_4);
+po44$enc_4 = xor(keyinput107, po44$enc_3);
+po44$enc_3 = xor(keyinput108, po44$enc_2);
+po44$enc_2 = xor(keyinput109, po44$enc_1);
+po44$enc_1 = xor(keyinput110, po44);
+
+#locking next scan-cell in scan-chain
+po45$enc = xor(keyinput66, po45$enc_45);
+po45$enc_45 = xor(keyinput67, po45$enc_44);
+po45$enc_44 = xor(keyinput68, po45$enc_43);
+po45$enc_43 = xor(keyinput69, po45$enc_42);
+po45$enc_42 = xor(keyinput70, po45$enc_41);
+po45$enc_41 = xor(keyinput71, po45$enc_40);
+po45$enc_40 = xor(keyinput72, po45$enc_39);
+po45$enc_39 = xor(keyinput73, po45$enc_38);
+po45$enc_38 = xor(keyinput74, po45$enc_37);
+po45$enc_37 = xor(keyinput75, po45$enc_36);
+po45$enc_36 = xor(keyinput76, po45$enc_35);
+po45$enc_35 = xor(keyinput77, po45$enc_34);
+po45$enc_34 = xor(keyinput78, po45$enc_33);
+po45$enc_33 = xor(keyinput79, po45$enc_32);
+po45$enc_32 = xor(keyinput80, po45$enc_31);
+po45$enc_31 = xor(keyinput81, po45$enc_30);
+po45$enc_30 = xor(keyinput82, po45$enc_29);
+po45$enc_29 = xor(keyinput83, po45$enc_28);
+po45$enc_28 = xor(keyinput84, po45$enc_27);
+po45$enc_27 = xor(keyinput85, po45$enc_26);
+po45$enc_26 = xor(keyinput86, po45$enc_25);
+po45$enc_25 = xor(keyinput87, po45$enc_24);
+po45$enc_24 = xor(keyinput88, po45$enc_23);
+po45$enc_23 = xor(keyinput89, po45$enc_22);
+po45$enc_22 = xor(keyinput90, po45$enc_21);
+po45$enc_21 = xor(keyinput91, po45$enc_20);
+po45$enc_20 = xor(keyinput92, po45$enc_19);
+po45$enc_19 = xor(keyinput93, po45$enc_18);
+po45$enc_18 = xor(keyinput94, po45$enc_17);
+po45$enc_17 = xor(keyinput95, po45$enc_16);
+po45$enc_16 = xor(keyinput96, po45$enc_15);
+po45$enc_15 = xor(keyinput97, po45$enc_14);
+po45$enc_14 = xor(keyinput98, po45$enc_13);
+po45$enc_13 = xor(keyinput99, po45$enc_12);
+po45$enc_12 = xor(keyinput100, po45$enc_11);
+po45$enc_11 = xor(keyinput101, po45$enc_10);
+po45$enc_10 = xor(keyinput102, po45$enc_9);
+po45$enc_9 = xor(keyinput103, po45$enc_8);
+po45$enc_8 = xor(keyinput104, po45$enc_7);
+po45$enc_7 = xor(keyinput105, po45$enc_6);
+po45$enc_6 = xor(keyinput106, po45$enc_5);
+po45$enc_5 = xor(keyinput107, po45$enc_4);
+po45$enc_4 = xor(keyinput108, po45$enc_3);
+po45$enc_3 = xor(keyinput109, po45$enc_2);
+po45$enc_2 = xor(keyinput110, po45$enc_1);
+po45$enc_1 = xor(keyinput111, po45);
+
+#locking next scan-cell in scan-chain
+po46$enc = xor(keyinput66, po46$enc_46);
+po46$enc_46 = xor(keyinput67, po46$enc_45);
+po46$enc_45 = xor(keyinput68, po46$enc_44);
+po46$enc_44 = xor(keyinput69, po46$enc_43);
+po46$enc_43 = xor(keyinput70, po46$enc_42);
+po46$enc_42 = xor(keyinput71, po46$enc_41);
+po46$enc_41 = xor(keyinput72, po46$enc_40);
+po46$enc_40 = xor(keyinput73, po46$enc_39);
+po46$enc_39 = xor(keyinput74, po46$enc_38);
+po46$enc_38 = xor(keyinput75, po46$enc_37);
+po46$enc_37 = xor(keyinput76, po46$enc_36);
+po46$enc_36 = xor(keyinput77, po46$enc_35);
+po46$enc_35 = xor(keyinput78, po46$enc_34);
+po46$enc_34 = xor(keyinput79, po46$enc_33);
+po46$enc_33 = xor(keyinput80, po46$enc_32);
+po46$enc_32 = xor(keyinput81, po46$enc_31);
+po46$enc_31 = xor(keyinput82, po46$enc_30);
+po46$enc_30 = xor(keyinput83, po46$enc_29);
+po46$enc_29 = xor(keyinput84, po46$enc_28);
+po46$enc_28 = xor(keyinput85, po46$enc_27);
+po46$enc_27 = xor(keyinput86, po46$enc_26);
+po46$enc_26 = xor(keyinput87, po46$enc_25);
+po46$enc_25 = xor(keyinput88, po46$enc_24);
+po46$enc_24 = xor(keyinput89, po46$enc_23);
+po46$enc_23 = xor(keyinput90, po46$enc_22);
+po46$enc_22 = xor(keyinput91, po46$enc_21);
+po46$enc_21 = xor(keyinput92, po46$enc_20);
+po46$enc_20 = xor(keyinput93, po46$enc_19);
+po46$enc_19 = xor(keyinput94, po46$enc_18);
+po46$enc_18 = xor(keyinput95, po46$enc_17);
+po46$enc_17 = xor(keyinput96, po46$enc_16);
+po46$enc_16 = xor(keyinput97, po46$enc_15);
+po46$enc_15 = xor(keyinput98, po46$enc_14);
+po46$enc_14 = xor(keyinput99, po46$enc_13);
+po46$enc_13 = xor(keyinput100, po46$enc_12);
+po46$enc_12 = xor(keyinput101, po46$enc_11);
+po46$enc_11 = xor(keyinput102, po46$enc_10);
+po46$enc_10 = xor(keyinput103, po46$enc_9);
+po46$enc_9 = xor(keyinput104, po46$enc_8);
+po46$enc_8 = xor(keyinput105, po46$enc_7);
+po46$enc_7 = xor(keyinput106, po46$enc_6);
+po46$enc_6 = xor(keyinput107, po46$enc_5);
+po46$enc_5 = xor(keyinput108, po46$enc_4);
+po46$enc_4 = xor(keyinput109, po46$enc_3);
+po46$enc_3 = xor(keyinput110, po46$enc_2);
+po46$enc_2 = xor(keyinput111, po46$enc_1);
+po46$enc_1 = xor(keyinput112, po46);
+
+#locking next scan-cell in scan-chain
+po47$enc = xor(keyinput66, po47$enc_47);
+po47$enc_47 = xor(keyinput67, po47$enc_46);
+po47$enc_46 = xor(keyinput68, po47$enc_45);
+po47$enc_45 = xor(keyinput69, po47$enc_44);
+po47$enc_44 = xor(keyinput70, po47$enc_43);
+po47$enc_43 = xor(keyinput71, po47$enc_42);
+po47$enc_42 = xor(keyinput72, po47$enc_41);
+po47$enc_41 = xor(keyinput73, po47$enc_40);
+po47$enc_40 = xor(keyinput74, po47$enc_39);
+po47$enc_39 = xor(keyinput75, po47$enc_38);
+po47$enc_38 = xor(keyinput76, po47$enc_37);
+po47$enc_37 = xor(keyinput77, po47$enc_36);
+po47$enc_36 = xor(keyinput78, po47$enc_35);
+po47$enc_35 = xor(keyinput79, po47$enc_34);
+po47$enc_34 = xor(keyinput80, po47$enc_33);
+po47$enc_33 = xor(keyinput81, po47$enc_32);
+po47$enc_32 = xor(keyinput82, po47$enc_31);
+po47$enc_31 = xor(keyinput83, po47$enc_30);
+po47$enc_30 = xor(keyinput84, po47$enc_29);
+po47$enc_29 = xor(keyinput85, po47$enc_28);
+po47$enc_28 = xor(keyinput86, po47$enc_27);
+po47$enc_27 = xor(keyinput87, po47$enc_26);
+po47$enc_26 = xor(keyinput88, po47$enc_25);
+po47$enc_25 = xor(keyinput89, po47$enc_24);
+po47$enc_24 = xor(keyinput90, po47$enc_23);
+po47$enc_23 = xor(keyinput91, po47$enc_22);
+po47$enc_22 = xor(keyinput92, po47$enc_21);
+po47$enc_21 = xor(keyinput93, po47$enc_20);
+po47$enc_20 = xor(keyinput94, po47$enc_19);
+po47$enc_19 = xor(keyinput95, po47$enc_18);
+po47$enc_18 = xor(keyinput96, po47$enc_17);
+po47$enc_17 = xor(keyinput97, po47$enc_16);
+po47$enc_16 = xor(keyinput98, po47$enc_15);
+po47$enc_15 = xor(keyinput99, po47$enc_14);
+po47$enc_14 = xor(keyinput100, po47$enc_13);
+po47$enc_13 = xor(keyinput101, po47$enc_12);
+po47$enc_12 = xor(keyinput102, po47$enc_11);
+po47$enc_11 = xor(keyinput103, po47$enc_10);
+po47$enc_10 = xor(keyinput104, po47$enc_9);
+po47$enc_9 = xor(keyinput105, po47$enc_8);
+po47$enc_8 = xor(keyinput106, po47$enc_7);
+po47$enc_7 = xor(keyinput107, po47$enc_6);
+po47$enc_6 = xor(keyinput108, po47$enc_5);
+po47$enc_5 = xor(keyinput109, po47$enc_4);
+po47$enc_4 = xor(keyinput110, po47$enc_3);
+po47$enc_3 = xor(keyinput111, po47$enc_2);
+po47$enc_2 = xor(keyinput112, po47$enc_1);
+po47$enc_1 = xor(keyinput113, po47);
+
+#locking next scan-cell in scan-chain
+po48$enc = xor(keyinput66, po48$enc_48);
+po48$enc_48 = xor(keyinput67, po48$enc_47);
+po48$enc_47 = xor(keyinput68, po48$enc_46);
+po48$enc_46 = xor(keyinput69, po48$enc_45);
+po48$enc_45 = xor(keyinput70, po48$enc_44);
+po48$enc_44 = xor(keyinput71, po48$enc_43);
+po48$enc_43 = xor(keyinput72, po48$enc_42);
+po48$enc_42 = xor(keyinput73, po48$enc_41);
+po48$enc_41 = xor(keyinput74, po48$enc_40);
+po48$enc_40 = xor(keyinput75, po48$enc_39);
+po48$enc_39 = xor(keyinput76, po48$enc_38);
+po48$enc_38 = xor(keyinput77, po48$enc_37);
+po48$enc_37 = xor(keyinput78, po48$enc_36);
+po48$enc_36 = xor(keyinput79, po48$enc_35);
+po48$enc_35 = xor(keyinput80, po48$enc_34);
+po48$enc_34 = xor(keyinput81, po48$enc_33);
+po48$enc_33 = xor(keyinput82, po48$enc_32);
+po48$enc_32 = xor(keyinput83, po48$enc_31);
+po48$enc_31 = xor(keyinput84, po48$enc_30);
+po48$enc_30 = xor(keyinput85, po48$enc_29);
+po48$enc_29 = xor(keyinput86, po48$enc_28);
+po48$enc_28 = xor(keyinput87, po48$enc_27);
+po48$enc_27 = xor(keyinput88, po48$enc_26);
+po48$enc_26 = xor(keyinput89, po48$enc_25);
+po48$enc_25 = xor(keyinput90, po48$enc_24);
+po48$enc_24 = xor(keyinput91, po48$enc_23);
+po48$enc_23 = xor(keyinput92, po48$enc_22);
+po48$enc_22 = xor(keyinput93, po48$enc_21);
+po48$enc_21 = xor(keyinput94, po48$enc_20);
+po48$enc_20 = xor(keyinput95, po48$enc_19);
+po48$enc_19 = xor(keyinput96, po48$enc_18);
+po48$enc_18 = xor(keyinput97, po48$enc_17);
+po48$enc_17 = xor(keyinput98, po48$enc_16);
+po48$enc_16 = xor(keyinput99, po48$enc_15);
+po48$enc_15 = xor(keyinput100, po48$enc_14);
+po48$enc_14 = xor(keyinput101, po48$enc_13);
+po48$enc_13 = xor(keyinput102, po48$enc_12);
+po48$enc_12 = xor(keyinput103, po48$enc_11);
+po48$enc_11 = xor(keyinput104, po48$enc_10);
+po48$enc_10 = xor(keyinput105, po48$enc_9);
+po48$enc_9 = xor(keyinput106, po48$enc_8);
+po48$enc_8 = xor(keyinput107, po48$enc_7);
+po48$enc_7 = xor(keyinput108, po48$enc_6);
+po48$enc_6 = xor(keyinput109, po48$enc_5);
+po48$enc_5 = xor(keyinput110, po48$enc_4);
+po48$enc_4 = xor(keyinput111, po48$enc_3);
+po48$enc_3 = xor(keyinput112, po48$enc_2);
+po48$enc_2 = xor(keyinput113, po48$enc_1);
+po48$enc_1 = xor(keyinput114, po48);
+
+#locking next scan-cell in scan-chain
+po49$enc = xor(keyinput66, po49$enc_49);
+po49$enc_49 = xor(keyinput67, po49$enc_48);
+po49$enc_48 = xor(keyinput68, po49$enc_47);
+po49$enc_47 = xor(keyinput69, po49$enc_46);
+po49$enc_46 = xor(keyinput70, po49$enc_45);
+po49$enc_45 = xor(keyinput71, po49$enc_44);
+po49$enc_44 = xor(keyinput72, po49$enc_43);
+po49$enc_43 = xor(keyinput73, po49$enc_42);
+po49$enc_42 = xor(keyinput74, po49$enc_41);
+po49$enc_41 = xor(keyinput75, po49$enc_40);
+po49$enc_40 = xor(keyinput76, po49$enc_39);
+po49$enc_39 = xor(keyinput77, po49$enc_38);
+po49$enc_38 = xor(keyinput78, po49$enc_37);
+po49$enc_37 = xor(keyinput79, po49$enc_36);
+po49$enc_36 = xor(keyinput80, po49$enc_35);
+po49$enc_35 = xor(keyinput81, po49$enc_34);
+po49$enc_34 = xor(keyinput82, po49$enc_33);
+po49$enc_33 = xor(keyinput83, po49$enc_32);
+po49$enc_32 = xor(keyinput84, po49$enc_31);
+po49$enc_31 = xor(keyinput85, po49$enc_30);
+po49$enc_30 = xor(keyinput86, po49$enc_29);
+po49$enc_29 = xor(keyinput87, po49$enc_28);
+po49$enc_28 = xor(keyinput88, po49$enc_27);
+po49$enc_27 = xor(keyinput89, po49$enc_26);
+po49$enc_26 = xor(keyinput90, po49$enc_25);
+po49$enc_25 = xor(keyinput91, po49$enc_24);
+po49$enc_24 = xor(keyinput92, po49$enc_23);
+po49$enc_23 = xor(keyinput93, po49$enc_22);
+po49$enc_22 = xor(keyinput94, po49$enc_21);
+po49$enc_21 = xor(keyinput95, po49$enc_20);
+po49$enc_20 = xor(keyinput96, po49$enc_19);
+po49$enc_19 = xor(keyinput97, po49$enc_18);
+po49$enc_18 = xor(keyinput98, po49$enc_17);
+po49$enc_17 = xor(keyinput99, po49$enc_16);
+po49$enc_16 = xor(keyinput100, po49$enc_15);
+po49$enc_15 = xor(keyinput101, po49$enc_14);
+po49$enc_14 = xor(keyinput102, po49$enc_13);
+po49$enc_13 = xor(keyinput103, po49$enc_12);
+po49$enc_12 = xor(keyinput104, po49$enc_11);
+po49$enc_11 = xor(keyinput105, po49$enc_10);
+po49$enc_10 = xor(keyinput106, po49$enc_9);
+po49$enc_9 = xor(keyinput107, po49$enc_8);
+po49$enc_8 = xor(keyinput108, po49$enc_7);
+po49$enc_7 = xor(keyinput109, po49$enc_6);
+po49$enc_6 = xor(keyinput110, po49$enc_5);
+po49$enc_5 = xor(keyinput111, po49$enc_4);
+po49$enc_4 = xor(keyinput112, po49$enc_3);
+po49$enc_3 = xor(keyinput113, po49$enc_2);
+po49$enc_2 = xor(keyinput114, po49$enc_1);
+po49$enc_1 = xor(keyinput115, po49enc);
+
+#locking next scan-cell in scan-chain
+po50$enc = xor(keyinput66, po50$enc_50);
+po50$enc_50 = xor(keyinput67, po50$enc_49);
+po50$enc_49 = xor(keyinput68, po50$enc_48);
+po50$enc_48 = xor(keyinput69, po50$enc_47);
+po50$enc_47 = xor(keyinput70, po50$enc_46);
+po50$enc_46 = xor(keyinput71, po50$enc_45);
+po50$enc_45 = xor(keyinput72, po50$enc_44);
+po50$enc_44 = xor(keyinput73, po50$enc_43);
+po50$enc_43 = xor(keyinput74, po50$enc_42);
+po50$enc_42 = xor(keyinput75, po50$enc_41);
+po50$enc_41 = xor(keyinput76, po50$enc_40);
+po50$enc_40 = xor(keyinput77, po50$enc_39);
+po50$enc_39 = xor(keyinput78, po50$enc_38);
+po50$enc_38 = xor(keyinput79, po50$enc_37);
+po50$enc_37 = xor(keyinput80, po50$enc_36);
+po50$enc_36 = xor(keyinput81, po50$enc_35);
+po50$enc_35 = xor(keyinput82, po50$enc_34);
+po50$enc_34 = xor(keyinput83, po50$enc_33);
+po50$enc_33 = xor(keyinput84, po50$enc_32);
+po50$enc_32 = xor(keyinput85, po50$enc_31);
+po50$enc_31 = xor(keyinput86, po50$enc_30);
+po50$enc_30 = xor(keyinput87, po50$enc_29);
+po50$enc_29 = xor(keyinput88, po50$enc_28);
+po50$enc_28 = xor(keyinput89, po50$enc_27);
+po50$enc_27 = xor(keyinput90, po50$enc_26);
+po50$enc_26 = xor(keyinput91, po50$enc_25);
+po50$enc_25 = xor(keyinput92, po50$enc_24);
+po50$enc_24 = xor(keyinput93, po50$enc_23);
+po50$enc_23 = xor(keyinput94, po50$enc_22);
+po50$enc_22 = xor(keyinput95, po50$enc_21);
+po50$enc_21 = xor(keyinput96, po50$enc_20);
+po50$enc_20 = xor(keyinput97, po50$enc_19);
+po50$enc_19 = xor(keyinput98, po50$enc_18);
+po50$enc_18 = xor(keyinput99, po50$enc_17);
+po50$enc_17 = xor(keyinput100, po50$enc_16);
+po50$enc_16 = xor(keyinput101, po50$enc_15);
+po50$enc_15 = xor(keyinput102, po50$enc_14);
+po50$enc_14 = xor(keyinput103, po50$enc_13);
+po50$enc_13 = xor(keyinput104, po50$enc_12);
+po50$enc_12 = xor(keyinput105, po50$enc_11);
+po50$enc_11 = xor(keyinput106, po50$enc_10);
+po50$enc_10 = xor(keyinput107, po50$enc_9);
+po50$enc_9 = xor(keyinput108, po50$enc_8);
+po50$enc_8 = xor(keyinput109, po50$enc_7);
+po50$enc_7 = xor(keyinput110, po50$enc_6);
+po50$enc_6 = xor(keyinput111, po50$enc_5);
+po50$enc_5 = xor(keyinput112, po50$enc_4);
+po50$enc_4 = xor(keyinput113, po50$enc_3);
+po50$enc_3 = xor(keyinput114, po50$enc_2);
+po50$enc_2 = xor(keyinput115, po50$enc_1);
+po50$enc_1 = xor(keyinput116, po50);
+
+#locking next scan-cell in scan-chain
+po51$enc = xor(keyinput66, po51$enc_51);
+po51$enc_51 = xor(keyinput67, po51$enc_50);
+po51$enc_50 = xor(keyinput68, po51$enc_49);
+po51$enc_49 = xor(keyinput69, po51$enc_48);
+po51$enc_48 = xor(keyinput70, po51$enc_47);
+po51$enc_47 = xor(keyinput71, po51$enc_46);
+po51$enc_46 = xor(keyinput72, po51$enc_45);
+po51$enc_45 = xor(keyinput73, po51$enc_44);
+po51$enc_44 = xor(keyinput74, po51$enc_43);
+po51$enc_43 = xor(keyinput75, po51$enc_42);
+po51$enc_42 = xor(keyinput76, po51$enc_41);
+po51$enc_41 = xor(keyinput77, po51$enc_40);
+po51$enc_40 = xor(keyinput78, po51$enc_39);
+po51$enc_39 = xor(keyinput79, po51$enc_38);
+po51$enc_38 = xor(keyinput80, po51$enc_37);
+po51$enc_37 = xor(keyinput81, po51$enc_36);
+po51$enc_36 = xor(keyinput82, po51$enc_35);
+po51$enc_35 = xor(keyinput83, po51$enc_34);
+po51$enc_34 = xor(keyinput84, po51$enc_33);
+po51$enc_33 = xor(keyinput85, po51$enc_32);
+po51$enc_32 = xor(keyinput86, po51$enc_31);
+po51$enc_31 = xor(keyinput87, po51$enc_30);
+po51$enc_30 = xor(keyinput88, po51$enc_29);
+po51$enc_29 = xor(keyinput89, po51$enc_28);
+po51$enc_28 = xor(keyinput90, po51$enc_27);
+po51$enc_27 = xor(keyinput91, po51$enc_26);
+po51$enc_26 = xor(keyinput92, po51$enc_25);
+po51$enc_25 = xor(keyinput93, po51$enc_24);
+po51$enc_24 = xor(keyinput94, po51$enc_23);
+po51$enc_23 = xor(keyinput95, po51$enc_22);
+po51$enc_22 = xor(keyinput96, po51$enc_21);
+po51$enc_21 = xor(keyinput97, po51$enc_20);
+po51$enc_20 = xor(keyinput98, po51$enc_19);
+po51$enc_19 = xor(keyinput99, po51$enc_18);
+po51$enc_18 = xor(keyinput100, po51$enc_17);
+po51$enc_17 = xor(keyinput101, po51$enc_16);
+po51$enc_16 = xor(keyinput102, po51$enc_15);
+po51$enc_15 = xor(keyinput103, po51$enc_14);
+po51$enc_14 = xor(keyinput104, po51$enc_13);
+po51$enc_13 = xor(keyinput105, po51$enc_12);
+po51$enc_12 = xor(keyinput106, po51$enc_11);
+po51$enc_11 = xor(keyinput107, po51$enc_10);
+po51$enc_10 = xor(keyinput108, po51$enc_9);
+po51$enc_9 = xor(keyinput109, po51$enc_8);
+po51$enc_8 = xor(keyinput110, po51$enc_7);
+po51$enc_7 = xor(keyinput111, po51$enc_6);
+po51$enc_6 = xor(keyinput112, po51$enc_5);
+po51$enc_5 = xor(keyinput113, po51$enc_4);
+po51$enc_4 = xor(keyinput114, po51$enc_3);
+po51$enc_3 = xor(keyinput115, po51$enc_2);
+po51$enc_2 = xor(keyinput116, po51$enc_1);
+po51$enc_1 = xor(keyinput117, po51);
+
+#locking next scan-cell in scan-chain
+po52$enc = xor(keyinput66, po52$enc_52);
+po52$enc_52 = xor(keyinput67, po52$enc_51);
+po52$enc_51 = xor(keyinput68, po52$enc_50);
+po52$enc_50 = xor(keyinput69, po52$enc_49);
+po52$enc_49 = xor(keyinput70, po52$enc_48);
+po52$enc_48 = xor(keyinput71, po52$enc_47);
+po52$enc_47 = xor(keyinput72, po52$enc_46);
+po52$enc_46 = xor(keyinput73, po52$enc_45);
+po52$enc_45 = xor(keyinput74, po52$enc_44);
+po52$enc_44 = xor(keyinput75, po52$enc_43);
+po52$enc_43 = xor(keyinput76, po52$enc_42);
+po52$enc_42 = xor(keyinput77, po52$enc_41);
+po52$enc_41 = xor(keyinput78, po52$enc_40);
+po52$enc_40 = xor(keyinput79, po52$enc_39);
+po52$enc_39 = xor(keyinput80, po52$enc_38);
+po52$enc_38 = xor(keyinput81, po52$enc_37);
+po52$enc_37 = xor(keyinput82, po52$enc_36);
+po52$enc_36 = xor(keyinput83, po52$enc_35);
+po52$enc_35 = xor(keyinput84, po52$enc_34);
+po52$enc_34 = xor(keyinput85, po52$enc_33);
+po52$enc_33 = xor(keyinput86, po52$enc_32);
+po52$enc_32 = xor(keyinput87, po52$enc_31);
+po52$enc_31 = xor(keyinput88, po52$enc_30);
+po52$enc_30 = xor(keyinput89, po52$enc_29);
+po52$enc_29 = xor(keyinput90, po52$enc_28);
+po52$enc_28 = xor(keyinput91, po52$enc_27);
+po52$enc_27 = xor(keyinput92, po52$enc_26);
+po52$enc_26 = xor(keyinput93, po52$enc_25);
+po52$enc_25 = xor(keyinput94, po52$enc_24);
+po52$enc_24 = xor(keyinput95, po52$enc_23);
+po52$enc_23 = xor(keyinput96, po52$enc_22);
+po52$enc_22 = xor(keyinput97, po52$enc_21);
+po52$enc_21 = xor(keyinput98, po52$enc_20);
+po52$enc_20 = xor(keyinput99, po52$enc_19);
+po52$enc_19 = xor(keyinput100, po52$enc_18);
+po52$enc_18 = xor(keyinput101, po52$enc_17);
+po52$enc_17 = xor(keyinput102, po52$enc_16);
+po52$enc_16 = xor(keyinput103, po52$enc_15);
+po52$enc_15 = xor(keyinput104, po52$enc_14);
+po52$enc_14 = xor(keyinput105, po52$enc_13);
+po52$enc_13 = xor(keyinput106, po52$enc_12);
+po52$enc_12 = xor(keyinput107, po52$enc_11);
+po52$enc_11 = xor(keyinput108, po52$enc_10);
+po52$enc_10 = xor(keyinput109, po52$enc_9);
+po52$enc_9 = xor(keyinput110, po52$enc_8);
+po52$enc_8 = xor(keyinput111, po52$enc_7);
+po52$enc_7 = xor(keyinput112, po52$enc_6);
+po52$enc_6 = xor(keyinput113, po52$enc_5);
+po52$enc_5 = xor(keyinput114, po52$enc_4);
+po52$enc_4 = xor(keyinput115, po52$enc_3);
+po52$enc_3 = xor(keyinput116, po52$enc_2);
+po52$enc_2 = xor(keyinput117, po52$enc_1);
+po52$enc_1 = xor(keyinput118, po52);
+
+#locking next scan-cell in scan-chain
+po53$enc = xor(keyinput66, po53$enc_53);
+po53$enc_53 = xor(keyinput67, po53$enc_52);
+po53$enc_52 = xor(keyinput68, po53$enc_51);
+po53$enc_51 = xor(keyinput69, po53$enc_50);
+po53$enc_50 = xor(keyinput70, po53$enc_49);
+po53$enc_49 = xor(keyinput71, po53$enc_48);
+po53$enc_48 = xor(keyinput72, po53$enc_47);
+po53$enc_47 = xor(keyinput73, po53$enc_46);
+po53$enc_46 = xor(keyinput74, po53$enc_45);
+po53$enc_45 = xor(keyinput75, po53$enc_44);
+po53$enc_44 = xor(keyinput76, po53$enc_43);
+po53$enc_43 = xor(keyinput77, po53$enc_42);
+po53$enc_42 = xor(keyinput78, po53$enc_41);
+po53$enc_41 = xor(keyinput79, po53$enc_40);
+po53$enc_40 = xor(keyinput80, po53$enc_39);
+po53$enc_39 = xor(keyinput81, po53$enc_38);
+po53$enc_38 = xor(keyinput82, po53$enc_37);
+po53$enc_37 = xor(keyinput83, po53$enc_36);
+po53$enc_36 = xor(keyinput84, po53$enc_35);
+po53$enc_35 = xor(keyinput85, po53$enc_34);
+po53$enc_34 = xor(keyinput86, po53$enc_33);
+po53$enc_33 = xor(keyinput87, po53$enc_32);
+po53$enc_32 = xor(keyinput88, po53$enc_31);
+po53$enc_31 = xor(keyinput89, po53$enc_30);
+po53$enc_30 = xor(keyinput90, po53$enc_29);
+po53$enc_29 = xor(keyinput91, po53$enc_28);
+po53$enc_28 = xor(keyinput92, po53$enc_27);
+po53$enc_27 = xor(keyinput93, po53$enc_26);
+po53$enc_26 = xor(keyinput94, po53$enc_25);
+po53$enc_25 = xor(keyinput95, po53$enc_24);
+po53$enc_24 = xor(keyinput96, po53$enc_23);
+po53$enc_23 = xor(keyinput97, po53$enc_22);
+po53$enc_22 = xor(keyinput98, po53$enc_21);
+po53$enc_21 = xor(keyinput99, po53$enc_20);
+po53$enc_20 = xor(keyinput100, po53$enc_19);
+po53$enc_19 = xor(keyinput101, po53$enc_18);
+po53$enc_18 = xor(keyinput102, po53$enc_17);
+po53$enc_17 = xor(keyinput103, po53$enc_16);
+po53$enc_16 = xor(keyinput104, po53$enc_15);
+po53$enc_15 = xor(keyinput105, po53$enc_14);
+po53$enc_14 = xor(keyinput106, po53$enc_13);
+po53$enc_13 = xor(keyinput107, po53$enc_12);
+po53$enc_12 = xor(keyinput108, po53$enc_11);
+po53$enc_11 = xor(keyinput109, po53$enc_10);
+po53$enc_10 = xor(keyinput110, po53$enc_9);
+po53$enc_9 = xor(keyinput111, po53$enc_8);
+po53$enc_8 = xor(keyinput112, po53$enc_7);
+po53$enc_7 = xor(keyinput113, po53$enc_6);
+po53$enc_6 = xor(keyinput114, po53$enc_5);
+po53$enc_5 = xor(keyinput115, po53$enc_4);
+po53$enc_4 = xor(keyinput116, po53$enc_3);
+po53$enc_3 = xor(keyinput117, po53$enc_2);
+po53$enc_2 = xor(keyinput118, po53$enc_1);
+po53$enc_1 = xor(keyinput119, po53);
+
+#locking next scan-cell in scan-chain
+po54$enc = xor(keyinput66, po54$enc_54);
+po54$enc_54 = xor(keyinput67, po54$enc_53);
+po54$enc_53 = xor(keyinput68, po54$enc_52);
+po54$enc_52 = xor(keyinput69, po54$enc_51);
+po54$enc_51 = xor(keyinput70, po54$enc_50);
+po54$enc_50 = xor(keyinput71, po54$enc_49);
+po54$enc_49 = xor(keyinput72, po54$enc_48);
+po54$enc_48 = xor(keyinput73, po54$enc_47);
+po54$enc_47 = xor(keyinput74, po54$enc_46);
+po54$enc_46 = xor(keyinput75, po54$enc_45);
+po54$enc_45 = xor(keyinput76, po54$enc_44);
+po54$enc_44 = xor(keyinput77, po54$enc_43);
+po54$enc_43 = xor(keyinput78, po54$enc_42);
+po54$enc_42 = xor(keyinput79, po54$enc_41);
+po54$enc_41 = xor(keyinput80, po54$enc_40);
+po54$enc_40 = xor(keyinput81, po54$enc_39);
+po54$enc_39 = xor(keyinput82, po54$enc_38);
+po54$enc_38 = xor(keyinput83, po54$enc_37);
+po54$enc_37 = xor(keyinput84, po54$enc_36);
+po54$enc_36 = xor(keyinput85, po54$enc_35);
+po54$enc_35 = xor(keyinput86, po54$enc_34);
+po54$enc_34 = xor(keyinput87, po54$enc_33);
+po54$enc_33 = xor(keyinput88, po54$enc_32);
+po54$enc_32 = xor(keyinput89, po54$enc_31);
+po54$enc_31 = xor(keyinput90, po54$enc_30);
+po54$enc_30 = xor(keyinput91, po54$enc_29);
+po54$enc_29 = xor(keyinput92, po54$enc_28);
+po54$enc_28 = xor(keyinput93, po54$enc_27);
+po54$enc_27 = xor(keyinput94, po54$enc_26);
+po54$enc_26 = xor(keyinput95, po54$enc_25);
+po54$enc_25 = xor(keyinput96, po54$enc_24);
+po54$enc_24 = xor(keyinput97, po54$enc_23);
+po54$enc_23 = xor(keyinput98, po54$enc_22);
+po54$enc_22 = xor(keyinput99, po54$enc_21);
+po54$enc_21 = xor(keyinput100, po54$enc_20);
+po54$enc_20 = xor(keyinput101, po54$enc_19);
+po54$enc_19 = xor(keyinput102, po54$enc_18);
+po54$enc_18 = xor(keyinput103, po54$enc_17);
+po54$enc_17 = xor(keyinput104, po54$enc_16);
+po54$enc_16 = xor(keyinput105, po54$enc_15);
+po54$enc_15 = xor(keyinput106, po54$enc_14);
+po54$enc_14 = xor(keyinput107, po54$enc_13);
+po54$enc_13 = xor(keyinput108, po54$enc_12);
+po54$enc_12 = xor(keyinput109, po54$enc_11);
+po54$enc_11 = xor(keyinput110, po54$enc_10);
+po54$enc_10 = xor(keyinput111, po54$enc_9);
+po54$enc_9 = xor(keyinput112, po54$enc_8);
+po54$enc_8 = xor(keyinput113, po54$enc_7);
+po54$enc_7 = xor(keyinput114, po54$enc_6);
+po54$enc_6 = xor(keyinput115, po54$enc_5);
+po54$enc_5 = xor(keyinput116, po54$enc_4);
+po54$enc_4 = xor(keyinput117, po54$enc_3);
+po54$enc_3 = xor(keyinput118, po54$enc_2);
+po54$enc_2 = xor(keyinput119, po54$enc_1);
+po54$enc_1 = xor(keyinput120, po54);
+
+#locking next scan-cell in scan-chain
+po55$enc = xor(keyinput66, po55$enc_55);
+po55$enc_55 = xor(keyinput67, po55$enc_54);
+po55$enc_54 = xor(keyinput68, po55$enc_53);
+po55$enc_53 = xor(keyinput69, po55$enc_52);
+po55$enc_52 = xor(keyinput70, po55$enc_51);
+po55$enc_51 = xor(keyinput71, po55$enc_50);
+po55$enc_50 = xor(keyinput72, po55$enc_49);
+po55$enc_49 = xor(keyinput73, po55$enc_48);
+po55$enc_48 = xor(keyinput74, po55$enc_47);
+po55$enc_47 = xor(keyinput75, po55$enc_46);
+po55$enc_46 = xor(keyinput76, po55$enc_45);
+po55$enc_45 = xor(keyinput77, po55$enc_44);
+po55$enc_44 = xor(keyinput78, po55$enc_43);
+po55$enc_43 = xor(keyinput79, po55$enc_42);
+po55$enc_42 = xor(keyinput80, po55$enc_41);
+po55$enc_41 = xor(keyinput81, po55$enc_40);
+po55$enc_40 = xor(keyinput82, po55$enc_39);
+po55$enc_39 = xor(keyinput83, po55$enc_38);
+po55$enc_38 = xor(keyinput84, po55$enc_37);
+po55$enc_37 = xor(keyinput85, po55$enc_36);
+po55$enc_36 = xor(keyinput86, po55$enc_35);
+po55$enc_35 = xor(keyinput87, po55$enc_34);
+po55$enc_34 = xor(keyinput88, po55$enc_33);
+po55$enc_33 = xor(keyinput89, po55$enc_32);
+po55$enc_32 = xor(keyinput90, po55$enc_31);
+po55$enc_31 = xor(keyinput91, po55$enc_30);
+po55$enc_30 = xor(keyinput92, po55$enc_29);
+po55$enc_29 = xor(keyinput93, po55$enc_28);
+po55$enc_28 = xor(keyinput94, po55$enc_27);
+po55$enc_27 = xor(keyinput95, po55$enc_26);
+po55$enc_26 = xor(keyinput96, po55$enc_25);
+po55$enc_25 = xor(keyinput97, po55$enc_24);
+po55$enc_24 = xor(keyinput98, po55$enc_23);
+po55$enc_23 = xor(keyinput99, po55$enc_22);
+po55$enc_22 = xor(keyinput100, po55$enc_21);
+po55$enc_21 = xor(keyinput101, po55$enc_20);
+po55$enc_20 = xor(keyinput102, po55$enc_19);
+po55$enc_19 = xor(keyinput103, po55$enc_18);
+po55$enc_18 = xor(keyinput104, po55$enc_17);
+po55$enc_17 = xor(keyinput105, po55$enc_16);
+po55$enc_16 = xor(keyinput106, po55$enc_15);
+po55$enc_15 = xor(keyinput107, po55$enc_14);
+po55$enc_14 = xor(keyinput108, po55$enc_13);
+po55$enc_13 = xor(keyinput109, po55$enc_12);
+po55$enc_12 = xor(keyinput110, po55$enc_11);
+po55$enc_11 = xor(keyinput111, po55$enc_10);
+po55$enc_10 = xor(keyinput112, po55$enc_9);
+po55$enc_9 = xor(keyinput113, po55$enc_8);
+po55$enc_8 = xor(keyinput114, po55$enc_7);
+po55$enc_7 = xor(keyinput115, po55$enc_6);
+po55$enc_6 = xor(keyinput116, po55$enc_5);
+po55$enc_5 = xor(keyinput117, po55$enc_4);
+po55$enc_4 = xor(keyinput118, po55$enc_3);
+po55$enc_3 = xor(keyinput119, po55$enc_2);
+po55$enc_2 = xor(keyinput120, po55$enc_1);
+po55$enc_1 = xor(keyinput121, po55);
+
+#locking next scan-cell in scan-chain
+po56$enc = xor(keyinput66, po56$enc_56);
+po56$enc_56 = xor(keyinput67, po56$enc_55);
+po56$enc_55 = xor(keyinput68, po56$enc_54);
+po56$enc_54 = xor(keyinput69, po56$enc_53);
+po56$enc_53 = xor(keyinput70, po56$enc_52);
+po56$enc_52 = xor(keyinput71, po56$enc_51);
+po56$enc_51 = xor(keyinput72, po56$enc_50);
+po56$enc_50 = xor(keyinput73, po56$enc_49);
+po56$enc_49 = xor(keyinput74, po56$enc_48);
+po56$enc_48 = xor(keyinput75, po56$enc_47);
+po56$enc_47 = xor(keyinput76, po56$enc_46);
+po56$enc_46 = xor(keyinput77, po56$enc_45);
+po56$enc_45 = xor(keyinput78, po56$enc_44);
+po56$enc_44 = xor(keyinput79, po56$enc_43);
+po56$enc_43 = xor(keyinput80, po56$enc_42);
+po56$enc_42 = xor(keyinput81, po56$enc_41);
+po56$enc_41 = xor(keyinput82, po56$enc_40);
+po56$enc_40 = xor(keyinput83, po56$enc_39);
+po56$enc_39 = xor(keyinput84, po56$enc_38);
+po56$enc_38 = xor(keyinput85, po56$enc_37);
+po56$enc_37 = xor(keyinput86, po56$enc_36);
+po56$enc_36 = xor(keyinput87, po56$enc_35);
+po56$enc_35 = xor(keyinput88, po56$enc_34);
+po56$enc_34 = xor(keyinput89, po56$enc_33);
+po56$enc_33 = xor(keyinput90, po56$enc_32);
+po56$enc_32 = xor(keyinput91, po56$enc_31);
+po56$enc_31 = xor(keyinput92, po56$enc_30);
+po56$enc_30 = xor(keyinput93, po56$enc_29);
+po56$enc_29 = xor(keyinput94, po56$enc_28);
+po56$enc_28 = xor(keyinput95, po56$enc_27);
+po56$enc_27 = xor(keyinput96, po56$enc_26);
+po56$enc_26 = xor(keyinput97, po56$enc_25);
+po56$enc_25 = xor(keyinput98, po56$enc_24);
+po56$enc_24 = xor(keyinput99, po56$enc_23);
+po56$enc_23 = xor(keyinput100, po56$enc_22);
+po56$enc_22 = xor(keyinput101, po56$enc_21);
+po56$enc_21 = xor(keyinput102, po56$enc_20);
+po56$enc_20 = xor(keyinput103, po56$enc_19);
+po56$enc_19 = xor(keyinput104, po56$enc_18);
+po56$enc_18 = xor(keyinput105, po56$enc_17);
+po56$enc_17 = xor(keyinput106, po56$enc_16);
+po56$enc_16 = xor(keyinput107, po56$enc_15);
+po56$enc_15 = xor(keyinput108, po56$enc_14);
+po56$enc_14 = xor(keyinput109, po56$enc_13);
+po56$enc_13 = xor(keyinput110, po56$enc_12);
+po56$enc_12 = xor(keyinput111, po56$enc_11);
+po56$enc_11 = xor(keyinput112, po56$enc_10);
+po56$enc_10 = xor(keyinput113, po56$enc_9);
+po56$enc_9 = xor(keyinput114, po56$enc_8);
+po56$enc_8 = xor(keyinput115, po56$enc_7);
+po56$enc_7 = xor(keyinput116, po56$enc_6);
+po56$enc_6 = xor(keyinput117, po56$enc_5);
+po56$enc_5 = xor(keyinput118, po56$enc_4);
+po56$enc_4 = xor(keyinput119, po56$enc_3);
+po56$enc_3 = xor(keyinput120, po56$enc_2);
+po56$enc_2 = xor(keyinput121, po56$enc_1);
+po56$enc_1 = xor(keyinput122, po56);
+
+#locking next scan-cell in scan-chain
+po57$enc = xor(keyinput66, po57$enc_57);
+po57$enc_57 = xor(keyinput67, po57$enc_56);
+po57$enc_56 = xor(keyinput68, po57$enc_55);
+po57$enc_55 = xor(keyinput69, po57$enc_54);
+po57$enc_54 = xor(keyinput70, po57$enc_53);
+po57$enc_53 = xor(keyinput71, po57$enc_52);
+po57$enc_52 = xor(keyinput72, po57$enc_51);
+po57$enc_51 = xor(keyinput73, po57$enc_50);
+po57$enc_50 = xor(keyinput74, po57$enc_49);
+po57$enc_49 = xor(keyinput75, po57$enc_48);
+po57$enc_48 = xor(keyinput76, po57$enc_47);
+po57$enc_47 = xor(keyinput77, po57$enc_46);
+po57$enc_46 = xor(keyinput78, po57$enc_45);
+po57$enc_45 = xor(keyinput79, po57$enc_44);
+po57$enc_44 = xor(keyinput80, po57$enc_43);
+po57$enc_43 = xor(keyinput81, po57$enc_42);
+po57$enc_42 = xor(keyinput82, po57$enc_41);
+po57$enc_41 = xor(keyinput83, po57$enc_40);
+po57$enc_40 = xor(keyinput84, po57$enc_39);
+po57$enc_39 = xor(keyinput85, po57$enc_38);
+po57$enc_38 = xor(keyinput86, po57$enc_37);
+po57$enc_37 = xor(keyinput87, po57$enc_36);
+po57$enc_36 = xor(keyinput88, po57$enc_35);
+po57$enc_35 = xor(keyinput89, po57$enc_34);
+po57$enc_34 = xor(keyinput90, po57$enc_33);
+po57$enc_33 = xor(keyinput91, po57$enc_32);
+po57$enc_32 = xor(keyinput92, po57$enc_31);
+po57$enc_31 = xor(keyinput93, po57$enc_30);
+po57$enc_30 = xor(keyinput94, po57$enc_29);
+po57$enc_29 = xor(keyinput95, po57$enc_28);
+po57$enc_28 = xor(keyinput96, po57$enc_27);
+po57$enc_27 = xor(keyinput97, po57$enc_26);
+po57$enc_26 = xor(keyinput98, po57$enc_25);
+po57$enc_25 = xor(keyinput99, po57$enc_24);
+po57$enc_24 = xor(keyinput100, po57$enc_23);
+po57$enc_23 = xor(keyinput101, po57$enc_22);
+po57$enc_22 = xor(keyinput102, po57$enc_21);
+po57$enc_21 = xor(keyinput103, po57$enc_20);
+po57$enc_20 = xor(keyinput104, po57$enc_19);
+po57$enc_19 = xor(keyinput105, po57$enc_18);
+po57$enc_18 = xor(keyinput106, po57$enc_17);
+po57$enc_17 = xor(keyinput107, po57$enc_16);
+po57$enc_16 = xor(keyinput108, po57$enc_15);
+po57$enc_15 = xor(keyinput109, po57$enc_14);
+po57$enc_14 = xor(keyinput110, po57$enc_13);
+po57$enc_13 = xor(keyinput111, po57$enc_12);
+po57$enc_12 = xor(keyinput112, po57$enc_11);
+po57$enc_11 = xor(keyinput113, po57$enc_10);
+po57$enc_10 = xor(keyinput114, po57$enc_9);
+po57$enc_9 = xor(keyinput115, po57$enc_8);
+po57$enc_8 = xor(keyinput116, po57$enc_7);
+po57$enc_7 = xor(keyinput117, po57$enc_6);
+po57$enc_6 = xor(keyinput118, po57$enc_5);
+po57$enc_5 = xor(keyinput119, po57$enc_4);
+po57$enc_4 = xor(keyinput120, po57$enc_3);
+po57$enc_3 = xor(keyinput121, po57$enc_2);
+po57$enc_2 = xor(keyinput122, po57$enc_1);
+po57$enc_1 = xor(keyinput123, po57);
+
+#locking next scan-cell in scan-chain
+po58$enc = xor(keyinput66, po58$enc_58);
+po58$enc_58 = xor(keyinput67, po58$enc_57);
+po58$enc_57 = xor(keyinput68, po58$enc_56);
+po58$enc_56 = xor(keyinput69, po58$enc_55);
+po58$enc_55 = xor(keyinput70, po58$enc_54);
+po58$enc_54 = xor(keyinput71, po58$enc_53);
+po58$enc_53 = xor(keyinput72, po58$enc_52);
+po58$enc_52 = xor(keyinput73, po58$enc_51);
+po58$enc_51 = xor(keyinput74, po58$enc_50);
+po58$enc_50 = xor(keyinput75, po58$enc_49);
+po58$enc_49 = xor(keyinput76, po58$enc_48);
+po58$enc_48 = xor(keyinput77, po58$enc_47);
+po58$enc_47 = xor(keyinput78, po58$enc_46);
+po58$enc_46 = xor(keyinput79, po58$enc_45);
+po58$enc_45 = xor(keyinput80, po58$enc_44);
+po58$enc_44 = xor(keyinput81, po58$enc_43);
+po58$enc_43 = xor(keyinput82, po58$enc_42);
+po58$enc_42 = xor(keyinput83, po58$enc_41);
+po58$enc_41 = xor(keyinput84, po58$enc_40);
+po58$enc_40 = xor(keyinput85, po58$enc_39);
+po58$enc_39 = xor(keyinput86, po58$enc_38);
+po58$enc_38 = xor(keyinput87, po58$enc_37);
+po58$enc_37 = xor(keyinput88, po58$enc_36);
+po58$enc_36 = xor(keyinput89, po58$enc_35);
+po58$enc_35 = xor(keyinput90, po58$enc_34);
+po58$enc_34 = xor(keyinput91, po58$enc_33);
+po58$enc_33 = xor(keyinput92, po58$enc_32);
+po58$enc_32 = xor(keyinput93, po58$enc_31);
+po58$enc_31 = xor(keyinput94, po58$enc_30);
+po58$enc_30 = xor(keyinput95, po58$enc_29);
+po58$enc_29 = xor(keyinput96, po58$enc_28);
+po58$enc_28 = xor(keyinput97, po58$enc_27);
+po58$enc_27 = xor(keyinput98, po58$enc_26);
+po58$enc_26 = xor(keyinput99, po58$enc_25);
+po58$enc_25 = xor(keyinput100, po58$enc_24);
+po58$enc_24 = xor(keyinput101, po58$enc_23);
+po58$enc_23 = xor(keyinput102, po58$enc_22);
+po58$enc_22 = xor(keyinput103, po58$enc_21);
+po58$enc_21 = xor(keyinput104, po58$enc_20);
+po58$enc_20 = xor(keyinput105, po58$enc_19);
+po58$enc_19 = xor(keyinput106, po58$enc_18);
+po58$enc_18 = xor(keyinput107, po58$enc_17);
+po58$enc_17 = xor(keyinput108, po58$enc_16);
+po58$enc_16 = xor(keyinput109, po58$enc_15);
+po58$enc_15 = xor(keyinput110, po58$enc_14);
+po58$enc_14 = xor(keyinput111, po58$enc_13);
+po58$enc_13 = xor(keyinput112, po58$enc_12);
+po58$enc_12 = xor(keyinput113, po58$enc_11);
+po58$enc_11 = xor(keyinput114, po58$enc_10);
+po58$enc_10 = xor(keyinput115, po58$enc_9);
+po58$enc_9 = xor(keyinput116, po58$enc_8);
+po58$enc_8 = xor(keyinput117, po58$enc_7);
+po58$enc_7 = xor(keyinput118, po58$enc_6);
+po58$enc_6 = xor(keyinput119, po58$enc_5);
+po58$enc_5 = xor(keyinput120, po58$enc_4);
+po58$enc_4 = xor(keyinput121, po58$enc_3);
+po58$enc_3 = xor(keyinput122, po58$enc_2);
+po58$enc_2 = xor(keyinput123, po58$enc_1);
+po58$enc_1 = xor(keyinput124, po58);
+
+#locking next scan-cell in scan-chain
+po59$enc = xor(keyinput66, po59$enc_59);
+po59$enc_59 = xor(keyinput67, po59$enc_58);
+po59$enc_58 = xor(keyinput68, po59$enc_57);
+po59$enc_57 = xor(keyinput69, po59$enc_56);
+po59$enc_56 = xor(keyinput70, po59$enc_55);
+po59$enc_55 = xor(keyinput71, po59$enc_54);
+po59$enc_54 = xor(keyinput72, po59$enc_53);
+po59$enc_53 = xor(keyinput73, po59$enc_52);
+po59$enc_52 = xor(keyinput74, po59$enc_51);
+po59$enc_51 = xor(keyinput75, po59$enc_50);
+po59$enc_50 = xor(keyinput76, po59$enc_49);
+po59$enc_49 = xor(keyinput77, po59$enc_48);
+po59$enc_48 = xor(keyinput78, po59$enc_47);
+po59$enc_47 = xor(keyinput79, po59$enc_46);
+po59$enc_46 = xor(keyinput80, po59$enc_45);
+po59$enc_45 = xor(keyinput81, po59$enc_44);
+po59$enc_44 = xor(keyinput82, po59$enc_43);
+po59$enc_43 = xor(keyinput83, po59$enc_42);
+po59$enc_42 = xor(keyinput84, po59$enc_41);
+po59$enc_41 = xor(keyinput85, po59$enc_40);
+po59$enc_40 = xor(keyinput86, po59$enc_39);
+po59$enc_39 = xor(keyinput87, po59$enc_38);
+po59$enc_38 = xor(keyinput88, po59$enc_37);
+po59$enc_37 = xor(keyinput89, po59$enc_36);
+po59$enc_36 = xor(keyinput90, po59$enc_35);
+po59$enc_35 = xor(keyinput91, po59$enc_34);
+po59$enc_34 = xor(keyinput92, po59$enc_33);
+po59$enc_33 = xor(keyinput93, po59$enc_32);
+po59$enc_32 = xor(keyinput94, po59$enc_31);
+po59$enc_31 = xor(keyinput95, po59$enc_30);
+po59$enc_30 = xor(keyinput96, po59$enc_29);
+po59$enc_29 = xor(keyinput97, po59$enc_28);
+po59$enc_28 = xor(keyinput98, po59$enc_27);
+po59$enc_27 = xor(keyinput99, po59$enc_26);
+po59$enc_26 = xor(keyinput100, po59$enc_25);
+po59$enc_25 = xor(keyinput101, po59$enc_24);
+po59$enc_24 = xor(keyinput102, po59$enc_23);
+po59$enc_23 = xor(keyinput103, po59$enc_22);
+po59$enc_22 = xor(keyinput104, po59$enc_21);
+po59$enc_21 = xor(keyinput105, po59$enc_20);
+po59$enc_20 = xor(keyinput106, po59$enc_19);
+po59$enc_19 = xor(keyinput107, po59$enc_18);
+po59$enc_18 = xor(keyinput108, po59$enc_17);
+po59$enc_17 = xor(keyinput109, po59$enc_16);
+po59$enc_16 = xor(keyinput110, po59$enc_15);
+po59$enc_15 = xor(keyinput111, po59$enc_14);
+po59$enc_14 = xor(keyinput112, po59$enc_13);
+po59$enc_13 = xor(keyinput113, po59$enc_12);
+po59$enc_12 = xor(keyinput114, po59$enc_11);
+po59$enc_11 = xor(keyinput115, po59$enc_10);
+po59$enc_10 = xor(keyinput116, po59$enc_9);
+po59$enc_9 = xor(keyinput117, po59$enc_8);
+po59$enc_8 = xor(keyinput118, po59$enc_7);
+po59$enc_7 = xor(keyinput119, po59$enc_6);
+po59$enc_6 = xor(keyinput120, po59$enc_5);
+po59$enc_5 = xor(keyinput121, po59$enc_4);
+po59$enc_4 = xor(keyinput122, po59$enc_3);
+po59$enc_3 = xor(keyinput123, po59$enc_2);
+po59$enc_2 = xor(keyinput124, po59$enc_1);
+po59$enc_1 = xor(keyinput125, po59);
+
+#locking next scan-cell in scan-chain
+po60$enc = xor(keyinput66, po60$enc_60);
+po60$enc_60 = xor(keyinput67, po60$enc_59);
+po60$enc_59 = xor(keyinput68, po60$enc_58);
+po60$enc_58 = xor(keyinput69, po60$enc_57);
+po60$enc_57 = xor(keyinput70, po60$enc_56);
+po60$enc_56 = xor(keyinput71, po60$enc_55);
+po60$enc_55 = xor(keyinput72, po60$enc_54);
+po60$enc_54 = xor(keyinput73, po60$enc_53);
+po60$enc_53 = xor(keyinput74, po60$enc_52);
+po60$enc_52 = xor(keyinput75, po60$enc_51);
+po60$enc_51 = xor(keyinput76, po60$enc_50);
+po60$enc_50 = xor(keyinput77, po60$enc_49);
+po60$enc_49 = xor(keyinput78, po60$enc_48);
+po60$enc_48 = xor(keyinput79, po60$enc_47);
+po60$enc_47 = xor(keyinput80, po60$enc_46);
+po60$enc_46 = xor(keyinput81, po60$enc_45);
+po60$enc_45 = xor(keyinput82, po60$enc_44);
+po60$enc_44 = xor(keyinput83, po60$enc_43);
+po60$enc_43 = xor(keyinput84, po60$enc_42);
+po60$enc_42 = xor(keyinput85, po60$enc_41);
+po60$enc_41 = xor(keyinput86, po60$enc_40);
+po60$enc_40 = xor(keyinput87, po60$enc_39);
+po60$enc_39 = xor(keyinput88, po60$enc_38);
+po60$enc_38 = xor(keyinput89, po60$enc_37);
+po60$enc_37 = xor(keyinput90, po60$enc_36);
+po60$enc_36 = xor(keyinput91, po60$enc_35);
+po60$enc_35 = xor(keyinput92, po60$enc_34);
+po60$enc_34 = xor(keyinput93, po60$enc_33);
+po60$enc_33 = xor(keyinput94, po60$enc_32);
+po60$enc_32 = xor(keyinput95, po60$enc_31);
+po60$enc_31 = xor(keyinput96, po60$enc_30);
+po60$enc_30 = xor(keyinput97, po60$enc_29);
+po60$enc_29 = xor(keyinput98, po60$enc_28);
+po60$enc_28 = xor(keyinput99, po60$enc_27);
+po60$enc_27 = xor(keyinput100, po60$enc_26);
+po60$enc_26 = xor(keyinput101, po60$enc_25);
+po60$enc_25 = xor(keyinput102, po60$enc_24);
+po60$enc_24 = xor(keyinput103, po60$enc_23);
+po60$enc_23 = xor(keyinput104, po60$enc_22);
+po60$enc_22 = xor(keyinput105, po60$enc_21);
+po60$enc_21 = xor(keyinput106, po60$enc_20);
+po60$enc_20 = xor(keyinput107, po60$enc_19);
+po60$enc_19 = xor(keyinput108, po60$enc_18);
+po60$enc_18 = xor(keyinput109, po60$enc_17);
+po60$enc_17 = xor(keyinput110, po60$enc_16);
+po60$enc_16 = xor(keyinput111, po60$enc_15);
+po60$enc_15 = xor(keyinput112, po60$enc_14);
+po60$enc_14 = xor(keyinput113, po60$enc_13);
+po60$enc_13 = xor(keyinput114, po60$enc_12);
+po60$enc_12 = xor(keyinput115, po60$enc_11);
+po60$enc_11 = xor(keyinput116, po60$enc_10);
+po60$enc_10 = xor(keyinput117, po60$enc_9);
+po60$enc_9 = xor(keyinput118, po60$enc_8);
+po60$enc_8 = xor(keyinput119, po60$enc_7);
+po60$enc_7 = xor(keyinput120, po60$enc_6);
+po60$enc_6 = xor(keyinput121, po60$enc_5);
+po60$enc_5 = xor(keyinput122, po60$enc_4);
+po60$enc_4 = xor(keyinput123, po60$enc_3);
+po60$enc_3 = xor(keyinput124, po60$enc_2);
+po60$enc_2 = xor(keyinput125, po60$enc_1);
+po60$enc_1 = xor(keyinput126, po60);
+
+#locking next scan-cell in scan-chain
+po61$enc = xor(keyinput66, po61$enc_61);
+po61$enc_61 = xor(keyinput67, po61$enc_60);
+po61$enc_60 = xor(keyinput68, po61$enc_59);
+po61$enc_59 = xor(keyinput69, po61$enc_58);
+po61$enc_58 = xor(keyinput70, po61$enc_57);
+po61$enc_57 = xor(keyinput71, po61$enc_56);
+po61$enc_56 = xor(keyinput72, po61$enc_55);
+po61$enc_55 = xor(keyinput73, po61$enc_54);
+po61$enc_54 = xor(keyinput74, po61$enc_53);
+po61$enc_53 = xor(keyinput75, po61$enc_52);
+po61$enc_52 = xor(keyinput76, po61$enc_51);
+po61$enc_51 = xor(keyinput77, po61$enc_50);
+po61$enc_50 = xor(keyinput78, po61$enc_49);
+po61$enc_49 = xor(keyinput79, po61$enc_48);
+po61$enc_48 = xor(keyinput80, po61$enc_47);
+po61$enc_47 = xor(keyinput81, po61$enc_46);
+po61$enc_46 = xor(keyinput82, po61$enc_45);
+po61$enc_45 = xor(keyinput83, po61$enc_44);
+po61$enc_44 = xor(keyinput84, po61$enc_43);
+po61$enc_43 = xor(keyinput85, po61$enc_42);
+po61$enc_42 = xor(keyinput86, po61$enc_41);
+po61$enc_41 = xor(keyinput87, po61$enc_40);
+po61$enc_40 = xor(keyinput88, po61$enc_39);
+po61$enc_39 = xor(keyinput89, po61$enc_38);
+po61$enc_38 = xor(keyinput90, po61$enc_37);
+po61$enc_37 = xor(keyinput91, po61$enc_36);
+po61$enc_36 = xor(keyinput92, po61$enc_35);
+po61$enc_35 = xor(keyinput93, po61$enc_34);
+po61$enc_34 = xor(keyinput94, po61$enc_33);
+po61$enc_33 = xor(keyinput95, po61$enc_32);
+po61$enc_32 = xor(keyinput96, po61$enc_31);
+po61$enc_31 = xor(keyinput97, po61$enc_30);
+po61$enc_30 = xor(keyinput98, po61$enc_29);
+po61$enc_29 = xor(keyinput99, po61$enc_28);
+po61$enc_28 = xor(keyinput100, po61$enc_27);
+po61$enc_27 = xor(keyinput101, po61$enc_26);
+po61$enc_26 = xor(keyinput102, po61$enc_25);
+po61$enc_25 = xor(keyinput103, po61$enc_24);
+po61$enc_24 = xor(keyinput104, po61$enc_23);
+po61$enc_23 = xor(keyinput105, po61$enc_22);
+po61$enc_22 = xor(keyinput106, po61$enc_21);
+po61$enc_21 = xor(keyinput107, po61$enc_20);
+po61$enc_20 = xor(keyinput108, po61$enc_19);
+po61$enc_19 = xor(keyinput109, po61$enc_18);
+po61$enc_18 = xor(keyinput110, po61$enc_17);
+po61$enc_17 = xor(keyinput111, po61$enc_16);
+po61$enc_16 = xor(keyinput112, po61$enc_15);
+po61$enc_15 = xor(keyinput113, po61$enc_14);
+po61$enc_14 = xor(keyinput114, po61$enc_13);
+po61$enc_13 = xor(keyinput115, po61$enc_12);
+po61$enc_12 = xor(keyinput116, po61$enc_11);
+po61$enc_11 = xor(keyinput117, po61$enc_10);
+po61$enc_10 = xor(keyinput118, po61$enc_9);
+po61$enc_9 = xor(keyinput119, po61$enc_8);
+po61$enc_8 = xor(keyinput120, po61$enc_7);
+po61$enc_7 = xor(keyinput121, po61$enc_6);
+po61$enc_6 = xor(keyinput122, po61$enc_5);
+po61$enc_5 = xor(keyinput123, po61$enc_4);
+po61$enc_4 = xor(keyinput124, po61$enc_3);
+po61$enc_3 = xor(keyinput125, po61$enc_2);
+po61$enc_2 = xor(keyinput126, po61$enc_1);
+po61$enc_1 = xor(keyinput127, po61);
+
+#locking next scan-cell in scan-chain
+po62$enc = xor(keyinput66, po62$enc_62);
+po62$enc_62 = xor(keyinput67, po62$enc_61);
+po62$enc_61 = xor(keyinput68, po62$enc_60);
+po62$enc_60 = xor(keyinput69, po62$enc_59);
+po62$enc_59 = xor(keyinput70, po62$enc_58);
+po62$enc_58 = xor(keyinput71, po62$enc_57);
+po62$enc_57 = xor(keyinput72, po62$enc_56);
+po62$enc_56 = xor(keyinput73, po62$enc_55);
+po62$enc_55 = xor(keyinput74, po62$enc_54);
+po62$enc_54 = xor(keyinput75, po62$enc_53);
+po62$enc_53 = xor(keyinput76, po62$enc_52);
+po62$enc_52 = xor(keyinput77, po62$enc_51);
+po62$enc_51 = xor(keyinput78, po62$enc_50);
+po62$enc_50 = xor(keyinput79, po62$enc_49);
+po62$enc_49 = xor(keyinput80, po62$enc_48);
+po62$enc_48 = xor(keyinput81, po62$enc_47);
+po62$enc_47 = xor(keyinput82, po62$enc_46);
+po62$enc_46 = xor(keyinput83, po62$enc_45);
+po62$enc_45 = xor(keyinput84, po62$enc_44);
+po62$enc_44 = xor(keyinput85, po62$enc_43);
+po62$enc_43 = xor(keyinput86, po62$enc_42);
+po62$enc_42 = xor(keyinput87, po62$enc_41);
+po62$enc_41 = xor(keyinput88, po62$enc_40);
+po62$enc_40 = xor(keyinput89, po62$enc_39);
+po62$enc_39 = xor(keyinput90, po62$enc_38);
+po62$enc_38 = xor(keyinput91, po62$enc_37);
+po62$enc_37 = xor(keyinput92, po62$enc_36);
+po62$enc_36 = xor(keyinput93, po62$enc_35);
+po62$enc_35 = xor(keyinput94, po62$enc_34);
+po62$enc_34 = xor(keyinput95, po62$enc_33);
+po62$enc_33 = xor(keyinput96, po62$enc_32);
+po62$enc_32 = xor(keyinput97, po62$enc_31);
+po62$enc_31 = xor(keyinput98, po62$enc_30);
+po62$enc_30 = xor(keyinput99, po62$enc_29);
+po62$enc_29 = xor(keyinput100, po62$enc_28);
+po62$enc_28 = xor(keyinput101, po62$enc_27);
+po62$enc_27 = xor(keyinput102, po62$enc_26);
+po62$enc_26 = xor(keyinput103, po62$enc_25);
+po62$enc_25 = xor(keyinput104, po62$enc_24);
+po62$enc_24 = xor(keyinput105, po62$enc_23);
+po62$enc_23 = xor(keyinput106, po62$enc_22);
+po62$enc_22 = xor(keyinput107, po62$enc_21);
+po62$enc_21 = xor(keyinput108, po62$enc_20);
+po62$enc_20 = xor(keyinput109, po62$enc_19);
+po62$enc_19 = xor(keyinput110, po62$enc_18);
+po62$enc_18 = xor(keyinput111, po62$enc_17);
+po62$enc_17 = xor(keyinput112, po62$enc_16);
+po62$enc_16 = xor(keyinput113, po62$enc_15);
+po62$enc_15 = xor(keyinput114, po62$enc_14);
+po62$enc_14 = xor(keyinput115, po62$enc_13);
+po62$enc_13 = xor(keyinput116, po62$enc_12);
+po62$enc_12 = xor(keyinput117, po62$enc_11);
+po62$enc_11 = xor(keyinput118, po62$enc_10);
+po62$enc_10 = xor(keyinput119, po62$enc_9);
+po62$enc_9 = xor(keyinput120, po62$enc_8);
+po62$enc_8 = xor(keyinput121, po62$enc_7);
+po62$enc_7 = xor(keyinput122, po62$enc_6);
+po62$enc_6 = xor(keyinput123, po62$enc_5);
+po62$enc_5 = xor(keyinput124, po62$enc_4);
+po62$enc_4 = xor(keyinput125, po62$enc_3);
+po62$enc_3 = xor(keyinput126, po62$enc_2);
+po62$enc_2 = xor(keyinput127, po62$enc_1);
+po62$enc_1 = xor(keyinput128, po62);
+
+#locking next scan-cell in scan-chain
+po63$enc = xor(keyinput66, po63$enc_63);
+po63$enc_63 = xor(keyinput67, po63$enc_62);
+po63$enc_62 = xor(keyinput68, po63$enc_61);
+po63$enc_61 = xor(keyinput69, po63$enc_60);
+po63$enc_60 = xor(keyinput70, po63$enc_59);
+po63$enc_59 = xor(keyinput71, po63$enc_58);
+po63$enc_58 = xor(keyinput72, po63$enc_57);
+po63$enc_57 = xor(keyinput73, po63$enc_56);
+po63$enc_56 = xor(keyinput74, po63$enc_55);
+po63$enc_55 = xor(keyinput75, po63$enc_54);
+po63$enc_54 = xor(keyinput76, po63$enc_53);
+po63$enc_53 = xor(keyinput77, po63$enc_52);
+po63$enc_52 = xor(keyinput78, po63$enc_51);
+po63$enc_51 = xor(keyinput79, po63$enc_50);
+po63$enc_50 = xor(keyinput80, po63$enc_49);
+po63$enc_49 = xor(keyinput81, po63$enc_48);
+po63$enc_48 = xor(keyinput82, po63$enc_47);
+po63$enc_47 = xor(keyinput83, po63$enc_46);
+po63$enc_46 = xor(keyinput84, po63$enc_45);
+po63$enc_45 = xor(keyinput85, po63$enc_44);
+po63$enc_44 = xor(keyinput86, po63$enc_43);
+po63$enc_43 = xor(keyinput87, po63$enc_42);
+po63$enc_42 = xor(keyinput88, po63$enc_41);
+po63$enc_41 = xor(keyinput89, po63$enc_40);
+po63$enc_40 = xor(keyinput90, po63$enc_39);
+po63$enc_39 = xor(keyinput91, po63$enc_38);
+po63$enc_38 = xor(keyinput92, po63$enc_37);
+po63$enc_37 = xor(keyinput93, po63$enc_36);
+po63$enc_36 = xor(keyinput94, po63$enc_35);
+po63$enc_35 = xor(keyinput95, po63$enc_34);
+po63$enc_34 = xor(keyinput96, po63$enc_33);
+po63$enc_33 = xor(keyinput97, po63$enc_32);
+po63$enc_32 = xor(keyinput98, po63$enc_31);
+po63$enc_31 = xor(keyinput99, po63$enc_30);
+po63$enc_30 = xor(keyinput100, po63$enc_29);
+po63$enc_29 = xor(keyinput101, po63$enc_28);
+po63$enc_28 = xor(keyinput102, po63$enc_27);
+po63$enc_27 = xor(keyinput103, po63$enc_26);
+po63$enc_26 = xor(keyinput104, po63$enc_25);
+po63$enc_25 = xor(keyinput105, po63$enc_24);
+po63$enc_24 = xor(keyinput106, po63$enc_23);
+po63$enc_23 = xor(keyinput107, po63$enc_22);
+po63$enc_22 = xor(keyinput108, po63$enc_21);
+po63$enc_21 = xor(keyinput109, po63$enc_20);
+po63$enc_20 = xor(keyinput110, po63$enc_19);
+po63$enc_19 = xor(keyinput111, po63$enc_18);
+po63$enc_18 = xor(keyinput112, po63$enc_17);
+po63$enc_17 = xor(keyinput113, po63$enc_16);
+po63$enc_16 = xor(keyinput114, po63$enc_15);
+po63$enc_15 = xor(keyinput115, po63$enc_14);
+po63$enc_14 = xor(keyinput116, po63$enc_13);
+po63$enc_13 = xor(keyinput117, po63$enc_12);
+po63$enc_12 = xor(keyinput118, po63$enc_11);
+po63$enc_11 = xor(keyinput119, po63$enc_10);
+po63$enc_10 = xor(keyinput120, po63$enc_9);
+po63$enc_9 = xor(keyinput121, po63$enc_8);
+po63$enc_8 = xor(keyinput122, po63$enc_7);
+po63$enc_7 = xor(keyinput123, po63$enc_6);
+po63$enc_6 = xor(keyinput124, po63$enc_5);
+po63$enc_5 = xor(keyinput125, po63$enc_4);
+po63$enc_4 = xor(keyinput126, po63$enc_3);
+po63$enc_3 = xor(keyinput127, po63$enc_2);
+po63$enc_2 = xor(keyinput128, po63$enc_1);
+po63$enc_1 = xor(keyinput129, po63);
+
+#locking next scan-cell in scan-chain
+po64$enc = xor(keyinput66, po64$enc_64);
+po64$enc_64 = xor(keyinput67, po64$enc_63);
+po64$enc_63 = xor(keyinput68, po64$enc_62);
+po64$enc_62 = xor(keyinput69, po64$enc_61);
+po64$enc_61 = xor(keyinput70, po64$enc_60);
+po64$enc_60 = xor(keyinput71, po64$enc_59);
+po64$enc_59 = xor(keyinput72, po64$enc_58);
+po64$enc_58 = xor(keyinput73, po64$enc_57);
+po64$enc_57 = xor(keyinput74, po64$enc_56);
+po64$enc_56 = xor(keyinput75, po64$enc_55);
+po64$enc_55 = xor(keyinput76, po64$enc_54);
+po64$enc_54 = xor(keyinput77, po64$enc_53);
+po64$enc_53 = xor(keyinput78, po64$enc_52);
+po64$enc_52 = xor(keyinput79, po64$enc_51);
+po64$enc_51 = xor(keyinput80, po64$enc_50);
+po64$enc_50 = xor(keyinput81, po64$enc_49);
+po64$enc_49 = xor(keyinput82, po64$enc_48);
+po64$enc_48 = xor(keyinput83, po64$enc_47);
+po64$enc_47 = xor(keyinput84, po64$enc_46);
+po64$enc_46 = xor(keyinput85, po64$enc_45);
+po64$enc_45 = xor(keyinput86, po64$enc_44);
+po64$enc_44 = xor(keyinput87, po64$enc_43);
+po64$enc_43 = xor(keyinput88, po64$enc_42);
+po64$enc_42 = xor(keyinput89, po64$enc_41);
+po64$enc_41 = xor(keyinput90, po64$enc_40);
+po64$enc_40 = xor(keyinput91, po64$enc_39);
+po64$enc_39 = xor(keyinput92, po64$enc_38);
+po64$enc_38 = xor(keyinput93, po64$enc_37);
+po64$enc_37 = xor(keyinput94, po64$enc_36);
+po64$enc_36 = xor(keyinput95, po64$enc_35);
+po64$enc_35 = xor(keyinput96, po64$enc_34);
+po64$enc_34 = xor(keyinput97, po64$enc_33);
+po64$enc_33 = xor(keyinput98, po64$enc_32);
+po64$enc_32 = xor(keyinput99, po64$enc_31);
+po64$enc_31 = xor(keyinput100, po64$enc_30);
+po64$enc_30 = xor(keyinput101, po64$enc_29);
+po64$enc_29 = xor(keyinput102, po64$enc_28);
+po64$enc_28 = xor(keyinput103, po64$enc_27);
+po64$enc_27 = xor(keyinput104, po64$enc_26);
+po64$enc_26 = xor(keyinput105, po64$enc_25);
+po64$enc_25 = xor(keyinput106, po64$enc_24);
+po64$enc_24 = xor(keyinput107, po64$enc_23);
+po64$enc_23 = xor(keyinput108, po64$enc_22);
+po64$enc_22 = xor(keyinput109, po64$enc_21);
+po64$enc_21 = xor(keyinput110, po64$enc_20);
+po64$enc_20 = xor(keyinput111, po64$enc_19);
+po64$enc_19 = xor(keyinput112, po64$enc_18);
+po64$enc_18 = xor(keyinput113, po64$enc_17);
+po64$enc_17 = xor(keyinput114, po64$enc_16);
+po64$enc_16 = xor(keyinput115, po64$enc_15);
+po64$enc_15 = xor(keyinput116, po64$enc_14);
+po64$enc_14 = xor(keyinput117, po64$enc_13);
+po64$enc_13 = xor(keyinput118, po64$enc_12);
+po64$enc_12 = xor(keyinput119, po64$enc_11);
+po64$enc_11 = xor(keyinput120, po64$enc_10);
+po64$enc_10 = xor(keyinput121, po64$enc_9);
+po64$enc_9 = xor(keyinput122, po64$enc_8);
+po64$enc_8 = xor(keyinput123, po64$enc_7);
+po64$enc_7 = xor(keyinput124, po64$enc_6);
+po64$enc_6 = xor(keyinput125, po64$enc_5);
+po64$enc_5 = xor(keyinput126, po64$enc_4);
+po64$enc_4 = xor(keyinput127, po64$enc_3);
+po64$enc_3 = xor(keyinput128, po64$enc_2);
+po64$enc_2 = xor(keyinput129, po64$enc_1);
+po64$enc_1 = xor(keyinput130, po64);
+
+#locking next scan-cell in scan-chain
+po65$enc = xor(keyinput66, po65$enc_65);
+po65$enc_65 = xor(keyinput67, po65$enc_64);
+po65$enc_64 = xor(keyinput68, po65$enc_63);
+po65$enc_63 = xor(keyinput69, po65$enc_62);
+po65$enc_62 = xor(keyinput70, po65$enc_61);
+po65$enc_61 = xor(keyinput71, po65$enc_60);
+po65$enc_60 = xor(keyinput72, po65$enc_59);
+po65$enc_59 = xor(keyinput73, po65$enc_58);
+po65$enc_58 = xor(keyinput74, po65$enc_57);
+po65$enc_57 = xor(keyinput75, po65$enc_56);
+po65$enc_56 = xor(keyinput76, po65$enc_55);
+po65$enc_55 = xor(keyinput77, po65$enc_54);
+po65$enc_54 = xor(keyinput78, po65$enc_53);
+po65$enc_53 = xor(keyinput79, po65$enc_52);
+po65$enc_52 = xor(keyinput80, po65$enc_51);
+po65$enc_51 = xor(keyinput81, po65$enc_50);
+po65$enc_50 = xor(keyinput82, po65$enc_49);
+po65$enc_49 = xor(keyinput83, po65$enc_48);
+po65$enc_48 = xor(keyinput84, po65$enc_47);
+po65$enc_47 = xor(keyinput85, po65$enc_46);
+po65$enc_46 = xor(keyinput86, po65$enc_45);
+po65$enc_45 = xor(keyinput87, po65$enc_44);
+po65$enc_44 = xor(keyinput88, po65$enc_43);
+po65$enc_43 = xor(keyinput89, po65$enc_42);
+po65$enc_42 = xor(keyinput90, po65$enc_41);
+po65$enc_41 = xor(keyinput91, po65$enc_40);
+po65$enc_40 = xor(keyinput92, po65$enc_39);
+po65$enc_39 = xor(keyinput93, po65$enc_38);
+po65$enc_38 = xor(keyinput94, po65$enc_37);
+po65$enc_37 = xor(keyinput95, po65$enc_36);
+po65$enc_36 = xor(keyinput96, po65$enc_35);
+po65$enc_35 = xor(keyinput97, po65$enc_34);
+po65$enc_34 = xor(keyinput98, po65$enc_33);
+po65$enc_33 = xor(keyinput99, po65$enc_32);
+po65$enc_32 = xor(keyinput100, po65$enc_31);
+po65$enc_31 = xor(keyinput101, po65$enc_30);
+po65$enc_30 = xor(keyinput102, po65$enc_29);
+po65$enc_29 = xor(keyinput103, po65$enc_28);
+po65$enc_28 = xor(keyinput104, po65$enc_27);
+po65$enc_27 = xor(keyinput105, po65$enc_26);
+po65$enc_26 = xor(keyinput106, po65$enc_25);
+po65$enc_25 = xor(keyinput107, po65$enc_24);
+po65$enc_24 = xor(keyinput108, po65$enc_23);
+po65$enc_23 = xor(keyinput109, po65$enc_22);
+po65$enc_22 = xor(keyinput110, po65$enc_21);
+po65$enc_21 = xor(keyinput111, po65$enc_20);
+po65$enc_20 = xor(keyinput112, po65$enc_19);
+po65$enc_19 = xor(keyinput113, po65$enc_18);
+po65$enc_18 = xor(keyinput114, po65$enc_17);
+po65$enc_17 = xor(keyinput115, po65$enc_16);
+po65$enc_16 = xor(keyinput116, po65$enc_15);
+po65$enc_15 = xor(keyinput117, po65$enc_14);
+po65$enc_14 = xor(keyinput118, po65$enc_13);
+po65$enc_13 = xor(keyinput119, po65$enc_12);
+po65$enc_12 = xor(keyinput120, po65$enc_11);
+po65$enc_11 = xor(keyinput121, po65$enc_10);
+po65$enc_10 = xor(keyinput122, po65$enc_9);
+po65$enc_9 = xor(keyinput123, po65$enc_8);
+po65$enc_8 = xor(keyinput124, po65$enc_7);
+po65$enc_7 = xor(keyinput125, po65$enc_6);
+po65$enc_6 = xor(keyinput126, po65$enc_5);
+po65$enc_5 = xor(keyinput127, po65$enc_4);
+po65$enc_4 = xor(keyinput128, po65$enc_3);
+po65$enc_3 = xor(keyinput129, po65$enc_2);
+po65$enc_2 = xor(keyinput130, po65$enc_1);
+po65$enc_1 = xor(keyinput131, po65);
+
+#locking next scan-cell in scan-chain
+po66$enc = xor(keyinput66, po66$enc_66);
+po66$enc_66 = xor(keyinput67, po66$enc_65);
+po66$enc_65 = xor(keyinput68, po66$enc_64);
+po66$enc_64 = xor(keyinput69, po66$enc_63);
+po66$enc_63 = xor(keyinput70, po66$enc_62);
+po66$enc_62 = xor(keyinput71, po66$enc_61);
+po66$enc_61 = xor(keyinput72, po66$enc_60);
+po66$enc_60 = xor(keyinput73, po66$enc_59);
+po66$enc_59 = xor(keyinput74, po66$enc_58);
+po66$enc_58 = xor(keyinput75, po66$enc_57);
+po66$enc_57 = xor(keyinput76, po66$enc_56);
+po66$enc_56 = xor(keyinput77, po66$enc_55);
+po66$enc_55 = xor(keyinput78, po66$enc_54);
+po66$enc_54 = xor(keyinput79, po66$enc_53);
+po66$enc_53 = xor(keyinput80, po66$enc_52);
+po66$enc_52 = xor(keyinput81, po66$enc_51);
+po66$enc_51 = xor(keyinput82, po66$enc_50);
+po66$enc_50 = xor(keyinput83, po66$enc_49);
+po66$enc_49 = xor(keyinput84, po66$enc_48);
+po66$enc_48 = xor(keyinput85, po66$enc_47);
+po66$enc_47 = xor(keyinput86, po66$enc_46);
+po66$enc_46 = xor(keyinput87, po66$enc_45);
+po66$enc_45 = xor(keyinput88, po66$enc_44);
+po66$enc_44 = xor(keyinput89, po66$enc_43);
+po66$enc_43 = xor(keyinput90, po66$enc_42);
+po66$enc_42 = xor(keyinput91, po66$enc_41);
+po66$enc_41 = xor(keyinput92, po66$enc_40);
+po66$enc_40 = xor(keyinput93, po66$enc_39);
+po66$enc_39 = xor(keyinput94, po66$enc_38);
+po66$enc_38 = xor(keyinput95, po66$enc_37);
+po66$enc_37 = xor(keyinput96, po66$enc_36);
+po66$enc_36 = xor(keyinput97, po66$enc_35);
+po66$enc_35 = xor(keyinput98, po66$enc_34);
+po66$enc_34 = xor(keyinput99, po66$enc_33);
+po66$enc_33 = xor(keyinput100, po66$enc_32);
+po66$enc_32 = xor(keyinput101, po66$enc_31);
+po66$enc_31 = xor(keyinput102, po66$enc_30);
+po66$enc_30 = xor(keyinput103, po66$enc_29);
+po66$enc_29 = xor(keyinput104, po66$enc_28);
+po66$enc_28 = xor(keyinput105, po66$enc_27);
+po66$enc_27 = xor(keyinput106, po66$enc_26);
+po66$enc_26 = xor(keyinput107, po66$enc_25);
+po66$enc_25 = xor(keyinput108, po66$enc_24);
+po66$enc_24 = xor(keyinput109, po66$enc_23);
+po66$enc_23 = xor(keyinput110, po66$enc_22);
+po66$enc_22 = xor(keyinput111, po66$enc_21);
+po66$enc_21 = xor(keyinput112, po66$enc_20);
+po66$enc_20 = xor(keyinput113, po66$enc_19);
+po66$enc_19 = xor(keyinput114, po66$enc_18);
+po66$enc_18 = xor(keyinput115, po66$enc_17);
+po66$enc_17 = xor(keyinput116, po66$enc_16);
+po66$enc_16 = xor(keyinput117, po66$enc_15);
+po66$enc_15 = xor(keyinput118, po66$enc_14);
+po66$enc_14 = xor(keyinput119, po66$enc_13);
+po66$enc_13 = xor(keyinput120, po66$enc_12);
+po66$enc_12 = xor(keyinput121, po66$enc_11);
+po66$enc_11 = xor(keyinput122, po66$enc_10);
+po66$enc_10 = xor(keyinput123, po66$enc_9);
+po66$enc_9 = xor(keyinput124, po66$enc_8);
+po66$enc_8 = xor(keyinput125, po66$enc_7);
+po66$enc_7 = xor(keyinput126, po66$enc_6);
+po66$enc_6 = xor(keyinput127, po66$enc_5);
+po66$enc_5 = xor(keyinput128, po66$enc_4);
+po66$enc_4 = xor(keyinput129, po66$enc_3);
+po66$enc_3 = xor(keyinput130, po66$enc_2);
+po66$enc_2 = xor(keyinput131, po66$enc_1);
+po66$enc_1 = xor(keyinput132, po66);

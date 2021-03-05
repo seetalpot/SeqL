@@ -1,0 +1,153 @@
+G1                   keyinputG1          
+G4                   keyinputG4          
+G11                  keyinputG11         
+G14                  keyinputG14         
+G17                  keyinputG17         
+G20                  keyinputG20         
+G23                  keyinputG23         
+G24                  keyinputG24         
+G25                  keyinputG25         
+G26                  keyinputG26         
+G27                  keyinputG27         
+G31                  keyinputG31         
+G34                  keyinputG34         
+G37                  keyinputG37         
+G40                  keyinputG40         
+G43                  keyinputG43         
+G46                  keyinputG46         
+G49                  keyinputG49         
+G52                  keyinputG52         
+G53                  keyinputG53         
+G54                  keyinputG54         
+G61                  keyinputG61         
+G64                  keyinputG64         
+G67                  keyinputG67         
+G70                  keyinputG70         
+G73                  keyinputG73         
+G76                  keyinputG76         
+G79                  keyinputG79         
+G80                  keyinputG80         
+G81                  keyinputG81         
+G82                  keyinputG82         
+G83                  keyinputG83         
+G86                  keyinputG86         
+G87                  keyinputG87         
+G88                  keyinputG88         
+G91                  keyinputG91         
+G94                  keyinputG94         
+G97                  keyinputG97         
+G100                 keyinputG100        
+G103                 keyinputG103        
+G106                 keyinputG106        
+G109                 keyinputG109        
+G112                 keyinputG112        
+G113                 keyinputG113        
+G114                 keyinputG114        
+G115                 keyinputG115        
+G116                 keyinputG116        
+G117                 keyinputG117        
+G118                 keyinputG118        
+G119                 keyinputG119        
+G120                 keyinputG120        
+G121                 keyinputG121        
+G122                 keyinputG122        
+G123                 keyinputG123        
+G126                 keyinputG126        
+G127                 keyinputG127        
+G128                 keyinputG128        
+G129                 keyinputG129        
+G130                 keyinputG130        
+G131                 keyinputG131        
+G132                 keyinputG132        
+G135                 keyinputG135        
+G136                 keyinputG136        
+G137                 keyinputG137        
+G140                 keyinputG140        
+G141                 keyinputG141        
+G145                 keyinputG145        
+G146                 keyinputG146        
+G149                 keyinputG149        
+G152                 keyinputG152        
+G155                 keyinputG155        
+G158                 keyinputG158        
+G161                 keyinputG161        
+G164                 keyinputG164        
+G167                 keyinputG167        
+G170                 keyinputG170        
+G173                 keyinputG173        
+G176                 keyinputG176        
+G179                 keyinputG179        
+G182                 keyinputG182        
+G185                 keyinputG185        
+G188                 keyinputG188        
+G191                 keyinputG191        
+G194                 keyinputG194        
+G197                 keyinputG197        
+G200                 keyinputG200        
+G203                 keyinputG203        
+G206                 keyinputG206        
+G209                 keyinputG209        
+G210                 keyinputG210        
+G217                 keyinputG217        
+G218                 keyinputG218        
+G225                 keyinputG225        
+G226                 keyinputG226        
+G233                 keyinputG233        
+G234                 keyinputG234        
+G241                 keyinputG241        
+G242                 keyinputG242        
+G245                 keyinputG245        
+G248                 keyinputG248        
+G251                 keyinputG251        
+G254                 keyinputG254        
+G257                 keyinputG257        
+G264                 keyinputG264        
+G265                 keyinputG265        
+G272                 keyinputG272        
+G273                 keyinputG273        
+G280                 keyinputG280        
+G281                 keyinputG281        
+G288                 keyinputG288        
+G289                 keyinputG289        
+G292                 keyinputG292        
+G293                 keyinputG293        
+G299                 keyinputG299        
+G302                 keyinputG302        
+G307                 keyinputG307        
+G308                 keyinputG308        
+G315                 keyinputG315        
+G316                 keyinputG316        
+G323                 keyinputG323        
+G324                 keyinputG324        
+G331                 keyinputG331        
+G332                 keyinputG332        
+G335                 keyinputG335        
+G338                 keyinputG338        
+G341                 keyinputG341        
+G348                 keyinputG348        
+G351                 keyinputG351        
+# of ckt inputs : 128
+# of gates      : 14325
+n10494 (  276/14325 @ 511)
+n10476 (  940/14325 @ 512)
+n10500 ( 1064/14325 @ 518)
+n10478 ( 2018/14325 @ 514)
+n10495 ( 2801/14325 @ 512)
+n10493 ( 3257/14325 @ 510)
+n10477 ( 3292/14325 @ 513)
+n10468 ( 3602/14325 @ 506)
+n10498 ( 4297/14325 @ 516)
+n10492 ( 4457/14325 @ 518)
+n10497 ( 6546/14325 @ 515)
+n10483 ( 7517/14325 @ 517)
+n10482 ( 8191/14325 @ 516)
+n10467 ( 8329/14325 @ 505)
+n10474 ( 8919/14325 @ 506)
+n10475 ( 8948/14325 @ 511)
+n10503 ( 8975/14325 @ 522)
+n10481 ( 9142/14325 @ 515)
+n10501 ( 9488/14325 @ 519)
+n10499 (10139/14325 @ 517)
+n10502 (12553/14325 @ 521)
+n10496 (13489/14325 @ 513)
+n10469 (14189/14325 @ 507)

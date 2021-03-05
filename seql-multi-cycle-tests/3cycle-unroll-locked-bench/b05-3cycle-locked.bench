@@ -1,0 +1,307 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(START_1)
+
+
+##################################Primary Inputs for Unroll-2
+INPUT(START_2)
+
+
+##################################Primary Inputs for Unroll-3
+INPUT(START_3)
+
+
+##################################Primary Outputs for Unroll-1
+OUTPUT(U646_1)
+OUTPUT(U792_1)
+OUTPUT(U590_1)
+OUTPUT(U589_1)
+OUTPUT(U589_1)
+OUTPUT(U590_1)
+OUTPUT(U590_1)
+OUTPUT(U590_1)
+OUTPUT(U661_1)
+OUTPUT(U662_1)
+OUTPUT(U663_1)
+OUTPUT(U664_1)
+OUTPUT(U665_1)
+OUTPUT(U666_1)
+OUTPUT(U667_1)
+OUTPUT(U647_1)
+OUTPUT(U648_1)
+OUTPUT(U649_1)
+OUTPUT(U650_1)
+OUTPUT(U651_1)
+OUTPUT(U652_1)
+OUTPUT(U653_1)
+OUTPUT(U792_1)
+OUTPUT(U591_1)
+OUTPUT(U589_1)
+OUTPUT(U589_1)
+OUTPUT(U591_1)
+OUTPUT(U591_1)
+OUTPUT(U591_1)
+OUTPUT(U654_1)
+OUTPUT(U655_1)
+OUTPUT(U656_1)
+OUTPUT(U657_1)
+OUTPUT(U658_1)
+OUTPUT(U659_1)
+OUTPUT(U660_1)
+
+
+##################################Primary Outputs for Unroll-2
+OUTPUT(U646_2)
+OUTPUT(U792_2)
+OUTPUT(U590_2)
+OUTPUT(U589_2)
+OUTPUT(U589_2)
+OUTPUT(U590_2)
+OUTPUT(U590_2)
+OUTPUT(U590_2)
+OUTPUT(U661_2)
+OUTPUT(U662_2)
+OUTPUT(U663_2)
+OUTPUT(U664_2)
+OUTPUT(U665_2)
+OUTPUT(U666_2)
+OUTPUT(U667_2)
+OUTPUT(U647_2)
+OUTPUT(U648_2)
+OUTPUT(U649_2)
+OUTPUT(U650_2)
+OUTPUT(U651_2)
+OUTPUT(U652_2)
+OUTPUT(U653_2)
+OUTPUT(U792_2)
+OUTPUT(U591_2)
+OUTPUT(U589_2)
+OUTPUT(U589_2)
+OUTPUT(U591_2)
+OUTPUT(U591_2)
+OUTPUT(U591_2)
+OUTPUT(U654_2)
+OUTPUT(U655_2)
+OUTPUT(U656_2)
+OUTPUT(U657_2)
+OUTPUT(U658_2)
+OUTPUT(U659_2)
+OUTPUT(U660_2)
+
+
+##################################Primary Outputs for Unroll-3
+OUTPUT(U646_3)
+OUTPUT(U792_3)
+OUTPUT(U590_3)
+OUTPUT(U589_3)
+OUTPUT(U589_3)
+OUTPUT(U590_3)
+OUTPUT(U590_3)
+OUTPUT(U590_3)
+OUTPUT(U661_3)
+OUTPUT(U662_3)
+OUTPUT(U663_3)
+OUTPUT(U664_3)
+OUTPUT(U665_3)
+OUTPUT(U666_3)
+OUTPUT(U667_3)
+OUTPUT(U647_3)
+OUTPUT(U648_3)
+OUTPUT(U649_3)
+OUTPUT(U650_3)
+OUTPUT(U651_3)
+OUTPUT(U652_3)
+OUTPUT(U653_3)
+OUTPUT(U792_3)
+OUTPUT(U591_3)
+OUTPUT(U589_3)
+OUTPUT(U589_3)
+OUTPUT(U591_3)
+OUTPUT(U591_3)
+OUTPUT(U591_3)
+OUTPUT(U654_3)
+OUTPUT(U655_3)
+OUTPUT(U656_3)
+OUTPUT(U657_3)
+OUTPUT(U658_3)
+OUTPUT(U659_3)
+OUTPUT(U660_3)
+
+##################################Other Inputs
+INPUT(NUM_REG_4__1)
+INPUT(NUM_REG_3__1)
+INPUT(NUM_REG_2__1)
+INPUT(NUM_REG_1__1)
+INPUT(NUM_REG_0__1)
+INPUT(MAR_REG_4__1)
+INPUT(MAR_REG_3__1)
+INPUT(MAR_REG_2__1)
+INPUT(MAR_REG_1__1)
+INPUT(MAR_REG_0__1)
+INPUT(TEMP_REG_8__1)
+INPUT(TEMP_REG_7__1)
+INPUT(TEMP_REG_6__1)
+INPUT(TEMP_REG_5__1)
+INPUT(TEMP_REG_4__1)
+INPUT(TEMP_REG_3__1)
+INPUT(TEMP_REG_2__1)
+INPUT(TEMP_REG_1__1)
+INPUT(TEMP_REG_0__1)
+INPUT(MAX_REG_8__1)
+INPUT(MAX_REG_7__1)
+INPUT(MAX_REG_6__1)
+INPUT(MAX_REG_5__1)
+INPUT(MAX_REG_4__1)
+INPUT(MAX_REG_3__1)
+INPUT(MAX_REG_2__1)
+INPUT(MAX_REG_1__1)
+INPUT(MAX_REG_0__1)
+INPUT(EN_DISP_REG_1)
+INPUT(RES_DISP_REG_1)
+INPUT(FLAG_REG_1)
+INPUT(STATO_REG_0__1)
+INPUT(STATO_REG_1__1)
+INPUT(STATO_REG_2__1)
+
+##################################Other Outputs
+OUTPUT(U680_3$enc)
+OUTPUT(U679_3$enc)
+OUTPUT(U678_3$enc)
+OUTPUT(U677_3$enc)
+OUTPUT(U676_3$enc)
+OUTPUT(U675_3$enc)
+OUTPUT(U674_3$enc)
+OUTPUT(U673_3$enc)
+OUTPUT(U672_3$enc)
+OUTPUT(U671_3$enc)
+OUTPUT(U727_3$enc)
+OUTPUT(U728_3$enc)
+OUTPUT(U729_3$enc)
+OUTPUT(U730_3$enc)
+OUTPUT(U731_3$enc)
+OUTPUT(U732_3$enc)
+OUTPUT(U733_3$enc)
+OUTPUT(U734_3$enc)
+OUTPUT(U735_3$enc)
+OUTPUT(U736_3$enc)
+OUTPUT(U737_3$enc)
+OUTPUT(U738_3$enc)
+OUTPUT(U739_3$enc)
+OUTPUT(U740_3$enc)
+OUTPUT(U741_3$enc)
+OUTPUT(U742_3$enc)
+OUTPUT(U743_3$enc)
+OUTPUT(U744_3$enc)
+OUTPUT(U670_3$enc)
+OUTPUT(U669_3$enc)
+OUTPUT(U668_3$enc)
+OUTPUT(U645_3$enc)
+OUTPUT(U644_3$enc)
+OUTPUT(U643_3$enc)
+
+#################################Key Inputs
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+INPUT(keyinput9)
+INPUT(keyinput10)
+INPUT(keyinput11)
+INPUT(keyinput12)
+INPUT(keyinput13)
+INPUT(keyinput14)
+INPUT(keyinput15)
+INPUT(keyinput16)
+INPUT(keyinput17)
+INPUT(keyinput18)
+INPUT(keyinput19)
+INPUT(keyinput20)
+INPUT(keyinput21)
+INPUT(keyinput22)
+INPUT(keyinput23)
+INPUT(keyinput24)
+INPUT(keyinput25)
+INPUT(keyinput26)
+INPUT(keyinput27)
+INPUT(keyinput28)
+INPUT(keyinput29)
+INPUT(keyinput30)
+INPUT(keyinput31)
+INPUT(keyinput32)
+INPUT(keyinput33)
+
+#################################SeqL Key Inputs
+INPUT(keyinput34)
+INPUT(keyinput35)
+INPUT(keyinput36)
+INPUT(keyinput37)
+INPUT(keyinput38)
+INPUT(keyinput39)
+
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic

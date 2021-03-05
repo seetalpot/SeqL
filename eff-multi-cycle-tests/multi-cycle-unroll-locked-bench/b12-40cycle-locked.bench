@@ -1,0 +1,1083 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(START_1)
+INPUT(K_3__1)
+INPUT(K_2__1)
+INPUT(K_1__1)
+INPUT(K_0__1)
+
+
+##################################Primary Inputs for Unroll-2
+INPUT(START_2)
+INPUT(K_3__2)
+INPUT(K_2__2)
+INPUT(K_1__2)
+INPUT(K_0__2)
+
+
+##################################Primary Inputs for Unroll-3
+INPUT(START_3)
+INPUT(K_3__3)
+INPUT(K_2__3)
+INPUT(K_1__3)
+INPUT(K_0__3)
+
+
+##################################Primary Inputs for Unroll-4
+INPUT(START_4)
+INPUT(K_3__4)
+INPUT(K_2__4)
+INPUT(K_1__4)
+INPUT(K_0__4)
+
+
+##################################Primary Inputs for Unroll-5
+INPUT(START_5)
+INPUT(K_3__5)
+INPUT(K_2__5)
+INPUT(K_1__5)
+INPUT(K_0__5)
+
+
+##################################Primary Inputs for Unroll-6
+INPUT(START_6)
+INPUT(K_3__6)
+INPUT(K_2__6)
+INPUT(K_1__6)
+INPUT(K_0__6)
+
+
+##################################Primary Inputs for Unroll-7
+INPUT(START_7)
+INPUT(K_3__7)
+INPUT(K_2__7)
+INPUT(K_1__7)
+INPUT(K_0__7)
+
+
+##################################Primary Inputs for Unroll-8
+INPUT(START_8)
+INPUT(K_3__8)
+INPUT(K_2__8)
+INPUT(K_1__8)
+INPUT(K_0__8)
+
+
+##################################Primary Inputs for Unroll-9
+INPUT(START_9)
+INPUT(K_3__9)
+INPUT(K_2__9)
+INPUT(K_1__9)
+INPUT(K_0__9)
+
+
+##################################Primary Inputs for Unroll-10
+INPUT(START_10)
+INPUT(K_3__10)
+INPUT(K_2__10)
+INPUT(K_1__10)
+INPUT(K_0__10)
+
+
+##################################Primary Inputs for Unroll-11
+INPUT(START_11)
+INPUT(K_3__11)
+INPUT(K_2__11)
+INPUT(K_1__11)
+INPUT(K_0__11)
+
+
+##################################Primary Inputs for Unroll-12
+INPUT(START_12)
+INPUT(K_3__12)
+INPUT(K_2__12)
+INPUT(K_1__12)
+INPUT(K_0__12)
+
+
+##################################Primary Inputs for Unroll-13
+INPUT(START_13)
+INPUT(K_3__13)
+INPUT(K_2__13)
+INPUT(K_1__13)
+INPUT(K_0__13)
+
+
+##################################Primary Inputs for Unroll-14
+INPUT(START_14)
+INPUT(K_3__14)
+INPUT(K_2__14)
+INPUT(K_1__14)
+INPUT(K_0__14)
+
+
+##################################Primary Inputs for Unroll-15
+INPUT(START_15)
+INPUT(K_3__15)
+INPUT(K_2__15)
+INPUT(K_1__15)
+INPUT(K_0__15)
+
+
+##################################Primary Inputs for Unroll-16
+INPUT(START_16)
+INPUT(K_3__16)
+INPUT(K_2__16)
+INPUT(K_1__16)
+INPUT(K_0__16)
+
+
+##################################Primary Inputs for Unroll-17
+INPUT(START_17)
+INPUT(K_3__17)
+INPUT(K_2__17)
+INPUT(K_1__17)
+INPUT(K_0__17)
+
+
+##################################Primary Inputs for Unroll-18
+INPUT(START_18)
+INPUT(K_3__18)
+INPUT(K_2__18)
+INPUT(K_1__18)
+INPUT(K_0__18)
+
+
+##################################Primary Inputs for Unroll-19
+INPUT(START_19)
+INPUT(K_3__19)
+INPUT(K_2__19)
+INPUT(K_1__19)
+INPUT(K_0__19)
+
+
+##################################Primary Inputs for Unroll-20
+INPUT(START_20)
+INPUT(K_3__20)
+INPUT(K_2__20)
+INPUT(K_1__20)
+INPUT(K_0__20)
+
+
+##################################Primary Inputs for Unroll-21
+INPUT(START_21)
+INPUT(K_3__21)
+INPUT(K_2__21)
+INPUT(K_1__21)
+INPUT(K_0__21)
+
+
+##################################Primary Inputs for Unroll-22
+INPUT(START_22)
+INPUT(K_3__22)
+INPUT(K_2__22)
+INPUT(K_1__22)
+INPUT(K_0__22)
+
+
+##################################Primary Inputs for Unroll-23
+INPUT(START_23)
+INPUT(K_3__23)
+INPUT(K_2__23)
+INPUT(K_1__23)
+INPUT(K_0__23)
+
+
+##################################Primary Inputs for Unroll-24
+INPUT(START_24)
+INPUT(K_3__24)
+INPUT(K_2__24)
+INPUT(K_1__24)
+INPUT(K_0__24)
+
+
+##################################Primary Inputs for Unroll-25
+INPUT(START_25)
+INPUT(K_3__25)
+INPUT(K_2__25)
+INPUT(K_1__25)
+INPUT(K_0__25)
+
+
+##################################Primary Inputs for Unroll-26
+INPUT(START_26)
+INPUT(K_3__26)
+INPUT(K_2__26)
+INPUT(K_1__26)
+INPUT(K_0__26)
+
+
+##################################Primary Inputs for Unroll-27
+INPUT(START_27)
+INPUT(K_3__27)
+INPUT(K_2__27)
+INPUT(K_1__27)
+INPUT(K_0__27)
+
+
+##################################Primary Inputs for Unroll-28
+INPUT(START_28)
+INPUT(K_3__28)
+INPUT(K_2__28)
+INPUT(K_1__28)
+INPUT(K_0__28)
+
+
+##################################Primary Inputs for Unroll-29
+INPUT(START_29)
+INPUT(K_3__29)
+INPUT(K_2__29)
+INPUT(K_1__29)
+INPUT(K_0__29)
+
+
+##################################Primary Inputs for Unroll-30
+INPUT(START_30)
+INPUT(K_3__30)
+INPUT(K_2__30)
+INPUT(K_1__30)
+INPUT(K_0__30)
+
+
+##################################Primary Inputs for Unroll-31
+INPUT(START_31)
+INPUT(K_3__31)
+INPUT(K_2__31)
+INPUT(K_1__31)
+INPUT(K_0__31)
+
+
+##################################Primary Inputs for Unroll-32
+INPUT(START_32)
+INPUT(K_3__32)
+INPUT(K_2__32)
+INPUT(K_1__32)
+INPUT(K_0__32)
+
+
+##################################Primary Inputs for Unroll-33
+INPUT(START_33)
+INPUT(K_3__33)
+INPUT(K_2__33)
+INPUT(K_1__33)
+INPUT(K_0__33)
+
+
+##################################Primary Inputs for Unroll-34
+INPUT(START_34)
+INPUT(K_3__34)
+INPUT(K_2__34)
+INPUT(K_1__34)
+INPUT(K_0__34)
+
+
+##################################Primary Inputs for Unroll-35
+INPUT(START_35)
+INPUT(K_3__35)
+INPUT(K_2__35)
+INPUT(K_1__35)
+INPUT(K_0__35)
+
+
+##################################Primary Inputs for Unroll-36
+INPUT(START_36)
+INPUT(K_3__36)
+INPUT(K_2__36)
+INPUT(K_1__36)
+INPUT(K_0__36)
+
+
+##################################Primary Inputs for Unroll-37
+INPUT(START_37)
+INPUT(K_3__37)
+INPUT(K_2__37)
+INPUT(K_1__37)
+INPUT(K_0__37)
+
+
+##################################Primary Inputs for Unroll-38
+INPUT(START_38)
+INPUT(K_3__38)
+INPUT(K_2__38)
+INPUT(K_1__38)
+INPUT(K_0__38)
+
+
+##################################Primary Inputs for Unroll-39
+INPUT(START_39)
+INPUT(K_3__39)
+INPUT(K_2__39)
+INPUT(K_1__39)
+INPUT(K_0__39)
+
+
+##################################Primary Inputs for Unroll-40
+INPUT(START_40)
+INPUT(K_3__40)
+INPUT(K_2__40)
+INPUT(K_1__40)
+INPUT(K_0__40)
+
+
+##################################Primary Outputs for Unroll-1
+OUTPUT(NLOSS_REG_1)
+OUTPUT(NL_REG_3__1)
+OUTPUT(NL_REG_2__1)
+OUTPUT(NL_REG_1__1)
+OUTPUT(NL_REG_0__1)
+OUTPUT(SPEAKER_REG_1)
+
+
+##################################Primary Outputs for Unroll-2
+OUTPUT(NLOSS_REG_2)
+OUTPUT(NL_REG_3__2)
+OUTPUT(NL_REG_2__2)
+OUTPUT(NL_REG_1__2)
+OUTPUT(NL_REG_0__2)
+OUTPUT(SPEAKER_REG_2)
+
+
+##################################Primary Outputs for Unroll-3
+OUTPUT(NLOSS_REG_3)
+OUTPUT(NL_REG_3__3)
+OUTPUT(NL_REG_2__3)
+OUTPUT(NL_REG_1__3)
+OUTPUT(NL_REG_0__3)
+OUTPUT(SPEAKER_REG_3)
+
+
+##################################Primary Outputs for Unroll-4
+OUTPUT(NLOSS_REG_4)
+OUTPUT(NL_REG_3__4)
+OUTPUT(NL_REG_2__4)
+OUTPUT(NL_REG_1__4)
+OUTPUT(NL_REG_0__4)
+OUTPUT(SPEAKER_REG_4)
+
+
+##################################Primary Outputs for Unroll-5
+OUTPUT(NLOSS_REG_5)
+OUTPUT(NL_REG_3__5)
+OUTPUT(NL_REG_2__5)
+OUTPUT(NL_REG_1__5)
+OUTPUT(NL_REG_0__5)
+OUTPUT(SPEAKER_REG_5)
+
+
+##################################Primary Outputs for Unroll-6
+OUTPUT(NLOSS_REG_6)
+OUTPUT(NL_REG_3__6)
+OUTPUT(NL_REG_2__6)
+OUTPUT(NL_REG_1__6)
+OUTPUT(NL_REG_0__6)
+OUTPUT(SPEAKER_REG_6)
+
+
+##################################Primary Outputs for Unroll-7
+OUTPUT(NLOSS_REG_7)
+OUTPUT(NL_REG_3__7)
+OUTPUT(NL_REG_2__7)
+OUTPUT(NL_REG_1__7)
+OUTPUT(NL_REG_0__7)
+OUTPUT(SPEAKER_REG_7)
+
+
+##################################Primary Outputs for Unroll-8
+OUTPUT(NLOSS_REG_8)
+OUTPUT(NL_REG_3__8)
+OUTPUT(NL_REG_2__8)
+OUTPUT(NL_REG_1__8)
+OUTPUT(NL_REG_0__8)
+OUTPUT(SPEAKER_REG_8)
+
+
+##################################Primary Outputs for Unroll-9
+OUTPUT(NLOSS_REG_9)
+OUTPUT(NL_REG_3__9)
+OUTPUT(NL_REG_2__9)
+OUTPUT(NL_REG_1__9)
+OUTPUT(NL_REG_0__9)
+OUTPUT(SPEAKER_REG_9)
+
+
+##################################Primary Outputs for Unroll-10
+OUTPUT(NLOSS_REG_10)
+OUTPUT(NL_REG_3__10)
+OUTPUT(NL_REG_2__10)
+OUTPUT(NL_REG_1__10)
+OUTPUT(NL_REG_0__10)
+OUTPUT(SPEAKER_REG_10)
+
+
+##################################Primary Outputs for Unroll-11
+OUTPUT(NLOSS_REG_11)
+OUTPUT(NL_REG_3__11)
+OUTPUT(NL_REG_2__11)
+OUTPUT(NL_REG_1__11)
+OUTPUT(NL_REG_0__11)
+OUTPUT(SPEAKER_REG_11)
+
+
+##################################Primary Outputs for Unroll-12
+OUTPUT(NLOSS_REG_12)
+OUTPUT(NL_REG_3__12)
+OUTPUT(NL_REG_2__12)
+OUTPUT(NL_REG_1__12)
+OUTPUT(NL_REG_0__12)
+OUTPUT(SPEAKER_REG_12)
+
+
+##################################Primary Outputs for Unroll-13
+OUTPUT(NLOSS_REG_13)
+OUTPUT(NL_REG_3__13)
+OUTPUT(NL_REG_2__13)
+OUTPUT(NL_REG_1__13)
+OUTPUT(NL_REG_0__13)
+OUTPUT(SPEAKER_REG_13)
+
+
+##################################Primary Outputs for Unroll-14
+OUTPUT(NLOSS_REG_14)
+OUTPUT(NL_REG_3__14)
+OUTPUT(NL_REG_2__14)
+OUTPUT(NL_REG_1__14)
+OUTPUT(NL_REG_0__14)
+OUTPUT(SPEAKER_REG_14)
+
+
+##################################Primary Outputs for Unroll-15
+OUTPUT(NLOSS_REG_15)
+OUTPUT(NL_REG_3__15)
+OUTPUT(NL_REG_2__15)
+OUTPUT(NL_REG_1__15)
+OUTPUT(NL_REG_0__15)
+OUTPUT(SPEAKER_REG_15)
+
+
+##################################Primary Outputs for Unroll-16
+OUTPUT(NLOSS_REG_16)
+OUTPUT(NL_REG_3__16)
+OUTPUT(NL_REG_2__16)
+OUTPUT(NL_REG_1__16)
+OUTPUT(NL_REG_0__16)
+OUTPUT(SPEAKER_REG_16)
+
+
+##################################Primary Outputs for Unroll-17
+OUTPUT(NLOSS_REG_17)
+OUTPUT(NL_REG_3__17)
+OUTPUT(NL_REG_2__17)
+OUTPUT(NL_REG_1__17)
+OUTPUT(NL_REG_0__17)
+OUTPUT(SPEAKER_REG_17)
+
+
+##################################Primary Outputs for Unroll-18
+OUTPUT(NLOSS_REG_18)
+OUTPUT(NL_REG_3__18)
+OUTPUT(NL_REG_2__18)
+OUTPUT(NL_REG_1__18)
+OUTPUT(NL_REG_0__18)
+OUTPUT(SPEAKER_REG_18)
+
+
+##################################Primary Outputs for Unroll-19
+OUTPUT(NLOSS_REG_19)
+OUTPUT(NL_REG_3__19)
+OUTPUT(NL_REG_2__19)
+OUTPUT(NL_REG_1__19)
+OUTPUT(NL_REG_0__19)
+OUTPUT(SPEAKER_REG_19)
+
+
+##################################Primary Outputs for Unroll-20
+OUTPUT(NLOSS_REG_20)
+OUTPUT(NL_REG_3__20)
+OUTPUT(NL_REG_2__20)
+OUTPUT(NL_REG_1__20)
+OUTPUT(NL_REG_0__20)
+OUTPUT(SPEAKER_REG_20)
+
+
+##################################Primary Outputs for Unroll-21
+OUTPUT(NLOSS_REG_21)
+OUTPUT(NL_REG_3__21)
+OUTPUT(NL_REG_2__21)
+OUTPUT(NL_REG_1__21)
+OUTPUT(NL_REG_0__21)
+OUTPUT(SPEAKER_REG_21)
+
+
+##################################Primary Outputs for Unroll-22
+OUTPUT(NLOSS_REG_22)
+OUTPUT(NL_REG_3__22)
+OUTPUT(NL_REG_2__22)
+OUTPUT(NL_REG_1__22)
+OUTPUT(NL_REG_0__22)
+OUTPUT(SPEAKER_REG_22)
+
+
+##################################Primary Outputs for Unroll-23
+OUTPUT(NLOSS_REG_23)
+OUTPUT(NL_REG_3__23)
+OUTPUT(NL_REG_2__23)
+OUTPUT(NL_REG_1__23)
+OUTPUT(NL_REG_0__23)
+OUTPUT(SPEAKER_REG_23)
+
+
+##################################Primary Outputs for Unroll-24
+OUTPUT(NLOSS_REG_24)
+OUTPUT(NL_REG_3__24)
+OUTPUT(NL_REG_2__24)
+OUTPUT(NL_REG_1__24)
+OUTPUT(NL_REG_0__24)
+OUTPUT(SPEAKER_REG_24)
+
+
+##################################Primary Outputs for Unroll-25
+OUTPUT(NLOSS_REG_25)
+OUTPUT(NL_REG_3__25)
+OUTPUT(NL_REG_2__25)
+OUTPUT(NL_REG_1__25)
+OUTPUT(NL_REG_0__25)
+OUTPUT(SPEAKER_REG_25)
+
+
+##################################Primary Outputs for Unroll-26
+OUTPUT(NLOSS_REG_26)
+OUTPUT(NL_REG_3__26)
+OUTPUT(NL_REG_2__26)
+OUTPUT(NL_REG_1__26)
+OUTPUT(NL_REG_0__26)
+OUTPUT(SPEAKER_REG_26)
+
+
+##################################Primary Outputs for Unroll-27
+OUTPUT(NLOSS_REG_27)
+OUTPUT(NL_REG_3__27)
+OUTPUT(NL_REG_2__27)
+OUTPUT(NL_REG_1__27)
+OUTPUT(NL_REG_0__27)
+OUTPUT(SPEAKER_REG_27)
+
+
+##################################Primary Outputs for Unroll-28
+OUTPUT(NLOSS_REG_28)
+OUTPUT(NL_REG_3__28)
+OUTPUT(NL_REG_2__28)
+OUTPUT(NL_REG_1__28)
+OUTPUT(NL_REG_0__28)
+OUTPUT(SPEAKER_REG_28)
+
+
+##################################Primary Outputs for Unroll-29
+OUTPUT(NLOSS_REG_29)
+OUTPUT(NL_REG_3__29)
+OUTPUT(NL_REG_2__29)
+OUTPUT(NL_REG_1__29)
+OUTPUT(NL_REG_0__29)
+OUTPUT(SPEAKER_REG_29)
+
+
+##################################Primary Outputs for Unroll-30
+OUTPUT(NLOSS_REG_30)
+OUTPUT(NL_REG_3__30)
+OUTPUT(NL_REG_2__30)
+OUTPUT(NL_REG_1__30)
+OUTPUT(NL_REG_0__30)
+OUTPUT(SPEAKER_REG_30)
+
+
+##################################Primary Outputs for Unroll-31
+OUTPUT(NLOSS_REG_31)
+OUTPUT(NL_REG_3__31)
+OUTPUT(NL_REG_2__31)
+OUTPUT(NL_REG_1__31)
+OUTPUT(NL_REG_0__31)
+OUTPUT(SPEAKER_REG_31)
+
+
+##################################Primary Outputs for Unroll-32
+OUTPUT(NLOSS_REG_32)
+OUTPUT(NL_REG_3__32)
+OUTPUT(NL_REG_2__32)
+OUTPUT(NL_REG_1__32)
+OUTPUT(NL_REG_0__32)
+OUTPUT(SPEAKER_REG_32)
+
+
+##################################Primary Outputs for Unroll-33
+OUTPUT(NLOSS_REG_33)
+OUTPUT(NL_REG_3__33)
+OUTPUT(NL_REG_2__33)
+OUTPUT(NL_REG_1__33)
+OUTPUT(NL_REG_0__33)
+OUTPUT(SPEAKER_REG_33)
+
+
+##################################Primary Outputs for Unroll-34
+OUTPUT(NLOSS_REG_34)
+OUTPUT(NL_REG_3__34)
+OUTPUT(NL_REG_2__34)
+OUTPUT(NL_REG_1__34)
+OUTPUT(NL_REG_0__34)
+OUTPUT(SPEAKER_REG_34)
+
+
+##################################Primary Outputs for Unroll-35
+OUTPUT(NLOSS_REG_35)
+OUTPUT(NL_REG_3__35)
+OUTPUT(NL_REG_2__35)
+OUTPUT(NL_REG_1__35)
+OUTPUT(NL_REG_0__35)
+OUTPUT(SPEAKER_REG_35)
+
+
+##################################Primary Outputs for Unroll-36
+OUTPUT(NLOSS_REG_36)
+OUTPUT(NL_REG_3__36)
+OUTPUT(NL_REG_2__36)
+OUTPUT(NL_REG_1__36)
+OUTPUT(NL_REG_0__36)
+OUTPUT(SPEAKER_REG_36)
+
+
+##################################Primary Outputs for Unroll-37
+OUTPUT(NLOSS_REG_37)
+OUTPUT(NL_REG_3__37)
+OUTPUT(NL_REG_2__37)
+OUTPUT(NL_REG_1__37)
+OUTPUT(NL_REG_0__37)
+OUTPUT(SPEAKER_REG_37)
+
+
+##################################Primary Outputs for Unroll-38
+OUTPUT(NLOSS_REG_38)
+OUTPUT(NL_REG_3__38)
+OUTPUT(NL_REG_2__38)
+OUTPUT(NL_REG_1__38)
+OUTPUT(NL_REG_0__38)
+OUTPUT(SPEAKER_REG_38)
+
+
+##################################Primary Outputs for Unroll-39
+OUTPUT(NLOSS_REG_39)
+OUTPUT(NL_REG_3__39)
+OUTPUT(NL_REG_2__39)
+OUTPUT(NL_REG_1__39)
+OUTPUT(NL_REG_0__39)
+OUTPUT(SPEAKER_REG_39)
+
+
+##################################Primary Outputs for Unroll-40
+OUTPUT(NLOSS_REG_40)
+OUTPUT(NL_REG_3__40)
+OUTPUT(NL_REG_2__40)
+OUTPUT(NL_REG_1__40)
+OUTPUT(NL_REG_0__40)
+OUTPUT(SPEAKER_REG_40)
+
+##################################Other Inputs
+INPUT(COUNT_REG_0__1)
+INPUT(MEMORY_REG_31__1__1)
+INPUT(MEMORY_REG_31__0__1)
+INPUT(MEMORY_REG_30__1__1)
+INPUT(MEMORY_REG_30__0__1)
+INPUT(MEMORY_REG_29__1__1)
+INPUT(MEMORY_REG_29__0__1)
+INPUT(MEMORY_REG_28__1__1)
+INPUT(MEMORY_REG_28__0__1)
+INPUT(MEMORY_REG_27__1__1)
+INPUT(MEMORY_REG_27__0__1)
+INPUT(MEMORY_REG_26__1__1)
+INPUT(MEMORY_REG_26__0__1)
+INPUT(MEMORY_REG_25__1__1)
+INPUT(MEMORY_REG_25__0__1)
+INPUT(MEMORY_REG_24__1__1)
+INPUT(MEMORY_REG_24__0__1)
+INPUT(MEMORY_REG_23__1__1)
+INPUT(MEMORY_REG_23__0__1)
+INPUT(MEMORY_REG_22__1__1)
+INPUT(MEMORY_REG_22__0__1)
+INPUT(MEMORY_REG_21__1__1)
+INPUT(MEMORY_REG_21__0__1)
+INPUT(MEMORY_REG_20__1__1)
+INPUT(MEMORY_REG_20__0__1)
+INPUT(MEMORY_REG_19__1__1)
+INPUT(MEMORY_REG_19__0__1)
+INPUT(MEMORY_REG_18__1__1)
+INPUT(MEMORY_REG_18__0__1)
+INPUT(MEMORY_REG_17__1__1)
+INPUT(MEMORY_REG_17__0__1)
+INPUT(MEMORY_REG_16__1__1)
+INPUT(MEMORY_REG_16__0__1)
+INPUT(MEMORY_REG_15__1__1)
+INPUT(MEMORY_REG_15__0__1)
+INPUT(MEMORY_REG_14__1__1)
+INPUT(MEMORY_REG_14__0__1)
+INPUT(MEMORY_REG_13__1__1)
+INPUT(MEMORY_REG_13__0__1)
+INPUT(MEMORY_REG_12__1__1)
+INPUT(MEMORY_REG_12__0__1)
+INPUT(MEMORY_REG_11__1__1)
+INPUT(MEMORY_REG_11__0__1)
+INPUT(MEMORY_REG_10__1__1)
+INPUT(MEMORY_REG_10__0__1)
+INPUT(MEMORY_REG_9__1__1)
+INPUT(MEMORY_REG_9__0__1)
+INPUT(MEMORY_REG_8__1__1)
+INPUT(MEMORY_REG_8__0__1)
+INPUT(MEMORY_REG_7__1__1)
+INPUT(MEMORY_REG_7__0__1)
+INPUT(MEMORY_REG_6__1__1)
+INPUT(MEMORY_REG_6__0__1)
+INPUT(MEMORY_REG_5__1__1)
+INPUT(MEMORY_REG_5__0__1)
+INPUT(MEMORY_REG_4__1__1)
+INPUT(MEMORY_REG_4__0__1)
+INPUT(MEMORY_REG_3__1__1)
+INPUT(MEMORY_REG_3__0__1)
+INPUT(MEMORY_REG_2__1__1)
+INPUT(MEMORY_REG_2__0__1)
+INPUT(MEMORY_REG_1__1__1)
+INPUT(MEMORY_REG_1__0__1)
+INPUT(MEMORY_REG_0__1__1)
+INPUT(MEMORY_REG_0__0__1)
+INPUT(NL_REG_3__1)
+INPUT(NL_REG_2__1)
+INPUT(NL_REG_1__1)
+INPUT(NL_REG_0__1)
+INPUT(SCAN_REG_4__1)
+INPUT(SCAN_REG_3__1)
+INPUT(SCAN_REG_2__1)
+INPUT(SCAN_REG_1__1)
+INPUT(SCAN_REG_0__1)
+INPUT(MAX_REG_4__1)
+INPUT(MAX_REG_3__1)
+INPUT(MAX_REG_2__1)
+INPUT(MAX_REG_1__1)
+INPUT(MAX_REG_0__1)
+INPUT(IND_REG_1__1)
+INPUT(IND_REG_0__1)
+INPUT(TIMEBASE_REG_5__1)
+INPUT(TIMEBASE_REG_4__1)
+INPUT(TIMEBASE_REG_3__1)
+INPUT(TIMEBASE_REG_2__1)
+INPUT(TIMEBASE_REG_1__1)
+INPUT(TIMEBASE_REG_0__1)
+INPUT(COUNT_REG2_5__1)
+INPUT(COUNT_REG2_4__1)
+INPUT(COUNT_REG2_3__1)
+INPUT(COUNT_REG2_2__1)
+INPUT(COUNT_REG2_1__1)
+INPUT(COUNT_REG2_0__1)
+INPUT(SOUND_REG_2__1)
+INPUT(SOUND_REG_1__1)
+INPUT(SOUND_REG_0__1)
+INPUT(ADDRESS_REG_4__1)
+INPUT(ADDRESS_REG_3__1)
+INPUT(ADDRESS_REG_2__1)
+INPUT(ADDRESS_REG_1__1)
+INPUT(ADDRESS_REG_0__1)
+INPUT(DATA_IN_REG_1__1)
+INPUT(DATA_IN_REG_0__1)
+INPUT(S_REG_1)
+INPUT(PLAY_REG_1)
+INPUT(NLOSS_REG_1)
+INPUT(SPEAKER_REG_1)
+INPUT(WR_REG_1)
+INPUT(COUNTER_REG_2__1)
+INPUT(COUNTER_REG_1__1)
+INPUT(COUNTER_REG_0__1)
+INPUT(COUNT_REG_1__1)
+INPUT(NUM_REG_1__1)
+INPUT(NUM_REG_0__1)
+INPUT(DATA_OUT_REG_1__1)
+INPUT(DATA_OUT_REG_0__1)
+INPUT(GAMMA_REG_4__1)
+INPUT(GAMMA_REG_3__1)
+INPUT(GAMMA_REG_2__1)
+INPUT(GAMMA_REG_1__1)
+INPUT(GAMMA_REG_0__1)
+
+##################################Other Outputs
+OUTPUT(U1391_40$enc)
+OUTPUT(U1486_40$enc)
+OUTPUT(U1485_40$enc)
+OUTPUT(U1484_40$enc)
+OUTPUT(U1483_40$enc)
+OUTPUT(U1482_40$enc)
+OUTPUT(U1481_40$enc)
+OUTPUT(U1480_40$enc)
+OUTPUT(U1479_40$enc)
+OUTPUT(U1478_40$enc)
+OUTPUT(U1477_40$enc)
+OUTPUT(U1476_40$enc)
+OUTPUT(U1475_40$enc)
+OUTPUT(U1474_40$enc)
+OUTPUT(U1473_40$enc)
+OUTPUT(U1472_40$enc)
+OUTPUT(U1471_40$enc)
+OUTPUT(U1470_40$enc)
+OUTPUT(U1469_40$enc)
+OUTPUT(U1468_40$enc)
+OUTPUT(U1467_40$enc)
+OUTPUT(U1466_40$enc)
+OUTPUT(U1465_40$enc)
+OUTPUT(U1464_40$enc)
+OUTPUT(U1463_40$enc)
+OUTPUT(U1462_40$enc)
+OUTPUT(U1461_40$enc)
+OUTPUT(U1460_40$enc)
+OUTPUT(U1459_40$enc)
+OUTPUT(U1458_40$enc)
+OUTPUT(U1457_40$enc)
+OUTPUT(U1456_40$enc)
+OUTPUT(U1455_40$enc)
+OUTPUT(U1454_40$enc)
+OUTPUT(U1453_40$enc)
+OUTPUT(U1452_40$enc)
+OUTPUT(U1451_40$enc)
+OUTPUT(U1450_40$enc)
+OUTPUT(U1449_40$enc)
+OUTPUT(U1448_40$enc)
+OUTPUT(U1447_40$enc)
+OUTPUT(U1446_40$enc)
+OUTPUT(U1445_40$enc)
+OUTPUT(U1444_40$enc)
+OUTPUT(U1443_40$enc)
+OUTPUT(U1442_40$enc)
+OUTPUT(U1441_40$enc)
+OUTPUT(U1440_40$enc)
+OUTPUT(U1439_40$enc)
+OUTPUT(U1438_40$enc)
+OUTPUT(U1437_40$enc)
+OUTPUT(U1436_40$enc)
+OUTPUT(U1435_40$enc)
+OUTPUT(U1434_40$enc)
+OUTPUT(U1433_40$enc)
+OUTPUT(U1432_40$enc)
+OUTPUT(U1431_40$enc)
+OUTPUT(U1430_40$enc)
+OUTPUT(U1429_40$enc)
+OUTPUT(U1428_40$enc)
+OUTPUT(U1427_40$enc)
+OUTPUT(U1426_40$enc)
+OUTPUT(U1425_40$enc)
+OUTPUT(U1424_40$enc)
+OUTPUT(U1423_40$enc)
+OUTPUT(U1422_40$enc)
+OUTPUT(U1421_40$enc)
+OUTPUT(U1420_40$enc)
+OUTPUT(U1419_40$enc)
+OUTPUT(U1418_40$enc)
+OUTPUT(U1417_40$enc)
+OUTPUT(U1416_40$enc)
+OUTPUT(U1415_40$enc)
+OUTPUT(U1414_40$enc)
+OUTPUT(U1413_40$enc)
+OUTPUT(U1412_40$enc)
+OUTPUT(U1411_40$enc)
+OUTPUT(U1410_40$enc)
+OUTPUT(U1409_40$enc)
+OUTPUT(U1564_40$enc)
+OUTPUT(U1565_40$enc)
+OUTPUT(U1566_40$enc)
+OUTPUT(U1408_40$enc)
+OUTPUT(U1407_40$enc)
+OUTPUT(U1406_40$enc)
+OUTPUT(U1405_40$enc)
+OUTPUT(U1567_40$enc)
+OUTPUT(U1404_40$enc)
+OUTPUT(U1403_40$enc)
+OUTPUT(U1568_40$enc)
+OUTPUT(U1402_40$enc)
+OUTPUT(U1401_40$enc)
+OUTPUT(U1400_40$enc)
+OUTPUT(U1569_40$enc)
+OUTPUT(U1570_40$enc)
+OUTPUT(U1571_40$enc)
+OUTPUT(U1399_40$enc)
+OUTPUT(U1398_40$enc)
+OUTPUT(U1397_40$enc)
+OUTPUT(U1396_40$enc)
+OUTPUT(U1395_40$enc)
+OUTPUT(U1572_40$enc)
+OUTPUT(U1573_40$enc)
+OUTPUT(U1394_40$enc)
+OUTPUT(U1574_40$enc)
+OUTPUT(U1575_40$enc)
+OUTPUT(U1393_40$enc)
+OUTPUT(U1392_40$enc)
+OUTPUT(U1381_40$enc)
+OUTPUT(U1382_40$enc)
+OUTPUT(U1383_40$enc)
+OUTPUT(U1563_40$enc)
+OUTPUT(U1563_40$enc)
+OUTPUT(U1391_40$enc)
+OUTPUT(U1390_40$enc)
+OUTPUT(U1389_40$enc)
+OUTPUT(U1384_40$enc)
+OUTPUT(U1385_40$enc)
+OUTPUT(U1386_40$enc)
+OUTPUT(U1387_40$enc)
+OUTPUT(U1388_40$enc)
+
+#################################Key Inputs
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+INPUT(keyinput9)
+INPUT(keyinput10)
+INPUT(keyinput11)
+INPUT(keyinput12)
+INPUT(keyinput13)
+INPUT(keyinput14)
+INPUT(keyinput15)
+INPUT(keyinput16)
+INPUT(keyinput17)
+INPUT(keyinput18)
+INPUT(keyinput19)
+INPUT(keyinput20)
+INPUT(keyinput21)
+INPUT(keyinput22)
+INPUT(keyinput23)
+INPUT(keyinput24)
+INPUT(keyinput25)
+INPUT(keyinput26)
+INPUT(keyinput27)
+INPUT(keyinput28)
+INPUT(keyinput29)
+INPUT(keyinput30)
+INPUT(keyinput31)
+INPUT(keyinput32)
+INPUT(keyinput33)
+INPUT(keyinput34)
+INPUT(keyinput35)
+INPUT(keyinput36)
+INPUT(keyinput37)
+INPUT(keyinput38)
+INPUT(keyinput39)
+INPUT(keyinput40)
+INPUT(keyinput41)
+INPUT(keyinput42)
+INPUT(keyinput43)
+INPUT(keyinput44)
+INPUT(keyinput45)
+INPUT(keyinput46)
+INPUT(keyinput47)
+INPUT(keyinput48)
+INPUT(keyinput49)
+INPUT(keyinput50)
+INPUT(keyinput51)
+INPUT(keyinput52)
+INPUT(keyinput53)
+INPUT(keyinput54)
+INPUT(keyinput55)
+INPUT(keyinput56)
+INPUT(keyinput57)
+INPUT(keyinput58)
+INPUT(keyinput59)
+INPUT(keyinput60)
+INPUT(keyinput61)
+INPUT(keyinput62)
+INPUT(keyinput63)
+INPUT(keyinput64)
+INPUT(keyinput65)
+INPUT(keyinput66)
+INPUT(keyinput67)
+INPUT(keyinput68)
+INPUT(keyinput69)
+INPUT(keyinput70)
+INPUT(keyinput71)
+INPUT(keyinput72)
+INPUT(keyinput73)
+INPUT(keyinput74)
+INPUT(keyinput75)
+INPUT(keyinput76)
+INPUT(keyinput77)
+INPUT(keyinput78)
+INPUT(keyinput79)
+INPUT(keyinput80)
+INPUT(keyinput81)
+INPUT(keyinput82)
+INPUT(keyinput83)
+INPUT(keyinput84)
+INPUT(keyinput85)
+INPUT(keyinput86)
+INPUT(keyinput87)
+INPUT(keyinput88)
+INPUT(keyinput89)
+INPUT(keyinput90)
+INPUT(keyinput91)
+INPUT(keyinput92)
+INPUT(keyinput93)
+INPUT(keyinput94)
+INPUT(keyinput95)
+INPUT(keyinput96)
+INPUT(keyinput97)
+INPUT(keyinput98)
+INPUT(keyinput99)
+INPUT(keyinput100)
+INPUT(keyinput101)
+INPUT(keyinput102)
+INPUT(keyinput103)
+INPUT(keyinput104)
+INPUT(keyinput105)
+INPUT(keyinput106)
+INPUT(keyinput107)
+INPUT(keyinput108)
+INPUT(keyinput109)
+INPUT(keyinput110)
+INPUT(keyinput111)
+INPUT(keyinput112)
+INPUT(keyinput113)
+INPUT(keyinput114)
+INPUT(keyinput115)
+INPUT(keyinput116)
+INPUT(keyinput117)
+INPUT(keyinput118)
+INPUT(keyinput119)
+INPUT(keyinput120)
+
+####################################################################Unroll 1
+####################################################################Unroll 2
+####################################################################Unroll 3
+####################################################################Unroll 4
+####################################################################Unroll 5
+####################################################################Unroll 6
+####################################################################Unroll 7
+####################################################################Unroll 8
+####################################################################Unroll 9
+####################################################################Unroll 10
+####################################################################Unroll 11
+####################################################################Unroll 12
+####################################################################Unroll 13
+####################################################################Unroll 14
+####################################################################Unroll 15
+####################################################################Unroll 16
+####################################################################Unroll 17
+####################################################################Unroll 18
+####################################################################Unroll 19
+####################################################################Unroll 20
+####################################################################Unroll 21
+####################################################################Unroll 22
+####################################################################Unroll 23
+####################################################################Unroll 24
+####################################################################Unroll 25
+####################################################################Unroll 26
+####################################################################Unroll 27
+####################################################################Unroll 28
+####################################################################Unroll 29
+####################################################################Unroll 30
+####################################################################Unroll 31
+####################################################################Unroll 32
+####################################################################Unroll 33
+####################################################################Unroll 34

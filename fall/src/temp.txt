@@ -1,0 +1,33 @@
+#locking last scan-cell in scan-chain
+po0$enc = xor(keyinput17, po0enc);
+
+#locking next scan-cell in scan-chain
+po1$enc = xor(keyinput17, po1$enc_1);
+po1$enc_1 = xor(keyinput18, po1enc);
+
+#locking next scan-cell in scan-chain
+po2$enc = xor(keyinput17, po2$enc_2);
+po2$enc_2 = xor(keyinput18, po2$enc_1);
+po2$enc_1 = xor(keyinput19, po2);
+
+#locking next scan-cell in scan-chain
+po3$enc = xor(keyinput17, po3$enc_3);
+po3$enc_3 = xor(keyinput18, po3$enc_2);
+po3$enc_2 = xor(keyinput19, po3$enc_1);
+po3$enc_1 = xor(keyinput20, po3enc);
+
+#locking next scan-cell in scan-chain
+po4$enc = xor(keyinput17, po4$enc_4);
+po4$enc_4 = xor(keyinput18, po4$enc_3);
+po4$enc_3 = xor(keyinput19, po4$enc_2);
+po4$enc_2 = xor(keyinput20, po4$enc_1);
+po4$enc_1 = xor(keyinput21, po4);
+
+#locking next scan-cell in scan-chain
+po5$enc = xor(keyinput17, po5$enc_5);
+po5$enc_5 = xor(keyinput18, po5$enc_4);
+po5$enc_4 = xor(keyinput19, po5$enc_3);
+po5$enc_3 = xor(keyinput20, po5$enc_2);
+po5$enc_2 = xor(keyinput21, po5$enc_1);
+po5$enc_1 = xor(keyinput22, po5);
+

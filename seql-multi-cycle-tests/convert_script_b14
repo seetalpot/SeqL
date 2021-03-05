@@ -1,0 +1,1961 @@
+
+sed -i '1,$s/(IR_REG_0__1,/(IR_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_1__1,/(IR_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_2__1,/(IR_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_3__1,/(IR_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_4__1,/(IR_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_5__1,/(IR_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_6__1,/(IR_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_7__1,/(IR_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_8__1,/(IR_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_9__1,/(IR_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_10__1,/(IR_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_11__1,/(IR_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_12__1,/(IR_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_13__1,/(IR_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_14__1,/(IR_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_15__1,/(IR_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_16__1,/(IR_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_17__1,/(IR_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_18__1,/(IR_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_19__1,/(IR_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_20__1,/(IR_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_21__1,/(IR_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_22__1,/(IR_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_23__1,/(IR_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_24__1,/(IR_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_25__1,/(IR_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_26__1,/(IR_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_27__1,/(IR_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_28__1,/(IR_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_29__1,/(IR_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_30__1,/(IR_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_31__1,/(IR_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_0__1,/(D_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_1__1,/(D_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_2__1,/(D_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_3__1,/(D_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_4__1,/(D_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_5__1,/(D_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_6__1,/(D_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_7__1,/(D_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_8__1,/(D_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_9__1,/(D_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_10__1,/(D_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_11__1,/(D_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_12__1,/(D_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_13__1,/(D_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_14__1,/(D_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_15__1,/(D_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_16__1,/(D_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_17__1,/(D_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_18__1,/(D_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_19__1,/(D_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_20__1,/(D_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_21__1,/(D_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_22__1,/(D_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_23__1,/(D_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_24__1,/(D_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_25__1,/(D_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_26__1,/(D_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_27__1,/(D_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_28__1,/(D_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_29__1,/(D_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_30__1,/(D_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_31__1,/(D_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_0__1,/(REG0_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_1__1,/(REG0_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_2__1,/(REG0_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_3__1,/(REG0_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_4__1,/(REG0_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_5__1,/(REG0_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_6__1,/(REG0_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_7__1,/(REG0_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_8__1,/(REG0_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_9__1,/(REG0_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_10__1,/(REG0_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_11__1,/(REG0_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_12__1,/(REG0_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_13__1,/(REG0_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_14__1,/(REG0_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_15__1,/(REG0_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_16__1,/(REG0_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_17__1,/(REG0_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_18__1,/(REG0_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_19__1,/(REG0_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_20__1,/(REG0_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_21__1,/(REG0_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_22__1,/(REG0_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_23__1,/(REG0_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_24__1,/(REG0_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_25__1,/(REG0_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_26__1,/(REG0_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_27__1,/(REG0_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_28__1,/(REG0_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_29__1,/(REG0_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_30__1,/(REG0_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_31__1,/(REG0_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_0__1,/(REG1_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_1__1,/(REG1_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_2__1,/(REG1_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_3__1,/(REG1_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_4__1,/(REG1_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_5__1,/(REG1_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_6__1,/(REG1_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_7__1,/(REG1_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_8__1,/(REG1_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_9__1,/(REG1_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_10__1,/(REG1_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_11__1,/(REG1_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_12__1,/(REG1_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_13__1,/(REG1_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_14__1,/(REG1_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_15__1,/(REG1_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_16__1,/(REG1_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_17__1,/(REG1_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_18__1,/(REG1_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_19__1,/(REG1_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_20__1,/(REG1_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_21__1,/(REG1_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_22__1,/(REG1_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_23__1,/(REG1_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_24__1,/(REG1_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_25__1,/(REG1_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_26__1,/(REG1_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_27__1,/(REG1_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_28__1,/(REG1_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_29__1,/(REG1_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_30__1,/(REG1_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_31__1,/(REG1_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_0__1,/(REG2_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_1__1,/(REG2_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_2__1,/(REG2_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_3__1,/(REG2_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_4__1,/(REG2_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_5__1,/(REG2_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_6__1,/(REG2_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_7__1,/(REG2_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_8__1,/(REG2_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_9__1,/(REG2_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_10__1,/(REG2_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_11__1,/(REG2_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_12__1,/(REG2_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_13__1,/(REG2_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_14__1,/(REG2_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_15__1,/(REG2_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_16__1,/(REG2_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_17__1,/(REG2_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_18__1,/(REG2_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_19__1,/(REG2_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_20__1,/(REG2_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_21__1,/(REG2_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_22__1,/(REG2_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_23__1,/(REG2_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_24__1,/(REG2_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_25__1,/(REG2_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_26__1,/(REG2_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_27__1,/(REG2_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_28__1,/(REG2_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_29__1,/(REG2_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_30__1,/(REG2_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_31__1,/(REG2_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_19__1,/(ADDR_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_18__1,/(ADDR_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_17__1,/(ADDR_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_16__1,/(ADDR_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_15__1,/(ADDR_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_14__1,/(ADDR_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_13__1,/(ADDR_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_12__1,/(ADDR_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_11__1,/(ADDR_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_10__1,/(ADDR_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_9__1,/(ADDR_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_8__1,/(ADDR_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_7__1,/(ADDR_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_6__1,/(ADDR_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_5__1,/(ADDR_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_4__1,/(ADDR_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_3__1,/(ADDR_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_2__1,/(ADDR_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_1__1,/(ADDR_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_0__1,/(ADDR_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_0__1,/(DATAO_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_1__1,/(DATAO_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_2__1,/(DATAO_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_3__1,/(DATAO_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_4__1,/(DATAO_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_5__1,/(DATAO_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_6__1,/(DATAO_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_7__1,/(DATAO_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_8__1,/(DATAO_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_9__1,/(DATAO_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_10__1,/(DATAO_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_11__1,/(DATAO_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_12__1,/(DATAO_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_13__1,/(DATAO_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_14__1,/(DATAO_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_15__1,/(DATAO_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_16__1,/(DATAO_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_17__1,/(DATAO_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_18__1,/(DATAO_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_19__1,/(DATAO_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_20__1,/(DATAO_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_21__1,/(DATAO_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_22__1,/(DATAO_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_23__1,/(DATAO_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_24__1,/(DATAO_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_25__1,/(DATAO_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_26__1,/(DATAO_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_27__1,/(DATAO_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_28__1,/(DATAO_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_29__1,/(DATAO_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_30__1,/(DATAO_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_31__1,/(DATAO_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(B_REG_1,/(B_REG_1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_15__1,/(REG3_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_26__1,/(REG3_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_6__1,/(REG3_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_18__1,/(REG3_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_2__1,/(REG3_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_11__1,/(REG3_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_22__1,/(REG3_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_13__1,/(REG3_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_20__1,/(REG3_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_0__1,/(REG3_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_9__1,/(REG3_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_4__1,/(REG3_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_24__1,/(REG3_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_17__1,/(REG3_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_5__1,/(REG3_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_16__1,/(REG3_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_25__1,/(REG3_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_12__1,/(REG3_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_21__1,/(REG3_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_1__1,/(REG3_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_8__1,/(REG3_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_28__1,/(REG3_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_19__1,/(REG3_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_3__1,/(REG3_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_10__1,/(REG3_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_23__1,/(REG3_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_14__1,/(REG3_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_27__1,/(REG3_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_7__1,/(REG3_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/(STATE_REG_1,/(STATE_REG_1enc,/g' b14.unroll-logic
+sed -i '1,$s/(RD_REG_1,/(RD_REG_1enc,/g' b14.unroll-logic
+sed -i '1,$s/(WR_REG_1,/(WR_REG_1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_0__1,/ IR_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_1__1,/ IR_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_2__1,/ IR_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_3__1,/ IR_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_4__1,/ IR_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_5__1,/ IR_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_6__1,/ IR_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_7__1,/ IR_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_8__1,/ IR_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_9__1,/ IR_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_10__1,/ IR_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_11__1,/ IR_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_12__1,/ IR_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_13__1,/ IR_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_14__1,/ IR_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_15__1,/ IR_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_16__1,/ IR_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_17__1,/ IR_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_18__1,/ IR_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_19__1,/ IR_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_20__1,/ IR_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_21__1,/ IR_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_22__1,/ IR_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_23__1,/ IR_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_24__1,/ IR_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_25__1,/ IR_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_26__1,/ IR_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_27__1,/ IR_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_28__1,/ IR_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_29__1,/ IR_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_30__1,/ IR_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_31__1,/ IR_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_0__1,/ D_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_1__1,/ D_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_2__1,/ D_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_3__1,/ D_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_4__1,/ D_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_5__1,/ D_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_6__1,/ D_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_7__1,/ D_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_8__1,/ D_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_9__1,/ D_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_10__1,/ D_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_11__1,/ D_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_12__1,/ D_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_13__1,/ D_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_14__1,/ D_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_15__1,/ D_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_16__1,/ D_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_17__1,/ D_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_18__1,/ D_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_19__1,/ D_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_20__1,/ D_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_21__1,/ D_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_22__1,/ D_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_23__1,/ D_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_24__1,/ D_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_25__1,/ D_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_26__1,/ D_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_27__1,/ D_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_28__1,/ D_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_29__1,/ D_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_30__1,/ D_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_31__1,/ D_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_0__1,/ REG0_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_1__1,/ REG0_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_2__1,/ REG0_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_3__1,/ REG0_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_4__1,/ REG0_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_5__1,/ REG0_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_6__1,/ REG0_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_7__1,/ REG0_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_8__1,/ REG0_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_9__1,/ REG0_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_10__1,/ REG0_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_11__1,/ REG0_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_12__1,/ REG0_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_13__1,/ REG0_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_14__1,/ REG0_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_15__1,/ REG0_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_16__1,/ REG0_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_17__1,/ REG0_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_18__1,/ REG0_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_19__1,/ REG0_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_20__1,/ REG0_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_21__1,/ REG0_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_22__1,/ REG0_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_23__1,/ REG0_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_24__1,/ REG0_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_25__1,/ REG0_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_26__1,/ REG0_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_27__1,/ REG0_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_28__1,/ REG0_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_29__1,/ REG0_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_30__1,/ REG0_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_31__1,/ REG0_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_0__1,/ REG1_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_1__1,/ REG1_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_2__1,/ REG1_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_3__1,/ REG1_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_4__1,/ REG1_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_5__1,/ REG1_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_6__1,/ REG1_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_7__1,/ REG1_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_8__1,/ REG1_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_9__1,/ REG1_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_10__1,/ REG1_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_11__1,/ REG1_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_12__1,/ REG1_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_13__1,/ REG1_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_14__1,/ REG1_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_15__1,/ REG1_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_16__1,/ REG1_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_17__1,/ REG1_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_18__1,/ REG1_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_19__1,/ REG1_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_20__1,/ REG1_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_21__1,/ REG1_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_22__1,/ REG1_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_23__1,/ REG1_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_24__1,/ REG1_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_25__1,/ REG1_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_26__1,/ REG1_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_27__1,/ REG1_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_28__1,/ REG1_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_29__1,/ REG1_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_30__1,/ REG1_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_31__1,/ REG1_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_0__1,/ REG2_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_1__1,/ REG2_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_2__1,/ REG2_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_3__1,/ REG2_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_4__1,/ REG2_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_5__1,/ REG2_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_6__1,/ REG2_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_7__1,/ REG2_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_8__1,/ REG2_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_9__1,/ REG2_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_10__1,/ REG2_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_11__1,/ REG2_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_12__1,/ REG2_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_13__1,/ REG2_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_14__1,/ REG2_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_15__1,/ REG2_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_16__1,/ REG2_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_17__1,/ REG2_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_18__1,/ REG2_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_19__1,/ REG2_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_20__1,/ REG2_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_21__1,/ REG2_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_22__1,/ REG2_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_23__1,/ REG2_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_24__1,/ REG2_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_25__1,/ REG2_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_26__1,/ REG2_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_27__1,/ REG2_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_28__1,/ REG2_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_29__1,/ REG2_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_30__1,/ REG2_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_31__1,/ REG2_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_19__1,/ ADDR_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_18__1,/ ADDR_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_17__1,/ ADDR_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_16__1,/ ADDR_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_15__1,/ ADDR_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_14__1,/ ADDR_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_13__1,/ ADDR_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_12__1,/ ADDR_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_11__1,/ ADDR_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_10__1,/ ADDR_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_9__1,/ ADDR_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_8__1,/ ADDR_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_7__1,/ ADDR_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_6__1,/ ADDR_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_5__1,/ ADDR_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_4__1,/ ADDR_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_3__1,/ ADDR_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_2__1,/ ADDR_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_1__1,/ ADDR_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_0__1,/ ADDR_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_0__1,/ DATAO_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_1__1,/ DATAO_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_2__1,/ DATAO_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_3__1,/ DATAO_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_4__1,/ DATAO_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_5__1,/ DATAO_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_6__1,/ DATAO_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_7__1,/ DATAO_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_8__1,/ DATAO_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_9__1,/ DATAO_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_10__1,/ DATAO_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_11__1,/ DATAO_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_12__1,/ DATAO_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_13__1,/ DATAO_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_14__1,/ DATAO_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_15__1,/ DATAO_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_16__1,/ DATAO_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_17__1,/ DATAO_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_18__1,/ DATAO_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_19__1,/ DATAO_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_20__1,/ DATAO_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_21__1,/ DATAO_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_22__1,/ DATAO_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_23__1,/ DATAO_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_24__1,/ DATAO_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_25__1,/ DATAO_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_26__1,/ DATAO_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_27__1,/ DATAO_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_28__1,/ DATAO_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_29__1,/ DATAO_REG_29__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_30__1,/ DATAO_REG_30__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_31__1,/ DATAO_REG_31__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ B_REG_1,/ B_REG_1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_15__1,/ REG3_REG_15__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_26__1,/ REG3_REG_26__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_6__1,/ REG3_REG_6__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_18__1,/ REG3_REG_18__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_2__1,/ REG3_REG_2__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_11__1,/ REG3_REG_11__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_22__1,/ REG3_REG_22__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_13__1,/ REG3_REG_13__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_20__1,/ REG3_REG_20__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_0__1,/ REG3_REG_0__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_9__1,/ REG3_REG_9__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_4__1,/ REG3_REG_4__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_24__1,/ REG3_REG_24__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_17__1,/ REG3_REG_17__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_5__1,/ REG3_REG_5__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_16__1,/ REG3_REG_16__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_25__1,/ REG3_REG_25__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_12__1,/ REG3_REG_12__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_21__1,/ REG3_REG_21__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_1__1,/ REG3_REG_1__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_8__1,/ REG3_REG_8__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_28__1,/ REG3_REG_28__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_19__1,/ REG3_REG_19__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_3__1,/ REG3_REG_3__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_10__1,/ REG3_REG_10__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_23__1,/ REG3_REG_23__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_14__1,/ REG3_REG_14__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_27__1,/ REG3_REG_27__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_7__1,/ REG3_REG_7__1enc,/g' b14.unroll-logic
+sed -i '1,$s/ STATE_REG_1,/ STATE_REG_1enc,/g' b14.unroll-logic
+sed -i '1,$s/ RD_REG_1,/ RD_REG_1enc,/g' b14.unroll-logic
+sed -i '1,$s/ WR_REG_1,/ WR_REG_1enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_0__1)/ IR_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_1__1)/ IR_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_2__1)/ IR_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_3__1)/ IR_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_4__1)/ IR_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_5__1)/ IR_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_6__1)/ IR_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_7__1)/ IR_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_8__1)/ IR_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_9__1)/ IR_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_10__1)/ IR_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_11__1)/ IR_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_12__1)/ IR_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_13__1)/ IR_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_14__1)/ IR_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_15__1)/ IR_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_16__1)/ IR_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_17__1)/ IR_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_18__1)/ IR_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_19__1)/ IR_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_20__1)/ IR_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_21__1)/ IR_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_22__1)/ IR_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_23__1)/ IR_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_24__1)/ IR_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_25__1)/ IR_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_26__1)/ IR_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_27__1)/ IR_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_28__1)/ IR_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_29__1)/ IR_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_30__1)/ IR_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_31__1)/ IR_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_0__1)/ D_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_1__1)/ D_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_2__1)/ D_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_3__1)/ D_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_4__1)/ D_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_5__1)/ D_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_6__1)/ D_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_7__1)/ D_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_8__1)/ D_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_9__1)/ D_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_10__1)/ D_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_11__1)/ D_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_12__1)/ D_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_13__1)/ D_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_14__1)/ D_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_15__1)/ D_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_16__1)/ D_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_17__1)/ D_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_18__1)/ D_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_19__1)/ D_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_20__1)/ D_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_21__1)/ D_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_22__1)/ D_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_23__1)/ D_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_24__1)/ D_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_25__1)/ D_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_26__1)/ D_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_27__1)/ D_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_28__1)/ D_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_29__1)/ D_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_30__1)/ D_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_31__1)/ D_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_0__1)/ REG0_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_1__1)/ REG0_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_2__1)/ REG0_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_3__1)/ REG0_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_4__1)/ REG0_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_5__1)/ REG0_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_6__1)/ REG0_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_7__1)/ REG0_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_8__1)/ REG0_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_9__1)/ REG0_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_10__1)/ REG0_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_11__1)/ REG0_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_12__1)/ REG0_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_13__1)/ REG0_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_14__1)/ REG0_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_15__1)/ REG0_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_16__1)/ REG0_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_17__1)/ REG0_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_18__1)/ REG0_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_19__1)/ REG0_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_20__1)/ REG0_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_21__1)/ REG0_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_22__1)/ REG0_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_23__1)/ REG0_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_24__1)/ REG0_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_25__1)/ REG0_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_26__1)/ REG0_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_27__1)/ REG0_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_28__1)/ REG0_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_29__1)/ REG0_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_30__1)/ REG0_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_31__1)/ REG0_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_0__1)/ REG1_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_1__1)/ REG1_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_2__1)/ REG1_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_3__1)/ REG1_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_4__1)/ REG1_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_5__1)/ REG1_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_6__1)/ REG1_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_7__1)/ REG1_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_8__1)/ REG1_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_9__1)/ REG1_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_10__1)/ REG1_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_11__1)/ REG1_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_12__1)/ REG1_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_13__1)/ REG1_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_14__1)/ REG1_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_15__1)/ REG1_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_16__1)/ REG1_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_17__1)/ REG1_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_18__1)/ REG1_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_19__1)/ REG1_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_20__1)/ REG1_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_21__1)/ REG1_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_22__1)/ REG1_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_23__1)/ REG1_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_24__1)/ REG1_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_25__1)/ REG1_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_26__1)/ REG1_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_27__1)/ REG1_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_28__1)/ REG1_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_29__1)/ REG1_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_30__1)/ REG1_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_31__1)/ REG1_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_0__1)/ REG2_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_1__1)/ REG2_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_2__1)/ REG2_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_3__1)/ REG2_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_4__1)/ REG2_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_5__1)/ REG2_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_6__1)/ REG2_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_7__1)/ REG2_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_8__1)/ REG2_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_9__1)/ REG2_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_10__1)/ REG2_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_11__1)/ REG2_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_12__1)/ REG2_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_13__1)/ REG2_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_14__1)/ REG2_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_15__1)/ REG2_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_16__1)/ REG2_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_17__1)/ REG2_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_18__1)/ REG2_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_19__1)/ REG2_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_20__1)/ REG2_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_21__1)/ REG2_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_22__1)/ REG2_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_23__1)/ REG2_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_24__1)/ REG2_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_25__1)/ REG2_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_26__1)/ REG2_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_27__1)/ REG2_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_28__1)/ REG2_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_29__1)/ REG2_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_30__1)/ REG2_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_31__1)/ REG2_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_19__1)/ ADDR_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_18__1)/ ADDR_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_17__1)/ ADDR_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_16__1)/ ADDR_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_15__1)/ ADDR_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_14__1)/ ADDR_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_13__1)/ ADDR_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_12__1)/ ADDR_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_11__1)/ ADDR_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_10__1)/ ADDR_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_9__1)/ ADDR_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_8__1)/ ADDR_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_7__1)/ ADDR_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_6__1)/ ADDR_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_5__1)/ ADDR_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_4__1)/ ADDR_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_3__1)/ ADDR_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_2__1)/ ADDR_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_1__1)/ ADDR_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_0__1)/ ADDR_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_0__1)/ DATAO_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_1__1)/ DATAO_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_2__1)/ DATAO_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_3__1)/ DATAO_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_4__1)/ DATAO_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_5__1)/ DATAO_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_6__1)/ DATAO_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_7__1)/ DATAO_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_8__1)/ DATAO_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_9__1)/ DATAO_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_10__1)/ DATAO_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_11__1)/ DATAO_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_12__1)/ DATAO_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_13__1)/ DATAO_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_14__1)/ DATAO_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_15__1)/ DATAO_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_16__1)/ DATAO_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_17__1)/ DATAO_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_18__1)/ DATAO_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_19__1)/ DATAO_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_20__1)/ DATAO_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_21__1)/ DATAO_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_22__1)/ DATAO_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_23__1)/ DATAO_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_24__1)/ DATAO_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_25__1)/ DATAO_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_26__1)/ DATAO_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_27__1)/ DATAO_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_28__1)/ DATAO_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_29__1)/ DATAO_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_30__1)/ DATAO_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_31__1)/ DATAO_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ B_REG_1)/ B_REG_1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_15__1)/ REG3_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_26__1)/ REG3_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_6__1)/ REG3_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_18__1)/ REG3_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_2__1)/ REG3_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_11__1)/ REG3_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_22__1)/ REG3_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_13__1)/ REG3_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_20__1)/ REG3_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_0__1)/ REG3_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_9__1)/ REG3_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_4__1)/ REG3_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_24__1)/ REG3_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_17__1)/ REG3_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_5__1)/ REG3_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_16__1)/ REG3_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_25__1)/ REG3_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_12__1)/ REG3_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_21__1)/ REG3_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_1__1)/ REG3_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_8__1)/ REG3_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_28__1)/ REG3_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_19__1)/ REG3_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_3__1)/ REG3_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_10__1)/ REG3_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_23__1)/ REG3_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_14__1)/ REG3_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_27__1)/ REG3_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_7__1)/ REG3_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/ STATE_REG_1)/ STATE_REG_1enc)/g' b14.unroll-logic
+sed -i '1,$s/ RD_REG_1)/ RD_REG_1enc)/g' b14.unroll-logic
+sed -i '1,$s/ WR_REG_1)/ WR_REG_1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_0__1)/(IR_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_1__1)/(IR_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_2__1)/(IR_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_3__1)/(IR_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_4__1)/(IR_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_5__1)/(IR_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_6__1)/(IR_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_7__1)/(IR_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_8__1)/(IR_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_9__1)/(IR_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_10__1)/(IR_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_11__1)/(IR_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_12__1)/(IR_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_13__1)/(IR_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_14__1)/(IR_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_15__1)/(IR_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_16__1)/(IR_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_17__1)/(IR_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_18__1)/(IR_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_19__1)/(IR_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_20__1)/(IR_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_21__1)/(IR_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_22__1)/(IR_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_23__1)/(IR_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_24__1)/(IR_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_25__1)/(IR_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_26__1)/(IR_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_27__1)/(IR_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_28__1)/(IR_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_29__1)/(IR_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_30__1)/(IR_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_31__1)/(IR_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_0__1)/(D_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_1__1)/(D_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_2__1)/(D_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_3__1)/(D_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_4__1)/(D_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_5__1)/(D_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_6__1)/(D_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_7__1)/(D_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_8__1)/(D_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_9__1)/(D_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_10__1)/(D_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_11__1)/(D_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_12__1)/(D_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_13__1)/(D_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_14__1)/(D_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_15__1)/(D_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_16__1)/(D_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_17__1)/(D_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_18__1)/(D_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_19__1)/(D_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_20__1)/(D_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_21__1)/(D_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_22__1)/(D_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_23__1)/(D_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_24__1)/(D_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_25__1)/(D_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_26__1)/(D_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_27__1)/(D_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_28__1)/(D_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_29__1)/(D_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_30__1)/(D_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_31__1)/(D_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_0__1)/(REG0_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_1__1)/(REG0_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_2__1)/(REG0_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_3__1)/(REG0_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_4__1)/(REG0_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_5__1)/(REG0_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_6__1)/(REG0_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_7__1)/(REG0_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_8__1)/(REG0_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_9__1)/(REG0_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_10__1)/(REG0_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_11__1)/(REG0_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_12__1)/(REG0_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_13__1)/(REG0_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_14__1)/(REG0_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_15__1)/(REG0_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_16__1)/(REG0_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_17__1)/(REG0_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_18__1)/(REG0_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_19__1)/(REG0_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_20__1)/(REG0_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_21__1)/(REG0_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_22__1)/(REG0_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_23__1)/(REG0_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_24__1)/(REG0_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_25__1)/(REG0_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_26__1)/(REG0_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_27__1)/(REG0_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_28__1)/(REG0_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_29__1)/(REG0_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_30__1)/(REG0_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_31__1)/(REG0_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_0__1)/(REG1_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_1__1)/(REG1_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_2__1)/(REG1_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_3__1)/(REG1_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_4__1)/(REG1_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_5__1)/(REG1_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_6__1)/(REG1_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_7__1)/(REG1_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_8__1)/(REG1_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_9__1)/(REG1_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_10__1)/(REG1_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_11__1)/(REG1_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_12__1)/(REG1_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_13__1)/(REG1_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_14__1)/(REG1_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_15__1)/(REG1_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_16__1)/(REG1_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_17__1)/(REG1_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_18__1)/(REG1_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_19__1)/(REG1_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_20__1)/(REG1_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_21__1)/(REG1_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_22__1)/(REG1_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_23__1)/(REG1_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_24__1)/(REG1_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_25__1)/(REG1_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_26__1)/(REG1_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_27__1)/(REG1_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_28__1)/(REG1_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_29__1)/(REG1_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_30__1)/(REG1_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_31__1)/(REG1_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_0__1)/(REG2_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_1__1)/(REG2_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_2__1)/(REG2_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_3__1)/(REG2_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_4__1)/(REG2_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_5__1)/(REG2_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_6__1)/(REG2_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_7__1)/(REG2_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_8__1)/(REG2_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_9__1)/(REG2_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_10__1)/(REG2_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_11__1)/(REG2_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_12__1)/(REG2_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_13__1)/(REG2_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_14__1)/(REG2_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_15__1)/(REG2_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_16__1)/(REG2_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_17__1)/(REG2_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_18__1)/(REG2_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_19__1)/(REG2_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_20__1)/(REG2_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_21__1)/(REG2_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_22__1)/(REG2_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_23__1)/(REG2_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_24__1)/(REG2_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_25__1)/(REG2_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_26__1)/(REG2_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_27__1)/(REG2_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_28__1)/(REG2_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_29__1)/(REG2_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_30__1)/(REG2_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_31__1)/(REG2_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_19__1)/(ADDR_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_18__1)/(ADDR_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_17__1)/(ADDR_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_16__1)/(ADDR_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_15__1)/(ADDR_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_14__1)/(ADDR_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_13__1)/(ADDR_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_12__1)/(ADDR_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_11__1)/(ADDR_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_10__1)/(ADDR_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_9__1)/(ADDR_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_8__1)/(ADDR_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_7__1)/(ADDR_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_6__1)/(ADDR_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_5__1)/(ADDR_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_4__1)/(ADDR_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_3__1)/(ADDR_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_2__1)/(ADDR_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_1__1)/(ADDR_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_0__1)/(ADDR_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_0__1)/(DATAO_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_1__1)/(DATAO_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_2__1)/(DATAO_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_3__1)/(DATAO_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_4__1)/(DATAO_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_5__1)/(DATAO_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_6__1)/(DATAO_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_7__1)/(DATAO_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_8__1)/(DATAO_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_9__1)/(DATAO_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_10__1)/(DATAO_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_11__1)/(DATAO_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_12__1)/(DATAO_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_13__1)/(DATAO_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_14__1)/(DATAO_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_15__1)/(DATAO_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_16__1)/(DATAO_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_17__1)/(DATAO_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_18__1)/(DATAO_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_19__1)/(DATAO_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_20__1)/(DATAO_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_21__1)/(DATAO_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_22__1)/(DATAO_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_23__1)/(DATAO_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_24__1)/(DATAO_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_25__1)/(DATAO_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_26__1)/(DATAO_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_27__1)/(DATAO_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_28__1)/(DATAO_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_29__1)/(DATAO_REG_29__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_30__1)/(DATAO_REG_30__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_31__1)/(DATAO_REG_31__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(B_REG_1)/(B_REG_1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_15__1)/(REG3_REG_15__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_26__1)/(REG3_REG_26__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_6__1)/(REG3_REG_6__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_18__1)/(REG3_REG_18__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_2__1)/(REG3_REG_2__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_11__1)/(REG3_REG_11__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_22__1)/(REG3_REG_22__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_13__1)/(REG3_REG_13__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_20__1)/(REG3_REG_20__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_0__1)/(REG3_REG_0__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_9__1)/(REG3_REG_9__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_4__1)/(REG3_REG_4__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_24__1)/(REG3_REG_24__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_17__1)/(REG3_REG_17__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_5__1)/(REG3_REG_5__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_16__1)/(REG3_REG_16__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_25__1)/(REG3_REG_25__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_12__1)/(REG3_REG_12__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_21__1)/(REG3_REG_21__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_1__1)/(REG3_REG_1__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_8__1)/(REG3_REG_8__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_28__1)/(REG3_REG_28__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_19__1)/(REG3_REG_19__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_3__1)/(REG3_REG_3__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_10__1)/(REG3_REG_10__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_23__1)/(REG3_REG_23__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_14__1)/(REG3_REG_14__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_27__1)/(REG3_REG_27__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_7__1)/(REG3_REG_7__1enc)/g' b14.unroll-logic
+sed -i '1,$s/(STATE_REG_1)/(STATE_REG_1enc)/g' b14.unroll-logic
+sed -i '1,$s/(RD_REG_1)/(RD_REG_1enc)/g' b14.unroll-logic
+sed -i '1,$s/(WR_REG_1)/(WR_REG_1enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_0__2,/(IR_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_1__2,/(IR_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_2__2,/(IR_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_3__2,/(IR_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_4__2,/(IR_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_5__2,/(IR_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_6__2,/(IR_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_7__2,/(IR_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_8__2,/(IR_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_9__2,/(IR_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_10__2,/(IR_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_11__2,/(IR_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_12__2,/(IR_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_13__2,/(IR_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_14__2,/(IR_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_15__2,/(IR_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_16__2,/(IR_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_17__2,/(IR_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_18__2,/(IR_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_19__2,/(IR_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_20__2,/(IR_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_21__2,/(IR_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_22__2,/(IR_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_23__2,/(IR_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_24__2,/(IR_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_25__2,/(IR_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_26__2,/(IR_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_27__2,/(IR_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_28__2,/(IR_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_29__2,/(IR_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_30__2,/(IR_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_31__2,/(IR_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_0__2,/(D_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_1__2,/(D_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_2__2,/(D_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_3__2,/(D_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_4__2,/(D_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_5__2,/(D_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_6__2,/(D_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_7__2,/(D_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_8__2,/(D_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_9__2,/(D_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_10__2,/(D_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_11__2,/(D_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_12__2,/(D_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_13__2,/(D_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_14__2,/(D_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_15__2,/(D_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_16__2,/(D_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_17__2,/(D_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_18__2,/(D_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_19__2,/(D_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_20__2,/(D_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_21__2,/(D_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_22__2,/(D_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_23__2,/(D_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_24__2,/(D_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_25__2,/(D_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_26__2,/(D_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_27__2,/(D_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_28__2,/(D_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_29__2,/(D_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_30__2,/(D_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_31__2,/(D_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_0__2,/(REG0_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_1__2,/(REG0_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_2__2,/(REG0_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_3__2,/(REG0_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_4__2,/(REG0_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_5__2,/(REG0_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_6__2,/(REG0_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_7__2,/(REG0_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_8__2,/(REG0_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_9__2,/(REG0_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_10__2,/(REG0_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_11__2,/(REG0_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_12__2,/(REG0_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_13__2,/(REG0_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_14__2,/(REG0_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_15__2,/(REG0_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_16__2,/(REG0_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_17__2,/(REG0_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_18__2,/(REG0_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_19__2,/(REG0_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_20__2,/(REG0_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_21__2,/(REG0_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_22__2,/(REG0_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_23__2,/(REG0_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_24__2,/(REG0_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_25__2,/(REG0_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_26__2,/(REG0_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_27__2,/(REG0_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_28__2,/(REG0_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_29__2,/(REG0_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_30__2,/(REG0_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_31__2,/(REG0_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_0__2,/(REG1_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_1__2,/(REG1_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_2__2,/(REG1_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_3__2,/(REG1_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_4__2,/(REG1_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_5__2,/(REG1_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_6__2,/(REG1_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_7__2,/(REG1_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_8__2,/(REG1_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_9__2,/(REG1_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_10__2,/(REG1_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_11__2,/(REG1_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_12__2,/(REG1_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_13__2,/(REG1_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_14__2,/(REG1_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_15__2,/(REG1_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_16__2,/(REG1_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_17__2,/(REG1_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_18__2,/(REG1_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_19__2,/(REG1_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_20__2,/(REG1_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_21__2,/(REG1_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_22__2,/(REG1_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_23__2,/(REG1_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_24__2,/(REG1_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_25__2,/(REG1_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_26__2,/(REG1_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_27__2,/(REG1_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_28__2,/(REG1_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_29__2,/(REG1_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_30__2,/(REG1_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_31__2,/(REG1_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_0__2,/(REG2_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_1__2,/(REG2_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_2__2,/(REG2_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_3__2,/(REG2_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_4__2,/(REG2_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_5__2,/(REG2_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_6__2,/(REG2_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_7__2,/(REG2_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_8__2,/(REG2_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_9__2,/(REG2_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_10__2,/(REG2_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_11__2,/(REG2_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_12__2,/(REG2_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_13__2,/(REG2_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_14__2,/(REG2_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_15__2,/(REG2_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_16__2,/(REG2_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_17__2,/(REG2_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_18__2,/(REG2_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_19__2,/(REG2_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_20__2,/(REG2_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_21__2,/(REG2_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_22__2,/(REG2_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_23__2,/(REG2_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_24__2,/(REG2_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_25__2,/(REG2_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_26__2,/(REG2_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_27__2,/(REG2_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_28__2,/(REG2_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_29__2,/(REG2_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_30__2,/(REG2_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_31__2,/(REG2_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_19__2,/(ADDR_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_18__2,/(ADDR_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_17__2,/(ADDR_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_16__2,/(ADDR_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_15__2,/(ADDR_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_14__2,/(ADDR_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_13__2,/(ADDR_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_12__2,/(ADDR_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_11__2,/(ADDR_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_10__2,/(ADDR_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_9__2,/(ADDR_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_8__2,/(ADDR_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_7__2,/(ADDR_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_6__2,/(ADDR_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_5__2,/(ADDR_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_4__2,/(ADDR_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_3__2,/(ADDR_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_2__2,/(ADDR_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_1__2,/(ADDR_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_0__2,/(ADDR_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_0__2,/(DATAO_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_1__2,/(DATAO_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_2__2,/(DATAO_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_3__2,/(DATAO_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_4__2,/(DATAO_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_5__2,/(DATAO_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_6__2,/(DATAO_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_7__2,/(DATAO_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_8__2,/(DATAO_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_9__2,/(DATAO_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_10__2,/(DATAO_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_11__2,/(DATAO_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_12__2,/(DATAO_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_13__2,/(DATAO_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_14__2,/(DATAO_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_15__2,/(DATAO_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_16__2,/(DATAO_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_17__2,/(DATAO_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_18__2,/(DATAO_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_19__2,/(DATAO_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_20__2,/(DATAO_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_21__2,/(DATAO_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_22__2,/(DATAO_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_23__2,/(DATAO_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_24__2,/(DATAO_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_25__2,/(DATAO_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_26__2,/(DATAO_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_27__2,/(DATAO_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_28__2,/(DATAO_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_29__2,/(DATAO_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_30__2,/(DATAO_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_31__2,/(DATAO_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(B_REG_2,/(B_REG_2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_15__2,/(REG3_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_26__2,/(REG3_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_6__2,/(REG3_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_18__2,/(REG3_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_2__2,/(REG3_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_11__2,/(REG3_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_22__2,/(REG3_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_13__2,/(REG3_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_20__2,/(REG3_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_0__2,/(REG3_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_9__2,/(REG3_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_4__2,/(REG3_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_24__2,/(REG3_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_17__2,/(REG3_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_5__2,/(REG3_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_16__2,/(REG3_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_25__2,/(REG3_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_12__2,/(REG3_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_21__2,/(REG3_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_1__2,/(REG3_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_8__2,/(REG3_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_28__2,/(REG3_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_19__2,/(REG3_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_3__2,/(REG3_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_10__2,/(REG3_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_23__2,/(REG3_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_14__2,/(REG3_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_27__2,/(REG3_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_7__2,/(REG3_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/(STATE_REG_2,/(STATE_REG_2enc,/g' b14.unroll-logic
+sed -i '1,$s/(RD_REG_2,/(RD_REG_2enc,/g' b14.unroll-logic
+sed -i '1,$s/(WR_REG_2,/(WR_REG_2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_0__2,/ IR_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_1__2,/ IR_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_2__2,/ IR_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_3__2,/ IR_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_4__2,/ IR_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_5__2,/ IR_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_6__2,/ IR_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_7__2,/ IR_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_8__2,/ IR_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_9__2,/ IR_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_10__2,/ IR_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_11__2,/ IR_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_12__2,/ IR_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_13__2,/ IR_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_14__2,/ IR_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_15__2,/ IR_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_16__2,/ IR_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_17__2,/ IR_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_18__2,/ IR_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_19__2,/ IR_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_20__2,/ IR_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_21__2,/ IR_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_22__2,/ IR_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_23__2,/ IR_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_24__2,/ IR_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_25__2,/ IR_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_26__2,/ IR_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_27__2,/ IR_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_28__2,/ IR_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_29__2,/ IR_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_30__2,/ IR_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_31__2,/ IR_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_0__2,/ D_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_1__2,/ D_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_2__2,/ D_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_3__2,/ D_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_4__2,/ D_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_5__2,/ D_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_6__2,/ D_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_7__2,/ D_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_8__2,/ D_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_9__2,/ D_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_10__2,/ D_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_11__2,/ D_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_12__2,/ D_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_13__2,/ D_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_14__2,/ D_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_15__2,/ D_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_16__2,/ D_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_17__2,/ D_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_18__2,/ D_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_19__2,/ D_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_20__2,/ D_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_21__2,/ D_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_22__2,/ D_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_23__2,/ D_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_24__2,/ D_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_25__2,/ D_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_26__2,/ D_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_27__2,/ D_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_28__2,/ D_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_29__2,/ D_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_30__2,/ D_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_31__2,/ D_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_0__2,/ REG0_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_1__2,/ REG0_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_2__2,/ REG0_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_3__2,/ REG0_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_4__2,/ REG0_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_5__2,/ REG0_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_6__2,/ REG0_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_7__2,/ REG0_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_8__2,/ REG0_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_9__2,/ REG0_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_10__2,/ REG0_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_11__2,/ REG0_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_12__2,/ REG0_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_13__2,/ REG0_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_14__2,/ REG0_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_15__2,/ REG0_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_16__2,/ REG0_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_17__2,/ REG0_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_18__2,/ REG0_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_19__2,/ REG0_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_20__2,/ REG0_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_21__2,/ REG0_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_22__2,/ REG0_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_23__2,/ REG0_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_24__2,/ REG0_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_25__2,/ REG0_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_26__2,/ REG0_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_27__2,/ REG0_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_28__2,/ REG0_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_29__2,/ REG0_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_30__2,/ REG0_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_31__2,/ REG0_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_0__2,/ REG1_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_1__2,/ REG1_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_2__2,/ REG1_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_3__2,/ REG1_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_4__2,/ REG1_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_5__2,/ REG1_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_6__2,/ REG1_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_7__2,/ REG1_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_8__2,/ REG1_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_9__2,/ REG1_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_10__2,/ REG1_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_11__2,/ REG1_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_12__2,/ REG1_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_13__2,/ REG1_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_14__2,/ REG1_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_15__2,/ REG1_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_16__2,/ REG1_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_17__2,/ REG1_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_18__2,/ REG1_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_19__2,/ REG1_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_20__2,/ REG1_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_21__2,/ REG1_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_22__2,/ REG1_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_23__2,/ REG1_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_24__2,/ REG1_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_25__2,/ REG1_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_26__2,/ REG1_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_27__2,/ REG1_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_28__2,/ REG1_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_29__2,/ REG1_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_30__2,/ REG1_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_31__2,/ REG1_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_0__2,/ REG2_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_1__2,/ REG2_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_2__2,/ REG2_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_3__2,/ REG2_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_4__2,/ REG2_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_5__2,/ REG2_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_6__2,/ REG2_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_7__2,/ REG2_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_8__2,/ REG2_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_9__2,/ REG2_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_10__2,/ REG2_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_11__2,/ REG2_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_12__2,/ REG2_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_13__2,/ REG2_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_14__2,/ REG2_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_15__2,/ REG2_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_16__2,/ REG2_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_17__2,/ REG2_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_18__2,/ REG2_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_19__2,/ REG2_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_20__2,/ REG2_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_21__2,/ REG2_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_22__2,/ REG2_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_23__2,/ REG2_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_24__2,/ REG2_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_25__2,/ REG2_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_26__2,/ REG2_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_27__2,/ REG2_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_28__2,/ REG2_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_29__2,/ REG2_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_30__2,/ REG2_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_31__2,/ REG2_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_19__2,/ ADDR_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_18__2,/ ADDR_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_17__2,/ ADDR_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_16__2,/ ADDR_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_15__2,/ ADDR_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_14__2,/ ADDR_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_13__2,/ ADDR_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_12__2,/ ADDR_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_11__2,/ ADDR_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_10__2,/ ADDR_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_9__2,/ ADDR_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_8__2,/ ADDR_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_7__2,/ ADDR_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_6__2,/ ADDR_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_5__2,/ ADDR_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_4__2,/ ADDR_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_3__2,/ ADDR_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_2__2,/ ADDR_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_1__2,/ ADDR_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_0__2,/ ADDR_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_0__2,/ DATAO_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_1__2,/ DATAO_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_2__2,/ DATAO_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_3__2,/ DATAO_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_4__2,/ DATAO_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_5__2,/ DATAO_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_6__2,/ DATAO_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_7__2,/ DATAO_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_8__2,/ DATAO_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_9__2,/ DATAO_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_10__2,/ DATAO_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_11__2,/ DATAO_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_12__2,/ DATAO_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_13__2,/ DATAO_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_14__2,/ DATAO_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_15__2,/ DATAO_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_16__2,/ DATAO_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_17__2,/ DATAO_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_18__2,/ DATAO_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_19__2,/ DATAO_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_20__2,/ DATAO_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_21__2,/ DATAO_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_22__2,/ DATAO_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_23__2,/ DATAO_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_24__2,/ DATAO_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_25__2,/ DATAO_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_26__2,/ DATAO_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_27__2,/ DATAO_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_28__2,/ DATAO_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_29__2,/ DATAO_REG_29__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_30__2,/ DATAO_REG_30__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_31__2,/ DATAO_REG_31__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ B_REG_2,/ B_REG_2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_15__2,/ REG3_REG_15__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_26__2,/ REG3_REG_26__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_6__2,/ REG3_REG_6__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_18__2,/ REG3_REG_18__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_2__2,/ REG3_REG_2__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_11__2,/ REG3_REG_11__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_22__2,/ REG3_REG_22__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_13__2,/ REG3_REG_13__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_20__2,/ REG3_REG_20__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_0__2,/ REG3_REG_0__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_9__2,/ REG3_REG_9__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_4__2,/ REG3_REG_4__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_24__2,/ REG3_REG_24__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_17__2,/ REG3_REG_17__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_5__2,/ REG3_REG_5__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_16__2,/ REG3_REG_16__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_25__2,/ REG3_REG_25__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_12__2,/ REG3_REG_12__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_21__2,/ REG3_REG_21__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_1__2,/ REG3_REG_1__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_8__2,/ REG3_REG_8__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_28__2,/ REG3_REG_28__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_19__2,/ REG3_REG_19__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_3__2,/ REG3_REG_3__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_10__2,/ REG3_REG_10__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_23__2,/ REG3_REG_23__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_14__2,/ REG3_REG_14__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_27__2,/ REG3_REG_27__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_7__2,/ REG3_REG_7__2enc,/g' b14.unroll-logic
+sed -i '1,$s/ STATE_REG_2,/ STATE_REG_2enc,/g' b14.unroll-logic
+sed -i '1,$s/ RD_REG_2,/ RD_REG_2enc,/g' b14.unroll-logic
+sed -i '1,$s/ WR_REG_2,/ WR_REG_2enc,/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_0__2)/ IR_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_1__2)/ IR_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_2__2)/ IR_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_3__2)/ IR_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_4__2)/ IR_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_5__2)/ IR_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_6__2)/ IR_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_7__2)/ IR_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_8__2)/ IR_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_9__2)/ IR_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_10__2)/ IR_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_11__2)/ IR_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_12__2)/ IR_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_13__2)/ IR_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_14__2)/ IR_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_15__2)/ IR_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_16__2)/ IR_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_17__2)/ IR_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_18__2)/ IR_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_19__2)/ IR_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_20__2)/ IR_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_21__2)/ IR_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_22__2)/ IR_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_23__2)/ IR_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_24__2)/ IR_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_25__2)/ IR_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_26__2)/ IR_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_27__2)/ IR_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_28__2)/ IR_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_29__2)/ IR_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_30__2)/ IR_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ IR_REG_31__2)/ IR_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_0__2)/ D_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_1__2)/ D_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_2__2)/ D_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_3__2)/ D_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_4__2)/ D_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_5__2)/ D_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_6__2)/ D_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_7__2)/ D_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_8__2)/ D_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_9__2)/ D_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_10__2)/ D_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_11__2)/ D_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_12__2)/ D_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_13__2)/ D_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_14__2)/ D_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_15__2)/ D_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_16__2)/ D_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_17__2)/ D_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_18__2)/ D_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_19__2)/ D_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_20__2)/ D_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_21__2)/ D_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_22__2)/ D_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_23__2)/ D_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_24__2)/ D_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_25__2)/ D_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_26__2)/ D_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_27__2)/ D_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_28__2)/ D_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_29__2)/ D_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_30__2)/ D_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ D_REG_31__2)/ D_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_0__2)/ REG0_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_1__2)/ REG0_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_2__2)/ REG0_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_3__2)/ REG0_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_4__2)/ REG0_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_5__2)/ REG0_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_6__2)/ REG0_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_7__2)/ REG0_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_8__2)/ REG0_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_9__2)/ REG0_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_10__2)/ REG0_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_11__2)/ REG0_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_12__2)/ REG0_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_13__2)/ REG0_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_14__2)/ REG0_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_15__2)/ REG0_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_16__2)/ REG0_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_17__2)/ REG0_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_18__2)/ REG0_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_19__2)/ REG0_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_20__2)/ REG0_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_21__2)/ REG0_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_22__2)/ REG0_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_23__2)/ REG0_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_24__2)/ REG0_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_25__2)/ REG0_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_26__2)/ REG0_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_27__2)/ REG0_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_28__2)/ REG0_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_29__2)/ REG0_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_30__2)/ REG0_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG0_REG_31__2)/ REG0_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_0__2)/ REG1_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_1__2)/ REG1_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_2__2)/ REG1_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_3__2)/ REG1_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_4__2)/ REG1_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_5__2)/ REG1_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_6__2)/ REG1_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_7__2)/ REG1_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_8__2)/ REG1_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_9__2)/ REG1_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_10__2)/ REG1_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_11__2)/ REG1_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_12__2)/ REG1_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_13__2)/ REG1_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_14__2)/ REG1_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_15__2)/ REG1_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_16__2)/ REG1_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_17__2)/ REG1_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_18__2)/ REG1_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_19__2)/ REG1_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_20__2)/ REG1_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_21__2)/ REG1_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_22__2)/ REG1_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_23__2)/ REG1_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_24__2)/ REG1_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_25__2)/ REG1_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_26__2)/ REG1_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_27__2)/ REG1_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_28__2)/ REG1_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_29__2)/ REG1_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_30__2)/ REG1_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG1_REG_31__2)/ REG1_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_0__2)/ REG2_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_1__2)/ REG2_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_2__2)/ REG2_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_3__2)/ REG2_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_4__2)/ REG2_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_5__2)/ REG2_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_6__2)/ REG2_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_7__2)/ REG2_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_8__2)/ REG2_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_9__2)/ REG2_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_10__2)/ REG2_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_11__2)/ REG2_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_12__2)/ REG2_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_13__2)/ REG2_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_14__2)/ REG2_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_15__2)/ REG2_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_16__2)/ REG2_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_17__2)/ REG2_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_18__2)/ REG2_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_19__2)/ REG2_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_20__2)/ REG2_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_21__2)/ REG2_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_22__2)/ REG2_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_23__2)/ REG2_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_24__2)/ REG2_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_25__2)/ REG2_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_26__2)/ REG2_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_27__2)/ REG2_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_28__2)/ REG2_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_29__2)/ REG2_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_30__2)/ REG2_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG2_REG_31__2)/ REG2_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_19__2)/ ADDR_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_18__2)/ ADDR_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_17__2)/ ADDR_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_16__2)/ ADDR_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_15__2)/ ADDR_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_14__2)/ ADDR_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_13__2)/ ADDR_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_12__2)/ ADDR_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_11__2)/ ADDR_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_10__2)/ ADDR_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_9__2)/ ADDR_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_8__2)/ ADDR_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_7__2)/ ADDR_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_6__2)/ ADDR_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_5__2)/ ADDR_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_4__2)/ ADDR_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_3__2)/ ADDR_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_2__2)/ ADDR_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_1__2)/ ADDR_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ ADDR_REG_0__2)/ ADDR_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_0__2)/ DATAO_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_1__2)/ DATAO_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_2__2)/ DATAO_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_3__2)/ DATAO_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_4__2)/ DATAO_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_5__2)/ DATAO_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_6__2)/ DATAO_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_7__2)/ DATAO_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_8__2)/ DATAO_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_9__2)/ DATAO_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_10__2)/ DATAO_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_11__2)/ DATAO_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_12__2)/ DATAO_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_13__2)/ DATAO_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_14__2)/ DATAO_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_15__2)/ DATAO_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_16__2)/ DATAO_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_17__2)/ DATAO_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_18__2)/ DATAO_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_19__2)/ DATAO_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_20__2)/ DATAO_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_21__2)/ DATAO_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_22__2)/ DATAO_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_23__2)/ DATAO_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_24__2)/ DATAO_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_25__2)/ DATAO_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_26__2)/ DATAO_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_27__2)/ DATAO_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_28__2)/ DATAO_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_29__2)/ DATAO_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_30__2)/ DATAO_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ DATAO_REG_31__2)/ DATAO_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ B_REG_2)/ B_REG_2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_15__2)/ REG3_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_26__2)/ REG3_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_6__2)/ REG3_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_18__2)/ REG3_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_2__2)/ REG3_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_11__2)/ REG3_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_22__2)/ REG3_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_13__2)/ REG3_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_20__2)/ REG3_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_0__2)/ REG3_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_9__2)/ REG3_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_4__2)/ REG3_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_24__2)/ REG3_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_17__2)/ REG3_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_5__2)/ REG3_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_16__2)/ REG3_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_25__2)/ REG3_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_12__2)/ REG3_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_21__2)/ REG3_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_1__2)/ REG3_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_8__2)/ REG3_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_28__2)/ REG3_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_19__2)/ REG3_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_3__2)/ REG3_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_10__2)/ REG3_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_23__2)/ REG3_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_14__2)/ REG3_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_27__2)/ REG3_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ REG3_REG_7__2)/ REG3_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/ STATE_REG_2)/ STATE_REG_2enc)/g' b14.unroll-logic
+sed -i '1,$s/ RD_REG_2)/ RD_REG_2enc)/g' b14.unroll-logic
+sed -i '1,$s/ WR_REG_2)/ WR_REG_2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_0__2)/(IR_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_1__2)/(IR_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_2__2)/(IR_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_3__2)/(IR_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_4__2)/(IR_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_5__2)/(IR_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_6__2)/(IR_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_7__2)/(IR_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_8__2)/(IR_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_9__2)/(IR_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_10__2)/(IR_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_11__2)/(IR_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_12__2)/(IR_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_13__2)/(IR_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_14__2)/(IR_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_15__2)/(IR_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_16__2)/(IR_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_17__2)/(IR_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_18__2)/(IR_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_19__2)/(IR_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_20__2)/(IR_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_21__2)/(IR_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_22__2)/(IR_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_23__2)/(IR_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_24__2)/(IR_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_25__2)/(IR_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_26__2)/(IR_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_27__2)/(IR_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_28__2)/(IR_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_29__2)/(IR_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_30__2)/(IR_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(IR_REG_31__2)/(IR_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_0__2)/(D_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_1__2)/(D_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_2__2)/(D_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_3__2)/(D_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_4__2)/(D_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_5__2)/(D_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_6__2)/(D_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_7__2)/(D_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_8__2)/(D_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_9__2)/(D_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_10__2)/(D_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_11__2)/(D_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_12__2)/(D_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_13__2)/(D_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_14__2)/(D_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_15__2)/(D_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_16__2)/(D_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_17__2)/(D_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_18__2)/(D_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_19__2)/(D_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_20__2)/(D_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_21__2)/(D_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_22__2)/(D_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_23__2)/(D_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_24__2)/(D_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_25__2)/(D_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_26__2)/(D_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_27__2)/(D_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_28__2)/(D_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_29__2)/(D_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_30__2)/(D_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(D_REG_31__2)/(D_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_0__2)/(REG0_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_1__2)/(REG0_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_2__2)/(REG0_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_3__2)/(REG0_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_4__2)/(REG0_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_5__2)/(REG0_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_6__2)/(REG0_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_7__2)/(REG0_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_8__2)/(REG0_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_9__2)/(REG0_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_10__2)/(REG0_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_11__2)/(REG0_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_12__2)/(REG0_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_13__2)/(REG0_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_14__2)/(REG0_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_15__2)/(REG0_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_16__2)/(REG0_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_17__2)/(REG0_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_18__2)/(REG0_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_19__2)/(REG0_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_20__2)/(REG0_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_21__2)/(REG0_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_22__2)/(REG0_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_23__2)/(REG0_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_24__2)/(REG0_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_25__2)/(REG0_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_26__2)/(REG0_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_27__2)/(REG0_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_28__2)/(REG0_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_29__2)/(REG0_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_30__2)/(REG0_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG0_REG_31__2)/(REG0_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_0__2)/(REG1_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_1__2)/(REG1_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_2__2)/(REG1_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_3__2)/(REG1_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_4__2)/(REG1_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_5__2)/(REG1_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_6__2)/(REG1_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_7__2)/(REG1_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_8__2)/(REG1_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_9__2)/(REG1_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_10__2)/(REG1_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_11__2)/(REG1_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_12__2)/(REG1_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_13__2)/(REG1_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_14__2)/(REG1_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_15__2)/(REG1_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_16__2)/(REG1_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_17__2)/(REG1_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_18__2)/(REG1_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_19__2)/(REG1_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_20__2)/(REG1_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_21__2)/(REG1_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_22__2)/(REG1_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_23__2)/(REG1_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_24__2)/(REG1_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_25__2)/(REG1_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_26__2)/(REG1_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_27__2)/(REG1_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_28__2)/(REG1_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_29__2)/(REG1_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_30__2)/(REG1_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG1_REG_31__2)/(REG1_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_0__2)/(REG2_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_1__2)/(REG2_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_2__2)/(REG2_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_3__2)/(REG2_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_4__2)/(REG2_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_5__2)/(REG2_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_6__2)/(REG2_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_7__2)/(REG2_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_8__2)/(REG2_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_9__2)/(REG2_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_10__2)/(REG2_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_11__2)/(REG2_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_12__2)/(REG2_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_13__2)/(REG2_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_14__2)/(REG2_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_15__2)/(REG2_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_16__2)/(REG2_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_17__2)/(REG2_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_18__2)/(REG2_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_19__2)/(REG2_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_20__2)/(REG2_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_21__2)/(REG2_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_22__2)/(REG2_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_23__2)/(REG2_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_24__2)/(REG2_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_25__2)/(REG2_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_26__2)/(REG2_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_27__2)/(REG2_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_28__2)/(REG2_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_29__2)/(REG2_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_30__2)/(REG2_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG2_REG_31__2)/(REG2_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_19__2)/(ADDR_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_18__2)/(ADDR_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_17__2)/(ADDR_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_16__2)/(ADDR_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_15__2)/(ADDR_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_14__2)/(ADDR_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_13__2)/(ADDR_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_12__2)/(ADDR_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_11__2)/(ADDR_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_10__2)/(ADDR_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_9__2)/(ADDR_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_8__2)/(ADDR_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_7__2)/(ADDR_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_6__2)/(ADDR_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_5__2)/(ADDR_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_4__2)/(ADDR_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_3__2)/(ADDR_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_2__2)/(ADDR_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_1__2)/(ADDR_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(ADDR_REG_0__2)/(ADDR_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_0__2)/(DATAO_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_1__2)/(DATAO_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_2__2)/(DATAO_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_3__2)/(DATAO_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_4__2)/(DATAO_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_5__2)/(DATAO_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_6__2)/(DATAO_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_7__2)/(DATAO_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_8__2)/(DATAO_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_9__2)/(DATAO_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_10__2)/(DATAO_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_11__2)/(DATAO_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_12__2)/(DATAO_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_13__2)/(DATAO_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_14__2)/(DATAO_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_15__2)/(DATAO_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_16__2)/(DATAO_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_17__2)/(DATAO_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_18__2)/(DATAO_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_19__2)/(DATAO_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_20__2)/(DATAO_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_21__2)/(DATAO_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_22__2)/(DATAO_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_23__2)/(DATAO_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_24__2)/(DATAO_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_25__2)/(DATAO_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_26__2)/(DATAO_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_27__2)/(DATAO_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_28__2)/(DATAO_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_29__2)/(DATAO_REG_29__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_30__2)/(DATAO_REG_30__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(DATAO_REG_31__2)/(DATAO_REG_31__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(B_REG_2)/(B_REG_2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_15__2)/(REG3_REG_15__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_26__2)/(REG3_REG_26__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_6__2)/(REG3_REG_6__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_18__2)/(REG3_REG_18__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_2__2)/(REG3_REG_2__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_11__2)/(REG3_REG_11__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_22__2)/(REG3_REG_22__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_13__2)/(REG3_REG_13__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_20__2)/(REG3_REG_20__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_0__2)/(REG3_REG_0__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_9__2)/(REG3_REG_9__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_4__2)/(REG3_REG_4__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_24__2)/(REG3_REG_24__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_17__2)/(REG3_REG_17__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_5__2)/(REG3_REG_5__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_16__2)/(REG3_REG_16__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_25__2)/(REG3_REG_25__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_12__2)/(REG3_REG_12__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_21__2)/(REG3_REG_21__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_1__2)/(REG3_REG_1__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_8__2)/(REG3_REG_8__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_28__2)/(REG3_REG_28__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_19__2)/(REG3_REG_19__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_3__2)/(REG3_REG_3__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_10__2)/(REG3_REG_10__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_23__2)/(REG3_REG_23__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_14__2)/(REG3_REG_14__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_27__2)/(REG3_REG_27__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(REG3_REG_7__2)/(REG3_REG_7__2enc)/g' b14.unroll-logic
+sed -i '1,$s/(STATE_REG_2)/(STATE_REG_2enc)/g' b14.unroll-logic
+sed -i '1,$s/(RD_REG_2)/(RD_REG_2enc)/g' b14.unroll-logic
+sed -i '1,$s/(WR_REG_2)/(WR_REG_2enc)/g' b14.unroll-logic

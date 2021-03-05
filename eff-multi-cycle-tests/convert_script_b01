@@ -1,0 +1,5 @@
+sed -i '1,$s/ OVERFLW_REG_1)/ OVERFLW_REG_1enc)/g' b01.unroll-logic
+sed -i '1,$s/ STATO_REG_2__1)/ STATO_REG_2__1enc)/g' b01.unroll-logic
+sed -i '1,$s/ STATO_REG_1__1)/ STATO_REG_1__1enc)/g' b01.unroll-logic
+sed -i '1,$s/ STATO_REG_0__1)/ STATO_REG_0__1enc)/g' b01.unroll-logic
+sed -i '1,$s/ OUTP_REG_1)/ OUTP_REG_1enc)/g' b01.unroll-logic

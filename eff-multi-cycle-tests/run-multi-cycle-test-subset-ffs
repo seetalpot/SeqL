@@ -1,0 +1,5 @@
+echo $1
+source create_multi_cycle_subsetffs_locked_bench.sh $1 $4 $2 $3 > $4cycle-unroll-locked-bench/$1-$4cycle-locked-subset.bench
+#source create_multi_cycle_original_bench.sh $1 $3 > $3cycle-unroll-original-bench/$1-$3cycle-original.bench
+#./sld multi-cycle-unroll-locked-bench/$1-$3cycle-locked.bench multi-cycle-unroll-original-bench/$1-$3cycle-original.bench
+echo 

@@ -1,0 +1,230 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(LINEA_1)
+
+
+##################################Primary Inputs for Unroll-2
+INPUT(LINEA_2)
+
+
+##################################Primary Inputs for Unroll-3
+INPUT(LINEA_3)
+
+
+##################################Primary Outputs for Unroll-1
+OUTPUT(U_REG_1)
+
+
+##################################Primary Outputs for Unroll-2
+OUTPUT(U_REG_2)
+
+
+##################################Primary Outputs for Unroll-3
+OUTPUT(U_REG_3)
+
+##################################Other Inputs
+INPUT(U_REG_1)
+INPUT(STATO_REG_2__1)
+INPUT(STATO_REG_1__1)
+INPUT(STATO_REG_0__1)
+
+##################################Other Outputs
+OUTPUT(U31_3$enc)
+OUTPUT(U33_3$enc)
+OUTPUT(U38_3$enc)
+OUTPUT(U32_3$enc)
+
+#################################Key Inputs
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+
+#################################SeqL Key Inputs
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+INPUT(keyinput9)
+
+
+#Other flip-flops Stage connection logic
+
+#SeqL-locked flip-flops Stage connection logic
+U_REG_2 = BUF(U31_1enc)
+U_REG_3 = BUF(U31_2enc)
+U_REG_4 = BUF(U31_3enc)
+
+#SeqL-locked flip-flops Stage connection logic
+STATO_REG_2__2 = BUF(U33_1enc)
+STATO_REG_2__3 = BUF(U33_2enc)
+STATO_REG_2__4 = BUF(U33_3enc)
+
+#SeqL-locked flip-flops Stage connection logic
+STATO_REG_1__2 = BUF(U38_1enc)
+STATO_REG_1__3 = BUF(U38_2enc)
+STATO_REG_1__4 = BUF(U38_3enc)
+STATO_REG_0__2 = BUF(U32_1)
+STATO_REG_0__3 = BUF(U32_2)
+STATO_REG_0__4 = BUF(U32_3)
+
+
+
+
+
+
+U31_1= AND(U35_1, U37_1, STATO_REG_2__1enc)
+U32_1= NAND(U48_1, U47_1)
+U33_1= NAND(U42_1, U41_1)
+U34_1= NOT(STATO_REG_2__1enc)
+U35_1= NOT(STATO_REG_0__1enc)
+U36_1= NOT(LINEA_1)
+U37_1= NOT(STATO_REG_1__1enc)
+U38_1= NAND(U52_1, U51_1)
+U39_1= NAND(U50_1, U49_1, U35_1)
+U40_1= OR(STATO_REG_2__1enc, LINEA_1)
+U41_1= NAND(STATO_REG_0__1enc, U40_1)
+U42_1= NAND(STATO_REG_1__1enc, U39_1)
+U43_1= OR(LINEA_1, STATO_REG_1__1enc)
+U44_1= NAND(U34_1, U43_1)
+U45_1= NAND(LINEA_1, U34_1)
+U46_1= NAND(STATO_REG_0__1enc, U45_1)
+U47_1= OR(LINEA_1, STATO_REG_0__1enc, STATO_REG_2__1enc)
+U48_1= NAND(U46_1, U37_1)
+U49_1= NAND(LINEA_1, U34_1)
+U50_1= NAND(STATO_REG_2__1enc, U36_1)
+U51_1= NAND(STATO_REG_0__1enc, U44_1)
+U52_1= NAND(STATO_REG_1__1enc, U34_1, U35_1)
+
+
+
+
+
+
+U31_2= AND(U35_2, U37_2, STATO_REG_2__2enc)
+U32_2= NAND(U48_2, U47_2)
+U33_2= NAND(U42_2, U41_2)
+U34_2= NOT(STATO_REG_2__2enc)
+U35_2= NOT(STATO_REG_0__2enc)
+U36_2= NOT(LINEA_2)
+U37_2= NOT(STATO_REG_1__2enc)
+U38_2= NAND(U52_2, U51_2)
+U39_2= NAND(U50_2, U49_2, U35_2)
+U40_2= OR(STATO_REG_2__2enc, LINEA_2)
+U41_2= NAND(STATO_REG_0__2enc, U40_2)
+U42_2= NAND(STATO_REG_1__2enc, U39_2)
+U43_2= OR(LINEA_2, STATO_REG_1__2enc)
+U44_2= NAND(U34_2, U43_2)
+U45_2= NAND(LINEA_2, U34_2)
+U46_2= NAND(STATO_REG_0__2enc, U45_2)
+U47_2= OR(LINEA_2, STATO_REG_0__2enc, STATO_REG_2__2enc)
+U48_2= NAND(U46_2, U37_2)
+U49_2= NAND(LINEA_2, U34_2)
+U50_2= NAND(STATO_REG_2__2enc, U36_2)
+U51_2= NAND(STATO_REG_0__2enc, U44_2)
+U52_2= NAND(STATO_REG_1__2enc, U34_2, U35_2)
+
+
+
+
+
+
+U31_3= AND(U35_3, U37_3, STATO_REG_2__3enc)
+U32_3= NAND(U48_3, U47_3)
+U33_3= NAND(U42_3, U41_3)
+U34_3= NOT(STATO_REG_2__3enc)
+U35_3= NOT(STATO_REG_0__3enc)
+U36_3= NOT(LINEA_3)
+U37_3= NOT(STATO_REG_1__3enc)
+U38_3= NAND(U52_3, U51_3)
+U39_3= NAND(U50_3, U49_3, U35_3)
+U40_3= OR(STATO_REG_2__3enc, LINEA_3)
+U41_3= NAND(STATO_REG_0__3enc, U40_3)
+U42_3= NAND(STATO_REG_1__3enc, U39_3)
+U43_3= OR(LINEA_3, STATO_REG_1__3enc)
+U44_3= NAND(U34_3, U43_3)
+U45_3= NAND(LINEA_3, U34_3)
+U46_3= NAND(STATO_REG_0__3enc, U45_3)
+U47_3= OR(LINEA_3, STATO_REG_0__3enc, STATO_REG_2__3enc)
+U48_3= NAND(U46_3, U37_3)
+U49_3= NAND(LINEA_3, U34_3)
+U50_3= NAND(STATO_REG_2__3enc, U36_3)
+U51_3= NAND(STATO_REG_0__3enc, U44_3)
+U52_3= NAND(STATO_REG_1__3enc, U34_3, U35_3)
+
+
+#SeqL Flip-flop Additional Output encryption logic for U_REG
+U_REG_1enc = XOR(U_REG_1encenc, keyinput5)
+U_REG_2enc = XOR(U_REG_2, keyinput5)
+U_REG_3enc = XOR(U_REG_3, keyinput5)
+
+#SeqL Flip-flop Additional Input encryption logic for U31
+U31_1enc = XOR(U31_1, keyinput4)
+U31_2enc = XOR(U31_2, keyinput4)
+U31_3enc = XOR(U31_3, keyinput4)
+
+#SeqL Flip-flop Additional Output encryption logic for STATO_REG_2_
+STATO_REG_2__1enc = XOR(STATO_REG_2__1encenc, keyinput7)
+STATO_REG_2__2enc = XOR(STATO_REG_2__2, keyinput7)
+STATO_REG_2__3enc = XOR(STATO_REG_2__3, keyinput7)
+
+#SeqL Flip-flop Additional Input encryption logic for U33
+U33_1enc = XOR(U33_1, keyinput6)
+U33_2enc = XOR(U33_2, keyinput6)
+U33_3enc = XOR(U33_3, keyinput6)
+
+#SeqL Flip-flop Additional Output encryption logic for STATO_REG_1_
+STATO_REG_1__1enc = XOR(STATO_REG_1__1encenc, keyinput9)
+STATO_REG_1__2enc = XOR(STATO_REG_1__2, keyinput9)
+STATO_REG_1__3enc = XOR(STATO_REG_1__3, keyinput9)
+
+#SeqL Flip-flop Additional Input encryption logic for U38
+U38_1enc = XOR(U38_1, keyinput8)
+U38_2enc = XOR(U38_2, keyinput8)
+U38_3enc = XOR(U38_3, keyinput8)
+
+#Other Flip-flop Output logic for STATO_REG_0_
+STATO_REG_0__1enc = BUF(STATO_REG_0__1)
+STATO_REG_0__2enc = BUF(STATO_REG_0__2)
+STATO_REG_0__3enc = BUF(STATO_REG_0__3)
+
+#Input encryption logic for U_REG
+U_REG_1encenc = XOR(U_REG_1, keyinput0)
+
+#Output encryption logic for U31
+U31_3$enc_0 = XOR(U31_3enc, keyinput0)
+U31_3$enc_1 = XOR(U31_3$enc_0, keyinput1)
+U31_3$enc_2 = XOR(U31_3$enc_1, keyinput2)
+U31_3$enc = XOR(U31_3$enc_2, keyinput3)
+
+
+#Input encryption logic for STATO_REG_2_
+STATO_REG_2__1enc_0 = XOR(STATO_REG_2__1, keyinput0)
+STATO_REG_2__1encenc = XOR(STATO_REG_2__1enc_0, keyinput1)
+
+#Output encryption logic for U33
+U33_3$enc_0 = XOR(U33_3enc, keyinput1)
+U33_3$enc_1 = XOR(U33_3$enc_0, keyinput2)
+U33_3$enc = XOR(U33_3$enc_1, keyinput3)
+
+
+#Input encryption logic for STATO_REG_1_
+STATO_REG_1__1enc_0 = XOR(STATO_REG_1__1, keyinput0)
+STATO_REG_1__1enc_1 = XOR(STATO_REG_1__1enc_0, keyinput1)
+STATO_REG_1__1encenc = XOR(STATO_REG_1__1enc_1, keyinput2)
+
+#Output encryption logic for U38
+U38_3$enc_0 = XOR(U38_3enc, keyinput2)
+U38_3$enc = XOR(U38_3$enc_0, keyinput3)
+
+
+#Input encryption logic for STATO_REG_0_
+STATO_REG_0__1enc_0 = XOR(STATO_REG_0__1, keyinput0)
+STATO_REG_0__1enc_1 = XOR(STATO_REG_0__1enc_0, keyinput1)
+STATO_REG_0__1enc_2 = XOR(STATO_REG_0__1enc_1, keyinput2)
+STATO_REG_0__1enc = XOR(STATO_REG_0__1enc_2, keyinput3)
+
+#Output encryption logic for U32
+U32_3$enc = XOR(U32_3, keyinput3)
+

@@ -1,0 +1,4 @@
+sed -i '1,$s/ U_REG_1)/ U_REG_1enc)/g' b02.unroll-logic
+sed -i '1,$s/ STATO_REG_2__1)/ STATO_REG_2__1enc)/g' b02.unroll-logic
+sed -i '1,$s/ STATO_REG_1__1)/ STATO_REG_1__1enc)/g' b02.unroll-logic
+sed -i '1,$s/ STATO_REG_0__1)/ STATO_REG_0__1enc)/g' b02.unroll-logic

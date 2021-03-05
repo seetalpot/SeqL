@@ -1,0 +1,148 @@
+
+#SeqL Flip-flop Additional Output encryption logic for NUM_REG_4_
+NUM_REG_4__1enc = XOR(NUM_REG_4__1encenc, keyinput35)
+NUM_REG_4__2enc = XOR(NUM_REG_4__2, keyinput35)
+
+#SeqL Flip-flop Additional Input encryption logic for U680
+U680_1enc = XOR(U680_1, keyinput34)
+U680_2enc = XOR(U680_2, keyinput34)
+
+#SeqL Flip-flop Additional Output encryption logic for NUM_REG_3_
+NUM_REG_3__1enc = XOR(NUM_REG_3__1encenc, keyinput37)
+NUM_REG_3__2enc = XOR(NUM_REG_3__2, keyinput37)
+
+#SeqL Flip-flop Additional Input encryption logic for U679
+U679_1enc = XOR(U679_1, keyinput36)
+U679_2enc = XOR(U679_2, keyinput36)
+
+#SeqL Flip-flop Additional Output encryption logic for NUM_REG_2_
+NUM_REG_2__1enc = XOR(NUM_REG_2__1encenc, keyinput39)
+NUM_REG_2__2enc = XOR(NUM_REG_2__2, keyinput39)
+
+#SeqL Flip-flop Additional Input encryption logic for U678
+U678_1enc = XOR(U678_1, keyinput38)
+U678_2enc = XOR(U678_2, keyinput38)
+
+#Other Flip-flop Output logic for NUM_REG_1_
+NUM_REG_1__1enc = BUF(NUM_REG_1__1)
+NUM_REG_1__2enc = BUF(NUM_REG_1__2)
+
+#Other Flip-flop Output logic for NUM_REG_0_
+NUM_REG_0__1enc = BUF(NUM_REG_0__1)
+NUM_REG_0__2enc = BUF(NUM_REG_0__2)
+
+#Other Flip-flop Output logic for MAR_REG_4_
+MAR_REG_4__1enc = BUF(MAR_REG_4__1)
+MAR_REG_4__2enc = BUF(MAR_REG_4__2)
+
+#Other Flip-flop Output logic for MAR_REG_3_
+MAR_REG_3__1enc = BUF(MAR_REG_3__1)
+MAR_REG_3__2enc = BUF(MAR_REG_3__2)
+
+#Other Flip-flop Output logic for MAR_REG_2_
+MAR_REG_2__1enc = BUF(MAR_REG_2__1)
+MAR_REG_2__2enc = BUF(MAR_REG_2__2)
+
+#Other Flip-flop Output logic for MAR_REG_1_
+MAR_REG_1__1enc = BUF(MAR_REG_1__1)
+MAR_REG_1__2enc = BUF(MAR_REG_1__2)
+
+#Other Flip-flop Output logic for MAR_REG_0_
+MAR_REG_0__1enc = BUF(MAR_REG_0__1)
+MAR_REG_0__2enc = BUF(MAR_REG_0__2)
+
+#Other Flip-flop Output logic for TEMP_REG_8_
+TEMP_REG_8__1enc = BUF(TEMP_REG_8__1)
+TEMP_REG_8__2enc = BUF(TEMP_REG_8__2)
+
+#Other Flip-flop Output logic for TEMP_REG_7_
+TEMP_REG_7__1enc = BUF(TEMP_REG_7__1)
+TEMP_REG_7__2enc = BUF(TEMP_REG_7__2)
+
+#Other Flip-flop Output logic for TEMP_REG_6_
+TEMP_REG_6__1enc = BUF(TEMP_REG_6__1)
+TEMP_REG_6__2enc = BUF(TEMP_REG_6__2)
+
+#Other Flip-flop Output logic for TEMP_REG_5_
+TEMP_REG_5__1enc = BUF(TEMP_REG_5__1)
+TEMP_REG_5__2enc = BUF(TEMP_REG_5__2)
+
+#Other Flip-flop Output logic for TEMP_REG_4_
+TEMP_REG_4__1enc = BUF(TEMP_REG_4__1)
+TEMP_REG_4__2enc = BUF(TEMP_REG_4__2)
+
+#Other Flip-flop Output logic for TEMP_REG_3_
+TEMP_REG_3__1enc = BUF(TEMP_REG_3__1)
+TEMP_REG_3__2enc = BUF(TEMP_REG_3__2)
+
+#Other Flip-flop Output logic for TEMP_REG_2_
+TEMP_REG_2__1enc = BUF(TEMP_REG_2__1)
+TEMP_REG_2__2enc = BUF(TEMP_REG_2__2)
+
+#Other Flip-flop Output logic for TEMP_REG_1_
+TEMP_REG_1__1enc = BUF(TEMP_REG_1__1)
+TEMP_REG_1__2enc = BUF(TEMP_REG_1__2)
+
+#Other Flip-flop Output logic for TEMP_REG_0_
+TEMP_REG_0__1enc = BUF(TEMP_REG_0__1)
+TEMP_REG_0__2enc = BUF(TEMP_REG_0__2)
+
+#Other Flip-flop Output logic for MAX_REG_8_
+MAX_REG_8__1enc = BUF(MAX_REG_8__1)
+MAX_REG_8__2enc = BUF(MAX_REG_8__2)
+
+#Other Flip-flop Output logic for MAX_REG_7_
+MAX_REG_7__1enc = BUF(MAX_REG_7__1)
+MAX_REG_7__2enc = BUF(MAX_REG_7__2)
+
+#Other Flip-flop Output logic for MAX_REG_6_
+MAX_REG_6__1enc = BUF(MAX_REG_6__1)
+MAX_REG_6__2enc = BUF(MAX_REG_6__2)
+
+#Other Flip-flop Output logic for MAX_REG_5_
+MAX_REG_5__1enc = BUF(MAX_REG_5__1)
+MAX_REG_5__2enc = BUF(MAX_REG_5__2)
+
+#Other Flip-flop Output logic for MAX_REG_4_
+MAX_REG_4__1enc = BUF(MAX_REG_4__1)
+MAX_REG_4__2enc = BUF(MAX_REG_4__2)
+
+#Other Flip-flop Output logic for MAX_REG_3_
+MAX_REG_3__1enc = BUF(MAX_REG_3__1)
+MAX_REG_3__2enc = BUF(MAX_REG_3__2)
+
+#Other Flip-flop Output logic for MAX_REG_2_
+MAX_REG_2__1enc = BUF(MAX_REG_2__1)
+MAX_REG_2__2enc = BUF(MAX_REG_2__2)
+
+#Other Flip-flop Output logic for MAX_REG_1_
+MAX_REG_1__1enc = BUF(MAX_REG_1__1)
+MAX_REG_1__2enc = BUF(MAX_REG_1__2)
+
+#Other Flip-flop Output logic for MAX_REG_0_
+MAX_REG_0__1enc = BUF(MAX_REG_0__1)
+MAX_REG_0__2enc = BUF(MAX_REG_0__2)
+
+#Other Flip-flop Output logic for EN_DISP_REG
+EN_DISP_REG_1enc = BUF(EN_DISP_REG_1)
+EN_DISP_REG_2enc = BUF(EN_DISP_REG_2)
+
+#Other Flip-flop Output logic for RES_DISP_REG
+RES_DISP_REG_1enc = BUF(RES_DISP_REG_1)
+RES_DISP_REG_2enc = BUF(RES_DISP_REG_2)
+
+#Other Flip-flop Output logic for FLAG_REG
+FLAG_REG_1enc = BUF(FLAG_REG_1)
+FLAG_REG_2enc = BUF(FLAG_REG_2)
+
+#Other Flip-flop Output logic for STATO_REG_0_
+STATO_REG_0__1enc = BUF(STATO_REG_0__1)
+STATO_REG_0__2enc = BUF(STATO_REG_0__2)
+
+#Other Flip-flop Output logic for STATO_REG_1_
+STATO_REG_1__1enc = BUF(STATO_REG_1__1)
+STATO_REG_1__2enc = BUF(STATO_REG_1__2)
+
+#Other Flip-flop Output logic for STATO_REG_2_
+STATO_REG_2__1enc = BUF(STATO_REG_2__1)
+STATO_REG_2__2enc = BUF(STATO_REG_2__2)

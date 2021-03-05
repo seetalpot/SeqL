@@ -1,0 +1,28 @@
+
+#SeqL Flip-flop Additional Output encryption logic for U_REG
+U_REG_1enc = XOR(U_REG_1encenc, keyinput5)
+U_REG_2enc = XOR(U_REG_2, keyinput5)
+
+#SeqL Flip-flop Additional Input encryption logic for U31
+U31_1enc = XOR(U31_1, keyinput4)
+U31_2enc = XOR(U31_2, keyinput4)
+
+#SeqL Flip-flop Additional Output encryption logic for STATO_REG_2_
+STATO_REG_2__1enc = XOR(STATO_REG_2__1encenc, keyinput7)
+STATO_REG_2__2enc = XOR(STATO_REG_2__2, keyinput7)
+
+#SeqL Flip-flop Additional Input encryption logic for U33
+U33_1enc = XOR(U33_1, keyinput6)
+U33_2enc = XOR(U33_2, keyinput6)
+
+#SeqL Flip-flop Additional Output encryption logic for STATO_REG_1_
+STATO_REG_1__1enc = XOR(STATO_REG_1__1encenc, keyinput9)
+STATO_REG_1__2enc = XOR(STATO_REG_1__2, keyinput9)
+
+#SeqL Flip-flop Additional Input encryption logic for U38
+U38_1enc = XOR(U38_1, keyinput8)
+U38_2enc = XOR(U38_2, keyinput8)
+
+#Other Flip-flop Output logic for STATO_REG_0_
+STATO_REG_0__1enc = BUF(STATO_REG_0__1)
+STATO_REG_0__2enc = BUF(STATO_REG_0__2)

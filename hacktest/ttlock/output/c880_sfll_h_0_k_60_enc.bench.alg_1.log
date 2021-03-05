@@ -1,0 +1,101 @@
+G1GAT                keyinputG1GAT       
+G8GAT                keyinputG8GAT       
+G13GAT               keyinputG13GAT      
+G17GAT               keyinputG17GAT      
+G26GAT               keyinputG26GAT      
+G29GAT               keyinputG29GAT      
+G36GAT               keyinputG36GAT      
+G42GAT               keyinputG42GAT      
+G51GAT               keyinputG51GAT      
+G55GAT               keyinputG55GAT      
+G59GAT               keyinputG59GAT      
+G68GAT               keyinputG68GAT      
+G72GAT               keyinputG72GAT      
+G73GAT               keyinputG73GAT      
+G74GAT               keyinputG74GAT      
+G75GAT               keyinputG75GAT      
+G80GAT               keyinputG80GAT      
+G85GAT               keyinputG85GAT      
+G86GAT               keyinputG86GAT      
+G87GAT               keyinputG87GAT      
+G88GAT               keyinputG88GAT      
+G89GAT               keyinputG89GAT      
+G90GAT               keyinputG90GAT      
+G91GAT               keyinputG91GAT      
+G96GAT               keyinputG96GAT      
+G101GAT              keyinputG101GAT     
+G106GAT              keyinputG106GAT     
+G111GAT              keyinputG111GAT     
+G116GAT              keyinputG116GAT     
+G121GAT              keyinputG121GAT     
+G126GAT              keyinputG126GAT     
+G130GAT              keyinputG130GAT     
+G135GAT              keyinputG135GAT     
+G138GAT              keyinputG138GAT     
+G143GAT              keyinputG143GAT     
+G146GAT              keyinputG146GAT     
+G149GAT              keyinputG149GAT     
+G152GAT              keyinputG152GAT     
+G153GAT              keyinputG153GAT     
+G156GAT              keyinputG156GAT     
+G159GAT              keyinputG159GAT     
+G165GAT              keyinputG165GAT     
+G171GAT              keyinputG171GAT     
+G177GAT              keyinputG177GAT     
+G183GAT              keyinputG183GAT     
+G189GAT              keyinputG189GAT     
+G195GAT              keyinputG195GAT     
+G201GAT              keyinputG201GAT     
+G207GAT              keyinputG207GAT     
+G210GAT              keyinputG210GAT     
+G219GAT              keyinputG219GAT     
+G228GAT              keyinputG228GAT     
+G237GAT              keyinputG237GAT     
+G246GAT              keyinputG246GAT     
+G255GAT              keyinputG255GAT     
+G259GAT              keyinputG259GAT     
+G260GAT              keyinputG260GAT     
+G261GAT              keyinputG261GAT     
+G267GAT              keyinputG267GAT     
+G268GAT              keyinputG268GAT     
+# of ckt inputs : 60
+# of gates      : 4900
+n1937 (  102/ 4900 @ 235)
+n1980 (  502/ 4900 @ 250)
+n1974 (  927/ 4900 @ 242)
+n1949 ( 1119/ 4900 @ 241)
+n1959 ( 1359/ 4900 @ 246)
+n1973 ( 1400/ 4900 @ 241)
+n1978 ( 1686/ 4900 @ 246)
+n1954 ( 1797/ 4900 @ 244)
+n1957 ( 2195/ 4900 @ 247)
+n1948 ( 2284/ 4900 @ 240)
+n1943 ( 2366/ 4900 @ 238)
+n1966 ( 2405/ 4900 @ 246)
+n1961 ( 2443/ 4900 @ 249)
+n1944 ( 2543/ 4900 @ 239)
+n1938 ( 2544/ 4900 @ 236)
+n1955 ( 2719/ 4900 @ 245)
+n1952 ( 2792/ 4900 @ 242)
+n1958 ( 2855/ 4900 @ 245)
+n1960 ( 3131/ 4900 @ 248)
+n1964 ( 3383/ 4900 @ 244)
+n1977 ( 3464/ 4900 @ 243)
+n1956 ( 3514/ 4900 @ 246)
+n1936 ( 3774/ 4900 @ 233)
+n1965 ( 3858/ 4900 @ 245)
+n1970 ( 3989/ 4900 @ 234)
+n1981 ( 3990/ 4900 @ 251)
+n1967 ( 4331/ 4900 @ 247)
+n1971 ( 4451/ 4900 @ 239)
+n1979 ( 4775/ 4900 @ 248)
+n1953 ( 4802/ 4900 @ 243)
+n1972 ( 4869/ 4900 @ 240)
+# of candidates : 31
+processing gate: n1937
+processing gate: n1980
+[1] FOUND key=010010001110110100111110100110110000111001101101100011010001
+processing gate: n1974
+processing gate: n1949
+processing gate: n1959
+[1] FOUND key=111111111111111111111111111111111111111111111111111111111111

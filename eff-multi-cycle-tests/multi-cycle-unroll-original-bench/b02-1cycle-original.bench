@@ -1,0 +1,53 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(LINEA_1)
+
+
+##################################Primary Outputs for Unroll-1
+OUTPUT(U_REG_1)
+
+##################################Other Inputs
+INPUT(U_REG_1)
+INPUT(STATO_REG_2__1)
+INPUT(STATO_REG_1__1)
+INPUT(STATO_REG_0__1)
+
+##################################Other Outputs
+OUTPUT(U31_1)
+OUTPUT(U33_1)
+OUTPUT(U38_1)
+OUTPUT(U32_1)
+
+##################################Unroll 1
+U_REG_2 = BUF(U31_1)
+STATO_REG_2__2 = BUF(U33_1)
+STATO_REG_1__2 = BUF(U38_1)
+STATO_REG_0__2 = BUF(U32_1)
+
+
+
+
+
+U31_1= AND(U35_1, U37_1, STATO_REG_2__1)
+U32_1= NAND(U48_1, U47_1)
+U33_1= NAND(U42_1, U41_1)
+U34_1= NOT(STATO_REG_2__1)
+U35_1= NOT(STATO_REG_0__1)
+U36_1= NOT(LINEA_1)
+U37_1= NOT(STATO_REG_1__1)
+U38_1= NAND(U52_1, U51_1)
+U39_1= NAND(U50_1, U49_1, U35_1)
+U40_1= OR(STATO_REG_2__1, LINEA_1)
+U41_1= NAND(STATO_REG_0__1, U40_1)
+U42_1= NAND(STATO_REG_1__1, U39_1)
+U43_1= OR(LINEA_1, STATO_REG_1__1)
+U44_1= NAND(U34_1, U43_1)
+U45_1= NAND(LINEA_1, U34_1)
+U46_1= NAND(STATO_REG_0__1, U45_1)
+U47_1= OR(LINEA_1, STATO_REG_0__1, STATO_REG_2__1)
+U48_1= NAND(U46_1, U37_1)
+U49_1= NAND(LINEA_1, U34_1)
+U50_1= NAND(STATO_REG_2__1, U36_1)
+U51_1= NAND(STATO_REG_0__1, U44_1)
+U52_1= NAND(STATO_REG_1__1, U34_1, U35_1)
+

@@ -1,0 +1,122 @@
+G1                   keyinputG1          
+G13                  keyinputG13         
+G20                  keyinputG20         
+G33                  keyinputG33         
+G41                  keyinputG41         
+G45                  keyinputG45         
+G50                  keyinputG50         
+G58                  keyinputG58         
+G68                  keyinputG68         
+G77                  keyinputG77         
+G87                  keyinputG87         
+G97                  keyinputG97         
+G107                 keyinputG107        
+G116                 keyinputG116        
+G124                 keyinputG124        
+G125                 keyinputG125        
+G128                 keyinputG128        
+G132                 keyinputG132        
+G137                 keyinputG137        
+G143                 keyinputG143        
+G150                 keyinputG150        
+G159                 keyinputG159        
+G169                 keyinputG169        
+G179                 keyinputG179        
+G190                 keyinputG190        
+G200                 keyinputG200        
+G213                 keyinputG213        
+G222                 keyinputG222        
+G223                 keyinputG223        
+G226                 keyinputG226        
+G232                 keyinputG232        
+G238                 keyinputG238        
+G244                 keyinputG244        
+G250                 keyinputG250        
+G257                 keyinputG257        
+G264                 keyinputG264        
+G270                 keyinputG270        
+G274                 keyinputG274        
+G283                 keyinputG283        
+G294                 keyinputG294        
+G303                 keyinputG303        
+G311                 keyinputG311        
+G317                 keyinputG317        
+G322                 keyinputG322        
+G326                 keyinputG326        
+G329                 keyinputG329        
+G330                 keyinputG330        
+G343                 keyinputG343        
+G1698                keyinputG1698       
+G2897                keyinputG2897       
+# of ckt inputs : 50
+# of gates      : 5137
+n1559 (  451/ 5137 @ 205)
+n1568 (  495/ 5137 @ 194)
+n1570 (  566/ 5137 @ 199)
+n5125 (  819/ 5137 @ 64)
+n5124 (  967/ 5137 @ 63)
+n1569 ( 1002/ 5137 @ 195)
+n1543 ( 1097/ 5137 @ 201)
+n5128 ( 1249/ 5137 @ 65)
+n1542 ( 1350/ 5137 @ 200)
+n1572 ( 1358/ 5137 @ 202)
+n1577 ( 1609/ 5137 @ 209)
+n1558 ( 2111/ 5137 @ 204)
+n1540 ( 2133/ 5137 @ 194)
+n1561 ( 2174/ 5137 @ 206)
+n5127 ( 2252/ 5137 @ 63)
+n1539 ( 2858/ 5137 @ 193)
+n1575 ( 3040/ 5137 @ 206)
+n5129 ( 3059/ 5137 @ 66)
+n1541 ( 3065/ 5137 @ 198)
+n5126 ( 3274/ 5137 @ 62)
+n1563 ( 3342/ 5137 @ 207)
+n1566 ( 3507/ 5137 @ 203)
+n1578 ( 3693/ 5137 @ 210)
+n1560 ( 3740/ 5137 @ 205)
+n1576 ( 3766/ 5137 @ 208)
+n1574 ( 3817/ 5137 @ 205)
+n1562 ( 4031/ 5137 @ 206)
+n1571 ( 4133/ 5137 @ 201)
+n1567 ( 4254/ 5137 @ 204)
+n1554 ( 4435/ 5137 @ 202)
+n1555 ( 4555/ 5137 @ 203)
+n1573 ( 5043/ 5137 @ 204)
+# of candidates : 32
+processing gate: n1559
+processing gate: n1568
+processing gate: n1570
+processing gate: n5125
+processing gate: n5124
+processing gate: n1569
+processing gate: n1543
+processing gate: n5128
+processing gate: n1542
+processing gate: n1572
+processing gate: n1577
+[1] FOUND key=10100100000010100000111111001111010111000100011111
+processing gate: n1558
+processing gate: n1540
+processing gate: n1561
+processing gate: n5127
+processing gate: n1539
+processing gate: n1575
+processing gate: n5129
+processing gate: n1541
+processing gate: n5126
+processing gate: n1563
+[1] FOUND key=10100100000010100000111111001111010111000100011111
+processing gate: n1566
+processing gate: n1578
+[1] FOUND key=01011011111101011111000000110000101000111011100000
+processing gate: n1560
+processing gate: n1576
+processing gate: n1574
+processing gate: n1562
+[1] FOUND key=01011011111101011111000000110000101000111011100011
+processing gate: n1571
+processing gate: n1567
+processing gate: n1554
+processing gate: n1555
+processing gate: n1573
+cpu_time 673.9

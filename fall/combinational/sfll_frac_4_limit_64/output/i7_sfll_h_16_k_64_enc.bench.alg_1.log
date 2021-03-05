@@ -1,0 +1,88 @@
+pi000                keyinputpi000       
+pi001                keyinputpi001       
+pi002                keyinputpi002       
+pi003                keyinputpi003       
+pi004                keyinputpi004       
+pi005                keyinputpi005       
+pi006                keyinputpi006       
+pi007                keyinputpi007       
+pi008                keyinputpi008       
+pi009                keyinputpi009       
+pi010                keyinputpi010       
+pi011                keyinputpi011       
+pi012                keyinputpi012       
+pi013                keyinputpi013       
+pi014                keyinputpi014       
+pi015                keyinputpi015       
+pi016                keyinputpi016       
+pi017                keyinputpi017       
+pi018                keyinputpi018       
+pi019                keyinputpi019       
+pi020                keyinputpi020       
+pi021                keyinputpi021       
+pi022                keyinputpi022       
+pi023                keyinputpi023       
+pi024                keyinputpi024       
+pi025                keyinputpi025       
+pi026                keyinputpi026       
+pi027                keyinputpi027       
+pi028                keyinputpi028       
+pi029                keyinputpi029       
+pi030                keyinputpi030       
+pi031                keyinputpi031       
+pi032                keyinputpi032       
+pi033                keyinputpi033       
+pi034                keyinputpi034       
+pi035                keyinputpi035       
+pi036                keyinputpi036       
+pi037                keyinputpi037       
+pi038                keyinputpi038       
+pi039                keyinputpi039       
+pi040                keyinputpi040       
+pi041                keyinputpi041       
+pi042                keyinputpi042       
+pi043                keyinputpi043       
+pi044                keyinputpi044       
+pi045                keyinputpi045       
+pi046                keyinputpi046       
+pi047                keyinputpi047       
+pi048                keyinputpi048       
+pi049                keyinputpi049       
+pi050                keyinputpi050       
+pi051                keyinputpi051       
+pi052                keyinputpi052       
+pi053                keyinputpi053       
+pi054                keyinputpi054       
+pi055                keyinputpi055       
+pi056                keyinputpi056       
+pi057                keyinputpi057       
+pi058                keyinputpi058       
+pi059                keyinputpi059       
+pi060                keyinputpi060       
+pi061                keyinputpi061       
+pi062                keyinputpi062       
+pi063                keyinputpi063       
+# of ckt inputs : 64
+# of gates      : 6520
+n4664 (   45/ 6520 @ 257)
+n4662 (  745/ 6520 @ 255)
+n4689 (  752/ 6520 @ 264)
+n4661 ( 1284/ 6520 @ 250)
+n4683 ( 1403/ 6520 @ 257)
+n4682 ( 1816/ 6520 @ 256)
+n4665 ( 1877/ 6520 @ 258)
+n4656 ( 1895/ 6520 @ 251)
+n4663 ( 1910/ 6520 @ 256)
+n4687 ( 2667/ 6520 @ 262)
+n4654 ( 2876/ 6520 @ 249)
+n4685 ( 3025/ 6520 @ 260)
+n4681 ( 3053/ 6520 @ 255)
+n4668 ( 3770/ 6520 @ 259)
+n4655 ( 4068/ 6520 @ 250)
+n4669 ( 4141/ 6520 @ 260)
+n4686 ( 4470/ 6520 @ 261)
+n4688 ( 4709/ 6520 @ 263)
+n4679 ( 4779/ 6520 @ 262)
+n4670 ( 5416/ 6520 @ 261)
+n4684 ( 5576/ 6520 @ 259)
+n4680 ( 6302/ 6520 @ 254)

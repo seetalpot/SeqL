@@ -1,0 +1,114 @@
+G1                   keyinputG1          
+G4                   keyinputG4          
+G11                  keyinputG11         
+G14                  keyinputG14         
+G17                  keyinputG17         
+G20                  keyinputG20         
+G23                  keyinputG23         
+G24                  keyinputG24         
+G25                  keyinputG25         
+G26                  keyinputG26         
+G27                  keyinputG27         
+G31                  keyinputG31         
+G34                  keyinputG34         
+G37                  keyinputG37         
+G40                  keyinputG40         
+G43                  keyinputG43         
+G46                  keyinputG46         
+G49                  keyinputG49         
+G52                  keyinputG52         
+G53                  keyinputG53         
+G54                  keyinputG54         
+G61                  keyinputG61         
+G64                  keyinputG64         
+G67                  keyinputG67         
+G70                  keyinputG70         
+G73                  keyinputG73         
+G76                  keyinputG76         
+G79                  keyinputG79         
+G80                  keyinputG80         
+G81                  keyinputG81         
+G82                  keyinputG82         
+G83                  keyinputG83         
+G86                  keyinputG86         
+G87                  keyinputG87         
+G88                  keyinputG88         
+G91                  keyinputG91         
+G94                  keyinputG94         
+G97                  keyinputG97         
+G100                 keyinputG100        
+G103                 keyinputG103        
+G106                 keyinputG106        
+G109                 keyinputG109        
+G112                 keyinputG112        
+G113                 keyinputG113        
+G114                 keyinputG114        
+G115                 keyinputG115        
+G116                 keyinputG116        
+G117                 keyinputG117        
+G118                 keyinputG118        
+G119                 keyinputG119        
+G120                 keyinputG120        
+G121                 keyinputG121        
+G122                 keyinputG122        
+G123                 keyinputG123        
+G126                 keyinputG126        
+G127                 keyinputG127        
+G128                 keyinputG128        
+G129                 keyinputG129        
+G130                 keyinputG130        
+G131                 keyinputG131        
+G132                 keyinputG132        
+G135                 keyinputG135        
+G136                 keyinputG136        
+G137                 keyinputG137        
+# of ckt inputs : 64
+# of gates      : 8527
+n4677 ( 1182/ 8527 @ 250)
+n4697 ( 1222/ 8527 @ 255)
+n4699 ( 1282/ 8527 @ 257)
+n4701 ( 1681/ 8527 @ 260)
+n4680 ( 1837/ 8527 @ 257)
+n4686 ( 1858/ 8527 @ 261)
+n4704 ( 1883/ 8527 @ 263)
+n4670 ( 2149/ 8527 @ 249)
+n4681 ( 2468/ 8527 @ 258)
+n4703 ( 2614/ 8527 @ 262)
+n4696 ( 3041/ 8527 @ 254)
+n4695 ( 3643/ 8527 @ 262)
+n4671 ( 3679/ 8527 @ 250)
+n4679 ( 4935/ 8527 @ 256)
+n4698 ( 5706/ 8527 @ 256)
+n4684 ( 5715/ 8527 @ 259)
+n4702 ( 6847/ 8527 @ 261)
+n4705 ( 6917/ 8527 @ 264)
+n4672 ( 7095/ 8527 @ 251)
+n4700 ( 8263/ 8527 @ 259)
+n4685 ( 8479/ 8527 @ 260)
+n4678 ( 8493/ 8527 @ 255)
+# of candidates : 22
+processing gate: n4677
+processing gate: n4697
+processing gate: n4699
+processing gate: n4701
+processing gate: n4680
+processing gate: n4686
+processing gate: n4704
+[1] FOUND key=1010010001100000110101010111100101100101001100010101111100010100
+processing gate: n4670
+processing gate: n4681
+processing gate: n4703
+processing gate: n4696
+processing gate: n4695
+processing gate: n4671
+processing gate: n4679
+processing gate: n4698
+processing gate: n4684
+processing gate: n4702
+processing gate: n4705
+[2] FOUND key=1010010001100000110101010111100101100101001100010101111100010100
+processing gate: n4672
+processing gate: n4700
+processing gate: n4685
+processing gate: n4678
+cpu_time 40.3

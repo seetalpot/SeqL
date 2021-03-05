@@ -1,0 +1,41 @@
+Except c7552, for rest of c* benchmarks, bench files from following folder (with addition of few FI key gates works with SMT code):
+~/Desktop/ICCAD19/experiments/sat-attack-pramod/spramod-host15-logic-encryption-44fd2efc7c04-sequential-locking/benchmarks/scan-unrolled-benchmarks/rnd-unrolled-bench-target-encryption/ 
+
+All remaining ones are available at ../benchmarks/scan-unrolled folder
+
+For k2, error:
+########## looking for DIPs (Iterative SAT Calls)  ##########
+Traceback (most recent call last):
+  File "main.py", line 20, in <module>
+    methods.sat_tck()
+  File "/home/spotlur2/Desktop/ICCD19/experiments/smt/SMTAttack/src/methods.py", line 291, in sat_tck
+    exe_func_time)  # duplicate and find dip
+  File "/home/spotlur2/Desktop/ICCD19/experiments/smt/SMTAttack/src/baseutils.py", line 62, in finddip
+    output_list1 = converts.circuit2bool(interwires, poutwires, discinp, keyin1)
+  File "/home/spotlur2/Desktop/ICCD19/experiments/smt/SMTAttack/src/converts.py", line 259, in circuit2bool
+    interwires_var[i] = Xor(operands_list)
+  File "/usr/local/lib/python3.5/dist-packages/monosat-1.6-py3.5.egg/monosat/logic.py", line 457, in Xor
+    return Xor(*args[0])
+  File "/usr/local/lib/python3.5/dist-packages/monosat-1.6-py3.5.egg/monosat/logic.py", line 460, in Xor
+    a = VAR(args[0])
+  File "/usr/local/lib/python3.5/dist-packages/monosat-1.6-py3.5.egg/monosat/logic.py", line 329, in VAR
+    raise TypeError("Cannot convert None to symbolic Booleans")
+TypeError: Cannot convert None to symbolic Booleans
+
+
+For c7552, error:
+########## looking for DIPs (Iterative SAT Calls)  ##########
+============================================= iteration: 0
+============================================= iteration: 1
+Traceback (most recent call last):
+  File "main.py", line 20, in <module>
+    methods.sat_tck()
+  File "/home/spotlur2/Desktop/ICCD19/experiments/smt/SMTAttack/src/methods.py", line 291, in sat_tck
+    exe_func_time)  # duplicate and find dip
+  File "/home/spotlur2/Desktop/ICCD19/experiments/smt/SMTAttack/src/baseutils.py", line 82, in finddip
+    outxnored_left.append(Xnor(output_list_temp1[j], list_orgcirc[len(list_dip) - 1][j]))
+IndexError: list index out of range
+
+
+For c7552 (unrolled version of new_rnd), it gave all-zero key (hence we report "No-key" in the table). 
+

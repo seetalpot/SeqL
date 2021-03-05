@@ -1,0 +1,325 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(EOC_1)
+INPUT(DATA_IN_7__1)
+INPUT(DATA_IN_6__1)
+INPUT(DATA_IN_5__1)
+INPUT(DATA_IN_4__1)
+INPUT(DATA_IN_3__1)
+INPUT(DATA_IN_2__1)
+INPUT(DATA_IN_1__1)
+INPUT(DATA_IN_0__1)
+INPUT(DSR_1)
+
+
+##################################Primary Inputs for Unroll-2
+INPUT(EOC_2)
+INPUT(DATA_IN_7__2)
+INPUT(DATA_IN_6__2)
+INPUT(DATA_IN_5__2)
+INPUT(DATA_IN_4__2)
+INPUT(DATA_IN_3__2)
+INPUT(DATA_IN_2__2)
+INPUT(DATA_IN_1__2)
+INPUT(DATA_IN_0__2)
+INPUT(DSR_2)
+
+
+##################################Primary Outputs for Unroll-1
+OUTPUT(SOC_REG_1)
+OUTPUT(LOAD_DATO_REG_1)
+OUTPUT(ADD_MPX2_REG_1)
+OUTPUT(CANALE_REG_3__1)
+OUTPUT(CANALE_REG_2__1)
+OUTPUT(CANALE_REG_1__1)
+OUTPUT(CANALE_REG_0__1)
+OUTPUT(MUX_EN_REG_1)
+OUTPUT(ERROR_REG_1)
+OUTPUT(DATA_OUT_REG_1)
+
+
+##################################Primary Outputs for Unroll-2
+OUTPUT(SOC_REG_2)
+OUTPUT(LOAD_DATO_REG_2)
+OUTPUT(ADD_MPX2_REG_2)
+OUTPUT(CANALE_REG_3__2)
+OUTPUT(CANALE_REG_2__2)
+OUTPUT(CANALE_REG_1__2)
+OUTPUT(CANALE_REG_0__2)
+OUTPUT(MUX_EN_REG_2)
+OUTPUT(ERROR_REG_2)
+OUTPUT(DATA_OUT_REG_2)
+
+##################################Other Inputs
+INPUT(CANALE_REG_3__1)
+INPUT(CANALE_REG_2__1)
+INPUT(CANALE_REG_1__1)
+INPUT(CANALE_REG_0__1)
+INPUT(CONTA_TMP_REG_3__1)
+INPUT(CONTA_TMP_REG_2__1)
+INPUT(CONTA_TMP_REG_1__1)
+INPUT(CONTA_TMP_REG_0__1)
+INPUT(ITFC_STATE_REG_1__1)
+INPUT(ITFC_STATE_REG_0__1)
+INPUT(OUT_REG_REG_7__1)
+INPUT(OUT_REG_REG_6__1)
+INPUT(OUT_REG_REG_5__1)
+INPUT(OUT_REG_REG_4__1)
+INPUT(OUT_REG_REG_3__1)
+INPUT(OUT_REG_REG_2__1)
+INPUT(OUT_REG_REG_1__1)
+INPUT(OUT_REG_REG_0__1)
+INPUT(NEXT_BIT_REG_3__1)
+INPUT(NEXT_BIT_REG_2__1)
+INPUT(NEXT_BIT_REG_1__1)
+INPUT(NEXT_BIT_REG_0__1)
+INPUT(TX_CONTA_REG_9__1)
+INPUT(TX_CONTA_REG_8__1)
+INPUT(TX_CONTA_REG_7__1)
+INPUT(TX_CONTA_REG_6__1)
+INPUT(TX_CONTA_REG_5__1)
+INPUT(TX_CONTA_REG_4__1)
+INPUT(TX_CONTA_REG_3__1)
+INPUT(TX_CONTA_REG_2__1)
+INPUT(TX_CONTA_REG_1__1)
+INPUT(TX_CONTA_REG_0__1)
+INPUT(LOAD_REG_1)
+INPUT(SEND_DATA_REG_1)
+INPUT(SEND_EN_REG_1)
+INPUT(MUX_EN_REG_1)
+INPUT(TRE_REG_1)
+INPUT(LOAD_DATO_REG_1)
+INPUT(SOC_REG_1)
+INPUT(SEND_REG_1)
+INPUT(MPX_REG_1)
+INPUT(CONFIRM_REG_1)
+INPUT(SHOT_REG_1)
+INPUT(ADD_MPX2_REG_1)
+INPUT(RDY_REG_1)
+INPUT(ERROR_REG_1)
+INPUT(S1_REG_2__1)
+INPUT(S1_REG_1__1)
+INPUT(S1_REG_0__1)
+INPUT(S2_REG_1__1)
+INPUT(S2_REG_0__1)
+INPUT(TX_END_REG_1)
+INPUT(DATA_OUT_REG_1)
+
+##################################Other Outputs
+OUTPUT(U416_2$enc)
+OUTPUT(U415_2$enc)
+OUTPUT(U414_2$enc)
+OUTPUT(U413_2$enc)
+OUTPUT(U417_2$enc)
+OUTPUT(U412_2$enc)
+OUTPUT(U411_2$enc)
+OUTPUT(U410_2$enc)
+OUTPUT(U452_2$enc)
+OUTPUT(U409_2$enc)
+OUTPUT(U453_2$enc)
+OUTPUT(U454_2$enc)
+OUTPUT(U455_2$enc)
+OUTPUT(U456_2$enc)
+OUTPUT(U457_2$enc)
+OUTPUT(U458_2$enc)
+OUTPUT(U459_2$enc)
+OUTPUT(U460_2$enc)
+OUTPUT(U461_2$enc)
+OUTPUT(U408_2$enc)
+OUTPUT(U407_2$enc)
+OUTPUT(U462_2$enc)
+OUTPUT(U406_2$enc)
+OUTPUT(U405_2$enc)
+OUTPUT(U404_2$enc)
+OUTPUT(U403_2$enc)
+OUTPUT(U402_2$enc)
+OUTPUT(U401_2$enc)
+OUTPUT(U400_2$enc)
+OUTPUT(U399_2$enc)
+OUTPUT(U398_2$enc)
+OUTPUT(U397_2$enc)
+OUTPUT(U396_2$enc)
+OUTPUT(U395_2$enc)
+OUTPUT(U394_2$enc)
+OUTPUT(U393_2$enc)
+OUTPUT(U392_2$enc)
+OUTPUT(U391_2$enc)
+OUTPUT(U450_2$enc)
+OUTPUT(U390_2$enc)
+OUTPUT(U389_2$enc)
+OUTPUT(U388_2$enc)
+OUTPUT(U387_2$enc)
+OUTPUT(U386_2$enc)
+OUTPUT(U385_2$enc)
+OUTPUT(U451_2$enc)
+OUTPUT(U383_2$enc)
+OUTPUT(U464_2$enc)
+OUTPUT(U384_2$enc)
+OUTPUT(U463_2$enc)
+OUTPUT(U382_2$enc)
+OUTPUT(U381_2$enc)
+OUTPUT(U380_2$enc)
+
+#################################Key Inputs
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+INPUT(keyinput9)
+INPUT(keyinput10)
+INPUT(keyinput11)
+INPUT(keyinput12)
+INPUT(keyinput13)
+INPUT(keyinput14)
+INPUT(keyinput15)
+INPUT(keyinput16)
+INPUT(keyinput17)
+INPUT(keyinput18)
+INPUT(keyinput19)
+INPUT(keyinput20)
+INPUT(keyinput21)
+INPUT(keyinput22)
+INPUT(keyinput23)
+INPUT(keyinput24)
+INPUT(keyinput25)
+INPUT(keyinput26)
+INPUT(keyinput27)
+INPUT(keyinput28)
+INPUT(keyinput29)
+INPUT(keyinput30)
+INPUT(keyinput31)
+INPUT(keyinput32)
+INPUT(keyinput33)
+INPUT(keyinput34)
+INPUT(keyinput35)
+INPUT(keyinput36)
+INPUT(keyinput37)
+INPUT(keyinput38)
+INPUT(keyinput39)
+INPUT(keyinput40)
+INPUT(keyinput41)
+INPUT(keyinput42)
+INPUT(keyinput43)
+INPUT(keyinput44)
+INPUT(keyinput45)
+INPUT(keyinput46)
+INPUT(keyinput47)
+INPUT(keyinput48)
+INPUT(keyinput49)
+INPUT(keyinput50)
+INPUT(keyinput51)
+INPUT(keyinput52)
+
+#################################SeqL Key Inputs
+INPUT(keyinput53)
+INPUT(keyinput54)
+INPUT(keyinput55)
+INPUT(keyinput56)
+INPUT(keyinput57)
+INPUT(keyinput58)
+INPUT(keyinput59)
+INPUT(keyinput60)
+
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic

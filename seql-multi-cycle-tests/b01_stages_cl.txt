@@ -1,0 +1,18 @@
+
+#SeqL-locked flip-flops Stage connection logic
+OVERFLW_REG_2 = BUF(U34_1enc)
+OVERFLW_REG_3 = BUF(U34_2enc)
+
+#SeqL-locked flip-flops Stage connection logic
+STATO_REG_2__2 = BUF(U45_1enc)
+STATO_REG_2__3 = BUF(U45_2enc)
+
+#SeqL-locked flip-flops Stage connection logic
+STATO_REG_1__2 = BUF(U36_1enc)
+STATO_REG_1__3 = BUF(U36_2enc)
+
+#SeqL-locked flip-flops Stage connection logic
+STATO_REG_0__2 = BUF(U35_1enc)
+STATO_REG_0__3 = BUF(U35_2enc)
+OUTP_REG_2 = BUF(U44_1)
+OUTP_REG_3 = BUF(U44_2)

@@ -1,0 +1,24 @@
+inputs=10 keys=10 outputs=10 gates=5241
+iteration: 1; vars: 10525; clauses: 4930; decisions: 64
+iteration: 2; vars: 15756; clauses: 5330; decisions: 99
+iteration: 3; vars: 20987; clauses: 5730; decisions: 128
+iteration: 4; vars: 26218; clauses: 6130; decisions: 179
+iteration: 5; vars: 31449; clauses: 6530; decisions: 206
+iteration: 6; vars: 36680; clauses: 6930; decisions: 235
+iteration: 7; vars: 41911; clauses: 7330; decisions: 263
+iteration: 8; vars: 47142; clauses: 7730; decisions: 415
+iteration: 9; vars: 52373; clauses: 8130; decisions: 441
+iteration: 10; vars: 57604; clauses: 4967; decisions: 476
+iteration: 11; vars: 62835; clauses: 5367; decisions: 499
+iteration: 12; vars: 68066; clauses: 5767; decisions: 528
+iteration: 13; vars: 73297; clauses: 6167; decisions: 570
+iteration: 14; vars: 78528; clauses: 6567; decisions: 602
+iteration: 15; vars: 83759; clauses: 6967; decisions: 630
+iteration: 16; vars: 88990; clauses: 7367; decisions: 659
+iteration: 17; vars: 94221; clauses: 7767; decisions: 684
+iteration: 18; vars: 99452; clauses: 8167; decisions: 712
+iteration: 19; vars: 104683; clauses: 5084; decisions: 746
+iteration: 20; vars: 109914; clauses: 5484; decisions: 812
+ERROR: INVALID (incorrect) key provided for verification.
+key=xxxxxxxxxx
+iteration=20; backbones_count=0; cube_count=506646; cpu_time=0.877635; maxrss=35.3633

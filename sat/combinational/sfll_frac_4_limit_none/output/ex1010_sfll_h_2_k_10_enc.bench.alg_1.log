@@ -1,0 +1,268 @@
+pi0                  keyinputpi0         
+pi1                  keyinputpi1         
+pi2                  keyinputpi2         
+pi3                  keyinputpi3         
+pi4                  keyinputpi4         
+pi5                  keyinputpi5         
+pi6                  keyinputpi6         
+pi7                  keyinputpi7         
+pi8                  keyinputpi8         
+pi9                  keyinputpi9         
+# of ckt inputs : 10
+# of gates      : 5340
+n820 (    1/ 5340 @ 33)
+n4073 (   21/ 5340 @ 29)
+n4467 (   40/ 5340 @ 37)
+n1065 (   43/ 5340 @ 18)
+n1036 (   62/ 5340 @ 16)
+n1090 (  143/ 5340 @ 12)
+n432 (  169/ 5340 @ 34)
+n705 (  202/ 5340 @ 32)
+n3884 (  258/ 5340 @ 20)
+n1659 (  293/ 5340 @ 37)
+n2169 (  312/ 5340 @ 34)
+n1939 (  416/ 5340 @ 31)
+n1058 (  427/ 5340 @ 15)
+n3492 (  431/ 5340 @ 31)
+n1080 (  439/ 5340 @ 24)
+n1089 (  509/ 5340 @ 11)
+n3567 (  523/ 5340 @ 18)
+n2701 (  620/ 5340 @ 25)
+n2703 (  628/ 5340 @ 35)
+n4688 (  652/ 5340 @ 34)
+n4464 (  685/ 5340 @ 31)
+n5333 (  719/ 5340 @ 12)
+n431 (  762/ 5340 @ 33)
+n4914 (  798/ 5340 @ 37)
+n1092 (  905/ 5340 @ 27)
+n3616 (  970/ 5340 @ 22)
+n3518 ( 1072/ 5340 @ 20)
+n1035 ( 1146/ 5340 @ 15)
+n5338 ( 1166/ 5340 @ 37)
+n2704 ( 1237/ 5340 @ 36)
+n3163 ( 1303/ 5340 @ 35)
+n2702 ( 1351/ 5340 @ 33)
+n5122 ( 1380/ 5340 @ 34)
+n704 ( 1430/ 5340 @ 31)
+n3851 ( 1490/ 5340 @ 35)
+n2167 ( 1524/ 5340 @ 32)
+n3617 ( 1535/ 5340 @ 32)
+n2168 ( 1567/ 5340 @ 33)
+n4911 ( 1616/ 5340 @ 32)
+n1940 ( 1685/ 5340 @ 32)
+n1063 ( 1688/ 5340 @ 14)
+n1077 ( 1734/ 5340 @ 14)
+n1657 ( 1737/ 5340 @ 35)
+n4280 ( 1784/ 5340 @ 35)
+n2946 ( 1791/ 5340 @ 32)
+n3615 ( 1820/ 5340 @ 21)
+n1091 ( 1883/ 5340 @ 26)
+n4279 ( 1890/ 5340 @ 34)
+n4074 ( 1910/ 5340 @ 36)
+n819 ( 1923/ 5340 @ 24)
+n2577 ( 1948/ 5340 @ 31)
+n3491 ( 2113/ 5340 @ 30)
+n4689 ( 2190/ 5340 @ 35)
+n5332 ( 2214/ 5340 @ 11)
+n1062 ( 2224/ 5340 @ 13)
+n3345 ( 2267/ 5340 @ 31)
+n4075 ( 2350/ 5340 @ 37)
+n5336 ( 2354/ 5340 @ 31)
+n3586 ( 2428/ 5340 @ 16)
+n5285 ( 2465/ 5340 @ 29)
+n3517 ( 2511/ 5340 @ 19)
+n3619 ( 2512/ 5340 @ 34)
+n822 ( 2572/ 5340 @ 36)
+n2166 ( 2669/ 5340 @ 31)
+n3568 ( 2681/ 5340 @ 19)
+n4710 ( 2753/ 5340 @ 18)
+n5337 ( 2853/ 5340 @ 36)
+n3164 ( 2871/ 5340 @ 36)
+n2700 ( 2930/ 5340 @ 21)
+n2670 ( 2949/ 5340 @ 16)
+n2372 ( 2968/ 5340 @ 34)
+n3585 ( 2990/ 5340 @ 15)
+n3613 ( 2993/ 5340 @ 17)
+n2371 ( 3006/ 5340 @ 33)
+n1078 ( 3066/ 5340 @ 22)
+n1079 ( 3095/ 5340 @ 23)
+n1066 ( 3151/ 5340 @ 19)
+n3542 ( 3190/ 5340 @ 18)
+n821 ( 3215/ 5340 @ 35)
+n4709 ( 3225/ 5340 @ 17)
+n4913 ( 3235/ 5340 @ 36)
+n2647 ( 3280/ 5340 @ 20)
+n3543 ( 3313/ 5340 @ 19)
+n1064 ( 3399/ 5340 @ 17)
+n2692 ( 3456/ 5340 @ 14)
+n4071 ( 3476/ 5340 @ 27)
+n2578 ( 3563/ 5340 @ 32)
+n4465 ( 3590/ 5340 @ 32)
+n2945 ( 3616/ 5340 @ 31)
+n1081 ( 3653/ 5340 @ 25)
+n3346 ( 3681/ 5340 @ 32)
+n4072 ( 3701/ 5340 @ 28)
+n4910 ( 3734/ 5340 @ 31)
+n1419 ( 3739/ 5340 @ 35)
+n5334 ( 3786/ 5340 @ 13)
+n1656 ( 3836/ 5340 @ 34)
+n1658 ( 3903/ 5340 @ 36)
+n2646 ( 4085/ 5340 @ 19)
+n1074 ( 4099/ 5340 @ 21)
+n3618 ( 4247/ 5340 @ 33)
+n3614 ( 4295/ 5340 @ 20)
+n4912 ( 4326/ 5340 @ 33)
+n1059 ( 4382/ 5340 @ 16)
+n1073 ( 4383/ 5340 @ 20)
+n2671 ( 4388/ 5340 @ 17)
+n3885 ( 4527/ 5340 @ 21)
+n2698 ( 4550/ 5340 @ 16)
+n1418 ( 4577/ 5340 @ 34)
+n2699 ( 4581/ 5340 @ 18)
+n5335 ( 4583/ 5340 @ 26)
+n1088 ( 4585/ 5340 @ 10)
+n3165 ( 4745/ 5340 @ 37)
+n1076 ( 4955/ 5340 @ 13)
+n4466 ( 4961/ 5340 @ 36)
+n791 ( 4965/ 5340 @ 8)
+n3850 ( 4988/ 5340 @ 34)
+n818 ( 5054/ 5340 @ 13)
+n792 ( 5088/ 5340 @ 9)
+n2693 ( 5098/ 5340 @ 15)
+n5123 ( 5177/ 5340 @ 35)
+n5286 ( 5264/ 5340 @ 30)
+n3162 ( 5283/ 5340 @ 34)
+# of candidates : 122
+processing gate: n820
+processing gate: n4073
+processing gate: n4467
+processing gate: n1065
+processing gate: n1036
+processing gate: n1090
+processing gate: n432
+processing gate: n705
+processing gate: n3884
+processing gate: n1659
+processing gate: n2169
+processing gate: n1939
+processing gate: n1058
+processing gate: n3492
+processing gate: n1080
+[1] FOUND key=0111100110
+processing gate: n1089
+processing gate: n3567
+processing gate: n2701
+processing gate: n2703
+processing gate: n4688
+processing gate: n4464
+processing gate: n5333
+processing gate: n431
+processing gate: n4914
+processing gate: n1092
+[1] FOUND key=0111100110
+processing gate: n3616
+processing gate: n3518
+processing gate: n1035
+processing gate: n5338
+processing gate: n2704
+processing gate: n3163
+processing gate: n2702
+processing gate: n5122
+processing gate: n704
+processing gate: n3851
+processing gate: n2167
+processing gate: n3617
+processing gate: n2168
+processing gate: n4911
+processing gate: n1940
+processing gate: n1063
+processing gate: n1077
+processing gate: n1657
+processing gate: n4280
+processing gate: n2946
+processing gate: n3615
+processing gate: n1091
+[2] FOUND key=0111100110
+processing gate: n4279
+processing gate: n4074
+processing gate: n819
+processing gate: n2577
+processing gate: n3491
+processing gate: n4689
+processing gate: n5332
+processing gate: n1062
+processing gate: n3345
+processing gate: n4075
+processing gate: n5336
+processing gate: n3586
+processing gate: n5285
+processing gate: n3517
+processing gate: n3619
+processing gate: n822
+processing gate: n2166
+processing gate: n3568
+processing gate: n4710
+processing gate: n5337
+processing gate: n3164
+processing gate: n2700
+processing gate: n2670
+[1] FOUND key=1110101101
+processing gate: n2372
+processing gate: n3585
+processing gate: n3613
+processing gate: n2371
+processing gate: n1078
+[2] FOUND key=0111100110
+processing gate: n1079
+[1] FOUND key=0111100110
+processing gate: n1066
+processing gate: n3542
+processing gate: n821
+processing gate: n4709
+processing gate: n4913
+processing gate: n2647
+[2] FOUND key=0101011110
+processing gate: n3543
+processing gate: n1064
+processing gate: n2692
+processing gate: n4071
+processing gate: n2578
+processing gate: n4465
+processing gate: n2945
+processing gate: n1081
+[2] FOUND key=0111100110
+processing gate: n3346
+processing gate: n4072
+processing gate: n4910
+processing gate: n1419
+processing gate: n5334
+processing gate: n1656
+processing gate: n1658
+processing gate: n2646
+[1] FOUND key=0101011110
+processing gate: n1074
+processing gate: n3618
+processing gate: n3614
+processing gate: n4912
+processing gate: n1059
+processing gate: n1073
+processing gate: n2671
+[2] FOUND key=1111000001
+processing gate: n3885
+processing gate: n2698
+processing gate: n1418
+processing gate: n2699
+processing gate: n5335
+processing gate: n1088
+processing gate: n3165
+processing gate: n1076
+processing gate: n4466
+processing gate: n791
+processing gate: n3850
+processing gate: n818
+processing gate: n792
+processing gate: n2693
+processing gate: n5123
+processing gate: n5286
+processing gate: n3162
+cpu_time 6.5

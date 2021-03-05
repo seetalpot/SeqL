@@ -1,0 +1,5 @@
+echo $1
+source create_multi_cycle_allffs_locked_bench.sh $1 $3 $2 > $3cycle-unroll-locked-bench/$1-$3cycle-locked.bench
+source create_multi_cycle_original_bench.sh $1 $3 > $3cycle-unroll-original-bench/$1-$3cycle-original.bench
+#./sld multi-cycle-unroll-locked-bench/$1-$3cycle-locked.bench multi-cycle-unroll-original-bench/$1-$3cycle-original.bench
+echo 

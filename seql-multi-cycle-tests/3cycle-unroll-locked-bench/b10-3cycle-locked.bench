@@ -1,0 +1,162 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(R_BUTTON_1)
+INPUT(G_BUTTON_1)
+INPUT(KEY_1)
+INPUT(START_1)
+INPUT(TEST_1)
+INPUT(RTS_1)
+INPUT(RTR_1)
+INPUT(V_IN_3__1)
+INPUT(V_IN_2__1)
+INPUT(V_IN_1__1)
+INPUT(V_IN_0__1)
+
+
+##################################Primary Inputs for Unroll-2
+INPUT(R_BUTTON_2)
+INPUT(G_BUTTON_2)
+INPUT(KEY_2)
+INPUT(START_2)
+INPUT(TEST_2)
+INPUT(RTS_2)
+INPUT(RTR_2)
+INPUT(V_IN_3__2)
+INPUT(V_IN_2__2)
+INPUT(V_IN_1__2)
+INPUT(V_IN_0__2)
+
+
+##################################Primary Inputs for Unroll-3
+INPUT(R_BUTTON_3)
+INPUT(G_BUTTON_3)
+INPUT(KEY_3)
+INPUT(START_3)
+INPUT(TEST_3)
+INPUT(RTS_3)
+INPUT(RTR_3)
+INPUT(V_IN_3__3)
+INPUT(V_IN_2__3)
+INPUT(V_IN_1__3)
+INPUT(V_IN_0__3)
+
+
+##################################Primary Outputs for Unroll-1
+OUTPUT(CTS_REG_1)
+OUTPUT(CTR_REG_1)
+OUTPUT(V_OUT_REG_3__1)
+OUTPUT(V_OUT_REG_2__1)
+OUTPUT(V_OUT_REG_1__1)
+OUTPUT(V_OUT_REG_0__1)
+
+
+##################################Primary Outputs for Unroll-2
+OUTPUT(CTS_REG_2)
+OUTPUT(CTR_REG_2)
+OUTPUT(V_OUT_REG_3__2)
+OUTPUT(V_OUT_REG_2__2)
+OUTPUT(V_OUT_REG_1__2)
+OUTPUT(V_OUT_REG_0__2)
+
+
+##################################Primary Outputs for Unroll-3
+OUTPUT(CTS_REG_3)
+OUTPUT(CTR_REG_3)
+OUTPUT(V_OUT_REG_3__3)
+OUTPUT(V_OUT_REG_2__3)
+OUTPUT(V_OUT_REG_1__3)
+OUTPUT(V_OUT_REG_0__3)
+
+##################################Other Inputs
+INPUT(VOTO0_REG_1)
+INPUT(STATO_REG_3__1)
+INPUT(STATO_REG_2__1)
+INPUT(STATO_REG_1__1)
+INPUT(STATO_REG_0__1)
+INPUT(V_OUT_REG_3__1)
+INPUT(V_OUT_REG_2__1)
+INPUT(V_OUT_REG_1__1)
+INPUT(V_OUT_REG_0__1)
+INPUT(SIGN_REG_3__1)
+INPUT(VOTO1_REG_1)
+INPUT(CTR_REG_1)
+INPUT(VOTO3_REG_1)
+INPUT(LAST_R_REG_1)
+INPUT(CTS_REG_1)
+INPUT(VOTO2_REG_1)
+INPUT(LAST_G_REG_1)
+
+##################################Other Outputs
+OUTPUT(U243_3$enc)
+OUTPUT(U212_3$enc)
+OUTPUT(U211_3$enc)
+OUTPUT(U210_3$enc)
+OUTPUT(U233_3$enc)
+OUTPUT(U234_3$enc)
+OUTPUT(U235_3$enc)
+OUTPUT(U236_3$enc)
+OUTPUT(U237_3$enc)
+OUTPUT(U209_3$enc)
+OUTPUT(U238_3$enc)
+OUTPUT(U208_3$enc)
+OUTPUT(U239_3$enc)
+OUTPUT(U240_3$enc)
+OUTPUT(U207_3$enc)
+OUTPUT(U241_3$enc)
+OUTPUT(U242_3$enc)
+
+#################################Key Inputs
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+INPUT(keyinput9)
+INPUT(keyinput10)
+INPUT(keyinput11)
+INPUT(keyinput12)
+INPUT(keyinput13)
+INPUT(keyinput14)
+INPUT(keyinput15)
+INPUT(keyinput16)
+
+#################################SeqL Key Inputs
+INPUT(keyinput17)
+INPUT(keyinput18)
+INPUT(keyinput19)
+INPUT(keyinput20)
+INPUT(keyinput21)
+INPUT(keyinput22)
+
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic

@@ -1,0 +1,97 @@
+pi00                 keyinputpi00        
+pi01                 keyinputpi01        
+pi02                 keyinputpi02        
+pi03                 keyinputpi03        
+pi04                 keyinputpi04        
+pi05                 keyinputpi05        
+pi06                 keyinputpi06        
+pi07                 keyinputpi07        
+pi08                 keyinputpi08        
+pi09                 keyinputpi09        
+pi10                 keyinputpi10        
+pi11                 keyinputpi11        
+pi12                 keyinputpi12        
+pi13                 keyinputpi13        
+pi14                 keyinputpi14        
+pi15                 keyinputpi15        
+pi16                 keyinputpi16        
+pi17                 keyinputpi17        
+pi18                 keyinputpi18        
+pi19                 keyinputpi19        
+pi20                 keyinputpi20        
+pi21                 keyinputpi21        
+pi22                 keyinputpi22        
+pi23                 keyinputpi23        
+pi24                 keyinputpi24        
+pi25                 keyinputpi25        
+pi26                 keyinputpi26        
+pi27                 keyinputpi27        
+pi28                 keyinputpi28        
+pi29                 keyinputpi29        
+pi30                 keyinputpi30        
+pi31                 keyinputpi31        
+pi32                 keyinputpi32        
+pi33                 keyinputpi33        
+pi34                 keyinputpi34        
+pi35                 keyinputpi35        
+pi36                 keyinputpi36        
+pi37                 keyinputpi37        
+pi38                 keyinputpi38        
+pi39                 keyinputpi39        
+pi40                 keyinputpi40        
+# of ckt inputs : 41
+# of gates      : 6220
+n2487 (  345/ 6220 @ 159)
+n2831 (  851/ 6220 @ 163)
+n2498 (  998/ 6220 @ 163)
+n2827 ( 1125/ 6220 @ 159)
+n2488 ( 1225/ 6220 @ 160)
+n2499 ( 1501/ 6220 @ 164)
+n2821 ( 2155/ 6220 @ 167)
+n2495 ( 2822/ 6220 @ 160)
+n2829 ( 3416/ 6220 @ 161)
+n2283 ( 3452/ 6220 @ 158)
+n2501 ( 3766/ 6220 @ 159)
+n2832 ( 3898/ 6220 @ 169)
+n2503 ( 4033/ 6220 @ 165)
+n2828 ( 4311/ 6220 @ 160)
+n2833 ( 4556/ 6220 @ 170)
+n2497 ( 4581/ 6220 @ 162)
+n2822 ( 4689/ 6220 @ 168)
+n2830 ( 4850/ 6220 @ 162)
+n2489 ( 4871/ 6220 @ 157)
+n2502 ( 5217/ 6220 @ 160)
+n2504 ( 5490/ 6220 @ 166)
+n2494 ( 5496/ 6220 @ 159)
+n2496 ( 5534/ 6220 @ 161)
+# of candidates : 23
+processing gate: n2487
+processing gate: n2831
+[1] FOUND key=01111001111100011001001000000111010100001
+processing gate: n2498
+processing gate: n2827
+processing gate: n2488
+processing gate: n2499
+processing gate: n2821
+[1] FOUND key=11111111111111111111111111111111111111111
+processing gate: n2495
+processing gate: n2829
+processing gate: n2283
+processing gate: n2501
+processing gate: n2832
+[1] FOUND key=01111001111100011001001000000111010100001
+processing gate: n2503
+processing gate: n2828
+processing gate: n2833
+[1] FOUND key=10000110000011100110110111111000101011110
+processing gate: n2497
+processing gate: n2822
+[1] FOUND key=11111111111111111111111111111111111111111
+processing gate: n2830
+[1] FOUND key=10000110000011100110110111111000101011110
+processing gate: n2489
+processing gate: n2502
+processing gate: n2504
+processing gate: n2494
+processing gate: n2496
+cpu_time 48.2

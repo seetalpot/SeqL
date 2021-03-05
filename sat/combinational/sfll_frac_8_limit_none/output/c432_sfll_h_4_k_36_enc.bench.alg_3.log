@@ -1,0 +1,198 @@
+G1GAT                keyinputG1GAT       
+G4GAT                keyinputG4GAT       
+G8GAT                keyinputG8GAT       
+G11GAT               keyinputG11GAT      
+G14GAT               keyinputG14GAT      
+G17GAT               keyinputG17GAT      
+G21GAT               keyinputG21GAT      
+G24GAT               keyinputG24GAT      
+G27GAT               keyinputG27GAT      
+G30GAT               keyinputG30GAT      
+G34GAT               keyinputG34GAT      
+G37GAT               keyinputG37GAT      
+G40GAT               keyinputG40GAT      
+G43GAT               keyinputG43GAT      
+G47GAT               keyinputG47GAT      
+G50GAT               keyinputG50GAT      
+G53GAT               keyinputG53GAT      
+G56GAT               keyinputG56GAT      
+G60GAT               keyinputG60GAT      
+G63GAT               keyinputG63GAT      
+G66GAT               keyinputG66GAT      
+G69GAT               keyinputG69GAT      
+G73GAT               keyinputG73GAT      
+G76GAT               keyinputG76GAT      
+G79GAT               keyinputG79GAT      
+G82GAT               keyinputG82GAT      
+G86GAT               keyinputG86GAT      
+G89GAT               keyinputG89GAT      
+G92GAT               keyinputG92GAT      
+G95GAT               keyinputG95GAT      
+G99GAT               keyinputG99GAT      
+G102GAT              keyinputG102GAT     
+G105GAT              keyinputG105GAT     
+G108GAT              keyinputG108GAT     
+G112GAT              keyinputG112GAT     
+G115GAT              keyinputG115GAT     
+# of ckt inputs : 36
+# of gates      : 2315
+n1808 (   61/ 2315 @ 141)
+n2190 (   90/ 2315 @ 31)
+n2289 (   93/ 2315 @ 38)
+n2254 (  120/ 2315 @ 37)
+n2229 (  124/ 2315 @ 31)
+n2233 (  141/ 2315 @ 31)
+n2288 (  175/ 2315 @ 37)
+n2251 (  216/ 2315 @ 34)
+n2307 (  228/ 2315 @ 38)
+n2239 (  266/ 2315 @ 32)
+n2174 (  281/ 2315 @ 27)
+n2204 (  288/ 2315 @ 29)
+n2282 (  292/ 2315 @ 34)
+n2225 (  325/ 2315 @ 34)
+n2213 (  332/ 2315 @ 32)
+n2222 (  344/ 2315 @ 31)
+n2027 (  365/ 2315 @ 145)
+n2237 (  385/ 2315 @ 30)
+n2223 (  421/ 2315 @ 32)
+n2252 (  551/ 2315 @ 35)
+n2240 (  565/ 2315 @ 29)
+n2238 (  638/ 2315 @ 31)
+n2305 (  652/ 2315 @ 36)
+n2198 (  659/ 2315 @ 32)
+n2285 (  706/ 2315 @ 34)
+n2203 (  727/ 2315 @ 33)
+n2193 (  773/ 2315 @ 30)
+n2280 (  795/ 2315 @ 33)
+n2235 (  796/ 2315 @ 33)
+n2253 (  827/ 2315 @ 36)
+n2192 (  862/ 2315 @ 29)
+n2304 (  897/ 2315 @ 35)
+n2197 (  986/ 2315 @ 31)
+n2214 (  998/ 2315 @ 29)
+n1813 ( 1003/ 2315 @ 139)
+n1807 ( 1004/ 2315 @ 138)
+n2227 ( 1032/ 2315 @ 29)
+n1816 ( 1068/ 2315 @ 144)
+n2234 ( 1108/ 2315 @ 32)
+n2189 ( 1128/ 2315 @ 30)
+n1814 ( 1137/ 2315 @ 140)
+n2226 ( 1149/ 2315 @ 35)
+n2200 ( 1186/ 2315 @ 30)
+n2303 ( 1206/ 2315 @ 34)
+n2309 ( 1223/ 2315 @ 40)
+n2188 ( 1226/ 2315 @ 29)
+n2250 ( 1301/ 2315 @ 33)
+n2287 ( 1377/ 2315 @ 36)
+n2201 ( 1418/ 2315 @ 31)
+n2224 ( 1458/ 2315 @ 33)
+n2248 ( 1474/ 2315 @ 31)
+n2249 ( 1497/ 2315 @ 32)
+n2191 ( 1501/ 2315 @ 32)
+n2231 ( 1571/ 2315 @ 29)
+n1810 ( 1576/ 2315 @ 136)
+n2199 ( 1671/ 2315 @ 29)
+n2241 ( 1710/ 2315 @ 30)
+n2028 ( 1728/ 2315 @ 146)
+n2284 ( 1731/ 2315 @ 35)
+n2306 ( 1744/ 2315 @ 37)
+n2232 ( 1753/ 2315 @ 30)
+n1815 ( 1758/ 2315 @ 143)
+n2255 ( 1795/ 2315 @ 38)
+n2236 ( 1797/ 2315 @ 29)
+n1809 ( 1809/ 2315 @ 142)
+n2286 ( 1910/ 2315 @ 35)
+n2310 ( 1934/ 2315 @ 41)
+n2212 ( 1935/ 2315 @ 31)
+n2205 ( 1957/ 2315 @ 30)
+n2228 ( 1973/ 2315 @ 30)
+n2302 ( 2092/ 2315 @ 33)
+n2281 ( 2108/ 2315 @ 33)
+n2175 ( 2110/ 2315 @ 28)
+n2283 ( 2149/ 2315 @ 34)
+n2215 ( 2167/ 2315 @ 30)
+n2308 ( 2187/ 2315 @ 39)
+n2230 ( 2308/ 2315 @ 32)
+n2202 ( 2313/ 2315 @ 32)
+# of candidates : 78
+processing gate: n1808
+processing gate: n2190
+processing gate: n2289
+processing gate: n2254
+processing gate: n2229
+processing gate: n2233
+processing gate: n2288
+processing gate: n2251
+processing gate: n2307
+processing gate: n2239
+processing gate: n2174
+processing gate: n2204
+processing gate: n2282
+processing gate: n2225
+processing gate: n2213
+processing gate: n2222
+processing gate: n2027
+[1] FOUND key=101001010111011001111000100101000110
+processing gate: n2237
+processing gate: n2223
+processing gate: n2252
+processing gate: n2240
+processing gate: n2238
+processing gate: n2305
+processing gate: n2198
+processing gate: n2285
+processing gate: n2203
+processing gate: n2193
+processing gate: n2280
+processing gate: n2235
+processing gate: n2253
+processing gate: n2192
+processing gate: n2304
+processing gate: n2197
+processing gate: n2214
+processing gate: n1813
+processing gate: n1807
+processing gate: n2227
+processing gate: n1816
+processing gate: n2234
+processing gate: n2189
+processing gate: n1814
+processing gate: n2226
+processing gate: n2200
+processing gate: n2303
+processing gate: n2309
+processing gate: n2188
+processing gate: n2250
+processing gate: n2287
+processing gate: n2201
+processing gate: n2224
+processing gate: n2248
+processing gate: n2249
+processing gate: n2191
+processing gate: n2231
+processing gate: n1810
+processing gate: n2199
+processing gate: n2241
+processing gate: n2028
+[2] FOUND key=101001010111011001111000100101000110
+processing gate: n2284
+processing gate: n2306
+processing gate: n2232
+processing gate: n1815
+processing gate: n2255
+processing gate: n2236
+processing gate: n1809
+processing gate: n2286
+processing gate: n2310
+processing gate: n2212
+processing gate: n2205
+processing gate: n2228
+processing gate: n2302
+processing gate: n2281
+processing gate: n2175
+processing gate: n2283
+processing gate: n2215
+processing gate: n2308
+processing gate: n2230
+processing gate: n2202
+cpu_time 16.9

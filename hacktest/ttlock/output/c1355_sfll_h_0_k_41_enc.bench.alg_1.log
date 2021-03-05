@@ -1,0 +1,625 @@
+G1GAT                keyinputG1GAT       
+G8GAT                keyinputG8GAT       
+G15GAT               keyinputG15GAT      
+G22GAT               keyinputG22GAT      
+G29GAT               keyinputG29GAT      
+G36GAT               keyinputG36GAT      
+G43GAT               keyinputG43GAT      
+G50GAT               keyinputG50GAT      
+G57GAT               keyinputG57GAT      
+G64GAT               keyinputG64GAT      
+G71GAT               keyinputG71GAT      
+G78GAT               keyinputG78GAT      
+G85GAT               keyinputG85GAT      
+G92GAT               keyinputG92GAT      
+G99GAT               keyinputG99GAT      
+G106GAT              keyinputG106GAT     
+G113GAT              keyinputG113GAT     
+G120GAT              keyinputG120GAT     
+G127GAT              keyinputG127GAT     
+G134GAT              keyinputG134GAT     
+G141GAT              keyinputG141GAT     
+G148GAT              keyinputG148GAT     
+G155GAT              keyinputG155GAT     
+G162GAT              keyinputG162GAT     
+G169GAT              keyinputG169GAT     
+G176GAT              keyinputG176GAT     
+G183GAT              keyinputG183GAT     
+G190GAT              keyinputG190GAT     
+G197GAT              keyinputG197GAT     
+G204GAT              keyinputG204GAT     
+G211GAT              keyinputG211GAT     
+G218GAT              keyinputG218GAT     
+G225GAT              keyinputG225GAT     
+G226GAT              keyinputG226GAT     
+G227GAT              keyinputG227GAT     
+G228GAT              keyinputG228GAT     
+G229GAT              keyinputG229GAT     
+G230GAT              keyinputG230GAT     
+G231GAT              keyinputG231GAT     
+G232GAT              keyinputG232GAT     
+G233GAT              keyinputG233GAT     
+# of ckt inputs : 41
+# of gates      : 3619
+n3392 (   13/ 3619 @ 32)
+n3510 (   24/ 3619 @ 28)
+n3454 (   36/ 3619 @ 32)
+n3534 (   37/ 3619 @ 29)
+n3124 (   62/ 3619 @ 28)
+n3329 (  109/ 3619 @ 31)
+n3067 (  137/ 3619 @ 31)
+n3271 (  139/ 3619 @ 28)
+n3552 (  154/ 3619 @ 30)
+n3275 (  161/ 3619 @ 29)
+n3612 (  173/ 3619 @ 28)
+n3471 (  178/ 3619 @ 31)
+n3004 (  180/ 3619 @ 29)
+n3513 (  204/ 3619 @ 31)
+n3352 (  208/ 3619 @ 32)
+n3044 (  247/ 3619 @ 29)
+n3231 (  259/ 3619 @ 28)
+n3046 (  262/ 3619 @ 32)
+n3146 (  263/ 3619 @ 27)
+n3026 (  287/ 3619 @ 32)
+n3328 (  307/ 3619 @ 30)
+n3042 (  313/ 3619 @ 30)
+n3174 (  318/ 3619 @ 33)
+n3491 (  323/ 3619 @ 29)
+n3210 (  332/ 3619 @ 31)
+n3613 (  334/ 3619 @ 29)
+n3428 (  352/ 3619 @ 28)
+n3024 (  356/ 3619 @ 29)
+n3599 (  359/ 3619 @ 33)
+n3470 (  365/ 3619 @ 30)
+n2663 (  374/ 3619 @ 165)
+n3391 (  376/ 3619 @ 30)
+n3291 (  390/ 3619 @ 28)
+n3597 (  397/ 3619 @ 30)
+n2654 (  400/ 3619 @ 159)
+n3087 (  439/ 3619 @ 31)
+n3639 (  444/ 3619 @ 33)
+n3126 (  456/ 3619 @ 30)
+n3296 (  464/ 3619 @ 30)
+n3573 (  482/ 3619 @ 29)
+n3237 (  495/ 3619 @ 32)
+n3273 (  497/ 3619 @ 30)
+n3496 (  503/ 3619 @ 32)
+n2991 (  519/ 3619 @ 163)
+n3292 (  527/ 3619 @ 29)
+n3571 (  539/ 3619 @ 27)
+n3433 (  543/ 3619 @ 30)
+n2661 (  559/ 3619 @ 159)
+n3272 (  561/ 3619 @ 29)
+n3638 (  566/ 3619 @ 32)
+n3618 (  567/ 3619 @ 32)
+n3169 (  577/ 3619 @ 30)
+n2993 (  582/ 3619 @ 170)
+n3173 (  584/ 3619 @ 32)
+n3043 (  586/ 3619 @ 31)
+n3065 (  594/ 3619 @ 29)
+n3192 (  608/ 3619 @ 30)
+n1983 (  626/ 3619 @ 32)
+n3473 (  634/ 3619 @ 30)
+n3023 (  652/ 3619 @ 31)
+n1980 (  654/ 3619 @ 31)
+n3572 (  660/ 3619 @ 28)
+n3451 (  665/ 3619 @ 31)
+n3128 (  682/ 3619 @ 29)
+n3435 (  704/ 3619 @ 33)
+n3326 (  713/ 3619 @ 28)
+n3209 (  726/ 3619 @ 30)
+n3532 (  728/ 3619 @ 30)
+n3211 (  729/ 3619 @ 29)
+n3530 (  731/ 3619 @ 28)
+n3636 (  746/ 3619 @ 29)
+n3003 (  762/ 3619 @ 31)
+n1978 (  773/ 3619 @ 29)
+n3238 (  789/ 3619 @ 33)
+n3386 (  794/ 3619 @ 28)
+n3170 (  804/ 3619 @ 31)
+n3448 (  836/ 3619 @ 28)
+n3325 (  840/ 3619 @ 27)
+n3537 (  846/ 3619 @ 33)
+n3475 (  847/ 3619 @ 33)
+n3634 (  851/ 3619 @ 30)
+n3152 (  896/ 3619 @ 30)
+n3413 (  900/ 3619 @ 30)
+n3371 (  917/ 3619 @ 30)
+n3154 (  920/ 3619 @ 33)
+n3514 (  926/ 3619 @ 29)
+n3295 (  934/ 3619 @ 29)
+n3045 (  959/ 3619 @ 30)
+n3091 (  961/ 3619 @ 33)
+n3193 (  987/ 3619 @ 32)
+n3632 ( 1002/ 3619 @ 28)
+n3293 ( 1012/ 3619 @ 30)
+n3633 ( 1033/ 3619 @ 29)
+n2655 ( 1050/ 3619 @ 160)
+n3393 ( 1069/ 3619 @ 33)
+n3615 ( 1070/ 3619 @ 31)
+n3254 ( 1075/ 3619 @ 31)
+n3455 ( 1076/ 3619 @ 33)
+n3066 ( 1083/ 3619 @ 30)
+n3069 ( 1091/ 3619 @ 30)
+n3367 ( 1097/ 3619 @ 29)
+n3469 ( 1122/ 3619 @ 29)
+n3555 ( 1130/ 3619 @ 30)
+n3497 ( 1131/ 3619 @ 33)
+n3294 ( 1135/ 3619 @ 31)
+n3256 ( 1141/ 3619 @ 30)
+n3253 ( 1148/ 3619 @ 30)
+n3574 ( 1150/ 3619 @ 30)
+n3068 ( 1157/ 3619 @ 29)
+n3109 ( 1159/ 3619 @ 30)
+n3409 ( 1161/ 3619 @ 29)
+n3617 ( 1168/ 3619 @ 30)
+n3495 ( 1197/ 3619 @ 30)
+n2657 ( 1223/ 3619 @ 162)
+n3531 ( 1240/ 3619 @ 29)
+n3431 ( 1253/ 3619 @ 31)
+n3234 ( 1257/ 3619 @ 31)
+n3105 ( 1259/ 3619 @ 29)
+n3390 ( 1266/ 3619 @ 29)
+n3107 ( 1272/ 3619 @ 31)
+n3089 ( 1279/ 3619 @ 30)
+n3593 ( 1289/ 3619 @ 29)
+n3366 ( 1325/ 3619 @ 28)
+n2989 ( 1349/ 3619 @ 161)
+n1977 ( 1350/ 3619 @ 28)
+n3172 ( 1380/ 3619 @ 30)
+n2988 ( 1393/ 3619 @ 160)
+n2658 ( 1425/ 3619 @ 163)
+n3407 ( 1438/ 3619 @ 27)
+n3212 ( 1441/ 3619 @ 30)
+n3554 ( 1465/ 3619 @ 29)
+n3414 ( 1473/ 3619 @ 32)
+n3258 ( 1484/ 3619 @ 33)
+n3110 ( 1486/ 3619 @ 32)
+n3214 ( 1514/ 3619 @ 33)
+n3111 ( 1526/ 3619 @ 33)
+n3389 ( 1537/ 3619 @ 31)
+n3194 ( 1545/ 3619 @ 33)
+n3449 ( 1560/ 3619 @ 29)
+n3430 ( 1568/ 3619 @ 30)
+n3330 ( 1569/ 3619 @ 29)
+n3148 ( 1599/ 3619 @ 29)
+n3278 ( 1607/ 3619 @ 33)
+n3350 ( 1613/ 3619 @ 29)
+n3351 ( 1615/ 3619 @ 30)
+n3347 ( 1616/ 3619 @ 29)
+n3274 ( 1662/ 3619 @ 31)
+n3637 ( 1674/ 3619 @ 30)
+n3070 ( 1700/ 3619 @ 32)
+n3232 ( 1734/ 3619 @ 29)
+n3150 ( 1772/ 3619 @ 31)
+n3575 ( 1779/ 3619 @ 31)
+n3349 ( 1782/ 3619 @ 31)
+n3297 ( 1850/ 3619 @ 32)
+n3536 ( 1865/ 3619 @ 32)
+n3415 ( 1866/ 3619 @ 33)
+n3494 ( 1867/ 3619 @ 29)
+n1982 ( 1877/ 3619 @ 30)
+n3213 ( 1903/ 3619 @ 32)
+n3368 ( 1908/ 3619 @ 30)
+n3598 ( 1921/ 3619 @ 32)
+n3064 ( 1947/ 3619 @ 28)
+n3517 ( 1953/ 3619 @ 33)
+n3131 ( 1958/ 3619 @ 33)
+n3429 ( 1967/ 3619 @ 29)
+n3348 ( 1968/ 3619 @ 30)
+n2647 ( 1983/ 3619 @ 159)
+n3006 ( 1989/ 3619 @ 32)
+n3490 ( 2037/ 3619 @ 28)
+n3191 ( 2049/ 3619 @ 29)
+n3189 ( 2079/ 3619 @ 30)
+n3251 ( 2089/ 3619 @ 28)
+n3021 ( 2104/ 3619 @ 29)
+n3020 ( 2107/ 3619 @ 28)
+n3551 ( 2124/ 3619 @ 29)
+n3002 ( 2125/ 3619 @ 30)
+n3236 ( 2137/ 3619 @ 30)
+n3511 ( 2138/ 3619 @ 29)
+n3007 ( 2196/ 3619 @ 33)
+n3255 ( 2208/ 3619 @ 29)
+n3047 ( 2211/ 3619 @ 33)
+n3277 ( 2231/ 3619 @ 32)
+n3125 ( 2277/ 3619 @ 29)
+n3595 ( 2321/ 3619 @ 31)
+n1981 ( 2325/ 3619 @ 29)
+n3147 ( 2330/ 3619 @ 28)
+n1984 ( 2339/ 3619 @ 33)
+n3556 ( 2350/ 3619 @ 32)
+n3468 ( 2351/ 3619 @ 28)
+n1979 ( 2359/ 3619 @ 30)
+n3233 ( 2384/ 3619 @ 30)
+n3025 ( 2393/ 3619 @ 30)
+n2443 ( 2403/ 3619 @ 158)
+n3252 ( 2419/ 3619 @ 29)
+n3298 ( 2433/ 3619 @ 33)
+n3372 ( 2460/ 3619 @ 32)
+n3327 ( 2463/ 3619 @ 29)
+n1976 ( 2474/ 3619 @ 27)
+n3230 ( 2479/ 3619 @ 27)
+n2664 ( 2495/ 3619 @ 166)
+n2987 ( 2522/ 3619 @ 159)
+n3592 ( 2527/ 3619 @ 28)
+n3533 ( 2543/ 3619 @ 31)
+n3493 ( 2559/ 3619 @ 31)
+n2659 ( 2565/ 3619 @ 164)
+n3333 ( 2606/ 3619 @ 33)
+n3167 ( 2653/ 3619 @ 28)
+n3388 ( 2659/ 3619 @ 30)
+n3088 ( 2661/ 3619 @ 29)
+n3370 ( 2662/ 3619 @ 29)
+n3129 ( 2664/ 3619 @ 30)
+n3553 ( 2672/ 3619 @ 31)
+n3576 ( 2673/ 3619 @ 29)
+n3085 ( 2693/ 3619 @ 29)
+n3151 ( 2695/ 3619 @ 29)
+n3001 ( 2699/ 3619 @ 29)
+n3408 ( 2700/ 3619 @ 28)
+n3594 ( 2745/ 3619 @ 30)
+n3108 ( 2758/ 3619 @ 29)
+n3412 ( 2769/ 3619 @ 29)
+n3577 ( 2771/ 3619 @ 30)
+n3489 ( 2783/ 3619 @ 27)
+n3516 ( 2802/ 3619 @ 32)
+n2990 ( 2816/ 3619 @ 162)
+n3346 ( 2823/ 3619 @ 28)
+n3550 ( 2836/ 3619 @ 28)
+n3432 ( 2846/ 3619 @ 29)
+n3373 ( 2849/ 3619 @ 33)
+n3187 ( 2886/ 3619 @ 28)
+n3257 ( 2906/ 3619 @ 32)
+n3450 ( 2911/ 3619 @ 30)
+n3512 ( 2920/ 3619 @ 30)
+n3106 ( 2927/ 3619 @ 30)
+n3090 ( 2928/ 3619 @ 32)
+n3188 ( 2952/ 3619 @ 29)
+n2662 ( 2953/ 3619 @ 160)
+n3452 ( 2977/ 3619 @ 29)
+n3635 ( 2984/ 3619 @ 31)
+n3515 ( 2988/ 3619 @ 30)
+n3387 ( 3014/ 3619 @ 29)
+n3130 ( 3021/ 3619 @ 32)
+n2656 ( 3023/ 3619 @ 161)
+n3000 ( 3040/ 3619 @ 28)
+n3472 ( 3056/ 3619 @ 29)
+n3579 ( 3068/ 3619 @ 33)
+n3168 ( 3074/ 3619 @ 29)
+n3535 ( 3084/ 3619 @ 30)
+n3596 ( 3087/ 3619 @ 29)
+n3331 ( 3098/ 3619 @ 30)
+n3022 ( 3101/ 3619 @ 30)
+n3332 ( 3111/ 3619 @ 32)
+n3071 ( 3126/ 3619 @ 33)
+n3434 ( 3152/ 3619 @ 32)
+n3063 ( 3167/ 3619 @ 27)
+n3190 ( 3185/ 3619 @ 31)
+n3084 ( 3207/ 3619 @ 28)
+n2992 ( 3215/ 3619 @ 169)
+n3619 ( 3235/ 3619 @ 33)
+n3104 ( 3245/ 3619 @ 28)
+n3614 ( 3273/ 3619 @ 30)
+n3171 ( 3283/ 3619 @ 29)
+n3492 ( 3294/ 3619 @ 30)
+n3208 ( 3301/ 3619 @ 29)
+n2648 ( 3314/ 3619 @ 160)
+n3149 ( 3331/ 3619 @ 30)
+n3557 ( 3364/ 3619 @ 33)
+n3040 ( 3365/ 3619 @ 28)
+n3353 ( 3375/ 3619 @ 33)
+n3410 ( 3382/ 3619 @ 30)
+n3127 ( 3385/ 3619 @ 31)
+n2649 ( 3417/ 3619 @ 157)
+n3453 ( 3428/ 3619 @ 30)
+n3153 ( 3448/ 3619 @ 32)
+n3474 ( 3466/ 3619 @ 32)
+n3276 ( 3497/ 3619 @ 30)
+n3411 ( 3499/ 3619 @ 31)
+n3086 ( 3526/ 3619 @ 30)
+n3041 ( 3533/ 3619 @ 29)
+n2982 ( 3539/ 3619 @ 168)
+n3616 ( 3541/ 3619 @ 29)
+n3369 ( 3548/ 3619 @ 31)
+n3005 ( 3556/ 3619 @ 30)
+n2981 ( 3571/ 3619 @ 167)
+n3207 ( 3601/ 3619 @ 28)
+n3235 ( 3606/ 3619 @ 29)
+n3027 ( 3608/ 3619 @ 33)
+n3578 ( 3615/ 3619 @ 32)
+# of candidates : 287
+processing gate: n3392
+processing gate: n3510
+processing gate: n3454
+processing gate: n3534
+processing gate: n3124
+processing gate: n3329
+processing gate: n3067
+processing gate: n3271
+processing gate: n3552
+processing gate: n3275
+processing gate: n3612
+processing gate: n3471
+processing gate: n3004
+processing gate: n3513
+processing gate: n3352
+processing gate: n3044
+processing gate: n3231
+processing gate: n3046
+processing gate: n3146
+processing gate: n3026
+processing gate: n3328
+processing gate: n3042
+processing gate: n3174
+processing gate: n3491
+processing gate: n3210
+processing gate: n3613
+processing gate: n3428
+processing gate: n3024
+processing gate: n3599
+processing gate: n3470
+processing gate: n2663
+processing gate: n3391
+processing gate: n3291
+processing gate: n3597
+processing gate: n2654
+processing gate: n3087
+processing gate: n3639
+processing gate: n3126
+processing gate: n3296
+processing gate: n3573
+processing gate: n3237
+processing gate: n3273
+processing gate: n3496
+processing gate: n2991
+[1] FOUND key=00111101010000101101100001001110010000011
+processing gate: n3292
+processing gate: n3571
+processing gate: n3433
+processing gate: n2661
+processing gate: n3272
+processing gate: n3638
+processing gate: n3618
+processing gate: n3169
+processing gate: n2993
+[1] FOUND key=11000010101111010010011110110001101111100
+processing gate: n3173
+processing gate: n3043
+processing gate: n3065
+processing gate: n3192
+processing gate: n1983
+processing gate: n3473
+processing gate: n3023
+processing gate: n1980
+processing gate: n3572
+processing gate: n3451
+processing gate: n3128
+processing gate: n3435
+processing gate: n3326
+processing gate: n3209
+processing gate: n3532
+processing gate: n3211
+processing gate: n3530
+processing gate: n3636
+processing gate: n3003
+processing gate: n1978
+processing gate: n3238
+processing gate: n3386
+processing gate: n3170
+processing gate: n3448
+processing gate: n3325
+processing gate: n3537
+processing gate: n3475
+processing gate: n3634
+processing gate: n3152
+processing gate: n3413
+processing gate: n3371
+processing gate: n3154
+processing gate: n3514
+processing gate: n3295
+processing gate: n3045
+processing gate: n3091
+processing gate: n3193
+processing gate: n3632
+processing gate: n3293
+processing gate: n3633
+processing gate: n2655
+processing gate: n3393
+processing gate: n3615
+processing gate: n3254
+processing gate: n3455
+processing gate: n3066
+processing gate: n3069
+processing gate: n3367
+processing gate: n3469
+processing gate: n3555
+processing gate: n3497
+processing gate: n3294
+processing gate: n3256
+processing gate: n3253
+processing gate: n3574
+processing gate: n3068
+processing gate: n3109
+processing gate: n3409
+processing gate: n3617
+processing gate: n3495
+processing gate: n2657
+processing gate: n3531
+processing gate: n3431
+processing gate: n3234
+processing gate: n3105
+processing gate: n3390
+processing gate: n3107
+processing gate: n3089
+processing gate: n3593
+processing gate: n3366
+processing gate: n2989
+processing gate: n1977
+processing gate: n3172
+processing gate: n2988
+processing gate: n2658
+processing gate: n3407
+processing gate: n3212
+processing gate: n3554
+processing gate: n3414
+processing gate: n3258
+processing gate: n3110
+processing gate: n3214
+processing gate: n3111
+processing gate: n3389
+processing gate: n3194
+processing gate: n3449
+processing gate: n3430
+processing gate: n3330
+processing gate: n3148
+processing gate: n3278
+processing gate: n3350
+processing gate: n3351
+processing gate: n3347
+processing gate: n3274
+processing gate: n3637
+processing gate: n3070
+processing gate: n3232
+processing gate: n3150
+processing gate: n3575
+processing gate: n3349
+processing gate: n3297
+processing gate: n3536
+processing gate: n3415
+processing gate: n3494
+processing gate: n1982
+processing gate: n3213
+processing gate: n3368
+processing gate: n3598
+processing gate: n3064
+processing gate: n3517
+processing gate: n3131
+processing gate: n3429
+processing gate: n3348
+processing gate: n2647
+processing gate: n3006
+processing gate: n3490
+processing gate: n3191
+processing gate: n3189
+processing gate: n3251
+processing gate: n3021
+processing gate: n3020
+processing gate: n3551
+processing gate: n3002
+processing gate: n3236
+processing gate: n3511
+processing gate: n3007
+processing gate: n3255
+processing gate: n3047
+processing gate: n3277
+processing gate: n3125
+processing gate: n3595
+processing gate: n1981
+processing gate: n3147
+processing gate: n1984
+processing gate: n3556
+processing gate: n3468
+processing gate: n1979
+processing gate: n3233
+processing gate: n3025
+processing gate: n2443
+processing gate: n3252
+processing gate: n3298
+processing gate: n3372
+processing gate: n3327
+processing gate: n1976
+processing gate: n3230
+processing gate: n2664
+processing gate: n2987
+processing gate: n3592
+processing gate: n3533
+processing gate: n3493
+processing gate: n2659
+processing gate: n3333
+processing gate: n3167
+processing gate: n3388
+processing gate: n3088
+processing gate: n3370
+processing gate: n3129
+processing gate: n3553
+processing gate: n3576
+processing gate: n3085
+processing gate: n3151
+processing gate: n3001
+processing gate: n3408
+processing gate: n3594
+processing gate: n3108
+processing gate: n3412
+processing gate: n3577
+processing gate: n3489
+processing gate: n3516
+processing gate: n2990
+[1] FOUND key=11000010101111010010011110110001101111100
+processing gate: n3346
+processing gate: n3550
+processing gate: n3432
+processing gate: n3373
+processing gate: n3187
+processing gate: n3257
+processing gate: n3450
+processing gate: n3512
+processing gate: n3106
+processing gate: n3090
+processing gate: n3188
+processing gate: n2662
+processing gate: n3452
+processing gate: n3635
+processing gate: n3515
+processing gate: n3387
+processing gate: n3130
+processing gate: n2656
+processing gate: n3000
+processing gate: n3472
+processing gate: n3579
+processing gate: n3168
+processing gate: n3535
+processing gate: n3596
+processing gate: n3331
+processing gate: n3022
+processing gate: n3332
+processing gate: n3071
+processing gate: n3434
+processing gate: n3063
+processing gate: n3190
+processing gate: n3084
+processing gate: n2992
+[1] FOUND key=00111101010000101101100001001110010000011
+processing gate: n3619
+processing gate: n3104
+processing gate: n3614
+processing gate: n3171
+processing gate: n3492
+processing gate: n3208
+processing gate: n2648
+processing gate: n3149
+processing gate: n3557
+processing gate: n3040
+processing gate: n3353
+processing gate: n3410
+processing gate: n3127
+processing gate: n2649
+processing gate: n3453
+processing gate: n3153
+processing gate: n3474
+processing gate: n3276
+processing gate: n3411
+processing gate: n3086
+processing gate: n3041
+processing gate: n2982
+[1] FOUND key=11111111111111111111111111111111111111111
+processing gate: n3616
+processing gate: n3369
+processing gate: n3005
+processing gate: n2981
+[1] FOUND key=11111111111111111111111111111111111111111
+processing gate: n3207
+processing gate: n3235
+processing gate: n3027
+processing gate: n3578
+cpu_time 58.6

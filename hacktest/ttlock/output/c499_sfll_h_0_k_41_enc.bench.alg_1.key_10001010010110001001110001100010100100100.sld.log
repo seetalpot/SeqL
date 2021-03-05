@@ -1,0 +1,34 @@
+inputs=41 keys=41 outputs=32 gates=3525
+iteration: 1; vars: 7208; clauses: 4882; decisions: 5537
+iteration: 2; vars: 10701; clauses: 5760; decisions: 7971
+iteration: 3; vars: 14194; clauses: 6527; decisions: 8089
+iteration: 4; vars: 17687; clauses: 10071; decisions: 9134
+iteration: 5; vars: 21180; clauses: 8488; decisions: 9239
+iteration: 6; vars: 24673; clauses: 12032; decisions: 9345
+iteration: 7; vars: 28166; clauses: 9315; decisions: 10167
+iteration: 8; vars: 31659; clauses: 12859; decisions: 10280
+iteration: 9; vars: 35152; clauses: 11191; decisions: 10394
+iteration: 10; vars: 38645; clauses: 14735; decisions: 10875
+iteration: 11; vars: 42138; clauses: 12929; decisions: 10975
+iteration: 12; vars: 45631; clauses: 16473; decisions: 11076
+iteration: 13; vars: 49124; clauses: 20017; decisions: 11387
+iteration: 14; vars: 52617; clauses: 14832; decisions: 11487
+iteration: 15; vars: 56110; clauses: 18376; decisions: 12061
+iteration: 16; vars: 59603; clauses: 21920; decisions: 12170
+iteration: 17; vars: 63096; clauses: 17706; decisions: 12281
+iteration: 18; vars: 66589; clauses: 21250; decisions: 13292
+iteration: 19; vars: 70082; clauses: 24794; decisions: 13415
+iteration: 20; vars: 73575; clauses: 20349; decisions: 13524
+iteration: 21; vars: 77068; clauses: 23893; decisions: 13634
+iteration: 22; vars: 80561; clauses: 27437; decisions: 14561
+iteration: 23; vars: 84054; clauses: 30981; decisions: 14669
+iteration: 24; vars: 87547; clauses: 22937; decisions: 14779
+iteration: 25; vars: 91040; clauses: 26481; decisions: 14892
+iteration: 26; vars: 94533; clauses: 30025; decisions: 15606
+iteration: 27; vars: 98026; clauses: 33569; decisions: 15714
+iteration: 28; vars: 101519; clauses: 26917; decisions: 15827
+iteration: 29; vars: 105012; clauses: 30461; decisions: 15941
+iteration: 30; vars: 108505; clauses: 34005; decisions: 16779
+ERROR: INVALID (incorrect) key provided for verification.
+key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+iteration=30; backbones_count=0; cube_count=511902; cpu_time=4.01866; maxrss=23.582

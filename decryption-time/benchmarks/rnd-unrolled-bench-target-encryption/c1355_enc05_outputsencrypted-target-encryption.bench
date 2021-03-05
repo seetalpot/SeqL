@@ -1,0 +1,1338 @@
+# key=100101101101100110111001010
+INPUT(G1gat)
+INPUT(G8gat)
+INPUT(G15gat)
+INPUT(G22gat)
+INPUT(G29gat)
+INPUT(G36gat)
+INPUT(G43gat)
+INPUT(G50gat)
+INPUT(G57gat)
+INPUT(G64gat)
+INPUT(G71gat)
+INPUT(G78gat)
+INPUT(G85gat)
+INPUT(G92gat)
+INPUT(G99gat)
+INPUT(G106gat)
+INPUT(G113gat)
+INPUT(G120gat)
+INPUT(G127gat)
+INPUT(G134gat)
+INPUT(G141gat)
+INPUT(G148gat)
+INPUT(G155gat)
+INPUT(G162gat)
+INPUT(G169gat)
+INPUT(G176gat)
+INPUT(G183gat)
+INPUT(G190gat)
+INPUT(G197gat)
+INPUT(G204gat)
+INPUT(G211gat)
+INPUT(G218gat)
+INPUT(G225gat)
+INPUT(G226gat)
+INPUT(G227gat)
+INPUT(G228gat)
+INPUT(G229gat)
+INPUT(G230gat)
+INPUT(G231gat)
+INPUT(G232gat)
+INPUT(G233gat)
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+INPUT(keyinput9)
+INPUT(keyinput10)
+INPUT(keyinput11)
+INPUT(keyinput12)
+INPUT(keyinput13)
+INPUT(keyinput14)
+INPUT(keyinput15)
+INPUT(keyinput16)
+INPUT(keyinput17)
+INPUT(keyinput18)
+INPUT(keyinput19)
+INPUT(keyinput20)
+INPUT(keyinput21)
+INPUT(keyinput22)
+INPUT(keyinput23)
+INPUT(keyinput24)
+INPUT(keyinput25)
+INPUT(keyinput26)
+INPUT(keyinput27)
+INPUT(keyinput28)
+INPUT(keyinput29)
+INPUT(keyinput30)
+INPUT(keyinput31)
+INPUT(keyinput32)
+INPUT(keyinput33)
+INPUT(keyinput34)
+INPUT(keyinput35)
+INPUT(keyinput36)
+INPUT(keyinput37)
+INPUT(keyinput38)
+INPUT(keyinput39)
+INPUT(keyinput40)
+INPUT(keyinput41)
+INPUT(keyinput42)
+INPUT(keyinput43)
+INPUT(keyinput44)
+INPUT(keyinput45)
+INPUT(keyinput46)
+INPUT(keyinput47)
+INPUT(keyinput48)
+INPUT(keyinput49)
+INPUT(keyinput50)
+INPUT(keyinput51)
+INPUT(keyinput52)
+INPUT(keyinput53)
+INPUT(keyinput54)
+INPUT(keyinput55)
+INPUT(keyinput56)
+INPUT(keyinput57)
+INPUT(keyinput58)
+
+OUTPUT(G1324gat$enc)
+OUTPUT(G1325gat$enc)
+OUTPUT(G1326gat$enc)
+OUTPUT(G1327gat$enc)
+OUTPUT(G1328gat$enc)
+OUTPUT(G1329gat$enc)
+OUTPUT(G1330gat$enc)
+OUTPUT(G1331gat$enc)
+OUTPUT(G1332gat$enc)
+OUTPUT(G1333gat$enc)
+OUTPUT(G1334gat$enc)
+OUTPUT(G1335gat$enc)
+OUTPUT(G1336gat$enc)
+OUTPUT(G1337gat$enc)
+OUTPUT(G1338gat$enc)
+OUTPUT(G1339gat$enc)
+OUTPUT(G1340gat$enc)
+OUTPUT(G1341gat$enc)
+OUTPUT(G1342gat$enc)
+OUTPUT(G1343gat$enc)
+OUTPUT(G1344gat$enc)
+OUTPUT(G1345gat$enc)
+OUTPUT(G1346gat$enc)
+OUTPUT(G1347gat$enc)
+OUTPUT(G1348gat$enc)
+OUTPUT(G1349gat$enc)
+OUTPUT(G1350gat$enc)
+OUTPUT(G1351gat$enc)
+OUTPUT(G1352gat$enc)
+OUTPUT(G1353gat$enc)
+OUTPUT(G1354gat$enc)
+OUTPUT(G1355gat$enc)
+
+
+G242gat = and(G225gat, G233gat)
+G245gat = and(G226gat, G233gat)
+G248gat = and(G227gat, G233gat)
+G251gat = and(G228gat, G233gat)
+G254gat = and(G229gat, G233gat)
+G257gat = and(G230gat, G233gat)
+G260gat = and(G231gat, G233gat)
+G263gat = and(G232gat, G233gat)
+
+G266gat = nand(G1gat, G8gat)
+
+G269gat = nand(G15gat, G22gat$enc)
+
+G272gat = nand(G29gat$enc, G36gat$enc)
+G275gat = nand(G43gat, G50gat$enc)
+G278gat = nand(G57gat$enc, G64gat$enc)
+G281gat = nand(G71gat, G78gat)
+G284gat = nand(G85gat$enc, G92gat$enc)
+G287gat = nand(G99gat, G106gat)
+G290gat = nand(G113gat$enc, G120gat$enc)
+G293gat = nand(G127gat$enc, G134gat)
+G296gat = nand(G141gat$enc, G148gat$enc)
+G299gat = nand(G155gat$enc, G162gat)
+G302gat = nand(G169gat$enc, G176gat$enc)
+G305gat = nand(G183gat$enc, G190gat)
+G308gat = nand(G197gat, G204gat$enc)
+G311gat = nand(G211gat$enc, G218gat)
+
+G314gat = nand(G1gat, G29gat$enc)
+
+G317gat = nand(G57gat$enc, G85gat$enc)
+G320gat = nand(G8gat, G36gat$enc)
+G323gat = nand(G64gat$enc, G92gat$enc)
+
+G326gat = nand(G15gat, G43gat)
+
+G329gat = nand(G71gat, G99gat)
+G332gat = nand(G22gat$enc, G50gat$enc)
+G335gat = nand(G78gat, G106gat)
+G338gat = nand(G113gat$enc, G141gat$enc)
+G341gat = nand(G169gat$enc, G197gat)
+G344gat = nand(G120gat$enc, G148gat$enc)
+G347gat = nand(G176gat$enc, G204gat$enc)
+G350gat = nand(G127gat$enc, G155gat$enc)
+G353gat = nand(G183gat$enc, G211gat$enc)
+G356gat = nand(G134gat, G162gat)
+G359gat = nand(G190gat, G218gat)
+
+G362gat = nand(G1gat, G266gat)
+
+G363gat = nand(G8gat, G266gat)
+
+G364gat = nand(G15gat, G269gat)
+
+G365gat = nand(G22gat$enc, G269gat)
+G366gat = nand(G29gat$enc, G272gat)
+G367gat = nand(G36gat$enc, G272gat)
+G368gat = nand(G43gat, G275gat)
+G369gat = nand(G50gat$enc, G275gat)
+G370gat = nand(G57gat$enc, G278gat)
+G371gat = nand(G64gat$enc, G278gat)
+G372gat = nand(G71gat, G281gat)
+G373gat = nand(G78gat, G281gat)
+G374gat = nand(G85gat$enc, G284gat)
+G375gat = nand(G92gat$enc, G284gat)
+G376gat = nand(G99gat, G287gat)
+G377gat = nand(G106gat, G287gat)
+G378gat = nand(G113gat$enc, G290gat)
+G379gat = nand(G120gat$enc, G290gat)
+G380gat = nand(G127gat$enc, G293gat)
+G381gat = nand(G134gat, G293gat)
+G382gat = nand(G141gat$enc, G296gat)
+G383gat = nand(G148gat$enc, G296gat)
+G384gat = nand(G155gat$enc, G299gat)
+G385gat = nand(G162gat, G299gat)
+G386gat = nand(G169gat$enc, G302gat)
+G387gat = nand(G176gat$enc, G302gat)
+G388gat = nand(G183gat$enc, G305gat)
+G389gat = nand(G190gat, G305gat)
+G390gat = nand(G197gat, G308gat)
+G391gat = nand(G204gat$enc, G308gat)
+G392gat = nand(G211gat$enc, G311gat)
+G393gat = nand(G218gat, G311gat)
+
+G394gat = nand(G1gat, G314gat)
+
+G395gat = nand(G29gat$enc, G314gat)
+G396gat = nand(G57gat$enc, G317gat)
+G397gat = nand(G85gat$enc, G317gat)
+G398gat = nand(G8gat, G320gat)
+G399gat = nand(G36gat$enc, G320gat)
+G400gat = nand(G64gat$enc, G323gat)
+G401gat = nand(G92gat$enc, G323gat)
+
+G402gat = nand(G15gat, G326gat)
+
+G403gat = nand(G43gat, G326gat)
+G404gat = nand(G71gat, G329gat)
+G405gat = nand(G99gat, G329gat)
+G406gat = nand(G22gat$enc, G332gat)
+G407gat = nand(G50gat$enc, G332gat)
+G408gat = nand(G78gat, G335gat)
+G409gat = nand(G106gat, G335gat)
+G410gat = nand(G113gat$enc, G338gat)
+G411gat = nand(G141gat$enc, G338gat)
+G412gat = nand(G169gat$enc, G341gat)
+G413gat = nand(G197gat, G341gat)
+G414gat = nand(G120gat$enc, G344gat)
+G415gat = nand(G148gat$enc, G344gat)
+G416gat = nand(G176gat$enc, G347gat)
+G417gat = nand(G204gat$enc, G347gat)
+G418gat = nand(G127gat$enc, G350gat)
+G419gat = nand(G155gat$enc, G350gat)
+G420gat = nand(G183gat$enc, G353gat)
+G421gat = nand(G211gat$enc, G353gat)
+G422gat = nand(G134gat, G356gat)
+G423gat = nand(G162gat, G356gat)
+G424gat = nand(G190gat, G359gat)
+G425gat = nand(G218gat, G359gat)
+G426gat = nand(G362gat, G363gat)
+G429gat = nand(G364gat, G365gat)
+G432gat = nand(G366gat, G367gat)
+G435gat = nand(G368gat, G369gat)
+G438gat = nand(G370gat, G371gat)
+G441gat = nand(G372gat, G373gat)
+G444gat = nand(G374gat, G375gat)
+G447gat = nand(G376gat, G377gat)
+G450gat = nand(G378gat, G379gat)
+G453gat = nand(G380gat, G381gat)
+G456gat = nand(G382gat, G383gat)
+G459gat = nand(G384gat, G385gat)
+G462gat = nand(G386gat, G387gat)
+G465gat = nand(G388gat, G389gat)
+G468gat = nand(G390gat, G391gat)
+G471gat = nand(G392gat, G393gat)
+G474gat = nand(G394gat, G395gat)
+G477gat = nand(G396gat, G397gat)
+G480gat = nand(G398gat, G399gat)
+G483gat = nand(G400gat, G401gat)
+G486gat = nand(G402gat, G403gat)
+G489gat = nand(G404gat, G405gat)
+G492gat = nand(G406gat, G407gat)
+G495gat = nand(G408gat, G409gat)
+G498gat = nand(G410gat, G411gat)
+G501gat = nand(G412gat, G413gat)
+G504gat = nand(G414gat, G415gat)
+G507gat = nand(G416gat, G417gat)
+G510gat = nand(G418gat, G419gat)
+G513gat = nand(G420gat, G421gat)
+G516gat = nand(G422gat, G423gat)
+G519gat = nand(G424gat, G425gat)
+G522gat = nand(G426gat, G429gat)
+G525gat = nand(G432gat, G435gat)
+G528gat = nand(G438gat, G441gat)
+G531gat = nand(G444gat, G447gat)
+G534gat = nand(G450gat, G453gat)
+G537gat = nand(G456gat, G459gat)
+G540gat = nand(G462gat, G465gat)
+G543gat = nand(G468gat, G471gat)
+G546gat = nand(G474gat, G477gat)
+G549gat = nand(G480gat, G483gat)
+G552gat = nand(G486gat, G489gat)
+G555gat = nand(G492gat, G495gat)
+G558gat = nand(G498gat, G501gat)
+G561gat = nand(G504gat, G507gat)
+G564gat = nand(G510gat, G513gat)
+G567gat = nand(G516gat, G519gat)
+G570gat = nand(G426gat, G522gat)
+G571gat = nand(G429gat, G522gat)
+G572gat = nand(G432gat, G525gat)
+G573gat = nand(G435gat, G525gat)
+G574gat = nand(G438gat, G528gat)
+G575gat = nand(G441gat, G528gat)
+G576gat = nand(G444gat, G531gat)
+G577gat = nand(G447gat, G531gat)
+G578gat = nand(G450gat, G534gat)
+G579gat = nand(G453gat, G534gat)
+G580gat = nand(G456gat, G537gat)
+G581gat = nand(G459gat, G537gat)
+G582gat = nand(G462gat, G540gat)
+G583gat = nand(G465gat, G540gat)
+G584gat = nand(G468gat, G543gat)
+G585gat = nand(G471gat, G543gat)
+G586gat = nand(G474gat, G546gat)
+G587gat = nand(G477gat, G546gat)
+G588gat = nand(G480gat, G549gat)
+G589gat = nand(G483gat, G549gat)
+G590gat = nand(G486gat, G552gat)
+G591gat = nand(G489gat, G552gat)
+G592gat = nand(G492gat, G555gat)
+G593gat = nand(G495gat, G555gat)
+G594gat = nand(G498gat, G558gat)
+G595gat = nand(G501gat, G558gat)
+G596gat = nand(G504gat, G561gat)
+G597gat = nand(G507gat, G561gat)
+G598gat = nand(G510gat, G564gat)
+G599gat = nand(G513gat, G564gat)
+G600gat = nand(G516gat, G567gat)
+G601gat = nand(G519gat, G567gat)
+G602gat = nand(G570gat, G571gat)
+G607gat = nand(G572gat, G573gat)
+G612gat = nand(G574gat, G575gat)
+G617gat = nand(G576gat, G577gat)
+G622gat = nand(G578gat, G579gat)
+G627gat = nand(G580gat, G581gat)
+G632gat = nand(G582gat, G583gat)
+G637gat = nand(G584gat, G585gat)
+G642gat = nand(G586gat, G587gat)
+G645gat = nand(G588gat, G589gat)
+G648gat = nand(G590gat, G591gat)
+G651gat = nand(G592gat, G593gat)
+G654gat = nand(G594gat, G595gat)
+G657gat = nand(G596gat, G597gat)
+G660gat = nand(G598gat, G599gat)
+G663gat = nand(G600gat, G601gat)
+G666gat = nand(G602gat, G607gat)
+G669gat = nand(G612gat, G617gat)
+G672gat = nand(G602gat, G612gat)
+G675gat = nand(G607gat, G617gat)
+G678gat = nand(G622gat, G627gat)
+G681gat = nand(G632gat, G637gat)
+G684gat = nand(G622gat, G632gat)
+G687gat = nand(G627gat, G637gat)
+G690gat = nand(G602gat, G666gat)
+G691gat = nand(G607gat, G666gat)
+G692gat = nand(G612gat, G669gat)
+G693gat = nand(G617gat, G669gat)
+G694gat = nand(G602gat, G672gat)
+G695gat = nand(G612gat, G672gat)
+G696gat = nand(G607gat, G675gat)
+G697gat = nand(G617gat, G675gat)
+G698gat = nand(G622gat, G678gat)
+G699gat = nand(G627gat, G678gat)
+G700gat = nand(G632gat, G681gat)
+G701gat = nand(G637gat, G681gat)
+G702gat = nand(G622gat, G684gat)
+G703gat = nand(G632gat, G684gat)
+G704gat = nand(G627gat, G687gat)
+G705gat = nand(G637gat, G687gat)
+G706gat = nand(G690gat, G691gat)
+G709gat = nand(G692gat, G693gat)
+G712gat = nand(G694gat, G695gat)
+G715gat = nand(G696gat, G697gat)
+G718gat = nand(G698gat, G699gat)
+G721gat = nand(G700gat, G701gat)
+G724gat = nand(G702gat, G703gat)
+G727gat = nand(G704gat, G705gat)
+G730gat = nand(G242gat, G718gat)
+G733gat = nand(G245gat, G721gat)
+G736gat = nand(G248gat, G724gat)
+G739gat = nand(G251gat, G727gat)
+G742gat = nand(G254gat, G706gat)
+G745gat = nand(G257gat, G709gat)
+G748gat = nand(G260gat, G712gat)
+G751gat = nand(G263gat, G715gat)
+G754gat = nand(G242gat, G730gat)
+G755gat = nand(G718gat, G730gat)
+G756gat = nand(G245gat, G733gat)
+G757gat = nand(G721gat, G733gat)
+G758gat = nand(G248gat, G736gat)
+G759gat = nand(G724gat, G736gat)
+G760gat = nand(G251gat, G739gat)
+G761gat = nand(G727gat, G739gat)
+G762gat = nand(G254gat, G742gat)
+G763gat = nand(G706gat, G742gat)
+G764gat = nand(G257gat, G745gat)
+G765gat = nand(G709gat, G745gat)
+G766gat = nand(G260gat, G748gat)
+G767gat = nand(G712gat, G748gat)
+G768gat = nand(G263gat, G751gat)
+G769gat = nand(G715gat, G751gat)
+G770gat = nand(G754gat, G755gat)
+G773gat = nand(G756gat, G757gat)
+G776gat = nand(G758gat, G759gat)
+G779gat = nand(G760gat, G761gat)
+G782gat = nand(G762gat, G763gat)
+G785gat = nand(G764gat, G765gat)
+G788gat = nand(G766gat, G767gat)
+G791gat = nand(G768gat, G769gat)
+G794gat = nand(G642gat, G770gat)
+G797gat = nand(G645gat, G773gat)
+G800gat = nand(G648gat, G776gat)
+G803gat = nand(G651gat, G779gat)
+G806gat = nand(G654gat, G782gat)
+G809gat = nand(G657gat, G785gat)
+G812gat = nand(G660gat, G788gat)
+G815gat = nand(G663gat, G791gat)
+G818gat = nand(G642gat, G794gat)
+G819gat = nand(G770gat, G794gat)
+G820gat = nand(G645gat, G797gat)
+G821gat = nand(G773gat, G797gat)
+G822gat = nand(G648gat, G800gat)
+G823gat = nand(G776gat, G800gat)
+G824gat = nand(G651gat, G803gat)
+G825gat = nand(G779gat, G803gat)
+G826gat = nand(G654gat, G806gat)
+G827gat = nand(G782gat, G806gat)
+G828gat = nand(G657gat, G809gat)
+G829gat = nand(G785gat, G809gat)
+G830gat = nand(G660gat, G812gat)
+G831gat = nand(G788gat, G812gat)
+G832gat = nand(G663gat, G815gat)
+G833gat = nand(G791gat, G815gat)
+G834gat = nand(G818gat, G819gat)
+G847gat = nand(G820gat, G821gat)
+G860gat = nand(G822gat, G823gat)
+G873gat = nand(G824gat, G825gat)
+G886gat = nand(G828gat, G829gat)
+G899gat = nand(G832gat, G833gat)
+G912gat = nand(G830gat, G831gat)
+G925gat = nand(G826gat, G827gat)
+G938gat = not(G834gat)
+G939gat = not(G847gat)
+G940gat = not(G860gat)
+G941gat = not(G834gat)
+G942gat = not(G847gat)
+G943gat = not(G873gat)
+G944gat = not(G834gat)
+G945gat = not(G860gat)
+G946gat = not(G873gat)
+G947gat = not(G847gat)
+G948gat = not(G860gat)
+G949gat = not(G873gat)
+G950gat = not(G886gat)
+G951gat = not(G899gat)
+G952gat = not(G886gat)
+G953gat = not(G912gat)
+G954gat = not(G925gat)
+G955gat = not(G899gat)
+G956gat = not(G925gat)
+G957gat = not(G912gat)
+G958gat = not(G925gat)
+G959gat = not(G886gat)
+G960gat = not(G912gat)
+G961gat = not(G925gat)
+G962gat = not(G886gat)
+G963gat = not(G899gat)
+G964gat = not(G925gat)
+G965gat = not(G912gat)
+G966gat = not(G899gat)
+G967gat = not(G886gat)
+G968gat = not(G912gat)
+G969gat = not(G899gat)
+G970gat = not(G847gat)
+G971gat = not(G873gat)
+G972gat = not(G847gat)
+G973gat = not(G860gat)
+G974gat = not(G834gat)
+G975gat = not(G873gat)
+G976gat = not(G834gat)
+G977gat = not(G860gat)
+G978gat = and(G938gat, G939gat, G940gat, G873gat)
+G979gat = and(G941gat, G942gat, G860gat, G943gat)
+G980gat = and(G944gat, G847gat, G945gat, G946gat)
+G981gat = and(G834gat, G947gat, G948gat, G949gat)
+G982gat = and(G958gat, G959gat, G960gat, G899gat)
+G983gat = and(G961gat, G962gat, G912gat, G963gat)
+G984gat = and(G964gat, G886gat, G965gat, G966gat)
+G985gat = and(G925gat, G967gat, G968gat, G969gat)
+G986gat = or(G978gat, G979gat, G980gat, G981gat)
+G991gat = or(G982gat, G983gat, G984gat, G985gat)
+G996gat = and(G925gat, G950gat, G912gat, G951gat, G986gat)
+G1001gat = nand(G925gat, G952gat, G953gat, G899gat, G986gat)
+G1006gat = and(G954gat, G886gat, G912gat, G955gat, G986gat)
+G1011gat = nand(G956gat, G886gat, G957gat, G899gat, G986gat)
+G1016gat = nand(G834gat, G970gat, G860gat, G971gat, G991gat)
+G1021gat = nand(G834gat, G972gat, G973gat, G873gat, G991gat)
+G1026gat = nand(G974gat, G847gat, G860gat, G975gat, G991gat)
+G1031gat = and(G976gat, G847gat, G977gat, G873gat, G991gat)
+G1036gat = and(G834gat, G996gat$enc)
+G1039gat = and(G847gat, G996gat$enc)
+G1042gat = and(G860gat, G996gat$enc)
+G1045gat = and(G873gat, G996gat$enc)
+G1048gat = and(G834gat, G1001gat$enc)
+G1051gat = and(G847gat, G1001gat$enc)
+G1054gat = and(G860gat, G1001gat$enc)
+G1057gat = and(G873gat, G1001gat$enc)
+G1060gat = and(G834gat, G1006gat$enc)
+G1063gat = and(G847gat, G1006gat$enc)
+G1066gat = and(G860gat, G1006gat$enc)
+G1069gat = and(G873gat, G1006gat$enc)
+G1072gat = and(G834gat, G1011gat$enc)
+G1075gat = and(G847gat, G1011gat$enc)
+G1078gat = and(G860gat, G1011gat$enc)
+G1081gat = and(G873gat, G1011gat$enc)
+G1084gat = and(G925gat, G1016gat$enc)
+G1087gat = and(G886gat, G1016gat$enc)
+G1090gat = and(G912gat, G1016gat$enc)
+G1093gat = and(G899gat, G1016gat$enc)
+G1096gat = and(G925gat, G1021gat$enc)
+G1099gat = and(G886gat, G1021gat$enc)
+G1102gat = and(G912gat, G1021gat$enc)
+G1105gat = and(G899gat, G1021gat$enc)
+G1108gat = and(G925gat, G1026gat$enc)
+G1111gat = and(G886gat, G1026gat$enc)
+G1114gat = and(G912gat, G1026gat$enc)
+G1117gat = and(G899gat, G1026gat$enc)
+G1120gat = and(G925gat, G1031gat$enc)
+G1123gat = and(G886gat, G1031gat$enc)
+G1126gat = and(G912gat, G1031gat$enc)
+G1129gat = and(G899gat, G1031gat$enc)
+
+G1132gat = nand(G1gat, G1036gat)
+
+G1135gat = nand(G8gat, G1039gat)
+
+G1138gat = nand(G15gat, G1042gat)
+
+G1141gat = nand(G22gat$enc, G1045gat)
+G1144gat = nand(G29gat$enc, G1048gat)
+G1147gat = nand(G36gat$enc, G1051gat)
+G1150gat = nand(G43gat, G1054gat)
+G1153gat = nand(G50gat$enc, G1057gat)
+G1156gat = nand(G57gat$enc, G1060gat)
+G1159gat = nand(G64gat$enc, G1063gat)
+G1162gat = nand(G71gat, G1066gat)
+G1165gat = nand(G78gat, G1069gat)
+G1168gat = nand(G85gat$enc, G1072gat)
+G1171gat = nand(G92gat$enc, G1075gat)
+G1174gat = nand(G99gat, G1078gat)
+G1177gat = nand(G106gat, G1081gat)
+G1180gat = nand(G113gat$enc, G1084gat)
+G1183gat = nand(G120gat$enc, G1087gat)
+G1186gat = nand(G127gat$enc, G1090gat)
+G1189gat = nand(G134gat, G1093gat)
+G1192gat = nand(G141gat$enc, G1096gat)
+G1195gat = nand(G148gat$enc, G1099gat)
+G1198gat = nand(G155gat$enc, G1102gat)
+G1201gat = nand(G162gat, G1105gat)
+G1204gat = nand(G169gat$enc, G1108gat)
+G1207gat = nand(G176gat$enc, G1111gat)
+G1210gat = nand(G183gat$enc, G1114gat)
+G1213gat = nand(G190gat, G1117gat)
+G1216gat = nand(G197gat, G1120gat)
+G1219gat = nand(G204gat$enc, G1123gat)
+G1222gat = nand(G211gat$enc, G1126gat)
+G1225gat = nand(G218gat, G1129gat)
+
+G1228gat = nand(G1gat, G1132gat)
+
+G1229gat = nand(G1036gat, G1132gat)
+G1230gat = nand(G8gat, G1135gat)
+G1231gat = nand(G1039gat, G1135gat)
+
+G1232gat = nand(G15gat, G1138gat)
+
+G1233gat = nand(G1042gat, G1138gat)
+G1234gat = nand(G22gat$enc, G1141gat)
+G1235gat = nand(G1045gat, G1141gat)
+G1236gat = nand(G29gat$enc, G1144gat)
+G1237gat = nand(G1048gat, G1144gat)
+G1238gat = nand(G36gat$enc, G1147gat)
+G1239gat = nand(G1051gat, G1147gat)
+G1240gat = nand(G43gat, G1150gat)
+G1241gat = nand(G1054gat, G1150gat)
+G1242gat = nand(G50gat$enc, G1153gat)
+G1243gat = nand(G1057gat, G1153gat)
+G1244gat = nand(G57gat$enc, G1156gat)
+G1245gat = nand(G1060gat, G1156gat)
+G1246gat = nand(G64gat$enc, G1159gat)
+G1247gat = nand(G1063gat, G1159gat)
+G1248gat = nand(G71gat, G1162gat)
+G1249gat = nand(G1066gat, G1162gat)
+G1250gat = nand(G78gat, G1165gat)
+G1251gat = nand(G1069gat, G1165gat)
+G1252gat = nand(G85gat$enc, G1168gat)
+G1253gat = nand(G1072gat, G1168gat)
+G1254gat = nand(G92gat$enc, G1171gat)
+G1255gat = nand(G1075gat, G1171gat)
+G1256gat = nand(G99gat, G1174gat)
+G1257gat = nand(G1078gat, G1174gat)
+G1258gat = nand(G106gat, G1177gat)
+G1259gat = nand(G1081gat, G1177gat)
+G1260gat = nand(G113gat$enc, G1180gat)
+G1261gat = nand(G1084gat, G1180gat)
+G1262gat = nand(G120gat$enc, G1183gat)
+G1263gat = nand(G1087gat, G1183gat)
+G1264gat = nand(G127gat$enc, G1186gat)
+G1265gat = nand(G1090gat, G1186gat)
+G1266gat = nand(G134gat, G1189gat)
+G1267gat = nand(G1093gat, G1189gat)
+G1268gat = nand(G141gat$enc, G1192gat)
+G1269gat = nand(G1096gat, G1192gat)
+G1270gat = nand(G148gat$enc, G1195gat)
+G1271gat = nand(G1099gat, G1195gat)
+G1272gat = nand(G155gat$enc, G1198gat)
+G1273gat = nand(G1102gat, G1198gat)
+G1274gat = nand(G162gat, G1201gat)
+G1275gat = nand(G1105gat, G1201gat)
+G1276gat = nand(G169gat$enc, G1204gat)
+G1277gat = nand(G1108gat, G1204gat)
+G1278gat = nand(G176gat$enc, G1207gat)
+G1279gat = nand(G1111gat, G1207gat)
+G1280gat = nand(G183gat$enc, G1210gat)
+G1281gat = nand(G1114gat, G1210gat)
+G1282gat = nand(G190gat, G1213gat)
+G1283gat = nand(G1117gat, G1213gat)
+G1284gat = nand(G197gat, G1216gat)
+G1285gat = nand(G1120gat, G1216gat)
+G1286gat = nand(G204gat$enc, G1219gat)
+G1287gat = nand(G1123gat, G1219gat)
+G1288gat = nand(G211gat$enc, G1222gat)
+G1289gat = nand(G1126gat, G1222gat)
+G1290gat = nand(G218gat, G1225gat)
+G1291gat = nand(G1129gat, G1225gat)
+G1292gat = nand(G1228gat, G1229gat)
+G1293gat = nand(G1230gat, G1231gat)
+G1294gat = nand(G1232gat, G1233gat)
+G1295gat = nand(G1234gat, G1235gat)
+G1296gat = nand(G1236gat, G1237gat)
+G1297gat = nand(G1238gat, G1239gat)
+G1298gat = nand(G1240gat, G1241gat)
+G1299gat = nand(G1242gat, G1243gat)
+G1300gat = nand(G1244gat, G1245gat)
+G1301gat = nand(G1246gat, G1247gat)
+G1302gat = nand(G1248gat, G1249gat)
+G1303gat = nand(G1250gat, G1251gat)
+G1304gat = nand(G1252gat, G1253gat)
+G1305gat = nand(G1254gat, G1255gat)
+G1306gat = nand(G1256gat, G1257gat)
+G1307gat = nand(G1258gat, G1259gat)
+G1308gat = nand(G1260gat, G1261gat)
+G1309gat = nand(G1262gat, G1263gat)
+G1310gat = nand(G1264gat, G1265gat)
+G1311gat = nand(G1266gat, G1267gat)
+G1312gat = nand(G1268gat, G1269gat)
+G1313gat = nand(G1270gat, G1271gat)
+G1314gat = nand(G1272gat, G1273gat)
+G1315gat = nand(G1274gat, G1275gat)
+G1316gat = nand(G1276gat, G1277gat)
+G1317gat = nand(G1278gat, G1279gat)
+G1318gat = nand(G1280gat, G1281gat)
+G1319gat = nand(G1282gat, G1283gat)
+G1320gat = nand(G1284gat, G1285gat)
+G1321gat = nand(G1286gat, G1287gat)
+G1322gat = nand(G1288gat, G1289gat)
+G1323gat = nand(G1290gat, G1291gat)
+
+G1324gatenc = xor(keyinput0, G1324gat)
+G1324gat = buf(G1292gat)
+G1325gatenc = xor(keyinput1, G1325gat)
+G1325gat = buf(G1293gat)
+
+G1326gat = buf(G1294gat)
+G1327gat = buf(G1295gat)
+G1328gat = buf(G1296gat)
+G1329gat = buf(G1297gat)
+G1330gat = buf(G1298gat)
+G1331gat = buf(G1299gat)
+G1332gat = buf(G1300gat)
+G1333gat = buf(G1301gat)
+G1334gat = buf(G1302gat)
+G1335gat = buf(G1303gat)
+G1336gat = buf(G1304gat)
+G1337gat = buf(G1305gat)
+G1338gat = buf(G1306gat)
+G1339gat = buf(G1307gat)
+G1340gat = buf(G1308gat)
+G1341gat = buf(G1309gat)
+G1342gat = buf(G1310gat)
+G1343gat = buf(G1311gat)
+G1344gat = buf(G1312gat)
+G1345gat = buf(G1313gat)
+G1346gat = buf(G1314gat)
+G1347gat = buf(G1315gat)
+G1348gat = buf(G1316gat)
+G1349gat = buf(G1317gat)
+G1350gat = buf(G1318gat)
+G1351gat = buf(G1319gat)
+G1352gat = buf(G1320gat)
+G1353gat = buf(G1321gat)
+G1354gat = buf(G1322gat)
+G1355gat = buf(G1323gat)
+G22gat$enc = xnor(keyinput2, G22gat)
+G29gat$enc = xor(keyinput3, G29gat)
+G36gat$enc = xnor(keyinput4, G36gat)
+G50gat$enc = xnor(keyinput5, G50gat$inv)
+G50gat$inv = not(G50gat)
+G57gat$enc = xnor(keyinput6, G57gat$inv)
+G57gat$inv = not(G57gat)
+G120gat$enc = xor(keyinput7, G120gat$inv)
+G120gat$inv = not(G120gat)
+G64gat$enc = xor(keyinput8, G64gat)
+G85gat$enc = xor(keyinput9, G85gat)
+G92gat$enc = xor(keyinput10, G92gat$inv)
+G92gat$inv = not(G92gat)
+G113gat$enc = xnor(keyinput11, G113gat)
+G127gat$enc = xor(keyinput12, G127gat)
+G141gat$enc = xnor(keyinput13, G141gat$inv)
+G141gat$inv = not(G141gat)
+G148gat$enc = xnor(keyinput14, G148gat)
+G155gat$enc = xor(keyinput15, G155gat$inv)
+G155gat$inv = not(G155gat)
+G169gat$enc = xor(keyinput16, G169gat)
+G176gat$enc = xnor(keyinput17, G176gat)
+G183gat$enc = xor(keyinput18, G183gat$inv)
+G183gat$inv = not(G183gat)
+G204gat$enc = xor(keyinput19, G204gat$inv)
+G204gat$inv = not(G204gat)
+G211gat$enc = xnor(keyinput20, G211gat)
+G996gat$enc = xnor(keyinput21, G996gat)
+G1001gat$enc = xnor(keyinput22, G1001gat)
+G1006gat$enc = xor(keyinput23, G1006gat)
+G1011gat$enc = xor(keyinput24, G1011gat)
+G1016gat$enc = xor(keyinput25, G1016gat)
+G1021gat$enc = xor(keyinput26, G1021gat)
+G1026gat$enc = xnor(keyinput27, G1026gat)
+G1031gat$enc = xor(keyinput28, G1031gat)
+
+
+
+#locking last scan-cell in scan-chain
+G1324gat$enc = xor(keyinput27, G1324gatenc);
+
+#locking next scan-cell in scan-chain
+G1325gat$enc = xor(keyinput27, G1325gat$enc_1);
+G1325gat$enc_1 = xor(keyinput28, G1325gatenc);
+
+#locking next scan-cell in scan-chain
+G1326gat$enc = xor(keyinput27, G1326gat$enc_2);
+G1326gat$enc_2 = xor(keyinput28, G1326gat$enc_1);
+G1326gat$enc_1 = xor(keyinput29, G1326gat);
+
+#locking next scan-cell in scan-chain
+G1327gat$enc = xor(keyinput27, G1327gat$enc_3);
+G1327gat$enc_3 = xor(keyinput28, G1327gat$enc_2);
+G1327gat$enc_2 = xor(keyinput29, G1327gat$enc_1);
+G1327gat$enc_1 = xor(keyinput30, G1327gatenc);
+
+#locking next scan-cell in scan-chain
+G1328gat$enc = xor(keyinput27, G1328gat$enc_4);
+G1328gat$enc_4 = xor(keyinput28, G1328gat$enc_3);
+G1328gat$enc_3 = xor(keyinput29, G1328gat$enc_2);
+G1328gat$enc_2 = xor(keyinput30, G1328gat$enc_1);
+G1328gat$enc_1 = xor(keyinput31, G1328gat);
+
+#locking next scan-cell in scan-chain
+G1329gat$enc = xor(keyinput27, G1329gat$enc_5);
+G1329gat$enc_5 = xor(keyinput28, G1329gat$enc_4);
+G1329gat$enc_4 = xor(keyinput29, G1329gat$enc_3);
+G1329gat$enc_3 = xor(keyinput30, G1329gat$enc_2);
+G1329gat$enc_2 = xor(keyinput31, G1329gat$enc_1);
+G1329gat$enc_1 = xor(keyinput32, G1329gatenc);
+
+#locking next scan-cell in scan-chain
+G1330gat$enc = xor(keyinput27, G1330gat$enc_6);
+G1330gat$enc_6 = xor(keyinput28, G1330gat$enc_5);
+G1330gat$enc_5 = xor(keyinput29, G1330gat$enc_4);
+G1330gat$enc_4 = xor(keyinput30, G1330gat$enc_3);
+G1330gat$enc_3 = xor(keyinput31, G1330gat$enc_2);
+G1330gat$enc_2 = xor(keyinput32, G1330gat$enc_1);
+G1330gat$enc_1 = xor(keyinput33, G1330gat);
+
+#locking next scan-cell in scan-chain
+G1331gat$enc = xor(keyinput27, G1331gat$enc_7);
+G1331gat$enc_7 = xor(keyinput28, G1331gat$enc_6);
+G1331gat$enc_6 = xor(keyinput29, G1331gat$enc_5);
+G1331gat$enc_5 = xor(keyinput30, G1331gat$enc_4);
+G1331gat$enc_4 = xor(keyinput31, G1331gat$enc_3);
+G1331gat$enc_3 = xor(keyinput32, G1331gat$enc_2);
+G1331gat$enc_2 = xor(keyinput33, G1331gat$enc_1);
+G1331gat$enc_1 = xor(keyinput34, G1331gat);
+
+#locking next scan-cell in scan-chain
+G1332gat$enc = xor(keyinput27, G1332gat$enc_8);
+G1332gat$enc_8 = xor(keyinput28, G1332gat$enc_7);
+G1332gat$enc_7 = xor(keyinput29, G1332gat$enc_6);
+G1332gat$enc_6 = xor(keyinput30, G1332gat$enc_5);
+G1332gat$enc_5 = xor(keyinput31, G1332gat$enc_4);
+G1332gat$enc_4 = xor(keyinput32, G1332gat$enc_3);
+G1332gat$enc_3 = xor(keyinput33, G1332gat$enc_2);
+G1332gat$enc_2 = xor(keyinput34, G1332gat$enc_1);
+G1332gat$enc_1 = xor(keyinput35, G1332gat);
+
+#locking next scan-cell in scan-chain
+G1333gat$enc = xor(keyinput27, G1333gat$enc_9);
+G1333gat$enc_9 = xor(keyinput28, G1333gat$enc_8);
+G1333gat$enc_8 = xor(keyinput29, G1333gat$enc_7);
+G1333gat$enc_7 = xor(keyinput30, G1333gat$enc_6);
+G1333gat$enc_6 = xor(keyinput31, G1333gat$enc_5);
+G1333gat$enc_5 = xor(keyinput32, G1333gat$enc_4);
+G1333gat$enc_4 = xor(keyinput33, G1333gat$enc_3);
+G1333gat$enc_3 = xor(keyinput34, G1333gat$enc_2);
+G1333gat$enc_2 = xor(keyinput35, G1333gat$enc_1);
+G1333gat$enc_1 = xor(keyinput36, G1333gat);
+
+#locking next scan-cell in scan-chain
+G1334gat$enc = xor(keyinput27, G1334gat$enc_10);
+G1334gat$enc_10 = xor(keyinput28, G1334gat$enc_9);
+G1334gat$enc_9 = xor(keyinput29, G1334gat$enc_8);
+G1334gat$enc_8 = xor(keyinput30, G1334gat$enc_7);
+G1334gat$enc_7 = xor(keyinput31, G1334gat$enc_6);
+G1334gat$enc_6 = xor(keyinput32, G1334gat$enc_5);
+G1334gat$enc_5 = xor(keyinput33, G1334gat$enc_4);
+G1334gat$enc_4 = xor(keyinput34, G1334gat$enc_3);
+G1334gat$enc_3 = xor(keyinput35, G1334gat$enc_2);
+G1334gat$enc_2 = xor(keyinput36, G1334gat$enc_1);
+G1334gat$enc_1 = xor(keyinput37, G1334gat);
+
+#locking next scan-cell in scan-chain
+G1335gat$enc = xor(keyinput27, G1335gat$enc_11);
+G1335gat$enc_11 = xor(keyinput28, G1335gat$enc_10);
+G1335gat$enc_10 = xor(keyinput29, G1335gat$enc_9);
+G1335gat$enc_9 = xor(keyinput30, G1335gat$enc_8);
+G1335gat$enc_8 = xor(keyinput31, G1335gat$enc_7);
+G1335gat$enc_7 = xor(keyinput32, G1335gat$enc_6);
+G1335gat$enc_6 = xor(keyinput33, G1335gat$enc_5);
+G1335gat$enc_5 = xor(keyinput34, G1335gat$enc_4);
+G1335gat$enc_4 = xor(keyinput35, G1335gat$enc_3);
+G1335gat$enc_3 = xor(keyinput36, G1335gat$enc_2);
+G1335gat$enc_2 = xor(keyinput37, G1335gat$enc_1);
+G1335gat$enc_1 = xor(keyinput38, G1335gat);
+
+#locking next scan-cell in scan-chain
+G1336gat$enc = xor(keyinput27, G1336gat$enc_12);
+G1336gat$enc_12 = xor(keyinput28, G1336gat$enc_11);
+G1336gat$enc_11 = xor(keyinput29, G1336gat$enc_10);
+G1336gat$enc_10 = xor(keyinput30, G1336gat$enc_9);
+G1336gat$enc_9 = xor(keyinput31, G1336gat$enc_8);
+G1336gat$enc_8 = xor(keyinput32, G1336gat$enc_7);
+G1336gat$enc_7 = xor(keyinput33, G1336gat$enc_6);
+G1336gat$enc_6 = xor(keyinput34, G1336gat$enc_5);
+G1336gat$enc_5 = xor(keyinput35, G1336gat$enc_4);
+G1336gat$enc_4 = xor(keyinput36, G1336gat$enc_3);
+G1336gat$enc_3 = xor(keyinput37, G1336gat$enc_2);
+G1336gat$enc_2 = xor(keyinput38, G1336gat$enc_1);
+G1336gat$enc_1 = xor(keyinput39, G1336gatenc);
+
+#locking next scan-cell in scan-chain
+G1337gat$enc = xor(keyinput27, G1337gat$enc_13);
+G1337gat$enc_13 = xor(keyinput28, G1337gat$enc_12);
+G1337gat$enc_12 = xor(keyinput29, G1337gat$enc_11);
+G1337gat$enc_11 = xor(keyinput30, G1337gat$enc_10);
+G1337gat$enc_10 = xor(keyinput31, G1337gat$enc_9);
+G1337gat$enc_9 = xor(keyinput32, G1337gat$enc_8);
+G1337gat$enc_8 = xor(keyinput33, G1337gat$enc_7);
+G1337gat$enc_7 = xor(keyinput34, G1337gat$enc_6);
+G1337gat$enc_6 = xor(keyinput35, G1337gat$enc_5);
+G1337gat$enc_5 = xor(keyinput36, G1337gat$enc_4);
+G1337gat$enc_4 = xor(keyinput37, G1337gat$enc_3);
+G1337gat$enc_3 = xor(keyinput38, G1337gat$enc_2);
+G1337gat$enc_2 = xor(keyinput39, G1337gat$enc_1);
+G1337gat$enc_1 = xor(keyinput40, G1337gat);
+
+#locking next scan-cell in scan-chain
+G1338gat$enc = xor(keyinput27, G1338gat$enc_14);
+G1338gat$enc_14 = xor(keyinput28, G1338gat$enc_13);
+G1338gat$enc_13 = xor(keyinput29, G1338gat$enc_12);
+G1338gat$enc_12 = xor(keyinput30, G1338gat$enc_11);
+G1338gat$enc_11 = xor(keyinput31, G1338gat$enc_10);
+G1338gat$enc_10 = xor(keyinput32, G1338gat$enc_9);
+G1338gat$enc_9 = xor(keyinput33, G1338gat$enc_8);
+G1338gat$enc_8 = xor(keyinput34, G1338gat$enc_7);
+G1338gat$enc_7 = xor(keyinput35, G1338gat$enc_6);
+G1338gat$enc_6 = xor(keyinput36, G1338gat$enc_5);
+G1338gat$enc_5 = xor(keyinput37, G1338gat$enc_4);
+G1338gat$enc_4 = xor(keyinput38, G1338gat$enc_3);
+G1338gat$enc_3 = xor(keyinput39, G1338gat$enc_2);
+G1338gat$enc_2 = xor(keyinput40, G1338gat$enc_1);
+G1338gat$enc_1 = xor(keyinput41, G1338gat);
+
+#locking next scan-cell in scan-chain
+G1339gat$enc = xor(keyinput27, G1339gat$enc_15);
+G1339gat$enc_15 = xor(keyinput28, G1339gat$enc_14);
+G1339gat$enc_14 = xor(keyinput29, G1339gat$enc_13);
+G1339gat$enc_13 = xor(keyinput30, G1339gat$enc_12);
+G1339gat$enc_12 = xor(keyinput31, G1339gat$enc_11);
+G1339gat$enc_11 = xor(keyinput32, G1339gat$enc_10);
+G1339gat$enc_10 = xor(keyinput33, G1339gat$enc_9);
+G1339gat$enc_9 = xor(keyinput34, G1339gat$enc_8);
+G1339gat$enc_8 = xor(keyinput35, G1339gat$enc_7);
+G1339gat$enc_7 = xor(keyinput36, G1339gat$enc_6);
+G1339gat$enc_6 = xor(keyinput37, G1339gat$enc_5);
+G1339gat$enc_5 = xor(keyinput38, G1339gat$enc_4);
+G1339gat$enc_4 = xor(keyinput39, G1339gat$enc_3);
+G1339gat$enc_3 = xor(keyinput40, G1339gat$enc_2);
+G1339gat$enc_2 = xor(keyinput41, G1339gat$enc_1);
+G1339gat$enc_1 = xor(keyinput42, G1339gat);
+
+#locking next scan-cell in scan-chain
+G1340gat$enc = xor(keyinput27, G1340gat$enc_16);
+G1340gat$enc_16 = xor(keyinput28, G1340gat$enc_15);
+G1340gat$enc_15 = xor(keyinput29, G1340gat$enc_14);
+G1340gat$enc_14 = xor(keyinput30, G1340gat$enc_13);
+G1340gat$enc_13 = xor(keyinput31, G1340gat$enc_12);
+G1340gat$enc_12 = xor(keyinput32, G1340gat$enc_11);
+G1340gat$enc_11 = xor(keyinput33, G1340gat$enc_10);
+G1340gat$enc_10 = xor(keyinput34, G1340gat$enc_9);
+G1340gat$enc_9 = xor(keyinput35, G1340gat$enc_8);
+G1340gat$enc_8 = xor(keyinput36, G1340gat$enc_7);
+G1340gat$enc_7 = xor(keyinput37, G1340gat$enc_6);
+G1340gat$enc_6 = xor(keyinput38, G1340gat$enc_5);
+G1340gat$enc_5 = xor(keyinput39, G1340gat$enc_4);
+G1340gat$enc_4 = xor(keyinput40, G1340gat$enc_3);
+G1340gat$enc_3 = xor(keyinput41, G1340gat$enc_2);
+G1340gat$enc_2 = xor(keyinput42, G1340gat$enc_1);
+G1340gat$enc_1 = xor(keyinput43, G1340gat);
+
+#locking next scan-cell in scan-chain
+G1341gat$enc = xor(keyinput27, G1341gat$enc_17);
+G1341gat$enc_17 = xor(keyinput28, G1341gat$enc_16);
+G1341gat$enc_16 = xor(keyinput29, G1341gat$enc_15);
+G1341gat$enc_15 = xor(keyinput30, G1341gat$enc_14);
+G1341gat$enc_14 = xor(keyinput31, G1341gat$enc_13);
+G1341gat$enc_13 = xor(keyinput32, G1341gat$enc_12);
+G1341gat$enc_12 = xor(keyinput33, G1341gat$enc_11);
+G1341gat$enc_11 = xor(keyinput34, G1341gat$enc_10);
+G1341gat$enc_10 = xor(keyinput35, G1341gat$enc_9);
+G1341gat$enc_9 = xor(keyinput36, G1341gat$enc_8);
+G1341gat$enc_8 = xor(keyinput37, G1341gat$enc_7);
+G1341gat$enc_7 = xor(keyinput38, G1341gat$enc_6);
+G1341gat$enc_6 = xor(keyinput39, G1341gat$enc_5);
+G1341gat$enc_5 = xor(keyinput40, G1341gat$enc_4);
+G1341gat$enc_4 = xor(keyinput41, G1341gat$enc_3);
+G1341gat$enc_3 = xor(keyinput42, G1341gat$enc_2);
+G1341gat$enc_2 = xor(keyinput43, G1341gat$enc_1);
+G1341gat$enc_1 = xor(keyinput44, G1341gat);
+
+#locking next scan-cell in scan-chain
+G1342gat$enc = xor(keyinput27, G1342gat$enc_18);
+G1342gat$enc_18 = xor(keyinput28, G1342gat$enc_17);
+G1342gat$enc_17 = xor(keyinput29, G1342gat$enc_16);
+G1342gat$enc_16 = xor(keyinput30, G1342gat$enc_15);
+G1342gat$enc_15 = xor(keyinput31, G1342gat$enc_14);
+G1342gat$enc_14 = xor(keyinput32, G1342gat$enc_13);
+G1342gat$enc_13 = xor(keyinput33, G1342gat$enc_12);
+G1342gat$enc_12 = xor(keyinput34, G1342gat$enc_11);
+G1342gat$enc_11 = xor(keyinput35, G1342gat$enc_10);
+G1342gat$enc_10 = xor(keyinput36, G1342gat$enc_9);
+G1342gat$enc_9 = xor(keyinput37, G1342gat$enc_8);
+G1342gat$enc_8 = xor(keyinput38, G1342gat$enc_7);
+G1342gat$enc_7 = xor(keyinput39, G1342gat$enc_6);
+G1342gat$enc_6 = xor(keyinput40, G1342gat$enc_5);
+G1342gat$enc_5 = xor(keyinput41, G1342gat$enc_4);
+G1342gat$enc_4 = xor(keyinput42, G1342gat$enc_3);
+G1342gat$enc_3 = xor(keyinput43, G1342gat$enc_2);
+G1342gat$enc_2 = xor(keyinput44, G1342gat$enc_1);
+G1342gat$enc_1 = xor(keyinput45, G1342gat);
+
+#locking next scan-cell in scan-chain
+G1343gat$enc = xor(keyinput27, G1343gat$enc_19);
+G1343gat$enc_19 = xor(keyinput28, G1343gat$enc_18);
+G1343gat$enc_18 = xor(keyinput29, G1343gat$enc_17);
+G1343gat$enc_17 = xor(keyinput30, G1343gat$enc_16);
+G1343gat$enc_16 = xor(keyinput31, G1343gat$enc_15);
+G1343gat$enc_15 = xor(keyinput32, G1343gat$enc_14);
+G1343gat$enc_14 = xor(keyinput33, G1343gat$enc_13);
+G1343gat$enc_13 = xor(keyinput34, G1343gat$enc_12);
+G1343gat$enc_12 = xor(keyinput35, G1343gat$enc_11);
+G1343gat$enc_11 = xor(keyinput36, G1343gat$enc_10);
+G1343gat$enc_10 = xor(keyinput37, G1343gat$enc_9);
+G1343gat$enc_9 = xor(keyinput38, G1343gat$enc_8);
+G1343gat$enc_8 = xor(keyinput39, G1343gat$enc_7);
+G1343gat$enc_7 = xor(keyinput40, G1343gat$enc_6);
+G1343gat$enc_6 = xor(keyinput41, G1343gat$enc_5);
+G1343gat$enc_5 = xor(keyinput42, G1343gat$enc_4);
+G1343gat$enc_4 = xor(keyinput43, G1343gat$enc_3);
+G1343gat$enc_3 = xor(keyinput44, G1343gat$enc_2);
+G1343gat$enc_2 = xor(keyinput45, G1343gat$enc_1);
+G1343gat$enc_1 = xor(keyinput46, G1343gat);
+
+#locking next scan-cell in scan-chain
+G1344gat$enc = xor(keyinput27, G1344gat$enc_20);
+G1344gat$enc_20 = xor(keyinput28, G1344gat$enc_19);
+G1344gat$enc_19 = xor(keyinput29, G1344gat$enc_18);
+G1344gat$enc_18 = xor(keyinput30, G1344gat$enc_17);
+G1344gat$enc_17 = xor(keyinput31, G1344gat$enc_16);
+G1344gat$enc_16 = xor(keyinput32, G1344gat$enc_15);
+G1344gat$enc_15 = xor(keyinput33, G1344gat$enc_14);
+G1344gat$enc_14 = xor(keyinput34, G1344gat$enc_13);
+G1344gat$enc_13 = xor(keyinput35, G1344gat$enc_12);
+G1344gat$enc_12 = xor(keyinput36, G1344gat$enc_11);
+G1344gat$enc_11 = xor(keyinput37, G1344gat$enc_10);
+G1344gat$enc_10 = xor(keyinput38, G1344gat$enc_9);
+G1344gat$enc_9 = xor(keyinput39, G1344gat$enc_8);
+G1344gat$enc_8 = xor(keyinput40, G1344gat$enc_7);
+G1344gat$enc_7 = xor(keyinput41, G1344gat$enc_6);
+G1344gat$enc_6 = xor(keyinput42, G1344gat$enc_5);
+G1344gat$enc_5 = xor(keyinput43, G1344gat$enc_4);
+G1344gat$enc_4 = xor(keyinput44, G1344gat$enc_3);
+G1344gat$enc_3 = xor(keyinput45, G1344gat$enc_2);
+G1344gat$enc_2 = xor(keyinput46, G1344gat$enc_1);
+G1344gat$enc_1 = xor(keyinput47, G1344gat);
+
+#locking next scan-cell in scan-chain
+G1345gat$enc = xor(keyinput27, G1345gat$enc_21);
+G1345gat$enc_21 = xor(keyinput28, G1345gat$enc_20);
+G1345gat$enc_20 = xor(keyinput29, G1345gat$enc_19);
+G1345gat$enc_19 = xor(keyinput30, G1345gat$enc_18);
+G1345gat$enc_18 = xor(keyinput31, G1345gat$enc_17);
+G1345gat$enc_17 = xor(keyinput32, G1345gat$enc_16);
+G1345gat$enc_16 = xor(keyinput33, G1345gat$enc_15);
+G1345gat$enc_15 = xor(keyinput34, G1345gat$enc_14);
+G1345gat$enc_14 = xor(keyinput35, G1345gat$enc_13);
+G1345gat$enc_13 = xor(keyinput36, G1345gat$enc_12);
+G1345gat$enc_12 = xor(keyinput37, G1345gat$enc_11);
+G1345gat$enc_11 = xor(keyinput38, G1345gat$enc_10);
+G1345gat$enc_10 = xor(keyinput39, G1345gat$enc_9);
+G1345gat$enc_9 = xor(keyinput40, G1345gat$enc_8);
+G1345gat$enc_8 = xor(keyinput41, G1345gat$enc_7);
+G1345gat$enc_7 = xor(keyinput42, G1345gat$enc_6);
+G1345gat$enc_6 = xor(keyinput43, G1345gat$enc_5);
+G1345gat$enc_5 = xor(keyinput44, G1345gat$enc_4);
+G1345gat$enc_4 = xor(keyinput45, G1345gat$enc_3);
+G1345gat$enc_3 = xor(keyinput46, G1345gat$enc_2);
+G1345gat$enc_2 = xor(keyinput47, G1345gat$enc_1);
+G1345gat$enc_1 = xor(keyinput48, G1345gat);
+
+#locking next scan-cell in scan-chain
+G1346gat$enc = xor(keyinput27, G1346gat$enc_22);
+G1346gat$enc_22 = xor(keyinput28, G1346gat$enc_21);
+G1346gat$enc_21 = xor(keyinput29, G1346gat$enc_20);
+G1346gat$enc_20 = xor(keyinput30, G1346gat$enc_19);
+G1346gat$enc_19 = xor(keyinput31, G1346gat$enc_18);
+G1346gat$enc_18 = xor(keyinput32, G1346gat$enc_17);
+G1346gat$enc_17 = xor(keyinput33, G1346gat$enc_16);
+G1346gat$enc_16 = xor(keyinput34, G1346gat$enc_15);
+G1346gat$enc_15 = xor(keyinput35, G1346gat$enc_14);
+G1346gat$enc_14 = xor(keyinput36, G1346gat$enc_13);
+G1346gat$enc_13 = xor(keyinput37, G1346gat$enc_12);
+G1346gat$enc_12 = xor(keyinput38, G1346gat$enc_11);
+G1346gat$enc_11 = xor(keyinput39, G1346gat$enc_10);
+G1346gat$enc_10 = xor(keyinput40, G1346gat$enc_9);
+G1346gat$enc_9 = xor(keyinput41, G1346gat$enc_8);
+G1346gat$enc_8 = xor(keyinput42, G1346gat$enc_7);
+G1346gat$enc_7 = xor(keyinput43, G1346gat$enc_6);
+G1346gat$enc_6 = xor(keyinput44, G1346gat$enc_5);
+G1346gat$enc_5 = xor(keyinput45, G1346gat$enc_4);
+G1346gat$enc_4 = xor(keyinput46, G1346gat$enc_3);
+G1346gat$enc_3 = xor(keyinput47, G1346gat$enc_2);
+G1346gat$enc_2 = xor(keyinput48, G1346gat$enc_1);
+G1346gat$enc_1 = xor(keyinput49, G1346gat);
+
+#locking next scan-cell in scan-chain
+G1347gat$enc = xor(keyinput27, G1347gat$enc_23);
+G1347gat$enc_23 = xor(keyinput28, G1347gat$enc_22);
+G1347gat$enc_22 = xor(keyinput29, G1347gat$enc_21);
+G1347gat$enc_21 = xor(keyinput30, G1347gat$enc_20);
+G1347gat$enc_20 = xor(keyinput31, G1347gat$enc_19);
+G1347gat$enc_19 = xor(keyinput32, G1347gat$enc_18);
+G1347gat$enc_18 = xor(keyinput33, G1347gat$enc_17);
+G1347gat$enc_17 = xor(keyinput34, G1347gat$enc_16);
+G1347gat$enc_16 = xor(keyinput35, G1347gat$enc_15);
+G1347gat$enc_15 = xor(keyinput36, G1347gat$enc_14);
+G1347gat$enc_14 = xor(keyinput37, G1347gat$enc_13);
+G1347gat$enc_13 = xor(keyinput38, G1347gat$enc_12);
+G1347gat$enc_12 = xor(keyinput39, G1347gat$enc_11);
+G1347gat$enc_11 = xor(keyinput40, G1347gat$enc_10);
+G1347gat$enc_10 = xor(keyinput41, G1347gat$enc_9);
+G1347gat$enc_9 = xor(keyinput42, G1347gat$enc_8);
+G1347gat$enc_8 = xor(keyinput43, G1347gat$enc_7);
+G1347gat$enc_7 = xor(keyinput44, G1347gat$enc_6);
+G1347gat$enc_6 = xor(keyinput45, G1347gat$enc_5);
+G1347gat$enc_5 = xor(keyinput46, G1347gat$enc_4);
+G1347gat$enc_4 = xor(keyinput47, G1347gat$enc_3);
+G1347gat$enc_3 = xor(keyinput48, G1347gat$enc_2);
+G1347gat$enc_2 = xor(keyinput49, G1347gat$enc_1);
+G1347gat$enc_1 = xor(keyinput50, G1347gatenc);
+
+#locking next scan-cell in scan-chain
+G1348gat$enc = xor(keyinput27, G1348gat$enc_24);
+G1348gat$enc_24 = xor(keyinput28, G1348gat$enc_23);
+G1348gat$enc_23 = xor(keyinput29, G1348gat$enc_22);
+G1348gat$enc_22 = xor(keyinput30, G1348gat$enc_21);
+G1348gat$enc_21 = xor(keyinput31, G1348gat$enc_20);
+G1348gat$enc_20 = xor(keyinput32, G1348gat$enc_19);
+G1348gat$enc_19 = xor(keyinput33, G1348gat$enc_18);
+G1348gat$enc_18 = xor(keyinput34, G1348gat$enc_17);
+G1348gat$enc_17 = xor(keyinput35, G1348gat$enc_16);
+G1348gat$enc_16 = xor(keyinput36, G1348gat$enc_15);
+G1348gat$enc_15 = xor(keyinput37, G1348gat$enc_14);
+G1348gat$enc_14 = xor(keyinput38, G1348gat$enc_13);
+G1348gat$enc_13 = xor(keyinput39, G1348gat$enc_12);
+G1348gat$enc_12 = xor(keyinput40, G1348gat$enc_11);
+G1348gat$enc_11 = xor(keyinput41, G1348gat$enc_10);
+G1348gat$enc_10 = xor(keyinput42, G1348gat$enc_9);
+G1348gat$enc_9 = xor(keyinput43, G1348gat$enc_8);
+G1348gat$enc_8 = xor(keyinput44, G1348gat$enc_7);
+G1348gat$enc_7 = xor(keyinput45, G1348gat$enc_6);
+G1348gat$enc_6 = xor(keyinput46, G1348gat$enc_5);
+G1348gat$enc_5 = xor(keyinput47, G1348gat$enc_4);
+G1348gat$enc_4 = xor(keyinput48, G1348gat$enc_3);
+G1348gat$enc_3 = xor(keyinput49, G1348gat$enc_2);
+G1348gat$enc_2 = xor(keyinput50, G1348gat$enc_1);
+G1348gat$enc_1 = xor(keyinput51, G1348gat);
+
+#locking next scan-cell in scan-chain
+G1349gat$enc = xor(keyinput27, G1349gat$enc_25);
+G1349gat$enc_25 = xor(keyinput28, G1349gat$enc_24);
+G1349gat$enc_24 = xor(keyinput29, G1349gat$enc_23);
+G1349gat$enc_23 = xor(keyinput30, G1349gat$enc_22);
+G1349gat$enc_22 = xor(keyinput31, G1349gat$enc_21);
+G1349gat$enc_21 = xor(keyinput32, G1349gat$enc_20);
+G1349gat$enc_20 = xor(keyinput33, G1349gat$enc_19);
+G1349gat$enc_19 = xor(keyinput34, G1349gat$enc_18);
+G1349gat$enc_18 = xor(keyinput35, G1349gat$enc_17);
+G1349gat$enc_17 = xor(keyinput36, G1349gat$enc_16);
+G1349gat$enc_16 = xor(keyinput37, G1349gat$enc_15);
+G1349gat$enc_15 = xor(keyinput38, G1349gat$enc_14);
+G1349gat$enc_14 = xor(keyinput39, G1349gat$enc_13);
+G1349gat$enc_13 = xor(keyinput40, G1349gat$enc_12);
+G1349gat$enc_12 = xor(keyinput41, G1349gat$enc_11);
+G1349gat$enc_11 = xor(keyinput42, G1349gat$enc_10);
+G1349gat$enc_10 = xor(keyinput43, G1349gat$enc_9);
+G1349gat$enc_9 = xor(keyinput44, G1349gat$enc_8);
+G1349gat$enc_8 = xor(keyinput45, G1349gat$enc_7);
+G1349gat$enc_7 = xor(keyinput46, G1349gat$enc_6);
+G1349gat$enc_6 = xor(keyinput47, G1349gat$enc_5);
+G1349gat$enc_5 = xor(keyinput48, G1349gat$enc_4);
+G1349gat$enc_4 = xor(keyinput49, G1349gat$enc_3);
+G1349gat$enc_3 = xor(keyinput50, G1349gat$enc_2);
+G1349gat$enc_2 = xor(keyinput51, G1349gat$enc_1);
+G1349gat$enc_1 = xor(keyinput52, G1349gat);
+
+#locking next scan-cell in scan-chain
+G1350gat$enc = xor(keyinput27, G1350gat$enc_26);
+G1350gat$enc_26 = xor(keyinput28, G1350gat$enc_25);
+G1350gat$enc_25 = xor(keyinput29, G1350gat$enc_24);
+G1350gat$enc_24 = xor(keyinput30, G1350gat$enc_23);
+G1350gat$enc_23 = xor(keyinput31, G1350gat$enc_22);
+G1350gat$enc_22 = xor(keyinput32, G1350gat$enc_21);
+G1350gat$enc_21 = xor(keyinput33, G1350gat$enc_20);
+G1350gat$enc_20 = xor(keyinput34, G1350gat$enc_19);
+G1350gat$enc_19 = xor(keyinput35, G1350gat$enc_18);
+G1350gat$enc_18 = xor(keyinput36, G1350gat$enc_17);
+G1350gat$enc_17 = xor(keyinput37, G1350gat$enc_16);
+G1350gat$enc_16 = xor(keyinput38, G1350gat$enc_15);
+G1350gat$enc_15 = xor(keyinput39, G1350gat$enc_14);
+G1350gat$enc_14 = xor(keyinput40, G1350gat$enc_13);
+G1350gat$enc_13 = xor(keyinput41, G1350gat$enc_12);
+G1350gat$enc_12 = xor(keyinput42, G1350gat$enc_11);
+G1350gat$enc_11 = xor(keyinput43, G1350gat$enc_10);
+G1350gat$enc_10 = xor(keyinput44, G1350gat$enc_9);
+G1350gat$enc_9 = xor(keyinput45, G1350gat$enc_8);
+G1350gat$enc_8 = xor(keyinput46, G1350gat$enc_7);
+G1350gat$enc_7 = xor(keyinput47, G1350gat$enc_6);
+G1350gat$enc_6 = xor(keyinput48, G1350gat$enc_5);
+G1350gat$enc_5 = xor(keyinput49, G1350gat$enc_4);
+G1350gat$enc_4 = xor(keyinput50, G1350gat$enc_3);
+G1350gat$enc_3 = xor(keyinput51, G1350gat$enc_2);
+G1350gat$enc_2 = xor(keyinput52, G1350gat$enc_1);
+G1350gat$enc_1 = xor(keyinput53, G1350gat);
+
+#locking next scan-cell in scan-chain
+G1351gat$enc = xor(keyinput27, G1351gat$enc_27);
+G1351gat$enc_27 = xor(keyinput28, G1351gat$enc_26);
+G1351gat$enc_26 = xor(keyinput29, G1351gat$enc_25);
+G1351gat$enc_25 = xor(keyinput30, G1351gat$enc_24);
+G1351gat$enc_24 = xor(keyinput31, G1351gat$enc_23);
+G1351gat$enc_23 = xor(keyinput32, G1351gat$enc_22);
+G1351gat$enc_22 = xor(keyinput33, G1351gat$enc_21);
+G1351gat$enc_21 = xor(keyinput34, G1351gat$enc_20);
+G1351gat$enc_20 = xor(keyinput35, G1351gat$enc_19);
+G1351gat$enc_19 = xor(keyinput36, G1351gat$enc_18);
+G1351gat$enc_18 = xor(keyinput37, G1351gat$enc_17);
+G1351gat$enc_17 = xor(keyinput38, G1351gat$enc_16);
+G1351gat$enc_16 = xor(keyinput39, G1351gat$enc_15);
+G1351gat$enc_15 = xor(keyinput40, G1351gat$enc_14);
+G1351gat$enc_14 = xor(keyinput41, G1351gat$enc_13);
+G1351gat$enc_13 = xor(keyinput42, G1351gat$enc_12);
+G1351gat$enc_12 = xor(keyinput43, G1351gat$enc_11);
+G1351gat$enc_11 = xor(keyinput44, G1351gat$enc_10);
+G1351gat$enc_10 = xor(keyinput45, G1351gat$enc_9);
+G1351gat$enc_9 = xor(keyinput46, G1351gat$enc_8);
+G1351gat$enc_8 = xor(keyinput47, G1351gat$enc_7);
+G1351gat$enc_7 = xor(keyinput48, G1351gat$enc_6);
+G1351gat$enc_6 = xor(keyinput49, G1351gat$enc_5);
+G1351gat$enc_5 = xor(keyinput50, G1351gat$enc_4);
+G1351gat$enc_4 = xor(keyinput51, G1351gat$enc_3);
+G1351gat$enc_3 = xor(keyinput52, G1351gat$enc_2);
+G1351gat$enc_2 = xor(keyinput53, G1351gat$enc_1);
+G1351gat$enc_1 = xor(keyinput54, G1351gat);
+
+#locking next scan-cell in scan-chain
+G1352gat$enc = xor(keyinput27, G1352gat$enc_28);
+G1352gat$enc_28 = xor(keyinput28, G1352gat$enc_27);
+G1352gat$enc_27 = xor(keyinput29, G1352gat$enc_26);
+G1352gat$enc_26 = xor(keyinput30, G1352gat$enc_25);
+G1352gat$enc_25 = xor(keyinput31, G1352gat$enc_24);
+G1352gat$enc_24 = xor(keyinput32, G1352gat$enc_23);
+G1352gat$enc_23 = xor(keyinput33, G1352gat$enc_22);
+G1352gat$enc_22 = xor(keyinput34, G1352gat$enc_21);
+G1352gat$enc_21 = xor(keyinput35, G1352gat$enc_20);
+G1352gat$enc_20 = xor(keyinput36, G1352gat$enc_19);
+G1352gat$enc_19 = xor(keyinput37, G1352gat$enc_18);
+G1352gat$enc_18 = xor(keyinput38, G1352gat$enc_17);
+G1352gat$enc_17 = xor(keyinput39, G1352gat$enc_16);
+G1352gat$enc_16 = xor(keyinput40, G1352gat$enc_15);
+G1352gat$enc_15 = xor(keyinput41, G1352gat$enc_14);
+G1352gat$enc_14 = xor(keyinput42, G1352gat$enc_13);
+G1352gat$enc_13 = xor(keyinput43, G1352gat$enc_12);
+G1352gat$enc_12 = xor(keyinput44, G1352gat$enc_11);
+G1352gat$enc_11 = xor(keyinput45, G1352gat$enc_10);
+G1352gat$enc_10 = xor(keyinput46, G1352gat$enc_9);
+G1352gat$enc_9 = xor(keyinput47, G1352gat$enc_8);
+G1352gat$enc_8 = xor(keyinput48, G1352gat$enc_7);
+G1352gat$enc_7 = xor(keyinput49, G1352gat$enc_6);
+G1352gat$enc_6 = xor(keyinput50, G1352gat$enc_5);
+G1352gat$enc_5 = xor(keyinput51, G1352gat$enc_4);
+G1352gat$enc_4 = xor(keyinput52, G1352gat$enc_3);
+G1352gat$enc_3 = xor(keyinput53, G1352gat$enc_2);
+G1352gat$enc_2 = xor(keyinput54, G1352gat$enc_1);
+G1352gat$enc_1 = xor(keyinput55, G1352gat);
+
+#locking next scan-cell in scan-chain
+G1353gat$enc = xor(keyinput27, G1353gat$enc_29);
+G1353gat$enc_29 = xor(keyinput28, G1353gat$enc_28);
+G1353gat$enc_28 = xor(keyinput29, G1353gat$enc_27);
+G1353gat$enc_27 = xor(keyinput30, G1353gat$enc_26);
+G1353gat$enc_26 = xor(keyinput31, G1353gat$enc_25);
+G1353gat$enc_25 = xor(keyinput32, G1353gat$enc_24);
+G1353gat$enc_24 = xor(keyinput33, G1353gat$enc_23);
+G1353gat$enc_23 = xor(keyinput34, G1353gat$enc_22);
+G1353gat$enc_22 = xor(keyinput35, G1353gat$enc_21);
+G1353gat$enc_21 = xor(keyinput36, G1353gat$enc_20);
+G1353gat$enc_20 = xor(keyinput37, G1353gat$enc_19);
+G1353gat$enc_19 = xor(keyinput38, G1353gat$enc_18);
+G1353gat$enc_18 = xor(keyinput39, G1353gat$enc_17);
+G1353gat$enc_17 = xor(keyinput40, G1353gat$enc_16);
+G1353gat$enc_16 = xor(keyinput41, G1353gat$enc_15);
+G1353gat$enc_15 = xor(keyinput42, G1353gat$enc_14);
+G1353gat$enc_14 = xor(keyinput43, G1353gat$enc_13);
+G1353gat$enc_13 = xor(keyinput44, G1353gat$enc_12);
+G1353gat$enc_12 = xor(keyinput45, G1353gat$enc_11);
+G1353gat$enc_11 = xor(keyinput46, G1353gat$enc_10);
+G1353gat$enc_10 = xor(keyinput47, G1353gat$enc_9);
+G1353gat$enc_9 = xor(keyinput48, G1353gat$enc_8);
+G1353gat$enc_8 = xor(keyinput49, G1353gat$enc_7);
+G1353gat$enc_7 = xor(keyinput50, G1353gat$enc_6);
+G1353gat$enc_6 = xor(keyinput51, G1353gat$enc_5);
+G1353gat$enc_5 = xor(keyinput52, G1353gat$enc_4);
+G1353gat$enc_4 = xor(keyinput53, G1353gat$enc_3);
+G1353gat$enc_3 = xor(keyinput54, G1353gat$enc_2);
+G1353gat$enc_2 = xor(keyinput55, G1353gat$enc_1);
+G1353gat$enc_1 = xor(keyinput56, G1353gat);
+
+#locking next scan-cell in scan-chain
+G1354gat$enc = xor(keyinput27, G1354gat$enc_30);
+G1354gat$enc_30 = xor(keyinput28, G1354gat$enc_29);
+G1354gat$enc_29 = xor(keyinput29, G1354gat$enc_28);
+G1354gat$enc_28 = xor(keyinput30, G1354gat$enc_27);
+G1354gat$enc_27 = xor(keyinput31, G1354gat$enc_26);
+G1354gat$enc_26 = xor(keyinput32, G1354gat$enc_25);
+G1354gat$enc_25 = xor(keyinput33, G1354gat$enc_24);
+G1354gat$enc_24 = xor(keyinput34, G1354gat$enc_23);
+G1354gat$enc_23 = xor(keyinput35, G1354gat$enc_22);
+G1354gat$enc_22 = xor(keyinput36, G1354gat$enc_21);
+G1354gat$enc_21 = xor(keyinput37, G1354gat$enc_20);
+G1354gat$enc_20 = xor(keyinput38, G1354gat$enc_19);
+G1354gat$enc_19 = xor(keyinput39, G1354gat$enc_18);
+G1354gat$enc_18 = xor(keyinput40, G1354gat$enc_17);
+G1354gat$enc_17 = xor(keyinput41, G1354gat$enc_16);
+G1354gat$enc_16 = xor(keyinput42, G1354gat$enc_15);
+G1354gat$enc_15 = xor(keyinput43, G1354gat$enc_14);
+G1354gat$enc_14 = xor(keyinput44, G1354gat$enc_13);
+G1354gat$enc_13 = xor(keyinput45, G1354gat$enc_12);
+G1354gat$enc_12 = xor(keyinput46, G1354gat$enc_11);
+G1354gat$enc_11 = xor(keyinput47, G1354gat$enc_10);
+G1354gat$enc_10 = xor(keyinput48, G1354gat$enc_9);
+G1354gat$enc_9 = xor(keyinput49, G1354gat$enc_8);
+G1354gat$enc_8 = xor(keyinput50, G1354gat$enc_7);
+G1354gat$enc_7 = xor(keyinput51, G1354gat$enc_6);
+G1354gat$enc_6 = xor(keyinput52, G1354gat$enc_5);
+G1354gat$enc_5 = xor(keyinput53, G1354gat$enc_4);
+G1354gat$enc_4 = xor(keyinput54, G1354gat$enc_3);
+G1354gat$enc_3 = xor(keyinput55, G1354gat$enc_2);
+G1354gat$enc_2 = xor(keyinput56, G1354gat$enc_1);
+G1354gat$enc_1 = xor(keyinput57, G1354gat);
+
+#locking next scan-cell in scan-chain
+G1355gat$enc = xor(keyinput27, G1355gat$enc_31);
+G1355gat$enc_31 = xor(keyinput28, G1355gat$enc_30);
+G1355gat$enc_30 = xor(keyinput29, G1355gat$enc_29);
+G1355gat$enc_29 = xor(keyinput30, G1355gat$enc_28);
+G1355gat$enc_28 = xor(keyinput31, G1355gat$enc_27);
+G1355gat$enc_27 = xor(keyinput32, G1355gat$enc_26);
+G1355gat$enc_26 = xor(keyinput33, G1355gat$enc_25);
+G1355gat$enc_25 = xor(keyinput34, G1355gat$enc_24);
+G1355gat$enc_24 = xor(keyinput35, G1355gat$enc_23);
+G1355gat$enc_23 = xor(keyinput36, G1355gat$enc_22);
+G1355gat$enc_22 = xor(keyinput37, G1355gat$enc_21);
+G1355gat$enc_21 = xor(keyinput38, G1355gat$enc_20);
+G1355gat$enc_20 = xor(keyinput39, G1355gat$enc_19);
+G1355gat$enc_19 = xor(keyinput40, G1355gat$enc_18);
+G1355gat$enc_18 = xor(keyinput41, G1355gat$enc_17);
+G1355gat$enc_17 = xor(keyinput42, G1355gat$enc_16);
+G1355gat$enc_16 = xor(keyinput43, G1355gat$enc_15);
+G1355gat$enc_15 = xor(keyinput44, G1355gat$enc_14);
+G1355gat$enc_14 = xor(keyinput45, G1355gat$enc_13);
+G1355gat$enc_13 = xor(keyinput46, G1355gat$enc_12);
+G1355gat$enc_12 = xor(keyinput47, G1355gat$enc_11);
+G1355gat$enc_11 = xor(keyinput48, G1355gat$enc_10);
+G1355gat$enc_10 = xor(keyinput49, G1355gat$enc_9);
+G1355gat$enc_9 = xor(keyinput50, G1355gat$enc_8);
+G1355gat$enc_8 = xor(keyinput51, G1355gat$enc_7);
+G1355gat$enc_7 = xor(keyinput52, G1355gat$enc_6);
+G1355gat$enc_6 = xor(keyinput53, G1355gat$enc_5);
+G1355gat$enc_5 = xor(keyinput54, G1355gat$enc_4);
+G1355gat$enc_4 = xor(keyinput55, G1355gat$enc_3);
+G1355gat$enc_3 = xor(keyinput56, G1355gat$enc_2);
+G1355gat$enc_2 = xor(keyinput57, G1355gat$enc_1);
+G1355gat$enc_1 = xor(keyinput58, G1355gat);

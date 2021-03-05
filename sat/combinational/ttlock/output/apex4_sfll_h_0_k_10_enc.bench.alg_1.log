@@ -1,0 +1,12 @@
+pi2                  keyinputpi2         
+pi3                  keyinputpi3         
+pi4                  keyinputpi4         
+pi5                  keyinputpi5         
+pi6                  keyinputpi6         
+pi7                  keyinputpi7         
+pi8                  keyinputpi8         
+vdd                  keyinputvdd         
+# of ckt inputs : 8
+# of gates      : 5484
+# of candidates : 0
+cpu_time 1.1

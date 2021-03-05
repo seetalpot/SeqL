@@ -1,0 +1,44 @@
+
+#SeqL Flip-flop Additional Output encryption logic for ACKOUT_REG
+ACKOUT_REG_1enc = XOR(ACKOUT_REG_1encenc, keyinput10)
+ACKOUT_REG_2enc = XOR(ACKOUT_REG_2, keyinput10)
+
+#SeqL Flip-flop Additional Input encryption logic for U62
+U62_1enc = XOR(U62_1, keyinput9)
+U62_2enc = XOR(U62_2, keyinput9)
+
+#SeqL Flip-flop Additional Output encryption logic for STATE_REG_2_
+STATE_REG_2__1enc = XOR(STATE_REG_2__1encenc, keyinput12)
+STATE_REG_2__2enc = XOR(STATE_REG_2__2, keyinput12)
+
+#SeqL Flip-flop Additional Input encryption logic for U57
+U57_1enc = XOR(U57_1, keyinput11)
+U57_2enc = XOR(U57_2, keyinput11)
+
+#Other Flip-flop Output logic for STATE_REG_1_
+STATE_REG_1__1enc = BUF(STATE_REG_1__1)
+STATE_REG_1__2enc = BUF(STATE_REG_1__2)
+
+#Other Flip-flop Output logic for STATE_REG_0_
+STATE_REG_0__1enc = BUF(STATE_REG_0__1)
+STATE_REG_0__2enc = BUF(STATE_REG_0__2)
+
+#Other Flip-flop Output logic for CC_MUX_REG_2_
+CC_MUX_REG_2__1enc = BUF(CC_MUX_REG_2__1)
+CC_MUX_REG_2__2enc = BUF(CC_MUX_REG_2__2)
+
+#Other Flip-flop Output logic for CC_MUX_REG_1_
+CC_MUX_REG_1__1enc = BUF(CC_MUX_REG_1__1)
+CC_MUX_REG_1__2enc = BUF(CC_MUX_REG_1__2)
+
+#Other Flip-flop Output logic for USCITE_REG_2_
+USCITE_REG_2__1enc = BUF(USCITE_REG_2__1)
+USCITE_REG_2__2enc = BUF(USCITE_REG_2__2)
+
+#Other Flip-flop Output logic for USCITE_REG_1_
+USCITE_REG_1__1enc = BUF(USCITE_REG_1__1)
+USCITE_REG_1__2enc = BUF(USCITE_REG_1__2)
+
+#Other Flip-flop Output logic for ENABLE_COUNT_REG
+ENABLE_COUNT_REG_1enc = BUF(ENABLE_COUNT_REG_1)
+ENABLE_COUNT_REG_2enc = BUF(ENABLE_COUNT_REG_2)

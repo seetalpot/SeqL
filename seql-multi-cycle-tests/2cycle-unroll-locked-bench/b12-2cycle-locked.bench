@@ -1,0 +1,647 @@
+
+##################################Primary Inputs for Unroll-1
+INPUT(START_1)
+INPUT(K_3__1)
+INPUT(K_2__1)
+INPUT(K_1__1)
+INPUT(K_0__1)
+
+
+##################################Primary Inputs for Unroll-2
+INPUT(START_2)
+INPUT(K_3__2)
+INPUT(K_2__2)
+INPUT(K_1__2)
+INPUT(K_0__2)
+
+
+##################################Primary Outputs for Unroll-1
+OUTPUT(NLOSS_REG_1)
+OUTPUT(NL_REG_3__1)
+OUTPUT(NL_REG_2__1)
+OUTPUT(NL_REG_1__1)
+OUTPUT(NL_REG_0__1)
+OUTPUT(SPEAKER_REG_1)
+
+
+##################################Primary Outputs for Unroll-2
+OUTPUT(NLOSS_REG_2)
+OUTPUT(NL_REG_3__2)
+OUTPUT(NL_REG_2__2)
+OUTPUT(NL_REG_1__2)
+OUTPUT(NL_REG_0__2)
+OUTPUT(SPEAKER_REG_2)
+
+##################################Other Inputs
+INPUT(COUNT_REG_0__1)
+INPUT(MEMORY_REG_31__1__1)
+INPUT(MEMORY_REG_31__0__1)
+INPUT(MEMORY_REG_30__1__1)
+INPUT(MEMORY_REG_30__0__1)
+INPUT(MEMORY_REG_29__1__1)
+INPUT(MEMORY_REG_29__0__1)
+INPUT(MEMORY_REG_28__1__1)
+INPUT(MEMORY_REG_28__0__1)
+INPUT(MEMORY_REG_27__1__1)
+INPUT(MEMORY_REG_27__0__1)
+INPUT(MEMORY_REG_26__1__1)
+INPUT(MEMORY_REG_26__0__1)
+INPUT(MEMORY_REG_25__1__1)
+INPUT(MEMORY_REG_25__0__1)
+INPUT(MEMORY_REG_24__1__1)
+INPUT(MEMORY_REG_24__0__1)
+INPUT(MEMORY_REG_23__1__1)
+INPUT(MEMORY_REG_23__0__1)
+INPUT(MEMORY_REG_22__1__1)
+INPUT(MEMORY_REG_22__0__1)
+INPUT(MEMORY_REG_21__1__1)
+INPUT(MEMORY_REG_21__0__1)
+INPUT(MEMORY_REG_20__1__1)
+INPUT(MEMORY_REG_20__0__1)
+INPUT(MEMORY_REG_19__1__1)
+INPUT(MEMORY_REG_19__0__1)
+INPUT(MEMORY_REG_18__1__1)
+INPUT(MEMORY_REG_18__0__1)
+INPUT(MEMORY_REG_17__1__1)
+INPUT(MEMORY_REG_17__0__1)
+INPUT(MEMORY_REG_16__1__1)
+INPUT(MEMORY_REG_16__0__1)
+INPUT(MEMORY_REG_15__1__1)
+INPUT(MEMORY_REG_15__0__1)
+INPUT(MEMORY_REG_14__1__1)
+INPUT(MEMORY_REG_14__0__1)
+INPUT(MEMORY_REG_13__1__1)
+INPUT(MEMORY_REG_13__0__1)
+INPUT(MEMORY_REG_12__1__1)
+INPUT(MEMORY_REG_12__0__1)
+INPUT(MEMORY_REG_11__1__1)
+INPUT(MEMORY_REG_11__0__1)
+INPUT(MEMORY_REG_10__1__1)
+INPUT(MEMORY_REG_10__0__1)
+INPUT(MEMORY_REG_9__1__1)
+INPUT(MEMORY_REG_9__0__1)
+INPUT(MEMORY_REG_8__1__1)
+INPUT(MEMORY_REG_8__0__1)
+INPUT(MEMORY_REG_7__1__1)
+INPUT(MEMORY_REG_7__0__1)
+INPUT(MEMORY_REG_6__1__1)
+INPUT(MEMORY_REG_6__0__1)
+INPUT(MEMORY_REG_5__1__1)
+INPUT(MEMORY_REG_5__0__1)
+INPUT(MEMORY_REG_4__1__1)
+INPUT(MEMORY_REG_4__0__1)
+INPUT(MEMORY_REG_3__1__1)
+INPUT(MEMORY_REG_3__0__1)
+INPUT(MEMORY_REG_2__1__1)
+INPUT(MEMORY_REG_2__0__1)
+INPUT(MEMORY_REG_1__1__1)
+INPUT(MEMORY_REG_1__0__1)
+INPUT(MEMORY_REG_0__1__1)
+INPUT(MEMORY_REG_0__0__1)
+INPUT(NL_REG_3__1)
+INPUT(NL_REG_2__1)
+INPUT(NL_REG_1__1)
+INPUT(NL_REG_0__1)
+INPUT(SCAN_REG_4__1)
+INPUT(SCAN_REG_3__1)
+INPUT(SCAN_REG_2__1)
+INPUT(SCAN_REG_1__1)
+INPUT(SCAN_REG_0__1)
+INPUT(MAX_REG_4__1)
+INPUT(MAX_REG_3__1)
+INPUT(MAX_REG_2__1)
+INPUT(MAX_REG_1__1)
+INPUT(MAX_REG_0__1)
+INPUT(IND_REG_1__1)
+INPUT(IND_REG_0__1)
+INPUT(TIMEBASE_REG_5__1)
+INPUT(TIMEBASE_REG_4__1)
+INPUT(TIMEBASE_REG_3__1)
+INPUT(TIMEBASE_REG_2__1)
+INPUT(TIMEBASE_REG_1__1)
+INPUT(TIMEBASE_REG_0__1)
+INPUT(COUNT_REG2_5__1)
+INPUT(COUNT_REG2_4__1)
+INPUT(COUNT_REG2_3__1)
+INPUT(COUNT_REG2_2__1)
+INPUT(COUNT_REG2_1__1)
+INPUT(COUNT_REG2_0__1)
+INPUT(SOUND_REG_2__1)
+INPUT(SOUND_REG_1__1)
+INPUT(SOUND_REG_0__1)
+INPUT(ADDRESS_REG_4__1)
+INPUT(ADDRESS_REG_3__1)
+INPUT(ADDRESS_REG_2__1)
+INPUT(ADDRESS_REG_1__1)
+INPUT(ADDRESS_REG_0__1)
+INPUT(DATA_IN_REG_1__1)
+INPUT(DATA_IN_REG_0__1)
+INPUT(S_REG_1)
+INPUT(PLAY_REG_1)
+INPUT(NLOSS_REG_1)
+INPUT(SPEAKER_REG_1)
+INPUT(WR_REG_1)
+INPUT(COUNTER_REG_2__1)
+INPUT(COUNTER_REG_1__1)
+INPUT(COUNTER_REG_0__1)
+INPUT(COUNT_REG_1__1)
+INPUT(NUM_REG_1__1)
+INPUT(NUM_REG_0__1)
+INPUT(DATA_OUT_REG_1__1)
+INPUT(DATA_OUT_REG_0__1)
+INPUT(GAMMA_REG_4__1)
+INPUT(GAMMA_REG_3__1)
+INPUT(GAMMA_REG_2__1)
+INPUT(GAMMA_REG_1__1)
+INPUT(GAMMA_REG_0__1)
+
+##################################Other Outputs
+OUTPUT(U1391_2$enc)
+OUTPUT(U1486_2$enc)
+OUTPUT(U1485_2$enc)
+OUTPUT(U1484_2$enc)
+OUTPUT(U1483_2$enc)
+OUTPUT(U1482_2$enc)
+OUTPUT(U1481_2$enc)
+OUTPUT(U1480_2$enc)
+OUTPUT(U1479_2$enc)
+OUTPUT(U1478_2$enc)
+OUTPUT(U1477_2$enc)
+OUTPUT(U1476_2$enc)
+OUTPUT(U1475_2$enc)
+OUTPUT(U1474_2$enc)
+OUTPUT(U1473_2$enc)
+OUTPUT(U1472_2$enc)
+OUTPUT(U1471_2$enc)
+OUTPUT(U1470_2$enc)
+OUTPUT(U1469_2$enc)
+OUTPUT(U1468_2$enc)
+OUTPUT(U1467_2$enc)
+OUTPUT(U1466_2$enc)
+OUTPUT(U1465_2$enc)
+OUTPUT(U1464_2$enc)
+OUTPUT(U1463_2$enc)
+OUTPUT(U1462_2$enc)
+OUTPUT(U1461_2$enc)
+OUTPUT(U1460_2$enc)
+OUTPUT(U1459_2$enc)
+OUTPUT(U1458_2$enc)
+OUTPUT(U1457_2$enc)
+OUTPUT(U1456_2$enc)
+OUTPUT(U1455_2$enc)
+OUTPUT(U1454_2$enc)
+OUTPUT(U1453_2$enc)
+OUTPUT(U1452_2$enc)
+OUTPUT(U1451_2$enc)
+OUTPUT(U1450_2$enc)
+OUTPUT(U1449_2$enc)
+OUTPUT(U1448_2$enc)
+OUTPUT(U1447_2$enc)
+OUTPUT(U1446_2$enc)
+OUTPUT(U1445_2$enc)
+OUTPUT(U1444_2$enc)
+OUTPUT(U1443_2$enc)
+OUTPUT(U1442_2$enc)
+OUTPUT(U1441_2$enc)
+OUTPUT(U1440_2$enc)
+OUTPUT(U1439_2$enc)
+OUTPUT(U1438_2$enc)
+OUTPUT(U1437_2$enc)
+OUTPUT(U1436_2$enc)
+OUTPUT(U1435_2$enc)
+OUTPUT(U1434_2$enc)
+OUTPUT(U1433_2$enc)
+OUTPUT(U1432_2$enc)
+OUTPUT(U1431_2$enc)
+OUTPUT(U1430_2$enc)
+OUTPUT(U1429_2$enc)
+OUTPUT(U1428_2$enc)
+OUTPUT(U1427_2$enc)
+OUTPUT(U1426_2$enc)
+OUTPUT(U1425_2$enc)
+OUTPUT(U1424_2$enc)
+OUTPUT(U1423_2$enc)
+OUTPUT(U1422_2$enc)
+OUTPUT(U1421_2$enc)
+OUTPUT(U1420_2$enc)
+OUTPUT(U1419_2$enc)
+OUTPUT(U1418_2$enc)
+OUTPUT(U1417_2$enc)
+OUTPUT(U1416_2$enc)
+OUTPUT(U1415_2$enc)
+OUTPUT(U1414_2$enc)
+OUTPUT(U1413_2$enc)
+OUTPUT(U1412_2$enc)
+OUTPUT(U1411_2$enc)
+OUTPUT(U1410_2$enc)
+OUTPUT(U1409_2$enc)
+OUTPUT(U1564_2$enc)
+OUTPUT(U1565_2$enc)
+OUTPUT(U1566_2$enc)
+OUTPUT(U1408_2$enc)
+OUTPUT(U1407_2$enc)
+OUTPUT(U1406_2$enc)
+OUTPUT(U1405_2$enc)
+OUTPUT(U1567_2$enc)
+OUTPUT(U1404_2$enc)
+OUTPUT(U1403_2$enc)
+OUTPUT(U1568_2$enc)
+OUTPUT(U1402_2$enc)
+OUTPUT(U1401_2$enc)
+OUTPUT(U1400_2$enc)
+OUTPUT(U1569_2$enc)
+OUTPUT(U1570_2$enc)
+OUTPUT(U1571_2$enc)
+OUTPUT(U1399_2$enc)
+OUTPUT(U1398_2$enc)
+OUTPUT(U1397_2$enc)
+OUTPUT(U1396_2$enc)
+OUTPUT(U1395_2$enc)
+OUTPUT(U1572_2$enc)
+OUTPUT(U1573_2$enc)
+OUTPUT(U1394_2$enc)
+OUTPUT(U1574_2$enc)
+OUTPUT(U1575_2$enc)
+OUTPUT(U1393_2$enc)
+OUTPUT(U1392_2$enc)
+OUTPUT(U1381_2$enc)
+OUTPUT(U1382_2$enc)
+OUTPUT(U1383_2$enc)
+OUTPUT(U1563_2$enc)
+OUTPUT(U1563_2$enc)
+OUTPUT(U1391_2$enc)
+OUTPUT(U1390_2$enc)
+OUTPUT(U1389_2$enc)
+OUTPUT(U1384_2$enc)
+OUTPUT(U1385_2$enc)
+OUTPUT(U1386_2$enc)
+OUTPUT(U1387_2$enc)
+OUTPUT(U1388_2$enc)
+
+#################################Key Inputs
+INPUT(keyinput0)
+INPUT(keyinput1)
+INPUT(keyinput2)
+INPUT(keyinput3)
+INPUT(keyinput4)
+INPUT(keyinput5)
+INPUT(keyinput6)
+INPUT(keyinput7)
+INPUT(keyinput8)
+INPUT(keyinput9)
+INPUT(keyinput10)
+INPUT(keyinput11)
+INPUT(keyinput12)
+INPUT(keyinput13)
+INPUT(keyinput14)
+INPUT(keyinput15)
+INPUT(keyinput16)
+INPUT(keyinput17)
+INPUT(keyinput18)
+INPUT(keyinput19)
+INPUT(keyinput20)
+INPUT(keyinput21)
+INPUT(keyinput22)
+INPUT(keyinput23)
+INPUT(keyinput24)
+INPUT(keyinput25)
+INPUT(keyinput26)
+INPUT(keyinput27)
+INPUT(keyinput28)
+INPUT(keyinput29)
+INPUT(keyinput30)
+INPUT(keyinput31)
+INPUT(keyinput32)
+INPUT(keyinput33)
+INPUT(keyinput34)
+INPUT(keyinput35)
+INPUT(keyinput36)
+INPUT(keyinput37)
+INPUT(keyinput38)
+INPUT(keyinput39)
+INPUT(keyinput40)
+INPUT(keyinput41)
+INPUT(keyinput42)
+INPUT(keyinput43)
+INPUT(keyinput44)
+INPUT(keyinput45)
+INPUT(keyinput46)
+INPUT(keyinput47)
+INPUT(keyinput48)
+INPUT(keyinput49)
+INPUT(keyinput50)
+INPUT(keyinput51)
+INPUT(keyinput52)
+INPUT(keyinput53)
+INPUT(keyinput54)
+INPUT(keyinput55)
+INPUT(keyinput56)
+INPUT(keyinput57)
+INPUT(keyinput58)
+INPUT(keyinput59)
+INPUT(keyinput60)
+INPUT(keyinput61)
+INPUT(keyinput62)
+INPUT(keyinput63)
+INPUT(keyinput64)
+INPUT(keyinput65)
+INPUT(keyinput66)
+INPUT(keyinput67)
+INPUT(keyinput68)
+INPUT(keyinput69)
+INPUT(keyinput70)
+INPUT(keyinput71)
+INPUT(keyinput72)
+INPUT(keyinput73)
+INPUT(keyinput74)
+INPUT(keyinput75)
+INPUT(keyinput76)
+INPUT(keyinput77)
+INPUT(keyinput78)
+INPUT(keyinput79)
+INPUT(keyinput80)
+INPUT(keyinput81)
+INPUT(keyinput82)
+INPUT(keyinput83)
+INPUT(keyinput84)
+INPUT(keyinput85)
+INPUT(keyinput86)
+INPUT(keyinput87)
+INPUT(keyinput88)
+INPUT(keyinput89)
+INPUT(keyinput90)
+INPUT(keyinput91)
+INPUT(keyinput92)
+INPUT(keyinput93)
+INPUT(keyinput94)
+INPUT(keyinput95)
+INPUT(keyinput96)
+INPUT(keyinput97)
+INPUT(keyinput98)
+INPUT(keyinput99)
+INPUT(keyinput100)
+INPUT(keyinput101)
+INPUT(keyinput102)
+INPUT(keyinput103)
+INPUT(keyinput104)
+INPUT(keyinput105)
+INPUT(keyinput106)
+INPUT(keyinput107)
+INPUT(keyinput108)
+INPUT(keyinput109)
+INPUT(keyinput110)
+INPUT(keyinput111)
+INPUT(keyinput112)
+INPUT(keyinput113)
+INPUT(keyinput114)
+INPUT(keyinput115)
+INPUT(keyinput116)
+INPUT(keyinput117)
+INPUT(keyinput118)
+INPUT(keyinput119)
+INPUT(keyinput120)
+
+#################################SeqL Key Inputs
+INPUT(keyinput121)
+INPUT(keyinput122)
+INPUT(keyinput123)
+INPUT(keyinput124)
+
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic
+
+#Other flip-flops Stage connection logic

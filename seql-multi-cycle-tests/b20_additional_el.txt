@@ -1,0 +1,2000 @@
+
+#SeqL Flip-flop Additional Output encryption logic for P1_IR_REG_0_
+P1_IR_REG_0__1enc = XOR(P1_IR_REG_0__1encenc, keyinput491)
+P1_IR_REG_0__2enc = XOR(P1_IR_REG_0__2, keyinput491)
+
+#SeqL Flip-flop Additional Input encryption logic for P1_U3355
+P1_U3355_1enc = XOR(P1_U3355_1, keyinput490)
+P1_U3355_2enc = XOR(P1_U3355_2, keyinput490)
+
+#SeqL Flip-flop Additional Output encryption logic for P1_IR_REG_1_
+P1_IR_REG_1__1enc = XOR(P1_IR_REG_1__1encenc, keyinput493)
+P1_IR_REG_1__2enc = XOR(P1_IR_REG_1__2, keyinput493)
+
+#SeqL Flip-flop Additional Input encryption logic for P1_U3354
+P1_U3354_1enc = XOR(P1_U3354_1, keyinput492)
+P1_U3354_2enc = XOR(P1_U3354_2, keyinput492)
+
+#SeqL Flip-flop Additional Output encryption logic for P1_IR_REG_2_
+P1_IR_REG_2__1enc = XOR(P1_IR_REG_2__1encenc, keyinput495)
+P1_IR_REG_2__2enc = XOR(P1_IR_REG_2__2, keyinput495)
+
+#SeqL Flip-flop Additional Input encryption logic for P1_U3353
+P1_U3353_1enc = XOR(P1_U3353_1, keyinput494)
+P1_U3353_2enc = XOR(P1_U3353_2, keyinput494)
+
+#SeqL Flip-flop Additional Output encryption logic for P1_IR_REG_3_
+P1_IR_REG_3__1enc = XOR(P1_IR_REG_3__1encenc, keyinput497)
+P1_IR_REG_3__2enc = XOR(P1_IR_REG_3__2, keyinput497)
+
+#SeqL Flip-flop Additional Input encryption logic for P1_U3352
+P1_U3352_1enc = XOR(P1_U3352_1, keyinput496)
+P1_U3352_2enc = XOR(P1_U3352_2, keyinput496)
+
+#SeqL Flip-flop Additional Output encryption logic for P1_IR_REG_4_
+P1_IR_REG_4__1enc = XOR(P1_IR_REG_4__1encenc, keyinput499)
+P1_IR_REG_4__2enc = XOR(P1_IR_REG_4__2, keyinput499)
+
+#SeqL Flip-flop Additional Input encryption logic for P1_U3351
+P1_U3351_1enc = XOR(P1_U3351_1, keyinput498)
+P1_U3351_2enc = XOR(P1_U3351_2, keyinput498)
+
+#SeqL Flip-flop Additional Output encryption logic for P1_IR_REG_5_
+P1_IR_REG_5__1enc = XOR(P1_IR_REG_5__1encenc, keyinput501)
+P1_IR_REG_5__2enc = XOR(P1_IR_REG_5__2, keyinput501)
+
+#SeqL Flip-flop Additional Input encryption logic for P1_U3350
+P1_U3350_1enc = XOR(P1_U3350_1, keyinput500)
+P1_U3350_2enc = XOR(P1_U3350_2, keyinput500)
+
+#SeqL Flip-flop Additional Output encryption logic for P1_IR_REG_6_
+P1_IR_REG_6__1enc = XOR(P1_IR_REG_6__1encenc, keyinput503)
+P1_IR_REG_6__2enc = XOR(P1_IR_REG_6__2, keyinput503)
+
+#SeqL Flip-flop Additional Input encryption logic for P1_U3349
+P1_U3349_1enc = XOR(P1_U3349_1, keyinput502)
+P1_U3349_2enc = XOR(P1_U3349_2, keyinput502)
+
+#SeqL Flip-flop Additional Output encryption logic for P1_IR_REG_7_
+P1_IR_REG_7__1enc = XOR(P1_IR_REG_7__1encenc, keyinput505)
+P1_IR_REG_7__2enc = XOR(P1_IR_REG_7__2, keyinput505)
+
+#SeqL Flip-flop Additional Input encryption logic for P1_U3348
+P1_U3348_1enc = XOR(P1_U3348_1, keyinput504)
+P1_U3348_2enc = XOR(P1_U3348_2, keyinput504)
+
+#SeqL Flip-flop Additional Output encryption logic for P1_IR_REG_8_
+P1_IR_REG_8__1enc = XOR(P1_IR_REG_8__1encenc, keyinput507)
+P1_IR_REG_8__2enc = XOR(P1_IR_REG_8__2, keyinput507)
+
+#SeqL Flip-flop Additional Input encryption logic for P1_U3347
+P1_U3347_1enc = XOR(P1_U3347_1, keyinput506)
+P1_U3347_2enc = XOR(P1_U3347_2, keyinput506)
+
+#SeqL Flip-flop Additional Output encryption logic for P1_IR_REG_9_
+P1_IR_REG_9__1enc = XOR(P1_IR_REG_9__1encenc, keyinput509)
+P1_IR_REG_9__2enc = XOR(P1_IR_REG_9__2, keyinput509)
+
+#SeqL Flip-flop Additional Input encryption logic for P1_U3346
+P1_U3346_1enc = XOR(P1_U3346_1, keyinput508)
+P1_U3346_2enc = XOR(P1_U3346_2, keyinput508)
+
+#Other Flip-flop Output logic for P1_IR_REG_10_
+P1_IR_REG_10__1enc = BUF(P1_IR_REG_10__1)
+P1_IR_REG_10__2enc = BUF(P1_IR_REG_10__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_11_
+P1_IR_REG_11__1enc = BUF(P1_IR_REG_11__1)
+P1_IR_REG_11__2enc = BUF(P1_IR_REG_11__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_12_
+P1_IR_REG_12__1enc = BUF(P1_IR_REG_12__1)
+P1_IR_REG_12__2enc = BUF(P1_IR_REG_12__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_13_
+P1_IR_REG_13__1enc = BUF(P1_IR_REG_13__1)
+P1_IR_REG_13__2enc = BUF(P1_IR_REG_13__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_14_
+P1_IR_REG_14__1enc = BUF(P1_IR_REG_14__1)
+P1_IR_REG_14__2enc = BUF(P1_IR_REG_14__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_15_
+P1_IR_REG_15__1enc = BUF(P1_IR_REG_15__1)
+P1_IR_REG_15__2enc = BUF(P1_IR_REG_15__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_16_
+P1_IR_REG_16__1enc = BUF(P1_IR_REG_16__1)
+P1_IR_REG_16__2enc = BUF(P1_IR_REG_16__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_17_
+P1_IR_REG_17__1enc = BUF(P1_IR_REG_17__1)
+P1_IR_REG_17__2enc = BUF(P1_IR_REG_17__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_18_
+P1_IR_REG_18__1enc = BUF(P1_IR_REG_18__1)
+P1_IR_REG_18__2enc = BUF(P1_IR_REG_18__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_19_
+P1_IR_REG_19__1enc = BUF(P1_IR_REG_19__1)
+P1_IR_REG_19__2enc = BUF(P1_IR_REG_19__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_20_
+P1_IR_REG_20__1enc = BUF(P1_IR_REG_20__1)
+P1_IR_REG_20__2enc = BUF(P1_IR_REG_20__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_21_
+P1_IR_REG_21__1enc = BUF(P1_IR_REG_21__1)
+P1_IR_REG_21__2enc = BUF(P1_IR_REG_21__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_22_
+P1_IR_REG_22__1enc = BUF(P1_IR_REG_22__1)
+P1_IR_REG_22__2enc = BUF(P1_IR_REG_22__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_23_
+P1_IR_REG_23__1enc = BUF(P1_IR_REG_23__1)
+P1_IR_REG_23__2enc = BUF(P1_IR_REG_23__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_24_
+P1_IR_REG_24__1enc = BUF(P1_IR_REG_24__1)
+P1_IR_REG_24__2enc = BUF(P1_IR_REG_24__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_25_
+P1_IR_REG_25__1enc = BUF(P1_IR_REG_25__1)
+P1_IR_REG_25__2enc = BUF(P1_IR_REG_25__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_26_
+P1_IR_REG_26__1enc = BUF(P1_IR_REG_26__1)
+P1_IR_REG_26__2enc = BUF(P1_IR_REG_26__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_27_
+P1_IR_REG_27__1enc = BUF(P1_IR_REG_27__1)
+P1_IR_REG_27__2enc = BUF(P1_IR_REG_27__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_28_
+P1_IR_REG_28__1enc = BUF(P1_IR_REG_28__1)
+P1_IR_REG_28__2enc = BUF(P1_IR_REG_28__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_29_
+P1_IR_REG_29__1enc = BUF(P1_IR_REG_29__1)
+P1_IR_REG_29__2enc = BUF(P1_IR_REG_29__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_30_
+P1_IR_REG_30__1enc = BUF(P1_IR_REG_30__1)
+P1_IR_REG_30__2enc = BUF(P1_IR_REG_30__2)
+
+#Other Flip-flop Output logic for P1_IR_REG_31_
+P1_IR_REG_31__1enc = BUF(P1_IR_REG_31__1)
+P1_IR_REG_31__2enc = BUF(P1_IR_REG_31__2)
+
+#Other Flip-flop Output logic for P1_D_REG_0_
+P1_D_REG_0__1enc = BUF(P1_D_REG_0__1)
+P1_D_REG_0__2enc = BUF(P1_D_REG_0__2)
+
+#Other Flip-flop Output logic for P1_D_REG_1_
+P1_D_REG_1__1enc = BUF(P1_D_REG_1__1)
+P1_D_REG_1__2enc = BUF(P1_D_REG_1__2)
+
+#Other Flip-flop Output logic for P1_D_REG_2_
+P1_D_REG_2__1enc = BUF(P1_D_REG_2__1)
+P1_D_REG_2__2enc = BUF(P1_D_REG_2__2)
+
+#Other Flip-flop Output logic for P1_D_REG_3_
+P1_D_REG_3__1enc = BUF(P1_D_REG_3__1)
+P1_D_REG_3__2enc = BUF(P1_D_REG_3__2)
+
+#Other Flip-flop Output logic for P1_D_REG_4_
+P1_D_REG_4__1enc = BUF(P1_D_REG_4__1)
+P1_D_REG_4__2enc = BUF(P1_D_REG_4__2)
+
+#Other Flip-flop Output logic for P1_D_REG_5_
+P1_D_REG_5__1enc = BUF(P1_D_REG_5__1)
+P1_D_REG_5__2enc = BUF(P1_D_REG_5__2)
+
+#Other Flip-flop Output logic for P1_D_REG_6_
+P1_D_REG_6__1enc = BUF(P1_D_REG_6__1)
+P1_D_REG_6__2enc = BUF(P1_D_REG_6__2)
+
+#Other Flip-flop Output logic for P1_D_REG_7_
+P1_D_REG_7__1enc = BUF(P1_D_REG_7__1)
+P1_D_REG_7__2enc = BUF(P1_D_REG_7__2)
+
+#Other Flip-flop Output logic for P1_D_REG_8_
+P1_D_REG_8__1enc = BUF(P1_D_REG_8__1)
+P1_D_REG_8__2enc = BUF(P1_D_REG_8__2)
+
+#Other Flip-flop Output logic for P1_D_REG_9_
+P1_D_REG_9__1enc = BUF(P1_D_REG_9__1)
+P1_D_REG_9__2enc = BUF(P1_D_REG_9__2)
+
+#Other Flip-flop Output logic for P1_D_REG_10_
+P1_D_REG_10__1enc = BUF(P1_D_REG_10__1)
+P1_D_REG_10__2enc = BUF(P1_D_REG_10__2)
+
+#Other Flip-flop Output logic for P1_D_REG_11_
+P1_D_REG_11__1enc = BUF(P1_D_REG_11__1)
+P1_D_REG_11__2enc = BUF(P1_D_REG_11__2)
+
+#Other Flip-flop Output logic for P1_D_REG_12_
+P1_D_REG_12__1enc = BUF(P1_D_REG_12__1)
+P1_D_REG_12__2enc = BUF(P1_D_REG_12__2)
+
+#Other Flip-flop Output logic for P1_D_REG_13_
+P1_D_REG_13__1enc = BUF(P1_D_REG_13__1)
+P1_D_REG_13__2enc = BUF(P1_D_REG_13__2)
+
+#Other Flip-flop Output logic for P1_D_REG_14_
+P1_D_REG_14__1enc = BUF(P1_D_REG_14__1)
+P1_D_REG_14__2enc = BUF(P1_D_REG_14__2)
+
+#Other Flip-flop Output logic for P1_D_REG_15_
+P1_D_REG_15__1enc = BUF(P1_D_REG_15__1)
+P1_D_REG_15__2enc = BUF(P1_D_REG_15__2)
+
+#Other Flip-flop Output logic for P1_D_REG_16_
+P1_D_REG_16__1enc = BUF(P1_D_REG_16__1)
+P1_D_REG_16__2enc = BUF(P1_D_REG_16__2)
+
+#Other Flip-flop Output logic for P1_D_REG_17_
+P1_D_REG_17__1enc = BUF(P1_D_REG_17__1)
+P1_D_REG_17__2enc = BUF(P1_D_REG_17__2)
+
+#Other Flip-flop Output logic for P1_D_REG_18_
+P1_D_REG_18__1enc = BUF(P1_D_REG_18__1)
+P1_D_REG_18__2enc = BUF(P1_D_REG_18__2)
+
+#Other Flip-flop Output logic for P1_D_REG_19_
+P1_D_REG_19__1enc = BUF(P1_D_REG_19__1)
+P1_D_REG_19__2enc = BUF(P1_D_REG_19__2)
+
+#Other Flip-flop Output logic for P1_D_REG_20_
+P1_D_REG_20__1enc = BUF(P1_D_REG_20__1)
+P1_D_REG_20__2enc = BUF(P1_D_REG_20__2)
+
+#Other Flip-flop Output logic for P1_D_REG_21_
+P1_D_REG_21__1enc = BUF(P1_D_REG_21__1)
+P1_D_REG_21__2enc = BUF(P1_D_REG_21__2)
+
+#Other Flip-flop Output logic for P1_D_REG_22_
+P1_D_REG_22__1enc = BUF(P1_D_REG_22__1)
+P1_D_REG_22__2enc = BUF(P1_D_REG_22__2)
+
+#Other Flip-flop Output logic for P1_D_REG_23_
+P1_D_REG_23__1enc = BUF(P1_D_REG_23__1)
+P1_D_REG_23__2enc = BUF(P1_D_REG_23__2)
+
+#Other Flip-flop Output logic for P1_D_REG_24_
+P1_D_REG_24__1enc = BUF(P1_D_REG_24__1)
+P1_D_REG_24__2enc = BUF(P1_D_REG_24__2)
+
+#Other Flip-flop Output logic for P1_D_REG_25_
+P1_D_REG_25__1enc = BUF(P1_D_REG_25__1)
+P1_D_REG_25__2enc = BUF(P1_D_REG_25__2)
+
+#Other Flip-flop Output logic for P1_D_REG_26_
+P1_D_REG_26__1enc = BUF(P1_D_REG_26__1)
+P1_D_REG_26__2enc = BUF(P1_D_REG_26__2)
+
+#Other Flip-flop Output logic for P1_D_REG_27_
+P1_D_REG_27__1enc = BUF(P1_D_REG_27__1)
+P1_D_REG_27__2enc = BUF(P1_D_REG_27__2)
+
+#Other Flip-flop Output logic for P1_D_REG_28_
+P1_D_REG_28__1enc = BUF(P1_D_REG_28__1)
+P1_D_REG_28__2enc = BUF(P1_D_REG_28__2)
+
+#Other Flip-flop Output logic for P1_D_REG_29_
+P1_D_REG_29__1enc = BUF(P1_D_REG_29__1)
+P1_D_REG_29__2enc = BUF(P1_D_REG_29__2)
+
+#Other Flip-flop Output logic for P1_D_REG_30_
+P1_D_REG_30__1enc = BUF(P1_D_REG_30__1)
+P1_D_REG_30__2enc = BUF(P1_D_REG_30__2)
+
+#Other Flip-flop Output logic for P1_D_REG_31_
+P1_D_REG_31__1enc = BUF(P1_D_REG_31__1)
+P1_D_REG_31__2enc = BUF(P1_D_REG_31__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_0_
+P1_REG0_REG_0__1enc = BUF(P1_REG0_REG_0__1)
+P1_REG0_REG_0__2enc = BUF(P1_REG0_REG_0__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_1_
+P1_REG0_REG_1__1enc = BUF(P1_REG0_REG_1__1)
+P1_REG0_REG_1__2enc = BUF(P1_REG0_REG_1__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_2_
+P1_REG0_REG_2__1enc = BUF(P1_REG0_REG_2__1)
+P1_REG0_REG_2__2enc = BUF(P1_REG0_REG_2__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_3_
+P1_REG0_REG_3__1enc = BUF(P1_REG0_REG_3__1)
+P1_REG0_REG_3__2enc = BUF(P1_REG0_REG_3__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_4_
+P1_REG0_REG_4__1enc = BUF(P1_REG0_REG_4__1)
+P1_REG0_REG_4__2enc = BUF(P1_REG0_REG_4__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_5_
+P1_REG0_REG_5__1enc = BUF(P1_REG0_REG_5__1)
+P1_REG0_REG_5__2enc = BUF(P1_REG0_REG_5__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_6_
+P1_REG0_REG_6__1enc = BUF(P1_REG0_REG_6__1)
+P1_REG0_REG_6__2enc = BUF(P1_REG0_REG_6__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_7_
+P1_REG0_REG_7__1enc = BUF(P1_REG0_REG_7__1)
+P1_REG0_REG_7__2enc = BUF(P1_REG0_REG_7__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_8_
+P1_REG0_REG_8__1enc = BUF(P1_REG0_REG_8__1)
+P1_REG0_REG_8__2enc = BUF(P1_REG0_REG_8__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_9_
+P1_REG0_REG_9__1enc = BUF(P1_REG0_REG_9__1)
+P1_REG0_REG_9__2enc = BUF(P1_REG0_REG_9__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_10_
+P1_REG0_REG_10__1enc = BUF(P1_REG0_REG_10__1)
+P1_REG0_REG_10__2enc = BUF(P1_REG0_REG_10__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_11_
+P1_REG0_REG_11__1enc = BUF(P1_REG0_REG_11__1)
+P1_REG0_REG_11__2enc = BUF(P1_REG0_REG_11__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_12_
+P1_REG0_REG_12__1enc = BUF(P1_REG0_REG_12__1)
+P1_REG0_REG_12__2enc = BUF(P1_REG0_REG_12__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_13_
+P1_REG0_REG_13__1enc = BUF(P1_REG0_REG_13__1)
+P1_REG0_REG_13__2enc = BUF(P1_REG0_REG_13__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_14_
+P1_REG0_REG_14__1enc = BUF(P1_REG0_REG_14__1)
+P1_REG0_REG_14__2enc = BUF(P1_REG0_REG_14__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_15_
+P1_REG0_REG_15__1enc = BUF(P1_REG0_REG_15__1)
+P1_REG0_REG_15__2enc = BUF(P1_REG0_REG_15__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_16_
+P1_REG0_REG_16__1enc = BUF(P1_REG0_REG_16__1)
+P1_REG0_REG_16__2enc = BUF(P1_REG0_REG_16__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_17_
+P1_REG0_REG_17__1enc = BUF(P1_REG0_REG_17__1)
+P1_REG0_REG_17__2enc = BUF(P1_REG0_REG_17__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_18_
+P1_REG0_REG_18__1enc = BUF(P1_REG0_REG_18__1)
+P1_REG0_REG_18__2enc = BUF(P1_REG0_REG_18__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_19_
+P1_REG0_REG_19__1enc = BUF(P1_REG0_REG_19__1)
+P1_REG0_REG_19__2enc = BUF(P1_REG0_REG_19__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_20_
+P1_REG0_REG_20__1enc = BUF(P1_REG0_REG_20__1)
+P1_REG0_REG_20__2enc = BUF(P1_REG0_REG_20__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_21_
+P1_REG0_REG_21__1enc = BUF(P1_REG0_REG_21__1)
+P1_REG0_REG_21__2enc = BUF(P1_REG0_REG_21__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_22_
+P1_REG0_REG_22__1enc = BUF(P1_REG0_REG_22__1)
+P1_REG0_REG_22__2enc = BUF(P1_REG0_REG_22__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_23_
+P1_REG0_REG_23__1enc = BUF(P1_REG0_REG_23__1)
+P1_REG0_REG_23__2enc = BUF(P1_REG0_REG_23__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_24_
+P1_REG0_REG_24__1enc = BUF(P1_REG0_REG_24__1)
+P1_REG0_REG_24__2enc = BUF(P1_REG0_REG_24__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_25_
+P1_REG0_REG_25__1enc = BUF(P1_REG0_REG_25__1)
+P1_REG0_REG_25__2enc = BUF(P1_REG0_REG_25__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_26_
+P1_REG0_REG_26__1enc = BUF(P1_REG0_REG_26__1)
+P1_REG0_REG_26__2enc = BUF(P1_REG0_REG_26__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_27_
+P1_REG0_REG_27__1enc = BUF(P1_REG0_REG_27__1)
+P1_REG0_REG_27__2enc = BUF(P1_REG0_REG_27__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_28_
+P1_REG0_REG_28__1enc = BUF(P1_REG0_REG_28__1)
+P1_REG0_REG_28__2enc = BUF(P1_REG0_REG_28__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_29_
+P1_REG0_REG_29__1enc = BUF(P1_REG0_REG_29__1)
+P1_REG0_REG_29__2enc = BUF(P1_REG0_REG_29__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_30_
+P1_REG0_REG_30__1enc = BUF(P1_REG0_REG_30__1)
+P1_REG0_REG_30__2enc = BUF(P1_REG0_REG_30__2)
+
+#Other Flip-flop Output logic for P1_REG0_REG_31_
+P1_REG0_REG_31__1enc = BUF(P1_REG0_REG_31__1)
+P1_REG0_REG_31__2enc = BUF(P1_REG0_REG_31__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_0_
+P1_REG1_REG_0__1enc = BUF(P1_REG1_REG_0__1)
+P1_REG1_REG_0__2enc = BUF(P1_REG1_REG_0__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_1_
+P1_REG1_REG_1__1enc = BUF(P1_REG1_REG_1__1)
+P1_REG1_REG_1__2enc = BUF(P1_REG1_REG_1__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_2_
+P1_REG1_REG_2__1enc = BUF(P1_REG1_REG_2__1)
+P1_REG1_REG_2__2enc = BUF(P1_REG1_REG_2__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_3_
+P1_REG1_REG_3__1enc = BUF(P1_REG1_REG_3__1)
+P1_REG1_REG_3__2enc = BUF(P1_REG1_REG_3__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_4_
+P1_REG1_REG_4__1enc = BUF(P1_REG1_REG_4__1)
+P1_REG1_REG_4__2enc = BUF(P1_REG1_REG_4__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_5_
+P1_REG1_REG_5__1enc = BUF(P1_REG1_REG_5__1)
+P1_REG1_REG_5__2enc = BUF(P1_REG1_REG_5__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_6_
+P1_REG1_REG_6__1enc = BUF(P1_REG1_REG_6__1)
+P1_REG1_REG_6__2enc = BUF(P1_REG1_REG_6__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_7_
+P1_REG1_REG_7__1enc = BUF(P1_REG1_REG_7__1)
+P1_REG1_REG_7__2enc = BUF(P1_REG1_REG_7__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_8_
+P1_REG1_REG_8__1enc = BUF(P1_REG1_REG_8__1)
+P1_REG1_REG_8__2enc = BUF(P1_REG1_REG_8__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_9_
+P1_REG1_REG_9__1enc = BUF(P1_REG1_REG_9__1)
+P1_REG1_REG_9__2enc = BUF(P1_REG1_REG_9__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_10_
+P1_REG1_REG_10__1enc = BUF(P1_REG1_REG_10__1)
+P1_REG1_REG_10__2enc = BUF(P1_REG1_REG_10__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_11_
+P1_REG1_REG_11__1enc = BUF(P1_REG1_REG_11__1)
+P1_REG1_REG_11__2enc = BUF(P1_REG1_REG_11__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_12_
+P1_REG1_REG_12__1enc = BUF(P1_REG1_REG_12__1)
+P1_REG1_REG_12__2enc = BUF(P1_REG1_REG_12__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_13_
+P1_REG1_REG_13__1enc = BUF(P1_REG1_REG_13__1)
+P1_REG1_REG_13__2enc = BUF(P1_REG1_REG_13__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_14_
+P1_REG1_REG_14__1enc = BUF(P1_REG1_REG_14__1)
+P1_REG1_REG_14__2enc = BUF(P1_REG1_REG_14__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_15_
+P1_REG1_REG_15__1enc = BUF(P1_REG1_REG_15__1)
+P1_REG1_REG_15__2enc = BUF(P1_REG1_REG_15__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_16_
+P1_REG1_REG_16__1enc = BUF(P1_REG1_REG_16__1)
+P1_REG1_REG_16__2enc = BUF(P1_REG1_REG_16__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_17_
+P1_REG1_REG_17__1enc = BUF(P1_REG1_REG_17__1)
+P1_REG1_REG_17__2enc = BUF(P1_REG1_REG_17__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_18_
+P1_REG1_REG_18__1enc = BUF(P1_REG1_REG_18__1)
+P1_REG1_REG_18__2enc = BUF(P1_REG1_REG_18__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_19_
+P1_REG1_REG_19__1enc = BUF(P1_REG1_REG_19__1)
+P1_REG1_REG_19__2enc = BUF(P1_REG1_REG_19__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_20_
+P1_REG1_REG_20__1enc = BUF(P1_REG1_REG_20__1)
+P1_REG1_REG_20__2enc = BUF(P1_REG1_REG_20__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_21_
+P1_REG1_REG_21__1enc = BUF(P1_REG1_REG_21__1)
+P1_REG1_REG_21__2enc = BUF(P1_REG1_REG_21__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_22_
+P1_REG1_REG_22__1enc = BUF(P1_REG1_REG_22__1)
+P1_REG1_REG_22__2enc = BUF(P1_REG1_REG_22__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_23_
+P1_REG1_REG_23__1enc = BUF(P1_REG1_REG_23__1)
+P1_REG1_REG_23__2enc = BUF(P1_REG1_REG_23__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_24_
+P1_REG1_REG_24__1enc = BUF(P1_REG1_REG_24__1)
+P1_REG1_REG_24__2enc = BUF(P1_REG1_REG_24__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_25_
+P1_REG1_REG_25__1enc = BUF(P1_REG1_REG_25__1)
+P1_REG1_REG_25__2enc = BUF(P1_REG1_REG_25__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_26_
+P1_REG1_REG_26__1enc = BUF(P1_REG1_REG_26__1)
+P1_REG1_REG_26__2enc = BUF(P1_REG1_REG_26__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_27_
+P1_REG1_REG_27__1enc = BUF(P1_REG1_REG_27__1)
+P1_REG1_REG_27__2enc = BUF(P1_REG1_REG_27__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_28_
+P1_REG1_REG_28__1enc = BUF(P1_REG1_REG_28__1)
+P1_REG1_REG_28__2enc = BUF(P1_REG1_REG_28__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_29_
+P1_REG1_REG_29__1enc = BUF(P1_REG1_REG_29__1)
+P1_REG1_REG_29__2enc = BUF(P1_REG1_REG_29__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_30_
+P1_REG1_REG_30__1enc = BUF(P1_REG1_REG_30__1)
+P1_REG1_REG_30__2enc = BUF(P1_REG1_REG_30__2)
+
+#Other Flip-flop Output logic for P1_REG1_REG_31_
+P1_REG1_REG_31__1enc = BUF(P1_REG1_REG_31__1)
+P1_REG1_REG_31__2enc = BUF(P1_REG1_REG_31__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_0_
+P1_REG2_REG_0__1enc = BUF(P1_REG2_REG_0__1)
+P1_REG2_REG_0__2enc = BUF(P1_REG2_REG_0__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_1_
+P1_REG2_REG_1__1enc = BUF(P1_REG2_REG_1__1)
+P1_REG2_REG_1__2enc = BUF(P1_REG2_REG_1__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_2_
+P1_REG2_REG_2__1enc = BUF(P1_REG2_REG_2__1)
+P1_REG2_REG_2__2enc = BUF(P1_REG2_REG_2__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_3_
+P1_REG2_REG_3__1enc = BUF(P1_REG2_REG_3__1)
+P1_REG2_REG_3__2enc = BUF(P1_REG2_REG_3__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_4_
+P1_REG2_REG_4__1enc = BUF(P1_REG2_REG_4__1)
+P1_REG2_REG_4__2enc = BUF(P1_REG2_REG_4__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_5_
+P1_REG2_REG_5__1enc = BUF(P1_REG2_REG_5__1)
+P1_REG2_REG_5__2enc = BUF(P1_REG2_REG_5__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_6_
+P1_REG2_REG_6__1enc = BUF(P1_REG2_REG_6__1)
+P1_REG2_REG_6__2enc = BUF(P1_REG2_REG_6__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_7_
+P1_REG2_REG_7__1enc = BUF(P1_REG2_REG_7__1)
+P1_REG2_REG_7__2enc = BUF(P1_REG2_REG_7__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_8_
+P1_REG2_REG_8__1enc = BUF(P1_REG2_REG_8__1)
+P1_REG2_REG_8__2enc = BUF(P1_REG2_REG_8__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_9_
+P1_REG2_REG_9__1enc = BUF(P1_REG2_REG_9__1)
+P1_REG2_REG_9__2enc = BUF(P1_REG2_REG_9__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_10_
+P1_REG2_REG_10__1enc = BUF(P1_REG2_REG_10__1)
+P1_REG2_REG_10__2enc = BUF(P1_REG2_REG_10__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_11_
+P1_REG2_REG_11__1enc = BUF(P1_REG2_REG_11__1)
+P1_REG2_REG_11__2enc = BUF(P1_REG2_REG_11__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_12_
+P1_REG2_REG_12__1enc = BUF(P1_REG2_REG_12__1)
+P1_REG2_REG_12__2enc = BUF(P1_REG2_REG_12__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_13_
+P1_REG2_REG_13__1enc = BUF(P1_REG2_REG_13__1)
+P1_REG2_REG_13__2enc = BUF(P1_REG2_REG_13__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_14_
+P1_REG2_REG_14__1enc = BUF(P1_REG2_REG_14__1)
+P1_REG2_REG_14__2enc = BUF(P1_REG2_REG_14__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_15_
+P1_REG2_REG_15__1enc = BUF(P1_REG2_REG_15__1)
+P1_REG2_REG_15__2enc = BUF(P1_REG2_REG_15__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_16_
+P1_REG2_REG_16__1enc = BUF(P1_REG2_REG_16__1)
+P1_REG2_REG_16__2enc = BUF(P1_REG2_REG_16__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_17_
+P1_REG2_REG_17__1enc = BUF(P1_REG2_REG_17__1)
+P1_REG2_REG_17__2enc = BUF(P1_REG2_REG_17__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_18_
+P1_REG2_REG_18__1enc = BUF(P1_REG2_REG_18__1)
+P1_REG2_REG_18__2enc = BUF(P1_REG2_REG_18__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_19_
+P1_REG2_REG_19__1enc = BUF(P1_REG2_REG_19__1)
+P1_REG2_REG_19__2enc = BUF(P1_REG2_REG_19__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_20_
+P1_REG2_REG_20__1enc = BUF(P1_REG2_REG_20__1)
+P1_REG2_REG_20__2enc = BUF(P1_REG2_REG_20__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_21_
+P1_REG2_REG_21__1enc = BUF(P1_REG2_REG_21__1)
+P1_REG2_REG_21__2enc = BUF(P1_REG2_REG_21__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_22_
+P1_REG2_REG_22__1enc = BUF(P1_REG2_REG_22__1)
+P1_REG2_REG_22__2enc = BUF(P1_REG2_REG_22__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_23_
+P1_REG2_REG_23__1enc = BUF(P1_REG2_REG_23__1)
+P1_REG2_REG_23__2enc = BUF(P1_REG2_REG_23__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_24_
+P1_REG2_REG_24__1enc = BUF(P1_REG2_REG_24__1)
+P1_REG2_REG_24__2enc = BUF(P1_REG2_REG_24__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_25_
+P1_REG2_REG_25__1enc = BUF(P1_REG2_REG_25__1)
+P1_REG2_REG_25__2enc = BUF(P1_REG2_REG_25__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_26_
+P1_REG2_REG_26__1enc = BUF(P1_REG2_REG_26__1)
+P1_REG2_REG_26__2enc = BUF(P1_REG2_REG_26__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_27_
+P1_REG2_REG_27__1enc = BUF(P1_REG2_REG_27__1)
+P1_REG2_REG_27__2enc = BUF(P1_REG2_REG_27__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_28_
+P1_REG2_REG_28__1enc = BUF(P1_REG2_REG_28__1)
+P1_REG2_REG_28__2enc = BUF(P1_REG2_REG_28__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_29_
+P1_REG2_REG_29__1enc = BUF(P1_REG2_REG_29__1)
+P1_REG2_REG_29__2enc = BUF(P1_REG2_REG_29__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_30_
+P1_REG2_REG_30__1enc = BUF(P1_REG2_REG_30__1)
+P1_REG2_REG_30__2enc = BUF(P1_REG2_REG_30__2)
+
+#Other Flip-flop Output logic for P1_REG2_REG_31_
+P1_REG2_REG_31__1enc = BUF(P1_REG2_REG_31__1)
+P1_REG2_REG_31__2enc = BUF(P1_REG2_REG_31__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_19_
+P1_ADDR_REG_19__1enc = BUF(P1_ADDR_REG_19__1)
+P1_ADDR_REG_19__2enc = BUF(P1_ADDR_REG_19__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_18_
+P1_ADDR_REG_18__1enc = BUF(P1_ADDR_REG_18__1)
+P1_ADDR_REG_18__2enc = BUF(P1_ADDR_REG_18__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_17_
+P1_ADDR_REG_17__1enc = BUF(P1_ADDR_REG_17__1)
+P1_ADDR_REG_17__2enc = BUF(P1_ADDR_REG_17__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_16_
+P1_ADDR_REG_16__1enc = BUF(P1_ADDR_REG_16__1)
+P1_ADDR_REG_16__2enc = BUF(P1_ADDR_REG_16__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_15_
+P1_ADDR_REG_15__1enc = BUF(P1_ADDR_REG_15__1)
+P1_ADDR_REG_15__2enc = BUF(P1_ADDR_REG_15__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_14_
+P1_ADDR_REG_14__1enc = BUF(P1_ADDR_REG_14__1)
+P1_ADDR_REG_14__2enc = BUF(P1_ADDR_REG_14__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_13_
+P1_ADDR_REG_13__1enc = BUF(P1_ADDR_REG_13__1)
+P1_ADDR_REG_13__2enc = BUF(P1_ADDR_REG_13__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_12_
+P1_ADDR_REG_12__1enc = BUF(P1_ADDR_REG_12__1)
+P1_ADDR_REG_12__2enc = BUF(P1_ADDR_REG_12__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_11_
+P1_ADDR_REG_11__1enc = BUF(P1_ADDR_REG_11__1)
+P1_ADDR_REG_11__2enc = BUF(P1_ADDR_REG_11__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_10_
+P1_ADDR_REG_10__1enc = BUF(P1_ADDR_REG_10__1)
+P1_ADDR_REG_10__2enc = BUF(P1_ADDR_REG_10__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_9_
+P1_ADDR_REG_9__1enc = BUF(P1_ADDR_REG_9__1)
+P1_ADDR_REG_9__2enc = BUF(P1_ADDR_REG_9__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_8_
+P1_ADDR_REG_8__1enc = BUF(P1_ADDR_REG_8__1)
+P1_ADDR_REG_8__2enc = BUF(P1_ADDR_REG_8__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_7_
+P1_ADDR_REG_7__1enc = BUF(P1_ADDR_REG_7__1)
+P1_ADDR_REG_7__2enc = BUF(P1_ADDR_REG_7__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_6_
+P1_ADDR_REG_6__1enc = BUF(P1_ADDR_REG_6__1)
+P1_ADDR_REG_6__2enc = BUF(P1_ADDR_REG_6__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_5_
+P1_ADDR_REG_5__1enc = BUF(P1_ADDR_REG_5__1)
+P1_ADDR_REG_5__2enc = BUF(P1_ADDR_REG_5__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_4_
+P1_ADDR_REG_4__1enc = BUF(P1_ADDR_REG_4__1)
+P1_ADDR_REG_4__2enc = BUF(P1_ADDR_REG_4__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_3_
+P1_ADDR_REG_3__1enc = BUF(P1_ADDR_REG_3__1)
+P1_ADDR_REG_3__2enc = BUF(P1_ADDR_REG_3__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_2_
+P1_ADDR_REG_2__1enc = BUF(P1_ADDR_REG_2__1)
+P1_ADDR_REG_2__2enc = BUF(P1_ADDR_REG_2__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_1_
+P1_ADDR_REG_1__1enc = BUF(P1_ADDR_REG_1__1)
+P1_ADDR_REG_1__2enc = BUF(P1_ADDR_REG_1__2)
+
+#Other Flip-flop Output logic for P1_ADDR_REG_0_
+P1_ADDR_REG_0__1enc = BUF(P1_ADDR_REG_0__1)
+P1_ADDR_REG_0__2enc = BUF(P1_ADDR_REG_0__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_0_
+P1_DATAO_REG_0__1enc = BUF(P1_DATAO_REG_0__1)
+P1_DATAO_REG_0__2enc = BUF(P1_DATAO_REG_0__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_1_
+P1_DATAO_REG_1__1enc = BUF(P1_DATAO_REG_1__1)
+P1_DATAO_REG_1__2enc = BUF(P1_DATAO_REG_1__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_2_
+P1_DATAO_REG_2__1enc = BUF(P1_DATAO_REG_2__1)
+P1_DATAO_REG_2__2enc = BUF(P1_DATAO_REG_2__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_3_
+P1_DATAO_REG_3__1enc = BUF(P1_DATAO_REG_3__1)
+P1_DATAO_REG_3__2enc = BUF(P1_DATAO_REG_3__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_4_
+P1_DATAO_REG_4__1enc = BUF(P1_DATAO_REG_4__1)
+P1_DATAO_REG_4__2enc = BUF(P1_DATAO_REG_4__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_5_
+P1_DATAO_REG_5__1enc = BUF(P1_DATAO_REG_5__1)
+P1_DATAO_REG_5__2enc = BUF(P1_DATAO_REG_5__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_6_
+P1_DATAO_REG_6__1enc = BUF(P1_DATAO_REG_6__1)
+P1_DATAO_REG_6__2enc = BUF(P1_DATAO_REG_6__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_7_
+P1_DATAO_REG_7__1enc = BUF(P1_DATAO_REG_7__1)
+P1_DATAO_REG_7__2enc = BUF(P1_DATAO_REG_7__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_8_
+P1_DATAO_REG_8__1enc = BUF(P1_DATAO_REG_8__1)
+P1_DATAO_REG_8__2enc = BUF(P1_DATAO_REG_8__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_9_
+P1_DATAO_REG_9__1enc = BUF(P1_DATAO_REG_9__1)
+P1_DATAO_REG_9__2enc = BUF(P1_DATAO_REG_9__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_10_
+P1_DATAO_REG_10__1enc = BUF(P1_DATAO_REG_10__1)
+P1_DATAO_REG_10__2enc = BUF(P1_DATAO_REG_10__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_11_
+P1_DATAO_REG_11__1enc = BUF(P1_DATAO_REG_11__1)
+P1_DATAO_REG_11__2enc = BUF(P1_DATAO_REG_11__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_12_
+P1_DATAO_REG_12__1enc = BUF(P1_DATAO_REG_12__1)
+P1_DATAO_REG_12__2enc = BUF(P1_DATAO_REG_12__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_13_
+P1_DATAO_REG_13__1enc = BUF(P1_DATAO_REG_13__1)
+P1_DATAO_REG_13__2enc = BUF(P1_DATAO_REG_13__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_14_
+P1_DATAO_REG_14__1enc = BUF(P1_DATAO_REG_14__1)
+P1_DATAO_REG_14__2enc = BUF(P1_DATAO_REG_14__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_15_
+P1_DATAO_REG_15__1enc = BUF(P1_DATAO_REG_15__1)
+P1_DATAO_REG_15__2enc = BUF(P1_DATAO_REG_15__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_16_
+P1_DATAO_REG_16__1enc = BUF(P1_DATAO_REG_16__1)
+P1_DATAO_REG_16__2enc = BUF(P1_DATAO_REG_16__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_17_
+P1_DATAO_REG_17__1enc = BUF(P1_DATAO_REG_17__1)
+P1_DATAO_REG_17__2enc = BUF(P1_DATAO_REG_17__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_18_
+P1_DATAO_REG_18__1enc = BUF(P1_DATAO_REG_18__1)
+P1_DATAO_REG_18__2enc = BUF(P1_DATAO_REG_18__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_19_
+P1_DATAO_REG_19__1enc = BUF(P1_DATAO_REG_19__1)
+P1_DATAO_REG_19__2enc = BUF(P1_DATAO_REG_19__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_20_
+P1_DATAO_REG_20__1enc = BUF(P1_DATAO_REG_20__1)
+P1_DATAO_REG_20__2enc = BUF(P1_DATAO_REG_20__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_21_
+P1_DATAO_REG_21__1enc = BUF(P1_DATAO_REG_21__1)
+P1_DATAO_REG_21__2enc = BUF(P1_DATAO_REG_21__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_22_
+P1_DATAO_REG_22__1enc = BUF(P1_DATAO_REG_22__1)
+P1_DATAO_REG_22__2enc = BUF(P1_DATAO_REG_22__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_23_
+P1_DATAO_REG_23__1enc = BUF(P1_DATAO_REG_23__1)
+P1_DATAO_REG_23__2enc = BUF(P1_DATAO_REG_23__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_24_
+P1_DATAO_REG_24__1enc = BUF(P1_DATAO_REG_24__1)
+P1_DATAO_REG_24__2enc = BUF(P1_DATAO_REG_24__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_25_
+P1_DATAO_REG_25__1enc = BUF(P1_DATAO_REG_25__1)
+P1_DATAO_REG_25__2enc = BUF(P1_DATAO_REG_25__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_26_
+P1_DATAO_REG_26__1enc = BUF(P1_DATAO_REG_26__1)
+P1_DATAO_REG_26__2enc = BUF(P1_DATAO_REG_26__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_27_
+P1_DATAO_REG_27__1enc = BUF(P1_DATAO_REG_27__1)
+P1_DATAO_REG_27__2enc = BUF(P1_DATAO_REG_27__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_28_
+P1_DATAO_REG_28__1enc = BUF(P1_DATAO_REG_28__1)
+P1_DATAO_REG_28__2enc = BUF(P1_DATAO_REG_28__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_29_
+P1_DATAO_REG_29__1enc = BUF(P1_DATAO_REG_29__1)
+P1_DATAO_REG_29__2enc = BUF(P1_DATAO_REG_29__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_30_
+P1_DATAO_REG_30__1enc = BUF(P1_DATAO_REG_30__1)
+P1_DATAO_REG_30__2enc = BUF(P1_DATAO_REG_30__2)
+
+#Other Flip-flop Output logic for P1_DATAO_REG_31_
+P1_DATAO_REG_31__1enc = BUF(P1_DATAO_REG_31__1)
+P1_DATAO_REG_31__2enc = BUF(P1_DATAO_REG_31__2)
+
+#Other Flip-flop Output logic for P1_B_REG
+P1_B_REG_1enc = BUF(P1_B_REG_1)
+P1_B_REG_2enc = BUF(P1_B_REG_2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_15_
+P1_REG3_REG_15__1enc = BUF(P1_REG3_REG_15__1)
+P1_REG3_REG_15__2enc = BUF(P1_REG3_REG_15__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_26_
+P1_REG3_REG_26__1enc = BUF(P1_REG3_REG_26__1)
+P1_REG3_REG_26__2enc = BUF(P1_REG3_REG_26__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_6_
+P1_REG3_REG_6__1enc = BUF(P1_REG3_REG_6__1)
+P1_REG3_REG_6__2enc = BUF(P1_REG3_REG_6__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_18_
+P1_REG3_REG_18__1enc = BUF(P1_REG3_REG_18__1)
+P1_REG3_REG_18__2enc = BUF(P1_REG3_REG_18__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_2_
+P1_REG3_REG_2__1enc = BUF(P1_REG3_REG_2__1)
+P1_REG3_REG_2__2enc = BUF(P1_REG3_REG_2__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_11_
+P1_REG3_REG_11__1enc = BUF(P1_REG3_REG_11__1)
+P1_REG3_REG_11__2enc = BUF(P1_REG3_REG_11__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_22_
+P1_REG3_REG_22__1enc = BUF(P1_REG3_REG_22__1)
+P1_REG3_REG_22__2enc = BUF(P1_REG3_REG_22__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_13_
+P1_REG3_REG_13__1enc = BUF(P1_REG3_REG_13__1)
+P1_REG3_REG_13__2enc = BUF(P1_REG3_REG_13__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_20_
+P1_REG3_REG_20__1enc = BUF(P1_REG3_REG_20__1)
+P1_REG3_REG_20__2enc = BUF(P1_REG3_REG_20__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_0_
+P1_REG3_REG_0__1enc = BUF(P1_REG3_REG_0__1)
+P1_REG3_REG_0__2enc = BUF(P1_REG3_REG_0__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_9_
+P1_REG3_REG_9__1enc = BUF(P1_REG3_REG_9__1)
+P1_REG3_REG_9__2enc = BUF(P1_REG3_REG_9__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_4_
+P1_REG3_REG_4__1enc = BUF(P1_REG3_REG_4__1)
+P1_REG3_REG_4__2enc = BUF(P1_REG3_REG_4__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_24_
+P1_REG3_REG_24__1enc = BUF(P1_REG3_REG_24__1)
+P1_REG3_REG_24__2enc = BUF(P1_REG3_REG_24__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_17_
+P1_REG3_REG_17__1enc = BUF(P1_REG3_REG_17__1)
+P1_REG3_REG_17__2enc = BUF(P1_REG3_REG_17__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_5_
+P1_REG3_REG_5__1enc = BUF(P1_REG3_REG_5__1)
+P1_REG3_REG_5__2enc = BUF(P1_REG3_REG_5__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_16_
+P1_REG3_REG_16__1enc = BUF(P1_REG3_REG_16__1)
+P1_REG3_REG_16__2enc = BUF(P1_REG3_REG_16__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_25_
+P1_REG3_REG_25__1enc = BUF(P1_REG3_REG_25__1)
+P1_REG3_REG_25__2enc = BUF(P1_REG3_REG_25__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_12_
+P1_REG3_REG_12__1enc = BUF(P1_REG3_REG_12__1)
+P1_REG3_REG_12__2enc = BUF(P1_REG3_REG_12__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_21_
+P1_REG3_REG_21__1enc = BUF(P1_REG3_REG_21__1)
+P1_REG3_REG_21__2enc = BUF(P1_REG3_REG_21__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_1_
+P1_REG3_REG_1__1enc = BUF(P1_REG3_REG_1__1)
+P1_REG3_REG_1__2enc = BUF(P1_REG3_REG_1__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_8_
+P1_REG3_REG_8__1enc = BUF(P1_REG3_REG_8__1)
+P1_REG3_REG_8__2enc = BUF(P1_REG3_REG_8__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_28_
+P1_REG3_REG_28__1enc = BUF(P1_REG3_REG_28__1)
+P1_REG3_REG_28__2enc = BUF(P1_REG3_REG_28__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_19_
+P1_REG3_REG_19__1enc = BUF(P1_REG3_REG_19__1)
+P1_REG3_REG_19__2enc = BUF(P1_REG3_REG_19__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_3_
+P1_REG3_REG_3__1enc = BUF(P1_REG3_REG_3__1)
+P1_REG3_REG_3__2enc = BUF(P1_REG3_REG_3__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_10_
+P1_REG3_REG_10__1enc = BUF(P1_REG3_REG_10__1)
+P1_REG3_REG_10__2enc = BUF(P1_REG3_REG_10__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_23_
+P1_REG3_REG_23__1enc = BUF(P1_REG3_REG_23__1)
+P1_REG3_REG_23__2enc = BUF(P1_REG3_REG_23__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_14_
+P1_REG3_REG_14__1enc = BUF(P1_REG3_REG_14__1)
+P1_REG3_REG_14__2enc = BUF(P1_REG3_REG_14__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_27_
+P1_REG3_REG_27__1enc = BUF(P1_REG3_REG_27__1)
+P1_REG3_REG_27__2enc = BUF(P1_REG3_REG_27__2)
+
+#Other Flip-flop Output logic for P1_REG3_REG_7_
+P1_REG3_REG_7__1enc = BUF(P1_REG3_REG_7__1)
+P1_REG3_REG_7__2enc = BUF(P1_REG3_REG_7__2)
+
+#Other Flip-flop Output logic for P1_STATE_REG
+P1_STATE_REG_1enc = BUF(P1_STATE_REG_1)
+P1_STATE_REG_2enc = BUF(P1_STATE_REG_2)
+
+#Other Flip-flop Output logic for P1_RD_REG
+P1_RD_REG_1enc = BUF(P1_RD_REG_1)
+P1_RD_REG_2enc = BUF(P1_RD_REG_2)
+
+#Other Flip-flop Output logic for P1_WR_REG
+P1_WR_REG_1enc = BUF(P1_WR_REG_1)
+P1_WR_REG_2enc = BUF(P1_WR_REG_2)
+
+#Other Flip-flop Output logic for P2_IR_REG_0_
+P2_IR_REG_0__1enc = BUF(P2_IR_REG_0__1)
+P2_IR_REG_0__2enc = BUF(P2_IR_REG_0__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_1_
+P2_IR_REG_1__1enc = BUF(P2_IR_REG_1__1)
+P2_IR_REG_1__2enc = BUF(P2_IR_REG_1__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_2_
+P2_IR_REG_2__1enc = BUF(P2_IR_REG_2__1)
+P2_IR_REG_2__2enc = BUF(P2_IR_REG_2__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_3_
+P2_IR_REG_3__1enc = BUF(P2_IR_REG_3__1)
+P2_IR_REG_3__2enc = BUF(P2_IR_REG_3__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_4_
+P2_IR_REG_4__1enc = BUF(P2_IR_REG_4__1)
+P2_IR_REG_4__2enc = BUF(P2_IR_REG_4__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_5_
+P2_IR_REG_5__1enc = BUF(P2_IR_REG_5__1)
+P2_IR_REG_5__2enc = BUF(P2_IR_REG_5__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_6_
+P2_IR_REG_6__1enc = BUF(P2_IR_REG_6__1)
+P2_IR_REG_6__2enc = BUF(P2_IR_REG_6__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_7_
+P2_IR_REG_7__1enc = BUF(P2_IR_REG_7__1)
+P2_IR_REG_7__2enc = BUF(P2_IR_REG_7__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_8_
+P2_IR_REG_8__1enc = BUF(P2_IR_REG_8__1)
+P2_IR_REG_8__2enc = BUF(P2_IR_REG_8__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_9_
+P2_IR_REG_9__1enc = BUF(P2_IR_REG_9__1)
+P2_IR_REG_9__2enc = BUF(P2_IR_REG_9__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_10_
+P2_IR_REG_10__1enc = BUF(P2_IR_REG_10__1)
+P2_IR_REG_10__2enc = BUF(P2_IR_REG_10__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_11_
+P2_IR_REG_11__1enc = BUF(P2_IR_REG_11__1)
+P2_IR_REG_11__2enc = BUF(P2_IR_REG_11__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_12_
+P2_IR_REG_12__1enc = BUF(P2_IR_REG_12__1)
+P2_IR_REG_12__2enc = BUF(P2_IR_REG_12__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_13_
+P2_IR_REG_13__1enc = BUF(P2_IR_REG_13__1)
+P2_IR_REG_13__2enc = BUF(P2_IR_REG_13__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_14_
+P2_IR_REG_14__1enc = BUF(P2_IR_REG_14__1)
+P2_IR_REG_14__2enc = BUF(P2_IR_REG_14__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_15_
+P2_IR_REG_15__1enc = BUF(P2_IR_REG_15__1)
+P2_IR_REG_15__2enc = BUF(P2_IR_REG_15__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_16_
+P2_IR_REG_16__1enc = BUF(P2_IR_REG_16__1)
+P2_IR_REG_16__2enc = BUF(P2_IR_REG_16__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_17_
+P2_IR_REG_17__1enc = BUF(P2_IR_REG_17__1)
+P2_IR_REG_17__2enc = BUF(P2_IR_REG_17__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_18_
+P2_IR_REG_18__1enc = BUF(P2_IR_REG_18__1)
+P2_IR_REG_18__2enc = BUF(P2_IR_REG_18__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_19_
+P2_IR_REG_19__1enc = BUF(P2_IR_REG_19__1)
+P2_IR_REG_19__2enc = BUF(P2_IR_REG_19__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_20_
+P2_IR_REG_20__1enc = BUF(P2_IR_REG_20__1)
+P2_IR_REG_20__2enc = BUF(P2_IR_REG_20__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_21_
+P2_IR_REG_21__1enc = BUF(P2_IR_REG_21__1)
+P2_IR_REG_21__2enc = BUF(P2_IR_REG_21__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_22_
+P2_IR_REG_22__1enc = BUF(P2_IR_REG_22__1)
+P2_IR_REG_22__2enc = BUF(P2_IR_REG_22__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_23_
+P2_IR_REG_23__1enc = BUF(P2_IR_REG_23__1)
+P2_IR_REG_23__2enc = BUF(P2_IR_REG_23__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_24_
+P2_IR_REG_24__1enc = BUF(P2_IR_REG_24__1)
+P2_IR_REG_24__2enc = BUF(P2_IR_REG_24__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_25_
+P2_IR_REG_25__1enc = BUF(P2_IR_REG_25__1)
+P2_IR_REG_25__2enc = BUF(P2_IR_REG_25__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_26_
+P2_IR_REG_26__1enc = BUF(P2_IR_REG_26__1)
+P2_IR_REG_26__2enc = BUF(P2_IR_REG_26__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_27_
+P2_IR_REG_27__1enc = BUF(P2_IR_REG_27__1)
+P2_IR_REG_27__2enc = BUF(P2_IR_REG_27__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_28_
+P2_IR_REG_28__1enc = BUF(P2_IR_REG_28__1)
+P2_IR_REG_28__2enc = BUF(P2_IR_REG_28__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_29_
+P2_IR_REG_29__1enc = BUF(P2_IR_REG_29__1)
+P2_IR_REG_29__2enc = BUF(P2_IR_REG_29__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_30_
+P2_IR_REG_30__1enc = BUF(P2_IR_REG_30__1)
+P2_IR_REG_30__2enc = BUF(P2_IR_REG_30__2)
+
+#Other Flip-flop Output logic for P2_IR_REG_31_
+P2_IR_REG_31__1enc = BUF(P2_IR_REG_31__1)
+P2_IR_REG_31__2enc = BUF(P2_IR_REG_31__2)
+
+#Other Flip-flop Output logic for P2_D_REG_0_
+P2_D_REG_0__1enc = BUF(P2_D_REG_0__1)
+P2_D_REG_0__2enc = BUF(P2_D_REG_0__2)
+
+#Other Flip-flop Output logic for P2_D_REG_1_
+P2_D_REG_1__1enc = BUF(P2_D_REG_1__1)
+P2_D_REG_1__2enc = BUF(P2_D_REG_1__2)
+
+#Other Flip-flop Output logic for P2_D_REG_2_
+P2_D_REG_2__1enc = BUF(P2_D_REG_2__1)
+P2_D_REG_2__2enc = BUF(P2_D_REG_2__2)
+
+#Other Flip-flop Output logic for P2_D_REG_3_
+P2_D_REG_3__1enc = BUF(P2_D_REG_3__1)
+P2_D_REG_3__2enc = BUF(P2_D_REG_3__2)
+
+#Other Flip-flop Output logic for P2_D_REG_4_
+P2_D_REG_4__1enc = BUF(P2_D_REG_4__1)
+P2_D_REG_4__2enc = BUF(P2_D_REG_4__2)
+
+#Other Flip-flop Output logic for P2_D_REG_5_
+P2_D_REG_5__1enc = BUF(P2_D_REG_5__1)
+P2_D_REG_5__2enc = BUF(P2_D_REG_5__2)
+
+#Other Flip-flop Output logic for P2_D_REG_6_
+P2_D_REG_6__1enc = BUF(P2_D_REG_6__1)
+P2_D_REG_6__2enc = BUF(P2_D_REG_6__2)
+
+#Other Flip-flop Output logic for P2_D_REG_7_
+P2_D_REG_7__1enc = BUF(P2_D_REG_7__1)
+P2_D_REG_7__2enc = BUF(P2_D_REG_7__2)
+
+#Other Flip-flop Output logic for P2_D_REG_8_
+P2_D_REG_8__1enc = BUF(P2_D_REG_8__1)
+P2_D_REG_8__2enc = BUF(P2_D_REG_8__2)
+
+#Other Flip-flop Output logic for P2_D_REG_9_
+P2_D_REG_9__1enc = BUF(P2_D_REG_9__1)
+P2_D_REG_9__2enc = BUF(P2_D_REG_9__2)
+
+#Other Flip-flop Output logic for P2_D_REG_10_
+P2_D_REG_10__1enc = BUF(P2_D_REG_10__1)
+P2_D_REG_10__2enc = BUF(P2_D_REG_10__2)
+
+#Other Flip-flop Output logic for P2_D_REG_11_
+P2_D_REG_11__1enc = BUF(P2_D_REG_11__1)
+P2_D_REG_11__2enc = BUF(P2_D_REG_11__2)
+
+#Other Flip-flop Output logic for P2_D_REG_12_
+P2_D_REG_12__1enc = BUF(P2_D_REG_12__1)
+P2_D_REG_12__2enc = BUF(P2_D_REG_12__2)
+
+#Other Flip-flop Output logic for P2_D_REG_13_
+P2_D_REG_13__1enc = BUF(P2_D_REG_13__1)
+P2_D_REG_13__2enc = BUF(P2_D_REG_13__2)
+
+#Other Flip-flop Output logic for P2_D_REG_14_
+P2_D_REG_14__1enc = BUF(P2_D_REG_14__1)
+P2_D_REG_14__2enc = BUF(P2_D_REG_14__2)
+
+#Other Flip-flop Output logic for P2_D_REG_15_
+P2_D_REG_15__1enc = BUF(P2_D_REG_15__1)
+P2_D_REG_15__2enc = BUF(P2_D_REG_15__2)
+
+#Other Flip-flop Output logic for P2_D_REG_16_
+P2_D_REG_16__1enc = BUF(P2_D_REG_16__1)
+P2_D_REG_16__2enc = BUF(P2_D_REG_16__2)
+
+#Other Flip-flop Output logic for P2_D_REG_17_
+P2_D_REG_17__1enc = BUF(P2_D_REG_17__1)
+P2_D_REG_17__2enc = BUF(P2_D_REG_17__2)
+
+#Other Flip-flop Output logic for P2_D_REG_18_
+P2_D_REG_18__1enc = BUF(P2_D_REG_18__1)
+P2_D_REG_18__2enc = BUF(P2_D_REG_18__2)
+
+#Other Flip-flop Output logic for P2_D_REG_19_
+P2_D_REG_19__1enc = BUF(P2_D_REG_19__1)
+P2_D_REG_19__2enc = BUF(P2_D_REG_19__2)
+
+#Other Flip-flop Output logic for P2_D_REG_20_
+P2_D_REG_20__1enc = BUF(P2_D_REG_20__1)
+P2_D_REG_20__2enc = BUF(P2_D_REG_20__2)
+
+#Other Flip-flop Output logic for P2_D_REG_21_
+P2_D_REG_21__1enc = BUF(P2_D_REG_21__1)
+P2_D_REG_21__2enc = BUF(P2_D_REG_21__2)
+
+#Other Flip-flop Output logic for P2_D_REG_22_
+P2_D_REG_22__1enc = BUF(P2_D_REG_22__1)
+P2_D_REG_22__2enc = BUF(P2_D_REG_22__2)
+
+#Other Flip-flop Output logic for P2_D_REG_23_
+P2_D_REG_23__1enc = BUF(P2_D_REG_23__1)
+P2_D_REG_23__2enc = BUF(P2_D_REG_23__2)
+
+#Other Flip-flop Output logic for P2_D_REG_24_
+P2_D_REG_24__1enc = BUF(P2_D_REG_24__1)
+P2_D_REG_24__2enc = BUF(P2_D_REG_24__2)
+
+#Other Flip-flop Output logic for P2_D_REG_25_
+P2_D_REG_25__1enc = BUF(P2_D_REG_25__1)
+P2_D_REG_25__2enc = BUF(P2_D_REG_25__2)
+
+#Other Flip-flop Output logic for P2_D_REG_26_
+P2_D_REG_26__1enc = BUF(P2_D_REG_26__1)
+P2_D_REG_26__2enc = BUF(P2_D_REG_26__2)
+
+#Other Flip-flop Output logic for P2_D_REG_27_
+P2_D_REG_27__1enc = BUF(P2_D_REG_27__1)
+P2_D_REG_27__2enc = BUF(P2_D_REG_27__2)
+
+#Other Flip-flop Output logic for P2_D_REG_28_
+P2_D_REG_28__1enc = BUF(P2_D_REG_28__1)
+P2_D_REG_28__2enc = BUF(P2_D_REG_28__2)
+
+#Other Flip-flop Output logic for P2_D_REG_29_
+P2_D_REG_29__1enc = BUF(P2_D_REG_29__1)
+P2_D_REG_29__2enc = BUF(P2_D_REG_29__2)
+
+#Other Flip-flop Output logic for P2_D_REG_30_
+P2_D_REG_30__1enc = BUF(P2_D_REG_30__1)
+P2_D_REG_30__2enc = BUF(P2_D_REG_30__2)
+
+#Other Flip-flop Output logic for P2_D_REG_31_
+P2_D_REG_31__1enc = BUF(P2_D_REG_31__1)
+P2_D_REG_31__2enc = BUF(P2_D_REG_31__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_0_
+P2_REG0_REG_0__1enc = BUF(P2_REG0_REG_0__1)
+P2_REG0_REG_0__2enc = BUF(P2_REG0_REG_0__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_1_
+P2_REG0_REG_1__1enc = BUF(P2_REG0_REG_1__1)
+P2_REG0_REG_1__2enc = BUF(P2_REG0_REG_1__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_2_
+P2_REG0_REG_2__1enc = BUF(P2_REG0_REG_2__1)
+P2_REG0_REG_2__2enc = BUF(P2_REG0_REG_2__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_3_
+P2_REG0_REG_3__1enc = BUF(P2_REG0_REG_3__1)
+P2_REG0_REG_3__2enc = BUF(P2_REG0_REG_3__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_4_
+P2_REG0_REG_4__1enc = BUF(P2_REG0_REG_4__1)
+P2_REG0_REG_4__2enc = BUF(P2_REG0_REG_4__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_5_
+P2_REG0_REG_5__1enc = BUF(P2_REG0_REG_5__1)
+P2_REG0_REG_5__2enc = BUF(P2_REG0_REG_5__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_6_
+P2_REG0_REG_6__1enc = BUF(P2_REG0_REG_6__1)
+P2_REG0_REG_6__2enc = BUF(P2_REG0_REG_6__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_7_
+P2_REG0_REG_7__1enc = BUF(P2_REG0_REG_7__1)
+P2_REG0_REG_7__2enc = BUF(P2_REG0_REG_7__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_8_
+P2_REG0_REG_8__1enc = BUF(P2_REG0_REG_8__1)
+P2_REG0_REG_8__2enc = BUF(P2_REG0_REG_8__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_9_
+P2_REG0_REG_9__1enc = BUF(P2_REG0_REG_9__1)
+P2_REG0_REG_9__2enc = BUF(P2_REG0_REG_9__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_10_
+P2_REG0_REG_10__1enc = BUF(P2_REG0_REG_10__1)
+P2_REG0_REG_10__2enc = BUF(P2_REG0_REG_10__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_11_
+P2_REG0_REG_11__1enc = BUF(P2_REG0_REG_11__1)
+P2_REG0_REG_11__2enc = BUF(P2_REG0_REG_11__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_12_
+P2_REG0_REG_12__1enc = BUF(P2_REG0_REG_12__1)
+P2_REG0_REG_12__2enc = BUF(P2_REG0_REG_12__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_13_
+P2_REG0_REG_13__1enc = BUF(P2_REG0_REG_13__1)
+P2_REG0_REG_13__2enc = BUF(P2_REG0_REG_13__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_14_
+P2_REG0_REG_14__1enc = BUF(P2_REG0_REG_14__1)
+P2_REG0_REG_14__2enc = BUF(P2_REG0_REG_14__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_15_
+P2_REG0_REG_15__1enc = BUF(P2_REG0_REG_15__1)
+P2_REG0_REG_15__2enc = BUF(P2_REG0_REG_15__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_16_
+P2_REG0_REG_16__1enc = BUF(P2_REG0_REG_16__1)
+P2_REG0_REG_16__2enc = BUF(P2_REG0_REG_16__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_17_
+P2_REG0_REG_17__1enc = BUF(P2_REG0_REG_17__1)
+P2_REG0_REG_17__2enc = BUF(P2_REG0_REG_17__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_18_
+P2_REG0_REG_18__1enc = BUF(P2_REG0_REG_18__1)
+P2_REG0_REG_18__2enc = BUF(P2_REG0_REG_18__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_19_
+P2_REG0_REG_19__1enc = BUF(P2_REG0_REG_19__1)
+P2_REG0_REG_19__2enc = BUF(P2_REG0_REG_19__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_20_
+P2_REG0_REG_20__1enc = BUF(P2_REG0_REG_20__1)
+P2_REG0_REG_20__2enc = BUF(P2_REG0_REG_20__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_21_
+P2_REG0_REG_21__1enc = BUF(P2_REG0_REG_21__1)
+P2_REG0_REG_21__2enc = BUF(P2_REG0_REG_21__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_22_
+P2_REG0_REG_22__1enc = BUF(P2_REG0_REG_22__1)
+P2_REG0_REG_22__2enc = BUF(P2_REG0_REG_22__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_23_
+P2_REG0_REG_23__1enc = BUF(P2_REG0_REG_23__1)
+P2_REG0_REG_23__2enc = BUF(P2_REG0_REG_23__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_24_
+P2_REG0_REG_24__1enc = BUF(P2_REG0_REG_24__1)
+P2_REG0_REG_24__2enc = BUF(P2_REG0_REG_24__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_25_
+P2_REG0_REG_25__1enc = BUF(P2_REG0_REG_25__1)
+P2_REG0_REG_25__2enc = BUF(P2_REG0_REG_25__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_26_
+P2_REG0_REG_26__1enc = BUF(P2_REG0_REG_26__1)
+P2_REG0_REG_26__2enc = BUF(P2_REG0_REG_26__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_27_
+P2_REG0_REG_27__1enc = BUF(P2_REG0_REG_27__1)
+P2_REG0_REG_27__2enc = BUF(P2_REG0_REG_27__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_28_
+P2_REG0_REG_28__1enc = BUF(P2_REG0_REG_28__1)
+P2_REG0_REG_28__2enc = BUF(P2_REG0_REG_28__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_29_
+P2_REG0_REG_29__1enc = BUF(P2_REG0_REG_29__1)
+P2_REG0_REG_29__2enc = BUF(P2_REG0_REG_29__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_30_
+P2_REG0_REG_30__1enc = BUF(P2_REG0_REG_30__1)
+P2_REG0_REG_30__2enc = BUF(P2_REG0_REG_30__2)
+
+#Other Flip-flop Output logic for P2_REG0_REG_31_
+P2_REG0_REG_31__1enc = BUF(P2_REG0_REG_31__1)
+P2_REG0_REG_31__2enc = BUF(P2_REG0_REG_31__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_0_
+P2_REG1_REG_0__1enc = BUF(P2_REG1_REG_0__1)
+P2_REG1_REG_0__2enc = BUF(P2_REG1_REG_0__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_1_
+P2_REG1_REG_1__1enc = BUF(P2_REG1_REG_1__1)
+P2_REG1_REG_1__2enc = BUF(P2_REG1_REG_1__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_2_
+P2_REG1_REG_2__1enc = BUF(P2_REG1_REG_2__1)
+P2_REG1_REG_2__2enc = BUF(P2_REG1_REG_2__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_3_
+P2_REG1_REG_3__1enc = BUF(P2_REG1_REG_3__1)
+P2_REG1_REG_3__2enc = BUF(P2_REG1_REG_3__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_4_
+P2_REG1_REG_4__1enc = BUF(P2_REG1_REG_4__1)
+P2_REG1_REG_4__2enc = BUF(P2_REG1_REG_4__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_5_
+P2_REG1_REG_5__1enc = BUF(P2_REG1_REG_5__1)
+P2_REG1_REG_5__2enc = BUF(P2_REG1_REG_5__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_6_
+P2_REG1_REG_6__1enc = BUF(P2_REG1_REG_6__1)
+P2_REG1_REG_6__2enc = BUF(P2_REG1_REG_6__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_7_
+P2_REG1_REG_7__1enc = BUF(P2_REG1_REG_7__1)
+P2_REG1_REG_7__2enc = BUF(P2_REG1_REG_7__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_8_
+P2_REG1_REG_8__1enc = BUF(P2_REG1_REG_8__1)
+P2_REG1_REG_8__2enc = BUF(P2_REG1_REG_8__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_9_
+P2_REG1_REG_9__1enc = BUF(P2_REG1_REG_9__1)
+P2_REG1_REG_9__2enc = BUF(P2_REG1_REG_9__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_10_
+P2_REG1_REG_10__1enc = BUF(P2_REG1_REG_10__1)
+P2_REG1_REG_10__2enc = BUF(P2_REG1_REG_10__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_11_
+P2_REG1_REG_11__1enc = BUF(P2_REG1_REG_11__1)
+P2_REG1_REG_11__2enc = BUF(P2_REG1_REG_11__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_12_
+P2_REG1_REG_12__1enc = BUF(P2_REG1_REG_12__1)
+P2_REG1_REG_12__2enc = BUF(P2_REG1_REG_12__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_13_
+P2_REG1_REG_13__1enc = BUF(P2_REG1_REG_13__1)
+P2_REG1_REG_13__2enc = BUF(P2_REG1_REG_13__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_14_
+P2_REG1_REG_14__1enc = BUF(P2_REG1_REG_14__1)
+P2_REG1_REG_14__2enc = BUF(P2_REG1_REG_14__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_15_
+P2_REG1_REG_15__1enc = BUF(P2_REG1_REG_15__1)
+P2_REG1_REG_15__2enc = BUF(P2_REG1_REG_15__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_16_
+P2_REG1_REG_16__1enc = BUF(P2_REG1_REG_16__1)
+P2_REG1_REG_16__2enc = BUF(P2_REG1_REG_16__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_17_
+P2_REG1_REG_17__1enc = BUF(P2_REG1_REG_17__1)
+P2_REG1_REG_17__2enc = BUF(P2_REG1_REG_17__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_18_
+P2_REG1_REG_18__1enc = BUF(P2_REG1_REG_18__1)
+P2_REG1_REG_18__2enc = BUF(P2_REG1_REG_18__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_19_
+P2_REG1_REG_19__1enc = BUF(P2_REG1_REG_19__1)
+P2_REG1_REG_19__2enc = BUF(P2_REG1_REG_19__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_20_
+P2_REG1_REG_20__1enc = BUF(P2_REG1_REG_20__1)
+P2_REG1_REG_20__2enc = BUF(P2_REG1_REG_20__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_21_
+P2_REG1_REG_21__1enc = BUF(P2_REG1_REG_21__1)
+P2_REG1_REG_21__2enc = BUF(P2_REG1_REG_21__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_22_
+P2_REG1_REG_22__1enc = BUF(P2_REG1_REG_22__1)
+P2_REG1_REG_22__2enc = BUF(P2_REG1_REG_22__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_23_
+P2_REG1_REG_23__1enc = BUF(P2_REG1_REG_23__1)
+P2_REG1_REG_23__2enc = BUF(P2_REG1_REG_23__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_24_
+P2_REG1_REG_24__1enc = BUF(P2_REG1_REG_24__1)
+P2_REG1_REG_24__2enc = BUF(P2_REG1_REG_24__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_25_
+P2_REG1_REG_25__1enc = BUF(P2_REG1_REG_25__1)
+P2_REG1_REG_25__2enc = BUF(P2_REG1_REG_25__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_26_
+P2_REG1_REG_26__1enc = BUF(P2_REG1_REG_26__1)
+P2_REG1_REG_26__2enc = BUF(P2_REG1_REG_26__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_27_
+P2_REG1_REG_27__1enc = BUF(P2_REG1_REG_27__1)
+P2_REG1_REG_27__2enc = BUF(P2_REG1_REG_27__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_28_
+P2_REG1_REG_28__1enc = BUF(P2_REG1_REG_28__1)
+P2_REG1_REG_28__2enc = BUF(P2_REG1_REG_28__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_29_
+P2_REG1_REG_29__1enc = BUF(P2_REG1_REG_29__1)
+P2_REG1_REG_29__2enc = BUF(P2_REG1_REG_29__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_30_
+P2_REG1_REG_30__1enc = BUF(P2_REG1_REG_30__1)
+P2_REG1_REG_30__2enc = BUF(P2_REG1_REG_30__2)
+
+#Other Flip-flop Output logic for P2_REG1_REG_31_
+P2_REG1_REG_31__1enc = BUF(P2_REG1_REG_31__1)
+P2_REG1_REG_31__2enc = BUF(P2_REG1_REG_31__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_0_
+P2_REG2_REG_0__1enc = BUF(P2_REG2_REG_0__1)
+P2_REG2_REG_0__2enc = BUF(P2_REG2_REG_0__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_1_
+P2_REG2_REG_1__1enc = BUF(P2_REG2_REG_1__1)
+P2_REG2_REG_1__2enc = BUF(P2_REG2_REG_1__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_2_
+P2_REG2_REG_2__1enc = BUF(P2_REG2_REG_2__1)
+P2_REG2_REG_2__2enc = BUF(P2_REG2_REG_2__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_3_
+P2_REG2_REG_3__1enc = BUF(P2_REG2_REG_3__1)
+P2_REG2_REG_3__2enc = BUF(P2_REG2_REG_3__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_4_
+P2_REG2_REG_4__1enc = BUF(P2_REG2_REG_4__1)
+P2_REG2_REG_4__2enc = BUF(P2_REG2_REG_4__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_5_
+P2_REG2_REG_5__1enc = BUF(P2_REG2_REG_5__1)
+P2_REG2_REG_5__2enc = BUF(P2_REG2_REG_5__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_6_
+P2_REG2_REG_6__1enc = BUF(P2_REG2_REG_6__1)
+P2_REG2_REG_6__2enc = BUF(P2_REG2_REG_6__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_7_
+P2_REG2_REG_7__1enc = BUF(P2_REG2_REG_7__1)
+P2_REG2_REG_7__2enc = BUF(P2_REG2_REG_7__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_8_
+P2_REG2_REG_8__1enc = BUF(P2_REG2_REG_8__1)
+P2_REG2_REG_8__2enc = BUF(P2_REG2_REG_8__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_9_
+P2_REG2_REG_9__1enc = BUF(P2_REG2_REG_9__1)
+P2_REG2_REG_9__2enc = BUF(P2_REG2_REG_9__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_10_
+P2_REG2_REG_10__1enc = BUF(P2_REG2_REG_10__1)
+P2_REG2_REG_10__2enc = BUF(P2_REG2_REG_10__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_11_
+P2_REG2_REG_11__1enc = BUF(P2_REG2_REG_11__1)
+P2_REG2_REG_11__2enc = BUF(P2_REG2_REG_11__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_12_
+P2_REG2_REG_12__1enc = BUF(P2_REG2_REG_12__1)
+P2_REG2_REG_12__2enc = BUF(P2_REG2_REG_12__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_13_
+P2_REG2_REG_13__1enc = BUF(P2_REG2_REG_13__1)
+P2_REG2_REG_13__2enc = BUF(P2_REG2_REG_13__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_14_
+P2_REG2_REG_14__1enc = BUF(P2_REG2_REG_14__1)
+P2_REG2_REG_14__2enc = BUF(P2_REG2_REG_14__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_15_
+P2_REG2_REG_15__1enc = BUF(P2_REG2_REG_15__1)
+P2_REG2_REG_15__2enc = BUF(P2_REG2_REG_15__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_16_
+P2_REG2_REG_16__1enc = BUF(P2_REG2_REG_16__1)
+P2_REG2_REG_16__2enc = BUF(P2_REG2_REG_16__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_17_
+P2_REG2_REG_17__1enc = BUF(P2_REG2_REG_17__1)
+P2_REG2_REG_17__2enc = BUF(P2_REG2_REG_17__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_18_
+P2_REG2_REG_18__1enc = BUF(P2_REG2_REG_18__1)
+P2_REG2_REG_18__2enc = BUF(P2_REG2_REG_18__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_19_
+P2_REG2_REG_19__1enc = BUF(P2_REG2_REG_19__1)
+P2_REG2_REG_19__2enc = BUF(P2_REG2_REG_19__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_20_
+P2_REG2_REG_20__1enc = BUF(P2_REG2_REG_20__1)
+P2_REG2_REG_20__2enc = BUF(P2_REG2_REG_20__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_21_
+P2_REG2_REG_21__1enc = BUF(P2_REG2_REG_21__1)
+P2_REG2_REG_21__2enc = BUF(P2_REG2_REG_21__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_22_
+P2_REG2_REG_22__1enc = BUF(P2_REG2_REG_22__1)
+P2_REG2_REG_22__2enc = BUF(P2_REG2_REG_22__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_23_
+P2_REG2_REG_23__1enc = BUF(P2_REG2_REG_23__1)
+P2_REG2_REG_23__2enc = BUF(P2_REG2_REG_23__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_24_
+P2_REG2_REG_24__1enc = BUF(P2_REG2_REG_24__1)
+P2_REG2_REG_24__2enc = BUF(P2_REG2_REG_24__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_25_
+P2_REG2_REG_25__1enc = BUF(P2_REG2_REG_25__1)
+P2_REG2_REG_25__2enc = BUF(P2_REG2_REG_25__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_26_
+P2_REG2_REG_26__1enc = BUF(P2_REG2_REG_26__1)
+P2_REG2_REG_26__2enc = BUF(P2_REG2_REG_26__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_27_
+P2_REG2_REG_27__1enc = BUF(P2_REG2_REG_27__1)
+P2_REG2_REG_27__2enc = BUF(P2_REG2_REG_27__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_28_
+P2_REG2_REG_28__1enc = BUF(P2_REG2_REG_28__1)
+P2_REG2_REG_28__2enc = BUF(P2_REG2_REG_28__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_29_
+P2_REG2_REG_29__1enc = BUF(P2_REG2_REG_29__1)
+P2_REG2_REG_29__2enc = BUF(P2_REG2_REG_29__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_30_
+P2_REG2_REG_30__1enc = BUF(P2_REG2_REG_30__1)
+P2_REG2_REG_30__2enc = BUF(P2_REG2_REG_30__2)
+
+#Other Flip-flop Output logic for P2_REG2_REG_31_
+P2_REG2_REG_31__1enc = BUF(P2_REG2_REG_31__1)
+P2_REG2_REG_31__2enc = BUF(P2_REG2_REG_31__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_19_
+P2_ADDR_REG_19__1enc = BUF(P2_ADDR_REG_19__1)
+P2_ADDR_REG_19__2enc = BUF(P2_ADDR_REG_19__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_18_
+P2_ADDR_REG_18__1enc = BUF(P2_ADDR_REG_18__1)
+P2_ADDR_REG_18__2enc = BUF(P2_ADDR_REG_18__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_17_
+P2_ADDR_REG_17__1enc = BUF(P2_ADDR_REG_17__1)
+P2_ADDR_REG_17__2enc = BUF(P2_ADDR_REG_17__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_16_
+P2_ADDR_REG_16__1enc = BUF(P2_ADDR_REG_16__1)
+P2_ADDR_REG_16__2enc = BUF(P2_ADDR_REG_16__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_15_
+P2_ADDR_REG_15__1enc = BUF(P2_ADDR_REG_15__1)
+P2_ADDR_REG_15__2enc = BUF(P2_ADDR_REG_15__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_14_
+P2_ADDR_REG_14__1enc = BUF(P2_ADDR_REG_14__1)
+P2_ADDR_REG_14__2enc = BUF(P2_ADDR_REG_14__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_13_
+P2_ADDR_REG_13__1enc = BUF(P2_ADDR_REG_13__1)
+P2_ADDR_REG_13__2enc = BUF(P2_ADDR_REG_13__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_12_
+P2_ADDR_REG_12__1enc = BUF(P2_ADDR_REG_12__1)
+P2_ADDR_REG_12__2enc = BUF(P2_ADDR_REG_12__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_11_
+P2_ADDR_REG_11__1enc = BUF(P2_ADDR_REG_11__1)
+P2_ADDR_REG_11__2enc = BUF(P2_ADDR_REG_11__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_10_
+P2_ADDR_REG_10__1enc = BUF(P2_ADDR_REG_10__1)
+P2_ADDR_REG_10__2enc = BUF(P2_ADDR_REG_10__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_9_
+P2_ADDR_REG_9__1enc = BUF(P2_ADDR_REG_9__1)
+P2_ADDR_REG_9__2enc = BUF(P2_ADDR_REG_9__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_8_
+P2_ADDR_REG_8__1enc = BUF(P2_ADDR_REG_8__1)
+P2_ADDR_REG_8__2enc = BUF(P2_ADDR_REG_8__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_7_
+P2_ADDR_REG_7__1enc = BUF(P2_ADDR_REG_7__1)
+P2_ADDR_REG_7__2enc = BUF(P2_ADDR_REG_7__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_6_
+P2_ADDR_REG_6__1enc = BUF(P2_ADDR_REG_6__1)
+P2_ADDR_REG_6__2enc = BUF(P2_ADDR_REG_6__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_5_
+P2_ADDR_REG_5__1enc = BUF(P2_ADDR_REG_5__1)
+P2_ADDR_REG_5__2enc = BUF(P2_ADDR_REG_5__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_4_
+P2_ADDR_REG_4__1enc = BUF(P2_ADDR_REG_4__1)
+P2_ADDR_REG_4__2enc = BUF(P2_ADDR_REG_4__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_3_
+P2_ADDR_REG_3__1enc = BUF(P2_ADDR_REG_3__1)
+P2_ADDR_REG_3__2enc = BUF(P2_ADDR_REG_3__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_2_
+P2_ADDR_REG_2__1enc = BUF(P2_ADDR_REG_2__1)
+P2_ADDR_REG_2__2enc = BUF(P2_ADDR_REG_2__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_1_
+P2_ADDR_REG_1__1enc = BUF(P2_ADDR_REG_1__1)
+P2_ADDR_REG_1__2enc = BUF(P2_ADDR_REG_1__2)
+
+#Other Flip-flop Output logic for P2_ADDR_REG_0_
+P2_ADDR_REG_0__1enc = BUF(P2_ADDR_REG_0__1)
+P2_ADDR_REG_0__2enc = BUF(P2_ADDR_REG_0__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_0_
+P2_DATAO_REG_0__1enc = BUF(P2_DATAO_REG_0__1)
+P2_DATAO_REG_0__2enc = BUF(P2_DATAO_REG_0__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_1_
+P2_DATAO_REG_1__1enc = BUF(P2_DATAO_REG_1__1)
+P2_DATAO_REG_1__2enc = BUF(P2_DATAO_REG_1__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_2_
+P2_DATAO_REG_2__1enc = BUF(P2_DATAO_REG_2__1)
+P2_DATAO_REG_2__2enc = BUF(P2_DATAO_REG_2__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_3_
+P2_DATAO_REG_3__1enc = BUF(P2_DATAO_REG_3__1)
+P2_DATAO_REG_3__2enc = BUF(P2_DATAO_REG_3__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_4_
+P2_DATAO_REG_4__1enc = BUF(P2_DATAO_REG_4__1)
+P2_DATAO_REG_4__2enc = BUF(P2_DATAO_REG_4__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_5_
+P2_DATAO_REG_5__1enc = BUF(P2_DATAO_REG_5__1)
+P2_DATAO_REG_5__2enc = BUF(P2_DATAO_REG_5__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_6_
+P2_DATAO_REG_6__1enc = BUF(P2_DATAO_REG_6__1)
+P2_DATAO_REG_6__2enc = BUF(P2_DATAO_REG_6__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_7_
+P2_DATAO_REG_7__1enc = BUF(P2_DATAO_REG_7__1)
+P2_DATAO_REG_7__2enc = BUF(P2_DATAO_REG_7__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_8_
+P2_DATAO_REG_8__1enc = BUF(P2_DATAO_REG_8__1)
+P2_DATAO_REG_8__2enc = BUF(P2_DATAO_REG_8__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_9_
+P2_DATAO_REG_9__1enc = BUF(P2_DATAO_REG_9__1)
+P2_DATAO_REG_9__2enc = BUF(P2_DATAO_REG_9__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_10_
+P2_DATAO_REG_10__1enc = BUF(P2_DATAO_REG_10__1)
+P2_DATAO_REG_10__2enc = BUF(P2_DATAO_REG_10__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_11_
+P2_DATAO_REG_11__1enc = BUF(P2_DATAO_REG_11__1)
+P2_DATAO_REG_11__2enc = BUF(P2_DATAO_REG_11__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_12_
+P2_DATAO_REG_12__1enc = BUF(P2_DATAO_REG_12__1)
+P2_DATAO_REG_12__2enc = BUF(P2_DATAO_REG_12__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_13_
+P2_DATAO_REG_13__1enc = BUF(P2_DATAO_REG_13__1)
+P2_DATAO_REG_13__2enc = BUF(P2_DATAO_REG_13__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_14_
+P2_DATAO_REG_14__1enc = BUF(P2_DATAO_REG_14__1)
+P2_DATAO_REG_14__2enc = BUF(P2_DATAO_REG_14__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_15_
+P2_DATAO_REG_15__1enc = BUF(P2_DATAO_REG_15__1)
+P2_DATAO_REG_15__2enc = BUF(P2_DATAO_REG_15__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_16_
+P2_DATAO_REG_16__1enc = BUF(P2_DATAO_REG_16__1)
+P2_DATAO_REG_16__2enc = BUF(P2_DATAO_REG_16__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_17_
+P2_DATAO_REG_17__1enc = BUF(P2_DATAO_REG_17__1)
+P2_DATAO_REG_17__2enc = BUF(P2_DATAO_REG_17__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_18_
+P2_DATAO_REG_18__1enc = BUF(P2_DATAO_REG_18__1)
+P2_DATAO_REG_18__2enc = BUF(P2_DATAO_REG_18__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_19_
+P2_DATAO_REG_19__1enc = BUF(P2_DATAO_REG_19__1)
+P2_DATAO_REG_19__2enc = BUF(P2_DATAO_REG_19__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_20_
+P2_DATAO_REG_20__1enc = BUF(P2_DATAO_REG_20__1)
+P2_DATAO_REG_20__2enc = BUF(P2_DATAO_REG_20__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_21_
+P2_DATAO_REG_21__1enc = BUF(P2_DATAO_REG_21__1)
+P2_DATAO_REG_21__2enc = BUF(P2_DATAO_REG_21__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_22_
+P2_DATAO_REG_22__1enc = BUF(P2_DATAO_REG_22__1)
+P2_DATAO_REG_22__2enc = BUF(P2_DATAO_REG_22__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_23_
+P2_DATAO_REG_23__1enc = BUF(P2_DATAO_REG_23__1)
+P2_DATAO_REG_23__2enc = BUF(P2_DATAO_REG_23__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_24_
+P2_DATAO_REG_24__1enc = BUF(P2_DATAO_REG_24__1)
+P2_DATAO_REG_24__2enc = BUF(P2_DATAO_REG_24__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_25_
+P2_DATAO_REG_25__1enc = BUF(P2_DATAO_REG_25__1)
+P2_DATAO_REG_25__2enc = BUF(P2_DATAO_REG_25__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_26_
+P2_DATAO_REG_26__1enc = BUF(P2_DATAO_REG_26__1)
+P2_DATAO_REG_26__2enc = BUF(P2_DATAO_REG_26__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_27_
+P2_DATAO_REG_27__1enc = BUF(P2_DATAO_REG_27__1)
+P2_DATAO_REG_27__2enc = BUF(P2_DATAO_REG_27__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_28_
+P2_DATAO_REG_28__1enc = BUF(P2_DATAO_REG_28__1)
+P2_DATAO_REG_28__2enc = BUF(P2_DATAO_REG_28__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_29_
+P2_DATAO_REG_29__1enc = BUF(P2_DATAO_REG_29__1)
+P2_DATAO_REG_29__2enc = BUF(P2_DATAO_REG_29__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_30_
+P2_DATAO_REG_30__1enc = BUF(P2_DATAO_REG_30__1)
+P2_DATAO_REG_30__2enc = BUF(P2_DATAO_REG_30__2)
+
+#Other Flip-flop Output logic for P2_DATAO_REG_31_
+P2_DATAO_REG_31__1enc = BUF(P2_DATAO_REG_31__1)
+P2_DATAO_REG_31__2enc = BUF(P2_DATAO_REG_31__2)
+
+#Other Flip-flop Output logic for P2_B_REG
+P2_B_REG_1enc = BUF(P2_B_REG_1)
+P2_B_REG_2enc = BUF(P2_B_REG_2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_15_
+P2_REG3_REG_15__1enc = BUF(P2_REG3_REG_15__1)
+P2_REG3_REG_15__2enc = BUF(P2_REG3_REG_15__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_26_
+P2_REG3_REG_26__1enc = BUF(P2_REG3_REG_26__1)
+P2_REG3_REG_26__2enc = BUF(P2_REG3_REG_26__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_6_
+P2_REG3_REG_6__1enc = BUF(P2_REG3_REG_6__1)
+P2_REG3_REG_6__2enc = BUF(P2_REG3_REG_6__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_18_
+P2_REG3_REG_18__1enc = BUF(P2_REG3_REG_18__1)
+P2_REG3_REG_18__2enc = BUF(P2_REG3_REG_18__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_2_
+P2_REG3_REG_2__1enc = BUF(P2_REG3_REG_2__1)
+P2_REG3_REG_2__2enc = BUF(P2_REG3_REG_2__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_11_
+P2_REG3_REG_11__1enc = BUF(P2_REG3_REG_11__1)
+P2_REG3_REG_11__2enc = BUF(P2_REG3_REG_11__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_22_
+P2_REG3_REG_22__1enc = BUF(P2_REG3_REG_22__1)
+P2_REG3_REG_22__2enc = BUF(P2_REG3_REG_22__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_13_
+P2_REG3_REG_13__1enc = BUF(P2_REG3_REG_13__1)
+P2_REG3_REG_13__2enc = BUF(P2_REG3_REG_13__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_20_
+P2_REG3_REG_20__1enc = BUF(P2_REG3_REG_20__1)
+P2_REG3_REG_20__2enc = BUF(P2_REG3_REG_20__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_0_
+P2_REG3_REG_0__1enc = BUF(P2_REG3_REG_0__1)
+P2_REG3_REG_0__2enc = BUF(P2_REG3_REG_0__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_9_
+P2_REG3_REG_9__1enc = BUF(P2_REG3_REG_9__1)
+P2_REG3_REG_9__2enc = BUF(P2_REG3_REG_9__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_4_
+P2_REG3_REG_4__1enc = BUF(P2_REG3_REG_4__1)
+P2_REG3_REG_4__2enc = BUF(P2_REG3_REG_4__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_24_
+P2_REG3_REG_24__1enc = BUF(P2_REG3_REG_24__1)
+P2_REG3_REG_24__2enc = BUF(P2_REG3_REG_24__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_17_
+P2_REG3_REG_17__1enc = BUF(P2_REG3_REG_17__1)
+P2_REG3_REG_17__2enc = BUF(P2_REG3_REG_17__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_5_
+P2_REG3_REG_5__1enc = BUF(P2_REG3_REG_5__1)
+P2_REG3_REG_5__2enc = BUF(P2_REG3_REG_5__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_16_
+P2_REG3_REG_16__1enc = BUF(P2_REG3_REG_16__1)
+P2_REG3_REG_16__2enc = BUF(P2_REG3_REG_16__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_25_
+P2_REG3_REG_25__1enc = BUF(P2_REG3_REG_25__1)
+P2_REG3_REG_25__2enc = BUF(P2_REG3_REG_25__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_12_
+P2_REG3_REG_12__1enc = BUF(P2_REG3_REG_12__1)
+P2_REG3_REG_12__2enc = BUF(P2_REG3_REG_12__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_21_
+P2_REG3_REG_21__1enc = BUF(P2_REG3_REG_21__1)
+P2_REG3_REG_21__2enc = BUF(P2_REG3_REG_21__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_1_
+P2_REG3_REG_1__1enc = BUF(P2_REG3_REG_1__1)
+P2_REG3_REG_1__2enc = BUF(P2_REG3_REG_1__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_8_
+P2_REG3_REG_8__1enc = BUF(P2_REG3_REG_8__1)
+P2_REG3_REG_8__2enc = BUF(P2_REG3_REG_8__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_28_
+P2_REG3_REG_28__1enc = BUF(P2_REG3_REG_28__1)
+P2_REG3_REG_28__2enc = BUF(P2_REG3_REG_28__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_19_
+P2_REG3_REG_19__1enc = BUF(P2_REG3_REG_19__1)
+P2_REG3_REG_19__2enc = BUF(P2_REG3_REG_19__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_3_
+P2_REG3_REG_3__1enc = BUF(P2_REG3_REG_3__1)
+P2_REG3_REG_3__2enc = BUF(P2_REG3_REG_3__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_10_
+P2_REG3_REG_10__1enc = BUF(P2_REG3_REG_10__1)
+P2_REG3_REG_10__2enc = BUF(P2_REG3_REG_10__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_23_
+P2_REG3_REG_23__1enc = BUF(P2_REG3_REG_23__1)
+P2_REG3_REG_23__2enc = BUF(P2_REG3_REG_23__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_14_
+P2_REG3_REG_14__1enc = BUF(P2_REG3_REG_14__1)
+P2_REG3_REG_14__2enc = BUF(P2_REG3_REG_14__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_27_
+P2_REG3_REG_27__1enc = BUF(P2_REG3_REG_27__1)
+P2_REG3_REG_27__2enc = BUF(P2_REG3_REG_27__2)
+
+#Other Flip-flop Output logic for P2_REG3_REG_7_
+P2_REG3_REG_7__1enc = BUF(P2_REG3_REG_7__1)
+P2_REG3_REG_7__2enc = BUF(P2_REG3_REG_7__2)
+
+#Other Flip-flop Output logic for P2_STATE_REG
+P2_STATE_REG_1enc = BUF(P2_STATE_REG_1)
+P2_STATE_REG_2enc = BUF(P2_STATE_REG_2)
+
+#Other Flip-flop Output logic for P2_RD_REG
+P2_RD_REG_1enc = BUF(P2_RD_REG_1)
+P2_RD_REG_2enc = BUF(P2_RD_REG_2)
+
+#Other Flip-flop Output logic for P2_WR_REG
+P2_WR_REG_1enc = BUF(P2_WR_REG_1)
+P2_WR_REG_2enc = BUF(P2_WR_REG_2)

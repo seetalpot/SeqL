@@ -1,0 +1,4 @@
+echo $1
+source create_multi_cycle_allffs_seql_locked_bench.sh $1 $3 $2 $4 > $3cycle-unroll-locked-bench/$1-$3cycle-locked.bench
+./sld $3cycle-unroll-locked-bench/$1-$3cycle-locked.bench ../eff-multi-cycle-tests/$3cycle-unroll-original-bench/$1-$3cycle-original.bench
+echo 

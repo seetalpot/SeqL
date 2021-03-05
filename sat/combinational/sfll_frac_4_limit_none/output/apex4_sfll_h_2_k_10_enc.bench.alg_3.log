@@ -1,0 +1,60 @@
+pi0                  keyinputpi0         
+pi1                  keyinputpi1         
+pi2                  keyinputpi2         
+pi3                  keyinputpi3         
+pi4                  keyinputpi4         
+pi5                  keyinputpi5         
+pi6                  keyinputpi6         
+pi7                  keyinputpi7         
+pi8                  keyinputpi8         
+vdd                  keyinputvdd         
+# of ckt inputs : 10
+# of gates      : 5669
+n364 (  168/ 5669 @ 28)
+n353 (  389/ 5669 @ 25)
+n348 (  622/ 5669 @ 23)
+n293 (  680/ 5669 @ 18)
+n336 ( 1252/ 5669 @ 13)
+n355 ( 1519/ 5669 @ 27)
+n331 ( 1535/ 5669 @ 13)
+n354 ( 1727/ 5669 @ 26)
+n363 ( 2121/ 5669 @ 12)
+n352 ( 2144/ 5669 @ 24)
+n361 ( 2983/ 5669 @ 10)
+n339 ( 3017/ 5669 @ 20)
+n294 ( 3035/ 5669 @ 19)
+n338 ( 3110/ 5669 @ 15)
+n340 ( 3359/ 5669 @ 21)
+n347 ( 3662/ 5669 @ 22)
+n337 ( 3681/ 5669 @ 14)
+n330 ( 4718/ 5669 @ 12)
+n365 ( 5109/ 5669 @ 29)
+n362 ( 5208/ 5669 @ 11)
+n350 ( 5432/ 5669 @ 12)
+n351 ( 5624/ 5669 @ 13)
+# of candidates : 22
+processing gate: n364
+[2] FOUND key=1011011110
+processing gate: n353
+processing gate: n348
+processing gate: n293
+processing gate: n336
+processing gate: n355
+processing gate: n331
+processing gate: n354
+processing gate: n363
+processing gate: n352
+processing gate: n361
+processing gate: n339
+processing gate: n294
+processing gate: n338
+processing gate: n340
+processing gate: n347
+processing gate: n337
+processing gate: n330
+processing gate: n365
+[1] FOUND key=1011011110
+processing gate: n362
+processing gate: n350
+processing gate: n351
+cpu_time 1.9

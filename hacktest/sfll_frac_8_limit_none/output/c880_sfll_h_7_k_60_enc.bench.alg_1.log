@@ -1,0 +1,126 @@
+G1GAT                keyinputG1GAT       
+G8GAT                keyinputG8GAT       
+G13GAT               keyinputG13GAT      
+G17GAT               keyinputG17GAT      
+G26GAT               keyinputG26GAT      
+G29GAT               keyinputG29GAT      
+G36GAT               keyinputG36GAT      
+G42GAT               keyinputG42GAT      
+G51GAT               keyinputG51GAT      
+G55GAT               keyinputG55GAT      
+G59GAT               keyinputG59GAT      
+G68GAT               keyinputG68GAT      
+G72GAT               keyinputG72GAT      
+G73GAT               keyinputG73GAT      
+G74GAT               keyinputG74GAT      
+G75GAT               keyinputG75GAT      
+G80GAT               keyinputG80GAT      
+G85GAT               keyinputG85GAT      
+G86GAT               keyinputG86GAT      
+G87GAT               keyinputG87GAT      
+G88GAT               keyinputG88GAT      
+G89GAT               keyinputG89GAT      
+G90GAT               keyinputG90GAT      
+G91GAT               keyinputG91GAT      
+G96GAT               keyinputG96GAT      
+G101GAT              keyinputG101GAT     
+G106GAT              keyinputG106GAT     
+G111GAT              keyinputG111GAT     
+G116GAT              keyinputG116GAT     
+G121GAT              keyinputG121GAT     
+G126GAT              keyinputG126GAT     
+G130GAT              keyinputG130GAT     
+G135GAT              keyinputG135GAT     
+G138GAT              keyinputG138GAT     
+G143GAT              keyinputG143GAT     
+G146GAT              keyinputG146GAT     
+G149GAT              keyinputG149GAT     
+G152GAT              keyinputG152GAT     
+G153GAT              keyinputG153GAT     
+G156GAT              keyinputG156GAT     
+G159GAT              keyinputG159GAT     
+G165GAT              keyinputG165GAT     
+G171GAT              keyinputG171GAT     
+G177GAT              keyinputG177GAT     
+G183GAT              keyinputG183GAT     
+G189GAT              keyinputG189GAT     
+G195GAT              keyinputG195GAT     
+G201GAT              keyinputG201GAT     
+G207GAT              keyinputG207GAT     
+G210GAT              keyinputG210GAT     
+G219GAT              keyinputG219GAT     
+G228GAT              keyinputG228GAT     
+G237GAT              keyinputG237GAT     
+G246GAT              keyinputG246GAT     
+G255GAT              keyinputG255GAT     
+G259GAT              keyinputG259GAT     
+G260GAT              keyinputG260GAT     
+G261GAT              keyinputG261GAT     
+G267GAT              keyinputG267GAT     
+G268GAT              keyinputG268GAT     
+# of ckt inputs : 60
+# of gates      : 4835
+n1946 (  398/ 4835 @ 241)
+n1945 (  623/ 4835 @ 240)
+n1957 (  735/ 4835 @ 248)
+n1949 (  760/ 4835 @ 242)
+n1961 (  781/ 4835 @ 244)
+n1952 (  883/ 4835 @ 245)
+n1962 (  914/ 4835 @ 245)
+n1971 (  936/ 4835 @ 238)
+n1954 (  975/ 4835 @ 247)
+n1964 (  980/ 4835 @ 247)
+n1951 ( 1079/ 4835 @ 244)
+n1969 ( 1156/ 4835 @ 235)
+n1974 ( 1497/ 4835 @ 250)
+n1940 ( 1589/ 4835 @ 238)
+n1935 ( 1748/ 4835 @ 234)
+n1967 ( 2177/ 4835 @ 234)
+n1973 ( 2187/ 4835 @ 248)
+n1941 ( 2671/ 4835 @ 239)
+n1970 ( 3093/ 4835 @ 236)
+n1958 ( 3113/ 4835 @ 249)
+n1975 ( 3258/ 4835 @ 251)
+n1953 ( 3449/ 4835 @ 246)
+n1939 ( 3532/ 4835 @ 234)
+n1963 ( 3546/ 4835 @ 246)
+n1972 ( 3626/ 4835 @ 246)
+n1950 ( 3726/ 4835 @ 243)
+n1956 ( 3939/ 4835 @ 246)
+n1934 ( 4812/ 4835 @ 233)
+n1955 ( 4820/ 4835 @ 245)
+n1968 ( 4831/ 4835 @ 235)
+# of candidates : 30
+processing gate: n1946
+processing gate: n1945
+processing gate: n1957
+processing gate: n1949
+processing gate: n1961
+processing gate: n1952
+processing gate: n1962
+processing gate: n1971
+processing gate: n1954
+processing gate: n1964
+processing gate: n1951
+processing gate: n1969
+processing gate: n1974
+[1] FOUND key=001110110001011101100111111001100110100110011000111101110111
+processing gate: n1940
+processing gate: n1935
+processing gate: n1967
+processing gate: n1973
+processing gate: n1941
+processing gate: n1970
+processing gate: n1958
+processing gate: n1975
+[2] FOUND key=001110110001011101100111111001100110100110011000111101110111
+processing gate: n1953
+processing gate: n1939
+processing gate: n1963
+processing gate: n1972
+processing gate: n1950
+processing gate: n1956
+processing gate: n1934
+processing gate: n1955
+processing gate: n1968
+cpu_time 88.0

@@ -1,0 +1,45 @@
+pi0                  keyinputpi0         
+pi1                  keyinputpi1         
+pi2                  keyinputpi2         
+pi3                  keyinputpi3         
+pi4                  keyinputpi4         
+pi5                  keyinputpi5         
+pi6                  keyinputpi6         
+pi7                  keyinputpi7         
+pi8                  keyinputpi8         
+vdd                  keyinputvdd         
+# of ckt inputs : 10
+# of gates      : 5735
+n186 (  224/ 5735 @ 39)
+n188 (  528/ 5735 @ 43)
+n178 ( 1279/ 5735 @ 38)
+n185 ( 1386/ 5735 @ 36)
+n187 ( 1669/ 5735 @ 42)
+n179 ( 1754/ 5735 @ 39)
+n182 ( 2466/ 5735 @ 34)
+n172 ( 3041/ 5735 @ 33)
+n173 ( 3204/ 5735 @ 34)
+n180 ( 3903/ 5735 @ 40)
+n181 ( 4641/ 5735 @ 41)
+n183 ( 4928/ 5735 @ 35)
+n177 ( 5214/ 5735 @ 34)
+n184 ( 5467/ 5735 @ 35)
+# of candidates : 14
+processing gate: n186
+[1] FOUND key=0100011000
+processing gate: n188
+[2] FOUND key=0100011000
+processing gate: n178
+processing gate: n185
+processing gate: n187
+[1] FOUND key=0100011000
+processing gate: n179
+processing gate: n182
+processing gate: n172
+processing gate: n173
+processing gate: n180
+processing gate: n181
+processing gate: n183
+processing gate: n177
+processing gate: n184
+cpu_time 1.6

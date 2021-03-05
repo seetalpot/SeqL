@@ -1,0 +1,76 @@
+G1                   keyinputG1          
+G13                  keyinputG13         
+G20                  keyinputG20         
+G33                  keyinputG33         
+G41                  keyinputG41         
+G45                  keyinputG45         
+G50                  keyinputG50         
+G58                  keyinputG58         
+G68                  keyinputG68         
+G77                  keyinputG77         
+G87                  keyinputG87         
+G97                  keyinputG97         
+G107                 keyinputG107        
+G116                 keyinputG116        
+G124                 keyinputG124        
+G125                 keyinputG125        
+G128                 keyinputG128        
+G132                 keyinputG132        
+G137                 keyinputG137        
+G143                 keyinputG143        
+G150                 keyinputG150        
+G159                 keyinputG159        
+G169                 keyinputG169        
+G179                 keyinputG179        
+G190                 keyinputG190        
+G200                 keyinputG200        
+G213                 keyinputG213        
+G222                 keyinputG222        
+G223                 keyinputG223        
+G226                 keyinputG226        
+G232                 keyinputG232        
+G238                 keyinputG238        
+G244                 keyinputG244        
+G250                 keyinputG250        
+G257                 keyinputG257        
+G264                 keyinputG264        
+G270                 keyinputG270        
+G274                 keyinputG274        
+G283                 keyinputG283        
+G294                 keyinputG294        
+G303                 keyinputG303        
+G311                 keyinputG311        
+G317                 keyinputG317        
+G322                 keyinputG322        
+G326                 keyinputG326        
+G329                 keyinputG329        
+G330                 keyinputG330        
+G343                 keyinputG343        
+G1698                keyinputG1698       
+G2897                keyinputG2897       
+# of ckt inputs : 50
+# of gates      : 5106
+n3151 (   34/ 5106 @ 203)
+n5093 (  149/ 5106 @ 63)
+n3154 (  607/ 5106 @ 196)
+n3155 (  705/ 5106 @ 197)
+n5094 (  786/ 5106 @ 64)
+n3153 ( 1226/ 5106 @ 194)
+n3143 ( 1502/ 5106 @ 193)
+n3149 ( 2099/ 5106 @ 201)
+n3148 ( 2121/ 5106 @ 200)
+n3146 ( 2201/ 5106 @ 198)
+n5096 ( 2267/ 5106 @ 63)
+n5098 ( 2347/ 5106 @ 66)
+n5097 ( 2639/ 5106 @ 65)
+n3159 ( 2681/ 5106 @ 203)
+n3242 ( 2819/ 5106 @ 204)
+n3144 ( 3044/ 5106 @ 195)
+n3145 ( 3509/ 5106 @ 197)
+n3147 ( 3514/ 5106 @ 199)
+n3244 ( 3731/ 5106 @ 206)
+n3152 ( 3918/ 5106 @ 204)
+n3243 ( 3989/ 5106 @ 205)
+n5095 ( 4184/ 5106 @ 62)
+n3158 ( 4280/ 5106 @ 202)
+n3150 ( 4973/ 5106 @ 202)
