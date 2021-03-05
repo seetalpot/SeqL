@@ -1,5 +1,5 @@
 # SeqL
-The repository contains SeqL and EFF scan-locked, scan-unrolled benchmarks and attack setups for:
+The repository contains SeqL and EFF scan-locked, scan-unrolled benchmarks and attack evaluation setups for:
 
 1. Boolean Satisfiability based attack (sat)
 2. Satisfiability Modulo Theory based attack (smt)
